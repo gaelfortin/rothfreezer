@@ -11,6 +11,7 @@ VignetteBuilder: knitr
 Depends:
     dplyr
 Imports:
+    dbplyr,
     easydb,
     RSQLite,
     readr

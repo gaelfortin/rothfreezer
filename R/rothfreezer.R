@@ -38,10 +38,10 @@ src_rothfreezer <- function() {
 #    ' [rothfreezer - ', packageVersion('rothfreezer'), ']'
 #  )
 #}
-
+#' @importFrom dbplyr tbl_sql
 #' @export
 tbl.src_rothfreezer <- function(src, from, ...) {
-  tbl_sql('sqlite', src = src, from = from, ...) %>% add_class('tbl_rothfreezer')
+  dbplyr::tbl_sql('sqlite', src = src, from = from, ...) %>% add_class('tbl_rothfreezer')
 }
 
 #' @export
