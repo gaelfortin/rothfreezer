@@ -31,13 +31,13 @@ src_rothfreezer <- function() {
 
 
 #---- src_rothscreen methods --------------------------------------------------
-#' @export
-src_desc.src_rothfreezer <- function(x) {
-  paste0(
-    'sqlite ', x$info$serverVersion, 
-    ' [rothfreezer - ', packageVersion('rothfreezer'), ']'
-  )
-}
+# @export
+#src_desc.src_rothfreezer <- function(x) {
+#  paste0(
+#    'sqlite ', x$info$serverVersion, 
+#    ' [rothfreezer - ', packageVersion('rothfreezer'), ']'
+#  )
+#}
 
 #' @export
 tbl.src_rothfreezer <- function(src, from, ...) {
