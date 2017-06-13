@@ -13,4 +13,3 @@ update_genes(to)
 Update \emph{S. cerevisiae} gene annotations from 
 \href{http://www.yeastgenome.org}{SGD}.
 }
-

@@ -14,4 +14,3 @@ parse_filemaker_export(file, write = TRUE, blame = TRUE)
 \description{
 Parse the filemaker strains DB from an exported CSV.
 }
-

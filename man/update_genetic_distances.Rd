@@ -13,4 +13,3 @@ update_genetic_distances()
 Update \emph{S.cerevisiae} genetic distances from 
 \href{http://www.yeastgenome.org}{SGD}
 }
-

@@ -18,4 +18,3 @@ db <- src_rothfreezer()
 db
 
 }
-
