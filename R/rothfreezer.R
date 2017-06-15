@@ -31,13 +31,15 @@ src_rothfreezer <- function() {
 
 
 #---- src_rothscreen methods --------------------------------------------------
-# @export
-#src_desc.src_rothfreezer <- function(x) {
-#  paste0(
-#    'sqlite ', x$info$serverVersion, 
-#    ' [rothfreezer - ', packageVersion('rothfreezer'), ']'
-#  )
-#}
+#' @export
+print.src_rothfreezer <- function(x) {
+  cat(paste0(
+    'sqlite ', RSQLite::rsqliteVersion()[[2]], 
+    ' [rothfreezer - ', packageVersion('rothfreezer'), ']\n',
+    dplyr:::wrap('tbls: ', paste0(RSQLite::dbListTables(x$con), collapse = ', '))
+  ))
+}
+
 #' @importFrom dbplyr tbl_sql
 #' @export
 tbl.src_rothfreezer <- function(src, from, ...) {
