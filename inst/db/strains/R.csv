@@ -1,0 +1,5 @@
+strain_id,strain_name,strain_description,allele_id,gene_id,genotype,mat,background,strain_notes,parents
+R1266,SGA Query Starting Strain,SGA query strain for construction by p4339 plasmid switching protocol (Y8205 from Charlie Boone),,,MATalpha can1∆::STE2pr-Sp_his5 lyp1∆::STE3pr-LEU2 his3∆1 leu2∆0 ura3∆0 met15∆0,alpha,BY (S288C),"<SGA-Query> STE2pr represents the MATa-specific STE2 promoter; Sp_his5 represents the S. pombe his5, which complements S. cerevisiae HIS3; also, this strain carries a wild-type LYS2",BooneLab
+R1458,SGA Query Starting Strain,SGA query strain for construction by PCR KO protocol (Y7092 from Charlie Boone),,,MATalpha can1∆::STE2pr-Sp_his5 lyp1∆ his3∆1 leu2∆0 ura3∆0 met15∆0,alpha,BY (S288C),"<SGA-Query> STE2pr represents the MATa-specific STE2 promoter; Sp_his5 represents the S. pombe his5, which complements S. cerevisiae HIS3; also, this strain carries a wild-type LYS2",BooneLab
+R1687,sky1,,S000004829-NatMX,S000004829,,alpha,,,
+R1686,hmt1,,S000000238-NatMX,S000000238,,alpha,,,

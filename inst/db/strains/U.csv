@@ -1,0 +1,5 @@
+strain_id,strain_name,strain_description,allele_id,gene_id,genotype,mat,background,strain_notes,parents
+U3102,shu1,shu1::NatMX in SGA Query Background,S000004368-NatMX,S000004368,MATalpha can1∆::STE2pr-Sp_his5 lyp1∆ his3∆1 leu2∆0 ura3∆0 met15∆0 shu1::NatMX,alpha,BY (S288C),<SGA-Query-NAT>,R1458
+U3103,csm2,csm2::NatMX in SGA Query Background,S000001394-NatMX,S000001394,MATalpha can1∆::STE2pr-Sp_his5 lyp1∆ his3∆1 leu2∆0 ura3∆0 met15∆0 csm2::NatMX,alpha,BY (S288C),<SGA-Query-NAT>,R1458
+U3116,shu2,shu2::NatMX in SGA Query Background,S000002485-NatMX,S000002485,MATalpha can1∆::STE2pr-Sp_his5 lyp1∆ his3∆1 leu2∆0 ura3∆0 met15∆0 shu2::NatMX,alpha,BY (S288C),<SGA-Query-NAT>,R1458
+U3117,psy3,psy3::NatMX in SGA Query Background,S000004368-NatMX,S000004368,MATalpha can1∆::STE2pr-Sp_his5 lyp1∆ his3∆1 leu2∆0 ura3∆0 met15∆0 psy3::NatMX,alpha,BY (S288C),<SGA-Query-NAT>,R1458

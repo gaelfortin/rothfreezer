@@ -1,2 +1,0 @@
-strain_id,strain_name,strain_description,allele_id,gene_id,genotype,mat,background,strain_notes,parents
-J1804,"pol30-K127R,K164R",PCNA ubiquitination site mutant,"S000000292-K127R,K164R",S000000292,"MATa pol30-RR-KanMX TRP1 lys2 ADE2 ura3-1 leu2-3,112 his3-11,15 can1 RAD5",a,W303/DH5,"KanMX inserted next to pol30-K127R,K164R between NHP6B and MRS5",W11194-1B

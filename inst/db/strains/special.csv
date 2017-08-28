@@ -1,2 +1,2 @@
 strain_id,strain_name,strain_description,allele_id,gene_id,genotype,mat,background,strain_notes,parents
-blank,blank,blank,blank,blank,NA,blank,blank,blank,NA
+blank,blank,blank,blank,blank,,blank,blank,blank,
