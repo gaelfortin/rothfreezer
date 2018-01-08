@@ -55,6 +55,10 @@ U3102,shu1,strains,J1801
 U3103,csm2,strains,J1801
 U3116,shu2,strains,J1801
 U3117,psy3,strains,J1801
+J1845,hpc2,strains,J1801
+J1846,erg2,strains,J1801
+J1847,mre11,strains,J1801
+W11222-4B,pol30-RR,strains,J1801
 pWJ2232,GAL1p-FLAG-CTF4,plasmids,pWJ1781
 pWJ2076-C411Delta,GAL1p-ctf4-C411Delta,plasmids,pWJ1781
 pWJ2076-C490Delta,GAL1p-ctf4-C490Delta,plasmids,pWJ1781
