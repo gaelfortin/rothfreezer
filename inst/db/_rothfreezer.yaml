@@ -1,13 +1,32 @@
 name: rothfreezer.sqlite
 
+# Comment/Uncomment updates then run easydb::db_update('path/to/_rothfreezer.yaml')
 update:
-  genes: 'rothfreezer::update_genes("genes/sgd.csv")'
-  distances: 'rothfreezer::update_genetic_distances()'
+  # From SGD
+  genes:                  'rothfreezer::update_genes()'
+  #distances:              'rothfreezer::update_genetic_distances()'
+  # From googlesheets
+  antibodies:             'rothfreezer::update_antibodies()'
+  primers:                'rothfreezer::update_primers()'
+  media:                  'rothfreezer::update_media()'
+  queries:                'rothfreezer::update_queries()'
+  strain_collections:     'rothfreezer::update_strain_collections()'
+  strain_collection_info: 'rothfreezer::update_strain_collection_info()'
+  treatments:             'rothfreezer::update_treatments()'
+  ## Plasmids
+  plasmids:               'rothfreezer::update_plasmids()'
+  #pWJ:                    'rothfreezer::update_plasmids_pWJ()' # Plasmids
+  #ZOO:                    'rothfreezer::update_plasmids_ZOO()' # Foreign plasmids
+  ## Strains
+  strains:                'rothfreezer::update_strains()'     # All strains
+  #special:                'rothfreezer::update_strains_special()'
+  #W:                      'rothfreezer::update_strains_W()'   # Crosses
+  #J:                      'rothfreezer::update_strains_J()'   # Mutagenized strains
+  #U:                      'rothfreezer::update_strains_U()'   # Transformed strains
+  #R:                      'rothfreezer::update_strains_R()'   # Foreign strains
+  #rec:                    'rothfreezer::update_strains_rec()' # Deletion consortium strains
 
 table:
-  addresses: addresses
-  allele_item: allele-item     # map of alleles to items
-  alleles: alleles
   antibodies: antibodies
   genes: genes
   genetic_distances: genetic-distances
@@ -20,41 +39,6 @@ table:
   strains: strains
   treatments: treatments
 
-keys:
-  addresses:          [freezer, shelf, rack, pullout, insert, row, column]
-  antibodies:         [antibody_id]
-  alleles:            [allele_id]
-  allele_gene:        [allele_id, gene_id]
-  allele_item:        [allele_id, item_id]
-  drugs:              [drug_id]
-  genes:              [gene_id]
-  plasmids:           [plasmid_id]
-  primers:            [primer_id]
-  strains:            [strain_id]
-  strain_collections: [strain_collection_id, plate, row, column]
-
-fields:
-  addresses:          [freezer, temp, shelf, rack, pullout, insert, row, column, pullout_label, box_label, description, type, item_id]
-  antibodies:         [antibody_id, name, description]
-  alleles:            [allele_id, allele_name, allele_type, allele_description, dna_changes, aa_changes]
-  allele_gene:        [allele_id, gene_id]
-  allele_item:        [allele_id, item_id]
-  drugs:              [drug_id, name, description]
-  genes:              [gene_id, orf_id, gene_name, gene_alias, gene_description]
-  plasmids:           [plasmid_id, name, description, parent, owner, notes, yeast_marker, yeast_propagation, bact_marker, bact_propagation]
-  primers:            [primer_id, name, alias, sequence, description, owner, notes]
-  strains:            [strain_id, name, description, genotype, mat, background, owner, notes]
-  strain_collections: [strain_collection_id, strain_id, plate, row, column, plate_control, strain_collection_notes]
-
 column_types:
   plate_control: logical
   excluded: logical
-
-schema:
-  addresses: 
-    item_id:   {strains: strain_id, plasmids: plasmid_id, primers: primer_id, antibodies: antibody_id}
-  allele_item:
-    allele_id: {alleles: allele_id}
-    item_id:   {strains: strain_id, plasmids: plasmid_id, primers: primer_id, antibodies: antibody_id, genes: gene_id}
-  strain_collections:
-    strain_id: {strains: strain_id}

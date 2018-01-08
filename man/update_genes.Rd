@@ -4,12 +4,15 @@
 \alias{update_genes}
 \title{Update gene annotation table}
 \usage{
-update_genes(to)
+update_genes(file = "genes/sgd.csv",
+  from = "http://downloads.yeastgenome.org/curation/chromosomal_feature/SGD_features.tab")
 }
 \arguments{
-\item{to}{Where to write the CSV}
+\item{file}{Where to write the CSV.}
+
+\item{from}{Where to download gene annotations from.}
 }
 \description{
-Update \emph{S. cerevisiae} gene annotations from 
-\href{http://www.yeastgenome.org}{SGD}.
+Update *S.cerevisiae* gene annotations from 
+[SGD](http://www.yeastgenome.org)
 }

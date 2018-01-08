@@ -1,6 +1,0 @@
-primer_id,alias,sequence,description,owner,notes
-GAL1p-VF,pWJ1781-VF,CCTCTATACTTTAACGTCAAGG,Forward vector sequencing primer for GAL1 promoter. (e.g. pWJ1781),Eric Bryant,
-ADH2t-VR,pWJ1512-VR,CGACAACCTTGATTGGAGACTT,"Reverse vector sequencing primer for ADH2 terminator. (e.g. pWJ1512, pWJ1781)",Eric Bryant,
-CUP1p-VF,1512F,,Forward vector sequencing primer for CUP1 promoter. (e.g. pWJ1512),Eric Bryant,
-TEFt-VR,,TCTGGGCAGATGATGTCGAG,TEF terminator reverse vector sequencing primer,Eric Bryant,
-GAL10p-VF,,ATGTATATGGTGGTAATGCC,GAL10 promoter forward vector sequencing primer,Eric Bryant,

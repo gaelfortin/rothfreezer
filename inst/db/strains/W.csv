@@ -1,12 +1,222 @@
-strain_id,strain_name,strain_description,allele_id,gene_id,genotype,mat,background,strain_notes,parents
-W11199-6B,mre11 RAD52-CFP,mre11 KanMX disruption and CFP tagged RAD52,S000004837-KanMX,S000004837,"MATa ade2 LYS2 ura3 mre11::KanMX trp1 leu2-3,112 his3-11,15 RAD52-CFP RAD5",a,,,w11191-5A x u3145
-W11199-1B,mre11 TetR-mRFP,mre11 KanMX disruption and TetR-mRFP fusion,S000004837-KanMX,S000004837,"MATalpha ADE2 LYS2 ura3 TetR-mRFP(iYGL119W) mre11::KanMX trp1 leu2-3,112 his3-11,15 RAD52-CFP RAD5",alpha,,,w11191-5A x u3145
-W11199-3D,mre11 YFP-RAD51 RAD52-CFP,"mre11 KanMX disruption, YFP tagged RAD51 and CFP tagged RAD52",S000004837-KanMX,S000004837,"MATalpha ADE2 LYS2 ura3 mre11::KanMX trp1 leu2-3,112 his3-11,15 YFP-RAD51 RAD52-CFP RAD5",alpha,,,w11191-5A x u3145
-W11199-2B,mre11 TetR-mRFP YFP-RAD51 RAD52-CFP,"mre11 KanMX disruption, TetR-mRFP fusion, YFP tagged RAD51 and CFP tagged RAD52",S000004837-KanMX,S000004837,"MATa ADE2 lysD ura3 TetR-mRFP(iYGL119W) mre11::KanMX trp1 leu2-3,112 his3-11,15 YFP-RAD51 RAD52-CFP RAD5",a,,,w11191-2A x u3145
-W11199-1A,mre11 YFP-RAD51 RAD52-CFP,"mre11 KanMX disruption, YFP tagged RAD51 and CFP tagged RAD52",S000004837-KanMX,S000004837,"MATa ADE2 lysD ura3 TetR-mRFP(iYGL119W) mre11::KanMX trp1 leu2-3,112 his3-11,15 YFP-RAD51 RAD52-CFP RAD5",a,,,w11191-2A x u3145
-W11198-24B,rad51-S192E SPC110-YFP RAD52-CFP,"rad51-S192E amino acid mutation at position 192, YFP tagged SPC110 and CFP tagged RAD52",S000000897,S000000897-S192E,MATa ADE2 rad51-S192E ura3-1 trp1 lys2 SPC110-YFP::HIS3 RAD52-CFP RAD5,a,,,J1797 x W11088-6B
-W11197-21D,rad51-S192E RAD52-CFP tetOx112 I-SceI TetR-mRFP,"rad51-S192E amino acid mutation at position 192, CFP tagged RAD52, tetOx112 I-Sce1, TetR-mRFP fusion",S000000897,S000000897-S192E,Mat a ADE2 rad51-S192E  trp1-1 LYS2 RAD5 RAD52-CFP ura3::3xURA3-tetOx112 I-SceI(ura3-1) TetR-mRFP1(iYGL119W),a,,,W4303-19B x W11196-18D
-W11191-5A,mre11 TetR-mRFP YFP-RAD51,"mre11 KanMX disruption, TetR-mRFP fusion and YFP tagged RAD51",S000004837-KanMX,S000004837,"MATa ADE2 LYS2 ura3 TetR-mRFP(iYGL119W) mre11::KanMX trp1 leu2-3,112 his3-11,15 YFP-RAD51 RAD5",a,,Actually spore name in personally notes Cross#1C-5A,
-W11191-2A,mre11 TetR-mRFP YFP-RAD51,"mre11 KanMX disruption, TetR-mRFP fusion and YFP tagged RAD51",S000004837-KanMX,S000004837,"MATa ADE2 LYS2 ura3 TetR-mRFP(iYGL119W) mre11::KanMX trp1 leu2-3,112 his3-11,15 YFP-RAD51 RAD5",a,,Actually spore name in personal notes Cross#1A-2A,
-W11194-1D,pol30-RR rad51 rad52,"pol30-RR, rad51 HphMX disruption and rad52 KanMx disruption",S000000292-RR,S000000292,"MATa pol30-RR rad51::HphMX rad52::KamMX TRP1 lys2 ADE2 ura3-1 leu2-3,112 his3-11,15 can1RAD5",a,,,W11187-12D x W11187-13D
-W11222-1B,SGA Query Starting Strain,SGA query strain which can be crossed to R1266 to make a diploid starter strain (usefull for marker-swapping recombination defective mutants),,,MATa  can1∆::STE2pr-Sp_his5 lyp1∆::STE3pr-LEU2 his3∆1 leu2∆0 ura3∆0 met15∆0,a,,<SGA-Query> Check MET and NAT markers and remove this note if correct,J1806 x BY4741
+strain_id,strain_name,strain_description,parents,background,mat,genotype,allele_id,gene_id,freezer,shelf,rack,pullout,insert,row,column,owner,date,publications,tags,strain_notes,warnings,filemaker
+W9100-2D,WT alpha lys2,Wildtype W303 with RAD5 and large CUP1 array (i.e. fixed rad5-G535R and resistant to 800uM copper),W7981-2A x W1588-4C,W303,alpha,"ADE2 leu2-3,112 his3-11,15 ura3-1 TRP1 lys2∆ RAD5 MET15",-,-,-80C #2,8,3,4,2,1,1,Sergio,2010-01-04,-,WT,This strain has been tested and it grows fine when Top1TA is overexpressed. 800 µM Cu2+ resistant. Very long CUP1 array (~ 11 copies) checked by Southern blot.,,TRUE
+W9100-17D,WT a lys2,Wildtype W303 with RAD5 and large CUP1 array (i.e. fixed rad5-G535R and resistant to 800uM copper),W7981-2A x W1588-4C,W303,a,"ADE2 leu2-3,112 his3-11,15 ura3-1 TRP1 lys2∆ RAD5 MET15",-,-,-80C #2,8,3,4,2,1,4,Sergio,2010-01-04,-,WT,This strain has been tested and it grows fine when Top1TA is overexpressed. 800 µM Cu2+ resistant.,,TRUE
+W9100-11B,WT a ade2 lys2,Wildtype W303 with RAD5 and large CUP1 array (i.e. fixed rad5-G535R and resistant to 800uM copper),W7981-2A x W1588-4C,W303,a,"ade2-1 leu2-3,112 his3-11,15 ura3-1 TRP1 lys2∆ RAD5 MET15",-,-,-80C #2,8,3,4,2,1,2,Sergio,2010-02-26,-,WT,This strain has been tested and it grows fine when Top1TA is overexpressed. 800 µM Cu2+ resistant. Very long CUP1 array (~ 11 copies) checked by Southern blot.,,TRUE
+W9100-12C,WT alpha trp1,Wildtype W303 with RAD5 and large CUP1 array (i.e. fixed rad5-G535R and resistant to 800uM copper),W7981-2A x W1588-4C,W303,alpha,"ADE2 leu2-3,112 his3-11,15 ura3-1 trp1 LYS2 RAD5 MET15",-,-,-80C #2,8,3,4,2,1,3,Sergio,2015-03-11,-,WT,-,-,TRUE
+W11001-11A,ctf4 mec3,ctf4::KanMX mec3::KanMX,rec5550 x rec15198,BY (S288C),alpha,leu2 his3 ura3,-,-,-80C #2,8,4,2,3,6,3,Eric Bryant,2013-09-12,-,CTF4,Eric does not recommend using this strain as this was his first cross.,,TRUE
+W11002-1C,ctf4 rad50,ctf4::KanMX rad50::KanMX,rec5550 x rec16464,BY (S288C),alpha,leu2 his3 ura3,-,-,-80C #2,8,4,2,3,6,4,Eric Bryant,2013-12-13,-,CTF4,Eric does not recommend using this strain as this was his first cross.,,TRUE
+W11166-1A,pol1-DIL142AAA,pol1-DIL142AAA mutant of critical CTF4 binding site residues,J1793 x W9100-17D,W303,a,"ADE2 leu2-3,112 his3-11,15 ura3-1 TRP1 lys2∆ RAD5 MET15 pol1-DIL142AAA",-,-,-80C #2,8,4,2,4,5,3,Eric Bryant,2015-10-13,-,CTF4,Mutant has a PvuII RFLP,-,TRUE
+W11166-1C,pol1-DIL142AAA,pol1-DIL142AAA mutant of critical CTF4 binding site residues,J1793 x W9100-17D,W303,alpha,"ADE2 leu2-3,112 his3-11,15 ura3-1 trp1-1 LYS2 RAD5 MET15 pol1-DIL142AAA",-,-,-80C #2,8,4,2,4,5,4,Eric Bryant,2015-10-13,-,CTF4,Mutant has a PvuII RFLP,-,TRUE
+W11167-3C,sld5-DIL7AAA,sld5-DIL7AAA mutant of critical CTF4 binding site residues,J1798 x W9100-12C,W303,alpha,"ADE2 leu2-3,112 his3-11,15 ura3-1 TRP1 lys2∆ RAD5 MET15 sld5-DIL7AAA",-,-,-80C #2,8,4,2,4,5,8,Eric Bryant,2015-12-11,-,CTF4,Mutant has an AciI RFLP,-,TRUE
+W11168,,,,,,,,,,,,,,,,,,,,,,
+W11169,,,,,,,,,,,,,,,,,,,,,,
+W11170,,,,,,,,,,,,,,,,,,,,,,
+W11171,,,,,,,,,,,,,,,,,,,,,,
+W11172,,,,,,,,,,,,,,,,,,,,,,
+W11173,,,,,,,,,,,,,,,,,,,,,,
+W11174,,,,,,,,,,,,,,,,,,,,,,
+W11175,,,,,,,,,,,,,,,,,,,,,,
+W11176,,,,,,,,,,,,,,,,,,,,,,
+W11177,,,,,,,,,,,,,,,,,,,,,,
+W11178,,,,,,,,,,,,,,,,,,,,,,
+W11179,,,,,,,,,,,,,,,,,,,,,,
+W11180,,,,,,,,,,,,,,,,,,,,,,
+W11181,,,,,,,,,,,,,,,,,,,,,,
+W11182,,,,,,,,,,,,,,,,,,,,,,
+W11183-2D,pol1-DIL142AAA,pol1-DIL142AAA mutant of critical CTF4 binding site residues,J1799 x R1281,BY (S288C),alpha,"ADE2 leu2-3,112 his3-11,15 ura3-1 TRP1 lys2∆ RAD5 MET15 pol1-DIL142AAA",-,-,-80C #2,8,4,2,4,6,1,Eric Bryant,2015-12-11,-,CTF4,Mutant has a PvuII RFLP,-,TRUE
+W11183-4C,pol1-DIL142AAA,pol1-DIL142AAA mutant of critical CTF4 binding site residues,J1799 x R1281,BY (S288C),a,"ADE2 leu2-3,112 his3-11,15 ura3-1 TRP1 lys2∆ RAD5 MET15 pol1-DIL142AAA",-,-,-80C #2,8,4,2,4,6,2,Eric Bryant,2015-12-11,-,CTF4,Mutant has a PvuII RFLP,-,TRUE
+W11183-4D,pol1-DIL142AAA,pol1-DIL142AAA mutant of critical CTF4 binding site residues,J1799 x R1281,BY (S288C),a,"ADE2 leu2-3,112 his3-11,15 ura3-1 TRP1 LYS2 RAD5 MET15 pol1-DIL142AAA",-,-,-80C #2,8,4,2,4,6,3,Eric Bryant,2015-12-11,-,CTF4,Mutant has a PvuII RFLP,-,TRUE
+W11184,,,,,,,,,,,,,,,,,,,,,,
+W11185,,,,,,,,,,,,,,,,,,,,,,
+W11186,,,,,,,,,,,,,,,,,,,,,,
+W11187,,,,,,,,,,,,,,,,,,,,,,
+W11188,,,,,,,,,,,,,,,,,,,,,,
+W11189,,,,,,,,,,,,,,,,,,,,,,
+W11190,,,,,,,,,,,,,,,,,,,,,,
+W11191-5A,mre11 TetR-mRFP YFP-RAD51,"mre11 KanMX disruption, TetR-mRFP fusion and YFP tagged RAD51",,W303,a,"ADE2 LYS2 ura3 TetR-mRFP(iYGL119W) mre11::KanMX trp1 leu2-3,112 his3-11,15 YFP-RAD51 RAD5",S000004837-KanMX,S000004837,,,,,,,,,,,,Actually spore name in personal notes Cross#1C-5A,,
+W11191-2A,mre11 TetR-mRFP YFP-RAD51,"mre11 KanMX disruption, TetR-mRFP fusion and YFP tagged RAD51",,W303,a,"ADE2 LYS2 ura3 TetR-mRFP(iYGL119W) mre11::KanMX trp1 leu2-3,112 his3-11,15 YFP-RAD51 RAD5",S000004837-KanMX,S000004837,,,,,,,,,,,,Actually spore name in personal notes Cross#1A-2A,,
+W11192,,,,,,,,,,,,,,,,,,,,,,
+W11193,,,,,,,,,,,,,,,,,,,,,,
+W11194-1B,pol30-RR,pol30-RR lys2 ura3 his3 leu2 can1,W11187-12D x W11187-13D,W303,a,"leu2-3,112 his3-11,15 ura3-1 lys2∆ can1 pol30-RR",-,-,-80C #2,8,4,3,1,1,5,Ivana Sunjevaric,2016-02-26,-,-,-,-,TRUE
+W11194-1D,pol30-RR rad51 rad52,"pol30-RR, rad51 HphMX disruption and rad52 KanMx disruption",W11187-12D x W11187-13D,W303,a,"pol30-RR rad51::HphMX rad52::KamMX TRP1 lys2 ADE2 ura3-1 leu2-3,112 his3-11,15 can1RAD5",S000000292-RR,S000000292,,,,,,,,,,,,,,
+W11195,,,,,,,,,,,,,,,,,,,,,,
+W11196,,,,,,,,,,,,,,,,,,,,,,
+W11197-21D,rad51-S192E RAD52-CFP tetOx112 I-SceI TetR-mRFP,"rad51-S192E amino acid mutation at position 192, CFP tagged RAD52, tetOx112 I-Sce1, TetR-mRFP fusion",W4303-19B x W11196-18D,W303,a,ADE2 rad51-S192E  trp1-1 LYS2 RAD5 RAD52-CFP ura3::3xURA3-tetOx112 I-SceI(ura3-1) TetR-mRFP1(iYGL119W),S000000897,S000000897-S192E,,,,,,,,,,,,,,
+W11198-24B,rad51-S192E SPC110-YFP RAD52-CFP,"rad51-S192E amino acid mutation at position 192, YFP tagged SPC110 and CFP tagged RAD52",J1797 x W11088-6B,W303,a,ADE2 rad51-S192E ura3-1 trp1 lys2 SPC110-YFP::HIS3 RAD52-CFP RAD5,S000000897,S000000897-S192E,-80C #2,8,1,3,3,2,4,Michael Smith,2016-03-04,-,-,-,-,TRUE
+W11199-6B,mre11 RAD52-CFP,mre11 KanMX disruption and CFP tagged RAD52,U3145 x W11191-5A,W303,a,"ade2 LYS2 ura3 mre11::KanMX trp1 leu2-3,112 his3-11,15 RAD52-CFP RAD5",S000004837-KanMX,S000004837,-80C #2,8,4,3,2,1,7,Fraulin Joseph,2016-03-08,-,-,-,-,TRUE
+W11199-1B,mre11 TetR-mRFP,mre11 KanMX disruption and TetR-mRFP fusion,U3145 x W11191-5A,W303,alpha,"ADE2 LYS2 ura3 TetR-mRFP(iYGL119W) mre11::KanMX trp1 leu2-3,112 his3-11,15 RAD52-CFP RAD5",S000004837-KanMX,S000004837,-80C #2,8,4,3,2,1,6,Fraulin Joseph,2016-03-08,-,-,-,-,TRUE
+W11199-3D,mre11 YFP-RAD51 RAD52-CFP,"mre11 KanMX disruption, YFP tagged RAD51 and CFP tagged RAD52",U3145 x W11191-5A,W303,alpha,"ADE2 LYS2 ura3 mre11::KanMX trp1 leu2-3,112 his3-11,15 YFP-RAD51 RAD52-CFP RAD5",S000004837-KanMX,S000004837,-80C #2,8,4,3,2,1,5,Fraulin Joseph,2016-03-08,-,-,-,-,TRUE
+W11199-2B,mre11 TetR-mRFP YFP-RAD51 RAD52-CFP,"mre11 KanMX disruption, TetR-mRFP fusion, YFP tagged RAD51 and CFP tagged RAD52",U3145 x W11191-2A,W303,a,"ADE2 lysD ura3 TetR-mRFP(iYGL119W) mre11::KanMX trp1 leu2-3,112 his3-11,15 YFP-RAD51 RAD52-CFP RAD5",S000004837-KanMX,S000004837,-80C #2,8,4,3,2,1,4,Fraulin Joseph,2016-03-08,-,-,-,-,TRUE
+W11199-1A,mre11 YFP-RAD51 RAD52-CFP,"mre11 KanMX disruption, YFP tagged RAD51 and CFP tagged RAD52",U3145 x W11191-2A,W303,a,"ADE2 lysD ura3 TetR-mRFP(iYGL119W) mre11::KanMX trp1 leu2-3,112 his3-11,15 YFP-RAD51 RAD52-CFP RAD5",S000004837-KanMX,S000004837,-80C #2,8,4,3,2,1,3,Fraulin Joseph,2016-03-08,-,-,-,-,TRUE
+W11200-1B,rad17 pol1-DIL142AAA,rad17 KanMX disruption and pol1-DIL142AAA CTF4 binding motif mutant,W11166-1A x W9194-6C,W303,a,"ADE2 leu2-3,112 his3-11,15 ura3-1 TRP1 lys2∆ RAD5 MET15 rad17::KanMX pol1-DIL142AAA",-,-,-80C #2,8,4,2,4,7,2,Eric Bryant,2016-09-20,-,-,-,-,TRUE
+W11200-3D,rad17 pol1-DIL142AAA,rad17 KanMX disruption and pol1-DIL142AAA CTF4 binding motif mutant,W11166-1A x W9194-6C,W303,alpha,"ADE2 leu2-3,112 his3-11,15 ura3-1 TRP1 lys2∆ RAD5 MET15 rad17::KanMX pol1-DIL142AAA",-,-,-80C #2,8,4,2,4,7,3,Eric Bryant,2016-09-20,-,-,-,-,TRUE
+W11200-4A,rad17 pol1-DIL142AAA,rad17 KanMX disruption and pol1-DIL142AAA CTF4 binding motif mutant,W11166-1A x W9194-6C,W303,alpha,"ADE2 leu2-3,112 his3-11,15 ura3-1 TRP1 lys2∆ RAD5 MET15 rad17::KanMX pol1-DIL142AAA",-,-,-80C #2,8,4,2,4,7,4,Eric Bryant,2016-09-20,-,-,-,-,TRUE
+W11200-9C,rad17 pol1-DIL142AAA,rad17 KanMX disruption and pol1-DIL142AAA CTF4 binding motif mutant,W11166-1A x W9194-6C,W303,a,"ADE2 leu2-3,112 his3-11,15 ura3-1 TRP1 lys2∆ RAD5 MET15 rad17::KanMX pol1-DIL142AAA",-,-,-80C #2,8,4,2,4,7,5,Eric Bryant,2016-09-20,-,-,-,-,TRUE
+W11201,,,,,,,,,,,,,,,,,,,,,,
+W11202,,,,,,,,,,,,,,,,,,,,,,
+W11203,,,,,,,,,,,,,,,,,,,,,,
+W11204,,,,,,,,,,,,,,,,,,,,,,
+W11205,,,,,,,,,,,,,,,,,,,,,,
+W11206,,,,,,,,,,,,,,,,,,,,,,
+W11207,,,,,,,,,,,,,,,,,,,,,,
+W11208,,,,,,,,,,,,,,,,,,,,,,
+W11209,,,,,,,,,,,,,,,,,,,,,,
+W11210,,,,,,,,,,,,,,,,,,,,,,
+W11211,,,,,,,,,,,,,,,,,,,,,,
+W11212,,,,,,,,,,,,,,,,,,,,,,
+W11213,,,,,,,,,,,,,,,,,,,,,,
+W11214,,,,,,,,,,,,,,,,,,,,,,
+W11215,,,,,,,,,,,,,,,,,,,,,,
+W11216,,,,,,,,,,,,,,,,,,,,,,
+W11217,,,,,,,,,,,,,,,,,,,,,,
+W11218,,,,,,,,,,,,,,,,,,,,,,
+W11219,,,,,,,,,,,,,,,,,,,,,,
+W11220,,,,,,,,,,,,,,,,,,,,,,
+W11221,,,,,,,,,,,,,,,,,,,,,,
+W11222-1B,SGA Query Starting Strain,SGA query strain which can be crossed to R1266 to make a diploid starter strain (usefull for marker-swapping recombination defective mutants),BY4741 x J1806 ,BY (S288C),a,can1∆::STE2pr-Sp_his5 lyp1∆::STE3pr-LEU2 his3∆1 leu2∆0 ura3∆0 met15∆0,-,-,-80C #2,8,4,4,2,6,1,Ivana Sunjevaric,2016-06-16,,SGA-Query,Check MET and NAT markers and remove this note if correct,,
+W11223,,,,,,,,,,,,,,,,,,,,,,
+W11224-1D,sgs1,sgs1::KanMX in W9100,W8695-10A x W9100-17D,W303,a,CHECK ME,-,-,-80C #2,8,4,3,1,5,4,Ivana Sunjevaric,2016-06-21,-,-,-,-,TRUE
+W11225,,,,,,,,,,,,,,,,,,,,,,
+W11226,,,,,,,,,,,,,,,,,,,,,,
+W11227,,,,,,,,,,,,,,,,,,,,,,
+W11228,,,,,,,,,,,,,,,,,,,,,,
+W11229,,,,,,,,,,,,,,,,,,,,,,
+W11230,,,,,,,,,,,,,,,,,,,,,,
+W11231,,,,,,,,,,,,,,,,,,,,,,
+W11232,,,,,,,,,,,,,,,,,,,,,,
+W11233,,,,,,,,,,,,,,,,,,,,,,
+W11234,,,,,,,,,,,,,,,,,,,,,,
+W11235,,,,,,,,,,,,,,,,,,,,,,
+W11236,,,,,,,,,,,,,,,,,,,,,,
+W11237,,,,,,,,,,,,,,,,,,,,,,
+W11238,,,,,,,,,,,,,,,,,,,,,,
+W11239,,,,,,,,,,,,,,,,,,,,,,
+W11240,,,,,,,,,,,,,,,,,,,,,,
+W11241,,,,,,,,,,,,,,,,,,,,,,
+W11242,,,,,,,,,,,,,,,,,,,,,,
+W11243,,,,,,,,,,,,,,,,,,,,,,
+W11244,,,,,,,,,,,,,,,,,,,,,,
+W11245,,,,,,,,,,,,,,,,,,,,,,
+W11246,,,,,,,,,,,,,,,,,,,,,,
+W11247,,,,,,,,,,,,,,,,,,,,,,
+W11248,,,,,,,,,,,,,,,,,,,,,,
+W11249,,,,,,,,,,,,,,,,,,,,,,
+W11250,,,,,,,,,,,,,,,,,,,,,,
+W11251,,,,,,,,,,,,,,,,,,,,,,
+W11252,,,,,,,,,,,,,,,,,,,,,,
+W11253,,,,,,,,,,,,,,,,,,,,,,
+W11254,,,,,,,,,,,,,,,,,,,,,,
+W11255,,,,,,,,,,,,,,,,,,,,,,
+W11256,,,,,,,,,,,,,,,,,,,,,,
+W11257,,,,,,,,,,,,,,,,,,,,,,
+W11258,,,,,,,,,,,,,,,,,,,,,,
+W11259,,,,,,,,,,,,,,,,,,,,,,
+W11260,,,,,,,,,,,,,,,,,,,,,,
+W11261,,,,,,,,,,,,,,,,,,,,,,
+W11262,,,,,,,,,,,,,,,,,,,,,,
+W11263,,,,,,,,,,,,,,,,,,,,,,
+W11264,,,,,,,,,,,,,,,,,,,,,,
+W11265,,,,,,,,,,,,,,,,,,,,,,
+W11266,,,,,,,,,,,,,,,,,,,,,,
+W11267,,,,,,,,,,,,,,,,,,,,,,
+W11268,,,,,,,,,,,,,,,,,,,,,,
+W11269,,,,,,,,,,,,,,,,,,,,,,
+W11270,,,,,,,,,,,,,,,,,,,,,,
+W11271,,,,,,,,,,,,,,,,,,,,,,
+W11272,,,,,,,,,,,,,,,,,,,,,,
+W11273,,,,,,,,,,,,,,,,,,,,,,
+W11274,,,,,,,,,,,,,,,,,,,,,,
+W11275,,,,,,,,,,,,,,,,,,,,,,
+W11276,,,,,,,,,,,,,,,,,,,,,,
+W11277,,,,,,,,,,,,,,,,,,,,,,
+W11278,,,,,,,,,,,,,,,,,,,,,,
+W11279,,,,,,,,,,,,,,,,,,,,,,
+W11280,,,,,,,,,,,,,,,,,,,,,,
+W11281,,,,,,,,,,,,,,,,,,,,,,
+W11282-10A,,W303 ,W9191-11C x W11223-1C,W303,alpha,,-,-,,,,,,,,,,,,,,
+W11283,,,,,,,,,,,,,,,,,,,,,,
+W11284,,,,,,,,,,,,,,,,,,,,,,
+W11285,,,,,,,,,,,,,,,,,,,,,,
+W11286,,,,,,,,,,,,,,,,,,,,,,
+W11287,,,,,,,,,,,,,,,,,,,,,,
+W11288,,,,,,,,,,,,,,,,,,,,,,
+W11289,,,,,,,,,,,,,,,,,,,,,,
+W11290,,,,,,,,,,,,,,,,,,,,,,
+W11291,,,,,,,,,,,,,,,,,,,,,,
+W11292,,,,,,,,,,,,,,,,,,,,,,
+W11293,,,,,,,,,,,,,,,,,,,,,,
+W11294,,,,,,,,,,,,,,,,,,,,,,
+W11295,,,,,,,,,,,,,,,,,,,,,,
+W11296,,,,,,,,,,,,,,,,,,,,,,
+W11297,,,,,,,,,,,,,,,,,,,,,,
+W11298,,,,,,,,,,,,,,,,,,,,,,
+W11299,,,,,,,,,,,,,,,,,,,,,,
+W11300,,,,,,,,,,,,,,,,,,,,,,
+W11301,,,,,,,,,,,,,,,,,,,,,,
+W11302,,,,,,,,,,,,,,,,,,,,,,
+W11303,,,,,,,,,,,,,,,,,,,,,,
+W11304,,,,,,,,,,,,,,,,,,,,,,
+W11305,,,,,,,,,,,,,,,,,,,,,,
+W11306,,,,,,,,,,,,,,,,,,,,,,
+W11307,,,,,,,,,,,,,,,,,,,,,,
+W11308-6A,yen1,yen1::KanMX,U3309 x W11282-10A,W303,a,TRP lys,S000000843-KanMX,S000000843,-,-,-,-,-,-,-,Isabel Sollohub,2017-09-13,,Project-CTF4-OE,U strain for this W strain was not frozen and the W strain was thrown away ,-,
+W11308-6D,yen1,yen1::KanMX,U3309 x W11282-10A,W303,alpha,TRP lys,S000000843-KanMX,S000000843,-,-,-,-,-,-,-,Isabel Sollohub,2017-09-13,,Project-CTF4-OE,U strain for this W strain was not frozen and the W strain was thrown away ,-,
+W11309-2C,mec3,mec3::KanMX,U3310 x W11282-10A,W303,a,TRP lys,S000004279-KanMX,S000004279,-,-,-,-,-,-,-,Isabel Sollohub,2017-09-13,,Project-CTF4-OE,U strain for this W strain was not frozen and the W strain was thrown away ,-,
+W11309-2D,mec3,mec3::KanMX,U3310 x W11282-10A,W303,alpha,TRP lys,S000004279-KanMX,S000004279,-,-,-,-,-,-,-,Isabel Sollohub,2017-09-13,,Project-CTF4-OE,U strain for this W strain was not frozen and the W strain was thrown away ,-,
+W11310,,,,,,,,,,,,,,,,,,,,,,
+W11311,,,,,,,,,,,,,,,,,,,,,,
+W11312,,,,,,,,,,,,,,,,,,,,,,
+W11313,,,,,,,,,,,,,,,,,,,,,,
+W11314-8C,rad17,rad17::KanMX,U3311 x W11282-10A,W303,alpha,TRP lys,S000005895-KanMX,S000005895,-,-,-,-,-,-,-,Isabel Sollohub,2017-09-13,,Project-CTF4-OE,U strain for this W strain was not frozen and the W strain was thrown away ,-,-
+W11314-8D,rad17,rad17::KanMX,U3311 x W11282-10A,W303,a,TRP lys,S000005895-KanMX,S000005895,-,-,-,-,-,-,-,Isabel Sollohub,2017-09-13,,Project-CTF4-OE,U strain for this W strain was not frozen and the W strain was thrown away ,-,-
+W11315-6A,ctf4,ctf4::KanMX,U3312 x W11282-10A,W303,alpha,TRP lys,S000006339-KanMX,S000006339,-,-,-,-,-,-,-,Isabel Sollohub,2017-09-13,,Project-CTF4-OE,U strain for this W strain was not frozen and the W strain was thrown away ,-,-
+W11315-6D,ctf4,ctf4::KanMX,U3312 x W11282-10A,W303,a,TRP lys,S000006339-KanMX,S000006339,-,-,-,-,-,-,-,Isabel Sollohub,2017-09-13,,Project-CTF4-OE,U strain for this W strain was not frozen and the W strain was thrown away ,-,-
+W11316-2B,rad50,rad50::KanMX,U3313 x W11282-10A,W303,a,TRP lys,S000005194-KanMX,S000005194,-,-,-,-,-,-,-,Isabel Sollohub,2017-09-13,,Project-CTF4-OE,U strain for this W strain was not frozen and the W strain was thrown away ,-,-
+W11316-10B,rad50,rad50::KanMX,U3313 x W11282-10A,W303,alpha,TRP lys,S000005194-KanMX,S000005194,-,-,-,-,-,-,-,Isabel Sollohub,2017-09-13,,Project-CTF4-OE,U strain for this W strain was not frozen and the W strain was thrown away ,-,-
+W11317-1C,ctf18,ctf18::KanMX,U3314 x W11282-10A,W303,a,TRP lys,S000004683-KanMX,S000004683,-,-,-,-,-,-,-,Isabel Sollohub,2017-09-13,,Project-CTF4-OE,U strain for this W strain was not frozen and the W strain was thrown away ,-,-
+W11317-5C,ctf18,ctf18::KanMX,U3314 x W11282-10A,W303,alpha,TRP lys,S000004683-KanMX,S000004683,-,-,-,-,-,-,-,Isabel Sollohub,2017-09-13,,Project-CTF4-OE,U strain for this W strain was not frozen and the W strain was thrown away ,-,-
+W11318-2A,esc2,esc2::KanMX,U3315 x W11282-10A,W303,a,TRP lys,S000002771-KanMX,S000002771,-,-,-,-,-,-,-,Isabel Sollohub,2017-09-13,,Project-CTF4-OE,U strain for this W strain was not frozen and the W strain was thrown away ,-,-
+W11318-2D,esc2,esc2::KanMX,U3315 x W11282-10A,W303,alpha,TRP lys,S000002771-KanMX,S000002771,-,-,-,-,-,-,-,Isabel Sollohub,2017-09-13,,Project-CTF4-OE,U strain for this W strain was not frozen and the W strain was thrown away ,-,-
+W11319-6A,dpb3,dpb3::KanMX,U3316 x W9100-17D,W303,alpha,TRP lys,S000000482-KanMX,S000000482,-,-,-,-,-,-,-,Isabel Sollohub,2017-09-13,,Project-CTF4-OE,Strain validation on 09-08-17 proved this strain did not have a deletion - PCR with DPB3 - DF primer and KanMX internal,-,-
+W11319-6B,dpb3,dpb3::KanMX,U3316 x W9100-17D,W303,a,TRP lys,S000000482-KanMX,S000000482,-,-,-,-,-,-,-,Isabel Sollohub,2017-09-13,,Project-CTF4-OE,Strain validation on 09-08-17 proved this strain did not have a deletion - PCR with DPB3 - DF primer and KanMX internal,-,-
+W11320,,,,,,,,,,,,,,,,,,,,,,
+W11321,,,,,,,,,,,,,,,,,,,,,,
+W11322,,,,,,,,,,,,,,,,,,,,,,
+W11323,,,,,,,,,,,,,,,,,,,,,,
+W11324,,,,,,,,,,,,,,,,,,,,,,
+W11325,,,,,,,,,,,,,,,,,,,,,,
+W11326,,,,,,,,,,,,,,,,,,,,,,
+W11327,,,,,,,,,,,,,,,,,,,,,,
+W11328,,,,,,,,,,,,,,,,,,,,,,
+W11329,,,,,,,,,,,,,,,,,,,,,,
+W11330,SGA Query Starting Strain,SGA query diploid starter strain (usefull for marker-swapping recombination defective mutants),R1266 x W11222-1B,BY (S288C),a/alpha,can1∆::STE2pr-Sp_his5/can1∆::STE2pr-Sp_his5 lyp1∆::STE3pr-LEU2/lyp1∆::STE3pr-LEU2 his3∆1/his3∆1 leu2∆0/leu2∆0 ura3∆0/ura3∆0 met15∆0/met15∆0,,,-80C #2,8,3,3,2,5,4,Eric Bryant,2017-10-03,,SGA-Query,Strain constructed by pulling zygotes and checking for inability to grow on both -His and -Leu (taking advantage of the haploid specific promoters of the query backgrounds),,FALSE
+W11331-3D,"rad5-DE681,682AA","rad5-DE681,682AA backcrossed pop-in/pop-out",J1848 x W9100-12C,W303,a,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5-DE681,682AA","S000004022-DE681,682AA",S000004022,-80C #2,8,3,3,2,6,3,Eric Bryant,2017-10-11,,Project-RAD5-OE,Sequence verified backcross,Good to go!,FALSE
+W11331-7A,"rad5-DE681,682AA","rad5-DE681,682AA backcrossed pop-in/pop-out",J1848 x W9100-12C,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5-DE681,682AA","S000004022-DE681,682AA",S000004022,-80C #2,8,3,3,2,6,4,Eric Bryant,2017-10-11,,Project-RAD5-OE,Sequence verified backcross,Good to go!,FALSE
+W11332-7D,rad5-I916A,rad5-I916A backcrossed pop-in/pop-out,J1849 x W9100-12C,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5-I916A",S000004022-I916A,S000004022,-80C #2,8,3,3,2,6,5,Eric Bryant,2017-10-11,,Project-RAD5-OE,Sequence verified backcross,Good to Go!,FALSE
+W11333-9B,"rad5-DEI681,682,916AAA","rad5-DEI681,682,916AAA backcrossed pop-in/pop-out",J1850 x W9100-12C,W303,a,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5-DEI681,682,916AAA","S000004022-DEI681,682,916AAA",S000004022,-80C #2,8,3,3,2,6,6,Eric Bryant,2017-10-11,,Project-RAD5-OE,Sequence verified backcross,Do NOT use this strain. 2 to 2 segregation of slow growth that does not perfectly segregate with the mutation. Backcrossing a second time.,FALSE
+W11334-4A,rad5-RGRKK217_221EGEEE,rad5-RGRKK217_221EGEEE backcrossed pop-in/pop-out,J1851 x W9100-12C,W303,a,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5-RGRKK217_221EGEEE",S000004022-RGRKK217_221EGEEE,S000004022,-80C #2,8,3,3,2,6,7,Eric Bryant,2017-10-11,,Project-RAD5-OE,Sequence verified backcross,Good to Go!,FALSE
+W11334-6D,rad5-RGRKK217_221EGEEE,rad5-RGRKK217_221EGEEE backcrossed pop-in/pop-out,J1851 x W9100-12C,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5-RGRKK217_221EGEEE",S000004022-RGRKK217_221EGEEE,S000004022,-80C #2,8,3,3,2,6,8,Eric Bryant,2017-10-11,,Project-RAD5-OE,Sequence verified backcross,Good to Go!,FALSE
+W11335-5C,rad5-R229E,rad5-R229E backcrossed pop-in/pop-out,J1853 x W9100-12C,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5-R229E",S000004022-R229E,S000004022,-80C #2,8,3,3,2,7,1,Eric Bryant,2017-10-11,,Project-RAD5-OE,Sequence verified backcross,Good to Go!,FALSE
+W11336-3B,rad5-R241E,rad5-R241E backcrossed pop-in/pop-out,J1854 x W9100-12C,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5-R241E",S000004022-R241E,S000004022,-80C #2,8,3,3,2,7,8,Eric Bryant,2017-10-19,,Project-RAD5-OE,Sequence verified backcross,Good to Go!,FALSE
+W11336-8A,rad5-R241E,rad5-R241E backcrossed pop-in/pop-out,J1854 x W9100-12C,W303,a,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5-R241E",S000004022-R241E,S000004022,-80C #2,8,3,3,2,8,1,Eric Bryant,2017-10-19,,Project-RAD5-OE,Sequence verified backcross,Good to Go!,FALSE
+W11337-1B,rad5-I916A::HPH,rad5-I916A::HPH backcrossed pop-in/pop-out,J1865 x W9100-12C,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5-I916A::HPH",S000004022-I916A::HPH,S000004022,-80C #2,8,3,3,2,7,2,Eric Bryant,2017-10-19,,Project-RAD5-OE,Sequence verified backcross,2 to 2 segregation of mild growth defect that segregates with HPH that was not observed for the unmarked version,FALSE
+W11338-7D,"rad5-DEI681,682,916AAA::HPH","rad5-DEI681,682,916AAA::HPH backcrossed pop-in/pop-out",J1866 x W9100-12C,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5-DEI681,682,916AAA::HPH","S000004022-DEI681,682,916AAA::HPH",S000004022,-80C #2,8,3,3,2,7,3,Eric Bryant,2017-10-19,,Project-RAD5-OE,Sequence verified backcross,2 to 2 segregation of mild growth defect that segregates with HPH that was not observed for the unmarked version,FALSE
+W11339-3A,rad5-RGRKK217_221EGEEE::HPH,rad5-RGRKK217_221EGEEE::HPH backcrossed pop-in/pop-out,J1867 x W9100-12C,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5-RGRKK217_221EGEEE::HPH",S000004022-RGRKK217_221EGEEE::HPH,S000004022,-80C #2,8,3,3,2,7,4,Eric Bryant,2017-10-19,,Project-RAD5-OE,Sequence verified backcross,2 to 2 segregation of very slow growth that segregates with HPH that was not observed for the unmarked version,FALSE
+W11339-7D,rad5-RGRKK217_221EGEEE::HPH,rad5-RGRKK217_221EGEEE::HPH backcrossed pop-in/pop-out,J1867 x W9100-12C,W303,a,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5-RGRKK217_221EGEEE::HPH",S000004022-RGRKK217_221EGEEE::HPH,S000004022,-80C #2,8,3,3,2,7,5,Eric Bryant,2017-10-19,,Project-RAD5-OE,Sequence verified backcross,2 to 2 segregation of very slow growth that segregates with HPH that was not observed for the unmarked version,FALSE
+W11340-7A,rad5-R229E::HPH,rad5-R229E::HPH backcrossed pop-in/pop-out,J1869 x W9100-12C,W303,a,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5-R229E::HPH",S000004022-R229E::HPH,S000004022,-80C #2,8,3,3,2,7,6,Eric Bryant,2017-10-19,,Project-RAD5-OE,Sequence verified backcross,2 to 2 segregation of mild growth defect that segregates with HPH that was not observed for the unmarked version,FALSE
+W11340-6C,rad5-R229E::HPH,rad5-R229E::HPH backcrossed pop-in/pop-out,J1869 x W9100-12C,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5-R229E::HPH",S000004022-R229E::HPH,S000004022,-80C #2,8,3,3,2,7,7,Eric Bryant,2017-10-19,,Project-RAD5-OE,Sequence verified backcross,2 to 2 segregation of mild growth defect that segregates with HPH that was not observed for the unmarked version,FALSE
+W11341,,,W9913-42A x W11119-9A,W303,,,,,,,,,,,,Michael Smith,2017-10-27,,,,,
+W11342,,,W9100-11B x W11153-8B,W303,,,,,,,,,,,,Michael Smith,2017-10-27,,,,,
+W11343,,,W9100-11B x W11006-4A,W303,,,,,,,,,,,,Michael Smith,2017-10-27,,,,,
+W11344,,,R1708 x W9100-12C,W303,,,,,,,,,,,,Michael Smith,2017-11-10,,,,,
+W11345-1D,rad5-R187E,rad5-R187E backcrossed pop-in/pop-out,J1852 x W9100-12C,W303,a,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5-R187E",S000004022-R187E,S000004022,-80C #2,8,3,3,2,8,3,Eric Bryant,2017-11-14,,Project-RAD5-OE,Sequence verified backcross,Good to Go!,FALSE
+W11345-10D,rad5-R187E,rad5-R187E backcrossed pop-in/pop-out,J1852 x W9100-12C,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5-R187E",S000004022-R187E,S000004022,-80C #2,8,3,3,2,8,4,Eric Bryant,2017-11-14,,Project-RAD5-OE,Sequence verified backcross,Good to Go!,FALSE
+W11346,,,,,,,,,,,,,,,,Michael Smith,2017-11-20,,,,,
+W11347,,,,,,,,,,,,,,,,Michael Smith,2017-11-20,,,,,
+W11348-11D,"rad5-DEI681,682,916AAA","rad5-DEI681,682,916AAA second backcross",W11333-9B x W9100-2D,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5-DEI681,682,916AAA","S000004022-DEI681,682,916AAA",S000004022,-80C #2,8,3,3,2,8,5,Eric Bryant,2017-11-21,-,Project-RAD5-OE,Sequence verified backcross #2,Good to Go!,FALSE
+W11349,rad5∆ rDNA-CAN1-ADE2,rad5::KanMX rDNA-CAN1-ADE2,J1884 x W4314-2C,,,,,,,,,,,,,Ivana Sunjevaric,2017-12-01,,Project-RAD5-OE,,,
+W11350,,,J1890 x W11248-5B,,,,,,,,,,,,,Ivana Sunjevaric,,,,,,
+W11351,,,W1696-6C x R1696,,,,,,,,,,,,,Robert J.D. Reid,,,,,,
+W11352,,,W1696-6C x W9100-17D,,,,,,,,,,,,,Robert J.D. Reid,,,,,,
+W11353-1A,rad5∆,rad5::KanMX,J1884 x W9100-2D,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5::KanMX",S000004022-KanMX,S000004022,-80C #2,8,3,3,2,8,6,Eric Bryant,2017-12-06,-,Project-RAD5-OE,PCR validation: RAD5-DF (756) RAD5-DR (757) RAD5-int-332-R (1254) KanMX-int5'-R2 (511),Good to Go!,FALSE
+W11353-1C,rad5∆,rad5::KanMX,J1884 x W9100-2D,W303,a,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5::KanMX",S000004022-KanMX,S000004022,-80C #2,8,3,3,2,8,7,Eric Bryant,2017-12-06,-,Project-RAD5-OE,PCR validation: RAD5-DF (756) RAD5-DR (757) RAD5-int-332-R (1254) KanMX-int5'-R2 (511),Good to Go!,FALSE

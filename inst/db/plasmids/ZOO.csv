@@ -1,0 +1,4 @@
+plasmid_id,name,description,promoter,terminator,allele_id,gene_id,gene_name,yeast_marker,yeast_propagation,bact_marker,bact_propagation,plasmid_parent,host_strain,freezer,shelf,rack,pullout,insert,row,column,owner,date,reference_available,notes,phenotype,filemaker
+ZOO598,"GAL1,10p-SLD3;SLD7;CDC45",,"GAL1,10",,S000003081 & S000005586 & S000004093,S000003081 & S000005586 & S000004093,SLD3 & SLD7 & CDC45,LEU2,CEN/ARS,AmpR,f1/pBR322,pRS315,DH10b,-80C #2,8,4,2,4,1,4,Eric Bryant,2014-02-05,FALSE,"From Seiji Tanaka, originally called pST1828.",,TRUE
+ZOO599,"GAL1,10-empty",,"GAL1,10",,empty,empty,empty,LEU2,CEN/ARS,AmpR,f1/pBR322,pRS315,DH10b,-80C #2,8,4,2,4,1,5,Eric Bryant,2014-02-05,FALSE,"From Seiji Tanaka, originally called pRS315.",,TRUE
+ZOO600,GAL1p-DBF4,,GAL1,,S000002459,S000002459,DBF4,LEU2,CEN/ARS,AmpR,f1/pBR322,pRS315,DH10b,-80C #2,8,4,2,4,2,5,Eric Bryant,2014-06-24,FALSE,"From Seiji Tanaka, originally called pST1911.",,TRUE

@@ -1,4 +1,0 @@
-primer_id,alias,sequence,description,owner,notes
-3V5-HpaI-A-F,,gaattccagctgaccaccGTTAACatgGCGGCCGCTCTAGAACTAGTGG,Forward primer used to transfer 3V5 epitope tag into A/B vector with an HpaI cut site. Includes an annATG start sequence and A homology cloning tail.,Eric Bryant,
-3V5-ZraI-B-R,,gatccccgggaattgccatgGACGTCttaTGGATCTGTACTATCCAGTC,Reverse primer used to transfer 3V5 epitope tag into A/B vector with a ZruI cut site. Includes a TAA stop codon and B homology cloning tail,Eric Bryant,
-YFP-ZraI-B-R,,gatccccgggaattgccatgGACGTCttaTTTGTATCGTTCATCCATGC,Reverse primer used to transfer YFP from pWJ1863 into A/B vector with a ZruI cut site. Includes a TAA stop codon and B homology,Eric Bryant,
