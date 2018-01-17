@@ -133,7 +133,7 @@ W11278,,,,,,,,,,,,,,,,,,,,,,
 W11279,,,,,,,,,,,,,,,,,,,,,,
 W11280,,,,,,,,,,,,,,,,,,,,,,
 W11281,,,,,,,,,,,,,,,,,,,,,,
-W11282-10A,,W303 ,W9191-11C x W11223-1C,W303,alpha,,-,-,,,,,,,,,,,,,,
+W11282-10A,,W303 ,W9191-11C x W11223-1C,W303,alpha,,-,-,,,,,,,,,,,,,Progeny of a cross with a disomic strain,
 W11283,,,,,,,,,,,,,,,,,,,,,,
 W11284,,,,,,,,,,,,,,,,,,,,,,
 W11285,,,,,,,,,,,,,,,,,,,,,,
@@ -190,15 +190,15 @@ W11327,,,,,,,,,,,,,,,,,,,,,,
 W11328,,,,,,,,,,,,,,,,,,,,,,
 W11329,,,,,,,,,,,,,,,,,,,,,,
 W11330,SGA Query Starting Strain,SGA query diploid starter strain (usefull for marker-swapping recombination defective mutants),R1266 x W11222-1B,BY (S288C),a/alpha,can1∆::STE2pr-Sp_his5/can1∆::STE2pr-Sp_his5 lyp1∆::STE3pr-LEU2/lyp1∆::STE3pr-LEU2 his3∆1/his3∆1 leu2∆0/leu2∆0 ura3∆0/ura3∆0 met15∆0/met15∆0,,,-80C #2,8,3,3,2,5,4,Eric Bryant,2017-10-03,,SGA-Query,Strain constructed by pulling zygotes and checking for inability to grow on both -His and -Leu (taking advantage of the haploid specific promoters of the query backgrounds),,FALSE
-W11331-3D,"rad5-DE681,682AA","rad5-DE681,682AA backcrossed pop-in/pop-out",J1848 x W9100-12C,W303,a,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5-DE681,682AA","S000004022-DE681,682AA",S000004022,-80C #2,8,3,3,2,6,3,Eric Bryant,2017-10-11,,Project-RAD5-OE,Sequence verified backcross,Good to go!,FALSE
-W11331-7A,"rad5-DE681,682AA","rad5-DE681,682AA backcrossed pop-in/pop-out",J1848 x W9100-12C,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5-DE681,682AA","S000004022-DE681,682AA",S000004022,-80C #2,8,3,3,2,6,4,Eric Bryant,2017-10-11,,Project-RAD5-OE,Sequence verified backcross,Good to go!,FALSE
-W11332-7D,rad5-I916A,rad5-I916A backcrossed pop-in/pop-out,J1849 x W9100-12C,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5-I916A",S000004022-I916A,S000004022,-80C #2,8,3,3,2,6,5,Eric Bryant,2017-10-11,,Project-RAD5-OE,Sequence verified backcross,Good to Go!,FALSE
+W11331-3D,"rad5-DE681,682AA","rad5-DE681,682AA backcrossed pop-in/pop-out",J1848 x W9100-12C,W303,a,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5-DE681,682AA","S000004022-DE681,682AA",S000004022,-80C #2,8,3,3,2,6,3,Eric Bryant,2017-10-11,,Project-RAD5-OE,Sequence verified backcross,,FALSE
+W11331-7A,"rad5-DE681,682AA","rad5-DE681,682AA backcrossed pop-in/pop-out",J1848 x W9100-12C,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5-DE681,682AA","S000004022-DE681,682AA",S000004022,-80C #2,8,3,3,2,6,4,Eric Bryant,2017-10-11,,Project-RAD5-OE,Sequence verified backcross,,FALSE
+W11332-7D,rad5-I916A,rad5-I916A backcrossed pop-in/pop-out,J1849 x W9100-12C,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5-I916A",S000004022-I916A,S000004022,-80C #2,8,3,3,2,6,5,Eric Bryant,2017-10-11,,Project-RAD5-OE,Sequence verified backcross,,FALSE
 W11333-9B,"rad5-DEI681,682,916AAA","rad5-DEI681,682,916AAA backcrossed pop-in/pop-out",J1850 x W9100-12C,W303,a,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5-DEI681,682,916AAA","S000004022-DEI681,682,916AAA",S000004022,-80C #2,8,3,3,2,6,6,Eric Bryant,2017-10-11,,Project-RAD5-OE,Sequence verified backcross,Do NOT use this strain. 2 to 2 segregation of slow growth that does not perfectly segregate with the mutation. Backcrossing a second time.,FALSE
-W11334-4A,rad5-RGRKK217_221EGEEE,rad5-RGRKK217_221EGEEE backcrossed pop-in/pop-out,J1851 x W9100-12C,W303,a,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5-RGRKK217_221EGEEE",S000004022-RGRKK217_221EGEEE,S000004022,-80C #2,8,3,3,2,6,7,Eric Bryant,2017-10-11,,Project-RAD5-OE,Sequence verified backcross,Good to Go!,FALSE
-W11334-6D,rad5-RGRKK217_221EGEEE,rad5-RGRKK217_221EGEEE backcrossed pop-in/pop-out,J1851 x W9100-12C,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5-RGRKK217_221EGEEE",S000004022-RGRKK217_221EGEEE,S000004022,-80C #2,8,3,3,2,6,8,Eric Bryant,2017-10-11,,Project-RAD5-OE,Sequence verified backcross,Good to Go!,FALSE
-W11335-5C,rad5-R229E,rad5-R229E backcrossed pop-in/pop-out,J1853 x W9100-12C,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5-R229E",S000004022-R229E,S000004022,-80C #2,8,3,3,2,7,1,Eric Bryant,2017-10-11,,Project-RAD5-OE,Sequence verified backcross,Good to Go!,FALSE
-W11336-3B,rad5-R241E,rad5-R241E backcrossed pop-in/pop-out,J1854 x W9100-12C,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5-R241E",S000004022-R241E,S000004022,-80C #2,8,3,3,2,7,8,Eric Bryant,2017-10-19,,Project-RAD5-OE,Sequence verified backcross,Good to Go!,FALSE
-W11336-8A,rad5-R241E,rad5-R241E backcrossed pop-in/pop-out,J1854 x W9100-12C,W303,a,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5-R241E",S000004022-R241E,S000004022,-80C #2,8,3,3,2,8,1,Eric Bryant,2017-10-19,,Project-RAD5-OE,Sequence verified backcross,Good to Go!,FALSE
+W11334-4A,rad5-RGRKK217_221EGEEE,rad5-RGRKK217_221EGEEE backcrossed pop-in/pop-out,J1851 x W9100-12C,W303,a,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5-RGRKK217_221EGEEE",S000004022-RGRKK217_221EGEEE,S000004022,-80C #2,8,3,3,2,6,7,Eric Bryant,2017-10-11,,Project-RAD5-OE,Sequence verified backcross,,FALSE
+W11334-6D,rad5-RGRKK217_221EGEEE,rad5-RGRKK217_221EGEEE backcrossed pop-in/pop-out,J1851 x W9100-12C,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5-RGRKK217_221EGEEE",S000004022-RGRKK217_221EGEEE,S000004022,-80C #2,8,3,3,2,6,8,Eric Bryant,2017-10-11,,Project-RAD5-OE,Sequence verified backcross,,FALSE
+W11335-5C,rad5-R229E,rad5-R229E backcrossed pop-in/pop-out,J1853 x W9100-12C,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5-R229E",S000004022-R229E,S000004022,-80C #2,8,3,3,2,7,1,Eric Bryant,2017-10-11,,Project-RAD5-OE,Sequence verified backcross,,FALSE
+W11336-3B,rad5-R241E,rad5-R241E backcrossed pop-in/pop-out,J1854 x W9100-12C,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5-R241E",S000004022-R241E,S000004022,-80C #2,8,3,3,2,7,8,Eric Bryant,2017-10-19,,Project-RAD5-OE,Sequence verified backcross,,FALSE
+W11336-8A,rad5-R241E,rad5-R241E backcrossed pop-in/pop-out,J1854 x W9100-12C,W303,a,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5-R241E",S000004022-R241E,S000004022,-80C #2,8,3,3,2,8,1,Eric Bryant,2017-10-19,,Project-RAD5-OE,Sequence verified backcross,,FALSE
 W11337-1B,rad5-I916A::HPH,rad5-I916A::HPH backcrossed pop-in/pop-out,J1865 x W9100-12C,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5-I916A::HPH",S000004022-I916A::HPH,S000004022,-80C #2,8,3,3,2,7,2,Eric Bryant,2017-10-19,,Project-RAD5-OE,Sequence verified backcross,2 to 2 segregation of mild growth defect that segregates with HPH that was not observed for the unmarked version,FALSE
 W11338-7D,"rad5-DEI681,682,916AAA::HPH","rad5-DEI681,682,916AAA::HPH backcrossed pop-in/pop-out",J1866 x W9100-12C,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5-DEI681,682,916AAA::HPH","S000004022-DEI681,682,916AAA::HPH",S000004022,-80C #2,8,3,3,2,7,3,Eric Bryant,2017-10-19,,Project-RAD5-OE,Sequence verified backcross,2 to 2 segregation of mild growth defect that segregates with HPH that was not observed for the unmarked version,FALSE
 W11339-3A,rad5-RGRKK217_221EGEEE::HPH,rad5-RGRKK217_221EGEEE::HPH backcrossed pop-in/pop-out,J1867 x W9100-12C,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5-RGRKK217_221EGEEE::HPH",S000004022-RGRKK217_221EGEEE::HPH,S000004022,-80C #2,8,3,3,2,7,4,Eric Bryant,2017-10-19,,Project-RAD5-OE,Sequence verified backcross,2 to 2 segregation of very slow growth that segregates with HPH that was not observed for the unmarked version,FALSE
@@ -209,14 +209,20 @@ W11341,,,W9913-42A x W11119-9A,W303,,,,,,,,,,,,Michael Smith,2017-10-27,,,,,
 W11342,,,W9100-11B x W11153-8B,W303,,,,,,,,,,,,Michael Smith,2017-10-27,,,,,
 W11343,,,W9100-11B x W11006-4A,W303,,,,,,,,,,,,Michael Smith,2017-10-27,,,,,
 W11344,,,R1708 x W9100-12C,W303,,,,,,,,,,,,Michael Smith,2017-11-10,,,,,
-W11345-1D,rad5-R187E,rad5-R187E backcrossed pop-in/pop-out,J1852 x W9100-12C,W303,a,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5-R187E",S000004022-R187E,S000004022,-80C #2,8,3,3,2,8,3,Eric Bryant,2017-11-14,,Project-RAD5-OE,Sequence verified backcross,Good to Go!,FALSE
-W11345-10D,rad5-R187E,rad5-R187E backcrossed pop-in/pop-out,J1852 x W9100-12C,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5-R187E",S000004022-R187E,S000004022,-80C #2,8,3,3,2,8,4,Eric Bryant,2017-11-14,,Project-RAD5-OE,Sequence verified backcross,Good to Go!,FALSE
+W11345-1D,rad5-R187E,rad5-R187E backcrossed pop-in/pop-out,J1852 x W9100-12C,W303,a,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5-R187E",S000004022-R187E,S000004022,-80C #2,8,3,3,2,8,3,Eric Bryant,2017-11-14,,Project-RAD5-OE,Sequence verified backcross,,FALSE
+W11345-10D,rad5-R187E,rad5-R187E backcrossed pop-in/pop-out,J1852 x W9100-12C,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5-R187E",S000004022-R187E,S000004022,-80C #2,8,3,3,2,8,4,Eric Bryant,2017-11-14,,Project-RAD5-OE,Sequence verified backcross,,FALSE
 W11346,,,,,,,,,,,,,,,,Michael Smith,2017-11-20,,,,,
 W11347,,,,,,,,,,,,,,,,Michael Smith,2017-11-20,,,,,
-W11348-11D,"rad5-DEI681,682,916AAA","rad5-DEI681,682,916AAA second backcross",W11333-9B x W9100-2D,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5-DEI681,682,916AAA","S000004022-DEI681,682,916AAA",S000004022,-80C #2,8,3,3,2,8,5,Eric Bryant,2017-11-21,-,Project-RAD5-OE,Sequence verified backcross #2,Good to Go!,FALSE
+W11348-11D,"rad5-DEI681,682,916AAA","rad5-DEI681,682,916AAA second backcross",W11333-9B x W9100-2D,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5-DEI681,682,916AAA","S000004022-DEI681,682,916AAA",S000004022,-80C #2,8,3,3,2,8,5,Eric Bryant,2017-11-21,-,Project-RAD5-OE,Sequence verified backcross #2,,FALSE
 W11349,rad5∆ rDNA-CAN1-ADE2,rad5::KanMX rDNA-CAN1-ADE2,J1884 x W4314-2C,,,,,,,,,,,,,Ivana Sunjevaric,2017-12-01,,Project-RAD5-OE,,,
 W11350,,,J1890 x W11248-5B,,,,,,,,,,,,,Ivana Sunjevaric,,,,,,
 W11351,,,W1696-6C x R1696,,,,,,,,,,,,,Robert J.D. Reid,,,,,,
 W11352,,,W1696-6C x W9100-17D,,,,,,,,,,,,,Robert J.D. Reid,,,,,,
-W11353-1A,rad5∆,rad5::KanMX,J1884 x W9100-2D,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5::KanMX",S000004022-KanMX,S000004022,-80C #2,8,3,3,2,8,6,Eric Bryant,2017-12-06,-,Project-RAD5-OE,PCR validation: RAD5-DF (756) RAD5-DR (757) RAD5-int-332-R (1254) KanMX-int5'-R2 (511),Good to Go!,FALSE
-W11353-1C,rad5∆,rad5::KanMX,J1884 x W9100-2D,W303,a,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5::KanMX",S000004022-KanMX,S000004022,-80C #2,8,3,3,2,8,7,Eric Bryant,2017-12-06,-,Project-RAD5-OE,PCR validation: RAD5-DF (756) RAD5-DR (757) RAD5-int-332-R (1254) KanMX-int5'-R2 (511),Good to Go!,FALSE
+W11353-1A,rad5∆,rad5::KanMX,J1884 x W9100-2D,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5::KanMX",S000004022-KanMX,S000004022,-80C #2,8,3,3,2,8,6,Eric Bryant,2017-12-06,-,Project-RAD5-OE,PCR validation: RAD5-DF (756) RAD5-DR (757) RAD5-int-332-R (1254) KanMX-int5'-R2 (511),,FALSE
+W11353-1C,rad5∆,rad5::KanMX,J1884 x W9100-2D,W303,a,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5::KanMX",S000004022-KanMX,S000004022,-80C #2,8,3,3,2,8,7,Eric Bryant,2017-12-06,-,Project-RAD5-OE,PCR validation: RAD5-DF (756) RAD5-DR (757) RAD5-int-332-R (1254) KanMX-int5'-R2 (511),,FALSE
+W11354,,,,,,,,,,,,,,,,,,,,,,
+W11355,,,,,,,,,,,,,,,,,,,,,,
+W11356,,,,,,,,,,,,,,,,,,,,,,
+W11357,,,,,,,,,,,,,,,,,,,,,,
+W11358-1B,FLAG-RAD5,FLAG-RAD5,J1897 x W9100-2D,W303,a,"leu2-3,112 his3-11,15 ura3-1 lys2∆ FLAG-RAD5",S000004022-FLAG-N-terminus,S000004022,-80C #2,8,3,3,3,4,5,Eric Bryant,2018-01-11,-,Project-RAD5-OE,-,,FALSE
+W11358-2D,FLAG-RAD5,FLAG-RAD5,J1897 x W9100-2D,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ FLAG-RAD5",S000004022-FLAG-N-terminus,S000004022,-80C #2,8,3,3,3,4,6,Eric Bryant,2018-01-11,-,Project-RAD5-OE,-,,FALSE
