@@ -14,7 +14,8 @@ Imports:
     dbplyr,
     easydb,
     RSQLite,
-    readr
+    readr,
+    googlesheets
 Suggests:
     knitr,
     devtools,
