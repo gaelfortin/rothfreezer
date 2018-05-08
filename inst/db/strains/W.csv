@@ -74,7 +74,7 @@ W11219,,,,,,,,,,,,,,,,,,,,,,
 W11220,,,,,,,,,,,,,,,,,,,,,,
 W11221,,,,,,,,,,,,,,,,,,,,,,
 W11222-1B,SGA Query Starting Strain,SGA query strain which can be crossed to R1266 to make a diploid starter strain (usefull for marker-swapping recombination defective mutants),BY4741 x J1806 ,BY (S288C),a,can1∆::STE2pr-Sp_his5 lyp1∆::STE3pr-LEU2 his3∆1 leu2∆0 ura3∆0 met15∆0,-,-,-80C #2,8,4,4,2,6,1,Ivana Sunjevaric,2016-06-16,,SGA-Query,Check MET and NAT markers and remove this note if correct,,
-W11223,,,,,,,,,,,,,,,,,,,,,,
+W11223,pol30-RR::NatMX,"pol30-K127R,K164R",J1805 x W9100-12C,W303,alpha,"ADE2 leu2-3,112 his3-11,15 ura3-1 trp1 LYS2 RAD5 MET15 pol30-RR::NatMX",,,-80C #2,8,4,3,1,5,3,Ivana Sunjevaric,2016-06-21,,,,,
 W11224-1D,sgs1,sgs1::KanMX in W9100,W8695-10A x W9100-17D,W303,a,"lys2 ura3 his3 leu2(ΔEcoRI or leu2-3,112)",-,-,-80C #2,8,4,3,1,5,4,Ivana Sunjevaric,2016-06-21,-,-,-,-,TRUE
 W11225,,,,,,,,,,,,,,,,,,,,,,
 W11226,,,,,,,,,,,,,,,,,,,,,,
@@ -134,7 +134,9 @@ W11279,,,,,,,,,,,,,,,,,,,,,,
 W11280,,,,,,,,,,,,,,,,,,,,,,
 W11281,,,,,,,,,,,,,,,,,,,,,,
 W11282-10A,,W303 ,W9191-11C x W11223-1C,W303,alpha,,-,-,,,,,,,,,,,,,Progeny of a cross with a disomic strain,
-W11283,,,,,,,,,,,,,,,,,,,,,,
+W11283-1D,rad27::KanMX,,W9195-10A x W11223-1C,W303,alpha,"ADE2 leu2-3,112 his3-11,15 ura3-1 TRP1 lys2∆ RAD5 MET15 rad27::KanMX",,,-80C #2,8,4,1,4,2,5,Eric Bryant,2017-03-27,,,,,
+W11283-8A,pol30-RR::NatMX,,W9195-10A x W11223-1C,W303,a,"ADE2 leu2-3,112 his3-11,15 ura3-1 TRP1 lys2∆ RAD5 MET15 pol30-RR::NatMX",,,-80C #2,8,4,1,4,2,6,Eric Bryant,2017-03-27,,,,,
+W11283-11D,rad27::KanMX pol30-RR::NatMX,,W9195-10A x W11223-1C,W303,alpha,"ADE2 leu2-3,112 his3-11,15 ura3-1 TRP1 lys2∆ RAD5 MET15 rad27::KanMX pol30-RR::NatMX",,,-80C #2,8,4,1,4,2,7,Eric Bryant,2017-03-27,,,,,
 W11284,,,,,,,,,,,,,,,,,,,,,,
 W11285,,,,,,,,,,,,,,,,,,,,,,
 W11286,,,,,,,,,,,,,,,,,,,,,,
@@ -163,14 +165,14 @@ W11308-6A,yen1,yen1::KanMX,U3309 x W11282-10A,W303,a,TRP lys,S000000843-KanMX,S0
 W11308-6D,yen1,yen1::KanMX,U3309 x W11282-10A,W303,alpha,TRP lys,S000000843-KanMX,S000000843,-,-,-,-,-,-,-,Isabel Sollohub,2017-09-13,,Project-CTF4-OE,U strain for this W strain was not frozen and the W strain was thrown away ,-,
 W11309-2C,mec3,mec3::KanMX,U3310 x W11282-10A,W303,a,TRP lys,S000004279-KanMX,S000004279,-,-,-,-,-,-,-,Isabel Sollohub,2017-09-13,,Project-CTF4-OE,U strain for this W strain was not frozen and the W strain was thrown away ,-,
 W11309-2D,mec3,mec3::KanMX,U3310 x W11282-10A,W303,alpha,TRP lys,S000004279-KanMX,S000004279,-,-,-,-,-,-,-,Isabel Sollohub,2017-09-13,,Project-CTF4-OE,U strain for this W strain was not frozen and the W strain was thrown away ,-,
-W11310-2B,rad24,rad24::KanMX,U3323 X W9100-2D,W303,a,TRP lys,S000000975::KanMX,S000000975,-80C #2,8,4,1,4,6,8,Isabel Sollohub,2018-02-22,,Project-CTF4-OE,,,
-W11310-2D,rad24,rad24::KanMX,U3323 X W9100-2D,W303,alpha,TRP lys,S000000975::KanMX,S000000975,-80C #2,8,4,1,4,6,3,Isabel Sollohub,2018-02-22,,Project-CTF4-OE,,,
+W11310-2B,rad24,rad24::KanMX,U3323 X W9100-2D,W303,alpha,TRP lys,S000000975::KanMX,S000000975,-80C #2,8,4,1,4,6,7,Isabel Sollohub,2018-02-22,,Project-CTF4-OE,,,TRUE
+W11310-2D,rad24,rad24::KanMX,U3323 X W9100-2D,W303,a,TRP lys,S000000975::KanMX,S000000975,-80C #2,8,4,1,4,6,4,Isabel Sollohub,2018-02-22,,Project-CTF4-OE,,,TRUE
 W11311-3A,sgs1,sgs1::KanMX,U3326 X W9100-2D,W303,alpha,TRP lys,S000004802::KanMX,S000004802,,,,,,,,Isabel Sollohub,2018-02-22,,Project-CTF4-OE,,,
-W11311-3B,sgs1,sgs1::KanMX,U3326 X W9100-2D,W303,a,TRP lys,S000004802::KanMX,S000004802,-80C #2,8,4,1,4,6,4,Isabel Sollohub,2018-02-22,,Project-CTF4-OE,,,
-W11312-2B,top1,top1::KanMX,U3328 X W9100-2D,W303,a,TRP lys,S000005366::KanMX,S000005366,-80C #2,8,4,1,4,6,8,Isabel Sollohub,2018-02-22,,Project-CTF4-OE,,,
+W11311-3B,sgs1,sgs1::KanMX,U3326 X W9100-2D,W303,alpha,TRP lys,S000004802::KanMX,S000004802,-80C #2,8,4,1,4,6,3,Isabel Sollohub,2018-02-22,,Project-CTF4-OE,,,TRUE
+W11312-2B,top1,top1::KanMX,U3328 X W9100-2D,W303,alpha,TRP lys,S000005366::KanMX,S000005366,-80C #2,8,4,1,4,6,8,Isabel Sollohub,2018-02-22,,Project-CTF4-OE,,,TRUE
 W11312-2D,top1,top1::KanMX,U3328 X W9100-2D,W303,alpha,TRP lys,S000005366::KanMX,S000005366,,,,,,,,Isabel Sollohub,2018-02-22,,Project-CTF4-OE,,,
-W11313-1B,ddc1,ddc1::KanMX,U3329 X W9100-2D,W303,a,TRP lys,S000006115::KanMX,S000006115,-80C #2,8,4,1,4,6,6,Isabel Sollohub,2018-02-22,,Project-CTF4-OE,,,
-W11313-1D,ddc1,ddc1::KanMX,U3329 X W9100-2D,W303,alpha,TRP lys,S000006115::KanMX,S000006115,-80C #2,8,4,1,4,6,5,Isabel Sollohub,2018-02-22,,Project-CTF4-OE,,,
+W11313-1B,ddc1,ddc1::KanMX,U3329 X W9100-2D,W303,alpha,TRP lys,S000006115::KanMX,S000006115,-80C #2,8,4,1,4,6,6,Isabel Sollohub,2018-02-22,,Project-CTF4-OE,,,TRUE
+W11313-1D,ddc1,ddc1::KanMX,U3329 X W9100-2D,W303,a,TRP lys,S000006115::KanMX,S000006115,-80C #2,8,4,1,4,6,5,Isabel Sollohub,2018-02-22,,Project-CTF4-OE,,,TRUE
 W11314-8C,rad17,rad17::KanMX,U3311 x W11282-10A,W303,alpha,TRP lys,S000005895-KanMX,S000005895,-,-,-,-,-,-,-,Isabel Sollohub,2017-09-13,,Project-CTF4-OE,U strain for this W strain was not frozen and the W strain was thrown away ,-,-
 W11314-8D,rad17,rad17::KanMX,U3311 x W11282-10A,W303,a,TRP lys,S000005895-KanMX,S000005895,-,-,-,-,-,-,-,Isabel Sollohub,2017-09-13,,Project-CTF4-OE,U strain for this W strain was not frozen and the W strain was thrown away ,-,-
 W11315-6A,ctf4,ctf4::KanMX,U3312 x W11282-10A,W303,alpha,TRP lys,S000006339-KanMX,S000006339,-,-,-,-,-,-,-,Isabel Sollohub,2017-09-13,,Project-CTF4-OE,U strain for this W strain was not frozen and the W strain was thrown away ,-,-
@@ -251,3 +253,41 @@ W11367-2B,sgs1 rad5-I916A,sgs1 rad5-I916A,W11224-1D x W11332-7D,W303,a,"leu2-3,1
 W11367-7B,sgs1 rad5-I916A,sgs1 rad5-I916A,W11224-1D x W11332-7D,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ sgs1::KanMX rad5-I916A",,,-80C #2,8,3,3,3,7,7,Eric Bryant,2018-01-13,,Project-RAD5-OE,,,FALSE
 W11368-6A,sgs1 rad5-R187E,sgs1 rad5-R187E,W11224-1D x W11345-10D,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ sgs1::KanMX rad5-R187E",,,-80C #2,8,3,3,3,7,5,Eric Bryant,2018-01-13,,Project-RAD5-OE,,,FALSE
 W11368-6C,sgs1 rad5-R187E,sgs1 rad5-R187E,W11224-1D x W11345-10D,W303,a,"leu2-3,112 his3-11,15 ura3-1 lys2∆ sgs1::KanMX rad5-R187E",,,-80C #2,8,3,3,3,7,6,Eric Bryant,2018-01-13,,Project-RAD5-OE,,,FALSE
+W11369,,,,,,,,,,,,,,,,,,,,,,
+W11370,,,,,,,,,,,,,,,,,,,,,,
+W11371,,,,,,,,,,,,,,,,,,,,,,
+W11372,,,,,,,,,,,,,,,,,,,,,,
+W11373,,,,,,,,,,,,,,,,,,,,,,
+W11374,,,,,,,,,,,,,,,,,,,,,,
+W11375,,,,,,,,,,,,,,,,,,,,,,
+W11376,,,,,,,,,,,,,,,,,,,,,,
+W11377,,,,,,,,,,,,,,,,,,,,,,
+W11378,,,,,,,,,,,,,,,,,,,,,,
+W11379,,,,,,,,,,,,,,,,,,,,,,
+W11380,,,,,,,,,,,,,,,,,,,,,,
+W11381,,,,,,,,,,,,,,,,,,,,,,
+W11382,,,,,,,,,,,,,,,,,,,,,,
+W11383,,,,,,,,,,,,,,,,,,,,,,
+W11384,,,,,,,,,,,,,,,,,,,,,,
+W11385,,,,,,,,,,,,,,,,,,,,,,
+W11386,,,,,,,,,,,,,,,,,,,,,,
+W11387,,,,,,,,,,,,,,,,,,,,,,
+W11388,,,,,,,,,,,,,,,,,,,,,,
+W11389,,,,,,,,,,,,,,,,,,,,,,
+W11390,,,,,,,,,,,,,,,,,,,,,,
+W11391-2C,sgs1 pol30-RR,sgs1::KanMX pol30-RR::NatMX,W11366-3A x W11283-8A,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ sgs1::KanMX pol30-RR::NatMX",,,-80C #2,8,3,3,3,,,Eric Bryant,2018-03-31,,Project-RAD5-OE,,,FALSE
+W11391-2D,sgs1,sgs1::KanMX,W11366-3A x W11283-8A,W303,a,"leu2-3,112 his3-11,15 ura3-1 lys2∆ sgs1::KanMX",,,-80C #2,8,3,3,3,,,Eric Bryant,2018-03-31,,Project-RAD5-OE,,,FALSE
+W11391-4A,sgs1 pol30-RR,sgs1::KanMX pol30-RR::NatMX,W11366-3A x W11283-8A,W303,a,"leu2-3,112 his3-11,15 ura3-1 lys2∆ sgs1::KanMX pol30-RR::NatMX",,,-80C #2,8,3,3,3,,,Eric Bryant,2018-03-31,,Project-RAD5-OE,,,FALSE
+W11391-8C,pol30-RR,pol30-RR::NatMX,W11366-3A x W11283-8A,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ pol30-RR::NatMX",,,-80C #2,8,3,3,3,,,Eric Bryant,2018-03-31,,Project-RAD5-OE,,,FALSE
+W11392,,,,,,,,,,,,,,,,,,,,,,
+W11393,,,,,,,,,,,,,,,,,,,,,,
+W11394,,,,,,,,,,,,,,,,,,,,,,
+W11395,,,,,,,,,,,,,,,,,,,,,,
+W11396,,,,,,,,,,,,,,,,,,,,,,
+W11397,,,,,,,,,,,,,,,,,,,,,,
+W11398,,,,,,,,,,,,,,,,,,,,,,
+W11399,rad5::NatMX,rad5::NatMX,J1898 x W9100-17D,W303,,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5::NatMX",,,,,,,,,,Eric Bryant,2018-04-25,,Project-RAD5-OE,,,FALSE
+W11400,top1::KanMX,top1::KanMX,W11312-2B x W9100-17D,W303,,"leu2-3,112 his3-11,15 ura3-1 lys2∆ top1::KanMX",,,,,,,,,,Eric Bryant,2018-04-25,,Project-RAD5-OE,,,FALSE
+W11401,,,,,,,,,,,,,,,,,,,,,,
+W11402,,,,,,,,,,,,,,,,,,,,,,
+W11403,top1::KanMX rad5::NatMX,top1::KanMX rad5::NatMX,W11400-2C x W11399-1B,W303,,"leu2-3,112 his3-11,15 ura3-1 lys2∆ top1::KanMX rad5::NatMX",,,,,,,,,,Eric Bryant,2015-05-01,,Project-RAD5-OE,,,FALSE
