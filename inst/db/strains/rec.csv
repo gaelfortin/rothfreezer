@@ -22,7 +22,7 @@ rec167,edc2,a-haploid KanMX disruption of EDC2 (S000000837) in BY background,NA,
 rec171,yer038w-a,a-haploid KanMX disruption of YER038W-A (S000028746) in BY background,NA,BY4741,a,NA,S000028746-KanMX,S000028746,,,,,,,,,,,,NA,,
 rec172,hvg1,a-haploid KanMX disruption of HVG1 (S000000841) in BY background,NA,BY4741,a,NA,S000000841-KanMX,S000000841,,,,,,,,,,,,NA,,
 rec173,gln3,a-haploid KanMX disruption of GLN3 (S000000842) in BY background,NA,BY4741,a,NA,S000000842-KanMX,S000000842,,,,,,,,,,,,NA,,
-rec174,yen1,a-haploid KanMX disruption of YEN1 (S000000843) in BY background,NA,BY4741,a,NA,S000000843-KanMX,S000000843,,,,,,,,,,,,NA,,
+rec174,yen1,a-haploid KanMX disruption of YEN1 (S000000843) in BY background,NA,BY4741,a,NA,S000000843-KanMX,S000000843,-80C #2,8,4,3,4,2,8,Alice Serafin,2018-05-29,,,PCR successful with KanMX-int5'-R (511) + PF (685) and KanMX-int3'-F (512) + PR (686),,TRUE
 rec175,mxr1,a-haploid KanMX disruption of MXR1 (S000000844) in BY background,NA,BY4741,a,NA,S000000844-KanMX,S000000844,,,,,,,,,,,,NA,,
 rec177,erg28,a-haploid KanMX disruption of ERG28 (S000000846) in BY background,NA,BY4741,a,NA,S000000846-KanMX,S000000846,,,,,,,,,,,,"slow growth, no growth on drop-in media",,
 rec178,mei4,a-haploid KanMX disruption of MEI4 (S000001954) in BY background,NA,BY4741,a,NA,S000001954-KanMX,S000001954,,,,,,,,,,,,NA,,
@@ -185,7 +185,7 @@ rec400,fun14,a-haploid KanMX disruption of FUN14 (S000000006) in BY background,N
 rec401,erp2,a-haploid KanMX disruption of ERP2 (S000000005) in BY background,NA,BY4741,a,NA,S000000005-KanMX,S000000005,,,,,,,,,,,,NA,,
 rec402,yal004w,a-haploid KanMX disruption of YAL004W (S000002136) in BY background,NA,BY4741,a,NA,S000002136-KanMX,S000002136,,,,,,,,,,,,NA,,
 rec403,ssa1,a-haploid KanMX disruption of SSA1 (S000000004) in BY background,NA,BY4741,a,NA,S000000004-KanMX,S000000004,,,,,,,,,,,,NA,,
-rec407,nup60,a-haploid KanMX disruption of NUP60 (S000000063) in BY background,NA,BY4741,a,NA,S000000063-KanMX,S000000063,,,,,,,,,,,,NA,,
+rec407,nup60,a-haploid KanMX disruption of NUP60 (S000000063) in BY background,NA,BY4741,a,NA,S000000063-KanMX,S000000063,-80C #2,8,3,3,4,8,2,Alice Serafin,2018-05-09,,,PCR successful with KanMX-int3'-R (511) + PF (1354) and KanMX-int3'-F (512) + PR (1355),,TRUE
 rec408,swd1,a-haploid KanMX disruption of SWD1 (S000000064) in BY background,NA,BY4741,a,NA,S000000064-KanMX,S000000064,,,,,,,,,,,,NA,,
 rec413,bud14,a-haploid KanMX disruption of BUD14 (S000000069) in BY background,NA,BY4741,a,NA,S000000069-KanMX,S000000069,,,,,,,,,,,,NA,,
 rec414,ade1,a-haploid KanMX disruption of ADE1 (S000000070) in BY background,NA,BY4741,a,NA,S000000070-KanMX,S000000070,,,,,,,,,,,,NA,,
@@ -252,7 +252,7 @@ rec559,trm9,a-haploid KanMX disruption of TRM9 (S000004476) in BY background,NA,
 rec560,ubx2,a-haploid KanMX disruption of UBX2 (S000004475) in BY background,NA,BY4741,a,NA,S000004475-KanMX,S000004475,,,,,,,,,,,,NA,,
 rec561,yml012c-a,a-haploid KanMX disruption of YML012C-A (S000004474) in BY background,NA,BY4741,a,NA,S000004474-KanMX,S000004474,,,,,,,,,,,,NA,,
 rec562,erv25,a-haploid KanMX disruption of ERV25 (S000004473) in BY background,NA,BY4741,a,NA,S000004473-KanMX,S000004473,,,,,,,,,,,,NA,,
-rec563,rad33,a-haploid KanMX disruption of RAD33 (S000004472) in BY background,NA,BY4741,a,NA,S000004472-KanMX,S000004472,,,,,,,,,,,,NA,,
+rec563,rad33,a-haploid KanMX disruption of RAD33 (S000004472) in BY background,NA,BY4741,a,NA,S000004472-KanMX,S000004472,-80C #2,8,3,3,4,8,1,Alice Serafin,2018-05-09,,,PCR successful with KanMX-int3'-R (511) + PF (1359) and KanMX-int3'-F (512) + PR (1360),,TRUE
 rec565,yml009w-b,a-haploid KanMX disruption of YML009W-B (S000004471) in BY background,NA,BY4741,a,NA,S000004471-KanMX,S000004471,,,,,,,,,,,,NA,,
 rec567,mrpl39,a-haploid KanMX disruption of MRPL39 (S000004468) in BY background,NA,BY4741,a,NA,S000004468-KanMX,S000004468,,,,,,,,,,,,NA,,
 rec568,erg6,a-haploid KanMX disruption of ERG6 (S000004467) in BY background,NA,BY4741,a,NA,S000004467-KanMX,S000004467,,,,,,,,,,,,NA,,
@@ -309,11 +309,11 @@ rec728,ymr147w,a-haploid KanMX disruption of YMR147W (S000004755) in BY backgrou
 rec729,osw5,a-haploid KanMX disruption of OSW5 (S000004756) in BY background,NA,BY4741,a,NA,S000004756-KanMX,S000004756,,,,,,,,,,,,NA,,
 rec731,yim2,a-haploid KanMX disruption of YIM2 (S000004759) in BY background,NA,BY4741,a,NA,S000004759-KanMX,S000004759,,,,,,,,,,,,NA,,
 rec732,imp1,a-haploid KanMX disruption of IMP1 (S000004758) in BY background,NA,BY4741,a,NA,S000004758-KanMX,S000004758,,,,,,,,,,,,NA,,
-rec733,yim1,a-haploid KanMX disruption of YIM1 (S000004760) in BY background,NA,BY4741,a,NA,S000004760-KanMX,S000004760,,,,,,,,,,,,NA,,
+rec733,yim1,a-haploid KanMX disruption of YIM1 (S000004760) in BY background,NA,BY4741,a,NA,S000004760-KanMX,S000004760,-80C #2,8,3,3,4,7,6,Alice Serafin,2018-05-09,,,PCR successful with KanMX-int3'-R (511) + PF (1374) and KanMX-int3'-F (512) + PR (1375),,TRUE
 rec734,nup53,a-haploid KanMX disruption of NUP53 (S000004762) in BY background,NA,BY4741,a,NA,S000004762-KanMX,S000004762,,,,,,,,,,,,NA,,
 rec735,ymr153c-a,a-haploid KanMX disruption of YMR153C-A (S000004761) in BY background,NA,BY4741,a,NA,S000004761-KanMX,S000004761,,,,,,,,,,,,NA,,
 rec737,ymr155w,a-haploid KanMX disruption of YMR155W (S000004764) in BY background,NA,BY4741,a,NA,S000004764-KanMX,S000004764,,,,,,,,,,,,NA,,
-rec738,tpp1,a-haploid KanMX disruption of TPP1 (S000004765) in BY background,NA,BY4741,a,NA,S000004765-KanMX,S000004765,,,,,,,,,,,,NA,,
+rec738,tpp1,a-haploid KanMX disruption of TPP1 (S000004765) in BY background,NA,BY4741,a,NA,S000004765-KanMX,S000004765,-80C #2,8,3,3,4,7,7,Alice Serafin,2018-05-09,,,PCR successful with KanMX-int3'-R (511) + PF (1369) and KanMX-int3'-F (512) + PR (1370),,TRUE
 rec739,aim36,a-haploid KanMX disruption of AIM36 (S000004766) in BY background,NA,BY4741,a,NA,S000004766-KanMX,S000004766,,,,,,,,,,,,NA,,
 rec741,ymr158w-b,a-haploid KanMX disruption of YMR158W-B (S000004768) in BY background,NA,BY4741,a,NA,S000004768-KanMX,S000004768,,,,,,,,,,,,NA,,
 rec742,atg16,a-haploid KanMX disruption of ATG16 (S000004769) in BY background,NA,BY4741,a,NA,S000004769-KanMX,S000004769,,,,,,,,,,,,NA,,
@@ -323,7 +323,7 @@ rec746,inp2,a-haploid KanMX disruption of INP2 (S000004773) in BY background,NA,
 rec747,mss11,a-haploid KanMX disruption of MSS11 (S000004774) in BY background,NA,BY4741,a,NA,S000004774-KanMX,S000004774,,,,,,,,,,,,NA,,
 rec748,pah1,a-haploid KanMX disruption of PAH1 (S000004775) in BY background,NA,NA,a,NA,S000004775-KanMX,S000004775,,,,,,,,,,,,NA,,
 rec749,ymr166c,a-haploid KanMX disruption of YMR166C (S000004776) in BY background,NA,BY4741,a,NA,S000004776-KanMX,S000004776,,,,,,,,,,,,NA,,
-rec750,mlh1,a-haploid KanMX disruption of MLH1 (S000004777) in BY background,NA,BY4741,a,NA,S000004777-KanMX,S000004777,,,,,,,,,,,,NA,,
+rec750,mlh1,a-haploid KanMX disruption of MLH1 (S000004777) in BY background,NA,BY4741,a,NA,S000004777-KanMX,S000004777,-80C #2,8,3,3,4,7,8,Alice Serafin,2018-05-09,,,PCR successful with KanMX-int3'-R (511) + PF (1349) and KanMX-int3'-F (512) + PR (1350),,TRUE
 rec752,ald3,a-haploid KanMX disruption of ALD3 (S000004779) in BY background,NA,BY4741,a,NA,S000004779-KanMX,S000004779,,,,,,,,,,,,NA,,
 rec753,ald2,a-haploid KanMX disruption of ALD2 (S000004780) in BY background,NA,BY4741,a,NA,S000004780-KanMX,S000004780,,,,,,,,,,,,NA,,
 rec756,ymr172c-a,a-haploid KanMX disruption of YMR172C-A (S000004782) in BY background,NA,BY4741,a,NA,S000004782-KanMX,S000004782,,,,,,,,,,,,NA,,
@@ -486,7 +486,7 @@ rec984,rps27b,a-haploid KanMX disruption of RPS27B (S000001063) in BY background
 rec985,yhr022c,a-haploid KanMX disruption of YHR022C (S000001064) in BY background,NA,BY4741,a,NA,S000001064-KanMX,S000001064,,,,,,,,,,,,NA,,
 rec991,dap2,a-haploid KanMX disruption of DAP2 (S000001070) in BY background,NA,BY4741,a,NA,S000001070-KanMX,S000001070,,,,,,,,,,,,NA,,
 rec992,yhi9,a-haploid KanMX disruption of YHI9 (S000001071) in BY background,NA,BY4741,a,NA,S000001071-KanMX,S000001071,,,,,,,,,,,,NA,,
-rec993,slt2,a-haploid KanMX disruption of SLT2 (S000001072) in BY background,NA,BY4741,a,NA,S000001072-KanMX,S000001072,,,,,,,,,,,,NA,,
+rec993,slt2,a-haploid KanMX disruption of SLT2 (S000001072) in BY background,NA,BY4741,a,NA,S000001072-KanMX,S000001072,-80C #2,8,4,3,4,3,2,Alice Serafin,2018-05-29,,,PCR successful with KanMX-int5'-R (511) + PF (659) and KanMX-int3'-F (512) + PR (658),,TRUE
 rec994,rrm3,a-haploid KanMX disruption of RRM3 (S000001073) in BY background,NA,BY4741,a,NA,S000001073-KanMX,S000001073,,,,,,,,,,,,NA,,
 rec996,yhr033w,a-haploid KanMX disruption of YHR033W (S000001075) in BY background,NA,BY4741,a,NA,S000001075-KanMX,S000001075,,,,,,,,,,,,NA,,
 rec997,pih1,a-haploid KanMX disruption of PIH1 (S000001076) in BY background,NA,BY4741,a,NA,S000001076-KanMX,S000001076,,,,,,,,,,,,NA,,
@@ -660,7 +660,7 @@ rec1242,mnn11,a-haploid KanMX disruption of MNN11 (S000003719) in BY background,
 rec1243,yjl181w,a-haploid KanMX disruption of YJL181W (S000003717) in BY background,NA,BY4741,a,NA,S000003717-KanMX,S000003717,,,,,,,,,,,,NA,,
 rec1244,yjl182c,a-haploid KanMX disruption of YJL182C (S000003718) in BY background,NA,BY4741,a,NA,S000003718-KanMX,S000003718,,,,,,,,,,,,NA,,
 rec1245,atp12,a-haploid KanMX disruption of ATP12 (S000003716) in BY background,NA,BY4741,a,NA,S000003716-KanMX,S000003716,,,,,,,,,,,,NA,,
-rec1246,pfd1,a-haploid KanMX disruption of PFD1 (S000003715) in BY background,NA,BY4741,a,NA,S000003715-KanMX,S000003715,,,,,,,,,,,,NA,,
+rec1246,pfd1,a-haploid KanMX disruption of PFD1 (S000003715) in BY background,NA,BY4741,a,NA,S000003715-KanMX,S000003715,-80C #2,8,4,3,4,7,5,Alice Serafin,2018-06-14,,,PCR successful with KanMX-int5'-R (511) + PF (549) and KanMX-int3'-F (512) + PR (550),,TRUE
 rec1247,atg27,a-haploid KanMX disruption of ATG27 (S000003714) in BY background,NA,BY4741,a,NA,S000003714-KanMX,S000003714,,,,,,,,,,,,NA,,
 rec1250,swi3,a-haploid KanMX disruption of SWI3 (S000003712) in BY background,NA,BY4741,a,NA,S000003712-KanMX,S000003712,,,,,,,,,,,,NA,,
 rec1253,cps1,a-haploid KanMX disruption of CPS1 (S000003708) in BY background,NA,BY4741,a,NA,S000003708-KanMX,S000003708,,,,,,,,,,,,NA,,
@@ -669,7 +669,7 @@ rec1255,asg7,a-haploid KanMX disruption of ASG7 (S000003706) in BY background,NA
 rec1256,yjl169w,a-haploid KanMX disruption of YJL169W (S000003705) in BY background,NA,BY4741,a,NA,S000003705-KanMX,S000003705,,,,,,,,,,,,NA,,
 rec1257,set2,a-haploid KanMX disruption of SET2 (S000003704) in BY background,NA,BY4741,a,NA,S000003704-KanMX,S000003704,,,,,,,,,,,,NA,,
 rec1259,qcr8,a-haploid KanMX disruption of QCR8 (S000003702) in BY background,NA,BY4741,a,NA,S000003702-KanMX,S000003702,,,,,,,,,,,,NA,,
-rec1260,hal5,a-haploid KanMX disruption of HAL5 (S000003701) in BY background,NA,BY4741,a,NA,S000003701-KanMX,S000003701,,,,,,,,,,,,NA,,
+rec1260,hal5,a-haploid KanMX disruption of HAL5 (S000003701) in BY background,NA,BY4741,a,NA,S000003701-KanMX,S000003701,-80C #2,8,4,3,4,6,1,Alice Serafin,2018-06-14,,,PCR successful with KanMX-int5'-R (511) + PF (795) and KanMX-int3'-F (512) + PR (796),,TRUE
 rec1261,tpk1,a-haploid KanMX disruption of TPK1 (S000003700) in BY background,NA,BY4741,a,NA,S000003700-KanMX,S000003700,,,,,,,,,,,,NA,,
 rec1262,yjl163c,a-haploid KanMX disruption of YJL163C (S000003699) in BY background,NA,BY4741,a,NA,S000003699-KanMX,S000003699,,,,,,,,,,,,NA,,
 rec1263,jjj2,a-haploid KanMX disruption of JJJ2 (S000003698) in BY background,NA,BY4741,a,NA,S000003698-KanMX,S000003698,,,,,,,,,,,,NA,,
@@ -923,7 +923,7 @@ rec1604,sly41,a-haploid KanMX disruption of SLY41 (S000005834) in BY background,
 rec1605,snu66,a-haploid KanMX disruption of SNU66 (S000005835) in BY background,NA,BY4741,a,NA,S000005835-KanMX,S000005835,,,,,,,,,,,,NA,,
 rec1606,yor309c,a-haploid KanMX disruption of YOR309C (S000005836) in BY background,NA,BY4741,a,NA,S000005836-KanMX,S000005836,,,,,,,,,,,,NA,,
 rec1608,dgk1,a-haploid KanMX disruption of DGK1 (S000005838) in BY background,NA,BY4741,a,NA,S000005838-KanMX,S000005838,,,,,,,,,,,,NA,,
-rec1609,rpl20b,a-haploid KanMX disruption of RPL20B (S000005839) in BY background,NA,BY4741,a,NA,S000005839-KanMX,S000005839,,,,,,,,,,,,NA,,
+rec1609,rpl20b,a-haploid KanMX disruption of RPL20B (S000005839) in BY background,NA,BY4741,a,NA,S000005839-KanMX,S000005839,-80C #2,8,4,3,4,4,3,Alice Serafin,2018-06-05,,,PCR successful with KanMX-int5'-R (511) + PF (1399) and KanMX-int3'-F (512) + PR (1400),,TRUE
 rec1610,sps4,a-haploid KanMX disruption of SPS4 (S000005840) in BY background,NA,BY4741,a,NA,S000005840-KanMX,S000005840,,,,,,,,,,,,NA,,
 rec1611,yor314w,a-haploid KanMX disruption of YOR314W (S000005841) in BY background,NA,BY4741,a,NA,S000005841-KanMX,S000005841,,,,,,,,,,,,NA,,
 rec1612,sfg1,a-haploid KanMX disruption of SFG1 (S000005842) in BY background,NA,BY4741,a,NA,S000005842-KanMX,S000005842,,,,,,,,,,,,NA,,
@@ -968,7 +968,7 @@ rec1661,yor364w,a-haploid KanMX disruption of YOR364W (S000005891) in BY backgro
 rec1662,yor365c,a-haploid KanMX disruption of YOR365C (S000005892) in BY background,NA,BY4741,a,NA,S000005892-KanMX,S000005892,,,,,,,,,,,,NA,,
 rec1663,yor366w,a-haploid KanMX disruption of YOR366W (S000005893) in BY background,NA,BY4741,a,NA,S000005893-KanMX,S000005893,,,,,,,,,,,,NA,,
 rec1664,scp1,a-haploid KanMX disruption of SCP1 (S000005894) in BY background,NA,BY4741,a,NA,S000005894-KanMX,S000005894,,,,,,,,,,,,NA,,
-rec1665,rad17,a-haploid KanMX disruption of RAD17 (S000005895) in BY background,NA,BY4741,a,NA,S000005895-KanMX,S000005895,,,,,,,,,,,,NA,,
+rec1665,rad17,a-haploid KanMX disruption of RAD17 (S000005895) in BY background,NA,BY4741,a,NA,S000005895-KanMX,S000005895,-80C #2,8,4,3,4,5,4,Alice Serafin,2018-06-05,,,PCR successful with KanMX-int3'-R (511) + PF (673) and KanMX-int3'-F (512) + PR (674),,TRUE
 rec1666,rps12,a-haploid KanMX disruption of RPS12 (S000005896) in BY background,NA,BY4741,a,NA,S000005896-KanMX,S000005896,,,,,,,,,,,,"40S small subunit of ribosomal protein S12 -- grows on -met, grows on -lys, mates with alpha, papillation on mat a",,
 rec1668,gpb1,a-haploid KanMX disruption of GPB1 (S000005898) in BY background,NA,BY4741,a,NA,S000005898-KanMX,S000005898,,,,,,,,,,,,NA,,
 rec1671,ald4,a-haploid KanMX disruption of ALD4 (S000005901) in BY background,NA,BY4741,a,NA,S000005901-KanMX,S000005901,,,,,,,,,,,,NA,,
@@ -984,11 +984,11 @@ rec1680,fit3,a-haploid KanMX disruption of FIT3 (S000005910) in BY background,NA
 rec1681,fre5,a-haploid KanMX disruption of FRE5 (S000005911) in BY background,NA,BY4741,a,NA,S000005911-KanMX,S000005911,,,,,,,,,,,,NA,,
 rec1682,yor385w,a-haploid KanMX disruption of YOR385W (S000005912) in BY background,NA,BY4741,a,NA,S000005912-KanMX,S000005912,,,,,,,,,,,,NA,,
 rec1683,phr1,a-haploid KanMX disruption of PHR1 (S000005913) in BY background,NA,BY4741,a,NA,S000005913-KanMX,S000005913,,,,,,,,,,,,NA,,
-rec1692,pho80,a-haploid KanMX disruption of PHO80 (S000005361) in BY background,NA,BY4741,a,NA,S000005361-KanMX,S000005361,,,,,,,,,,,,NA,,
+rec1692,pho80,a-haploid KanMX disruption of PHO80 (S000005361) in BY background,NA,BY4741,a,NA,S000005361-KanMX,S000005361,-80C #2,8,4,3,4,4,6,Alice Serafin,2018-06-05,,,PCR successful with KanMX-int5'-R (511) + PF (1389) and KanMX-int3'-F (512) + PR (1390),,TRUE
 rec1693,izh2,a-haploid KanMX disruption of IZH2 (S000005362) in BY background,NA,BY4741,a,NA,S000005362-KanMX,S000005362,,,,,,,,,,,,NA,,
 rec1694,pfa4,a-haploid KanMX disruption of PFA4 (S000005363) in BY background,NA,BY4741,a,NA,S000005363-KanMX,S000005363,,,,,,,,,,,,NA,,
-rec1695,sin3,a-haploid KanMX disruption of SIN3 (S000005364) in BY background,NA,BY4741,a,NA,S000005364-KanMX,S000005364,,,,,,,,,,,,NA,,
-rec1697,top1,a-haploid KanMX disruption of TOP1 (S000005366) in BY background,NA,BY4741,a,NA,S000005366-KanMX,S000005366,,,,,,,,,,,,NA,,
+rec1695,sin3,a-haploid KanMX disruption of SIN3 (S000005364) in BY background,NA,BY4741,a,NA,S000005364-KanMX,S000005364,-80C #2,8,4,3,4,4,7,Alice Serafin,2018-06-05,,,PCR successful with KanMX-int5'-R (511) + PF (1409) and KanMX-int3'-F (512) + PR (1410),,TRUE
+rec1697,top1,a-haploid KanMX disruption of TOP1 (S000005366) in BY background,NA,BY4741,a,NA,S000005366-KanMX,S000005366,-80C #2,8,4,3,4,5,6,Alice Serafin,2018-06-05,,,PCR successful with KanMX-int3'-R (511) + PF (724) and KanMX-int3'-F (512) + PR (725),,TRUE
 rec1698,csi2,a-haploid KanMX disruption of CSI2 (S000005367) in BY background,NA,BY4741,a,NA,S000005367-KanMX,S000005367,,,,,,,,,,,,NA,,
 rec1699,coq10,a-haploid KanMX disruption of COQ10 (S000005368) in BY background,NA,BY4741,a,NA,S000005368-KanMX,S000005368,,,,,,,,,,,,NA,,
 rec1700,mdm12,a-haploid KanMX disruption of MDM12 (S000005369) in BY background,NA,BY4741,a,NA,S000005369-KanMX,S000005369,,,,,,,,,,,,NA,,
@@ -1050,7 +1050,7 @@ rec1766,yol075c,a-haploid KanMX disruption of YOL075C (S000005435) in BY backgro
 rec1767,mdm20,a-haploid KanMX disruption of MDM20 (S000005436) in BY background,NA,BY4741,a,NA,S000005436-KanMX,S000005436,,,,,,,,,,,,NA,,
 rec1770,yol079w,a-haploid KanMX disruption of YOL079W (S000005439) in BY background,NA,BY4741,a,NA,S000005439-KanMX,S000005439,,,,,,,,,,,,NA,,
 rec1771,rex4,a-haploid KanMX disruption of REX4 (S000005440) in BY background,NA,BY4741,a,NA,S000005440-KanMX,S000005440,,,,,,,,,,,,NA,,
-rec1772,ira2,a-haploid KanMX disruption of IRA2 (S000005441) in BY background,NA,BY4741,a,NA,S000005441-KanMX,S000005441,,,,,,,,,,,,NA,,
+rec1772,ira2,a-haploid KanMX disruption of IRA2 (S000005441) in BY background,NA,BY4741,a,NA,S000005441-KanMX,S000005441,-80C #2,8,4,3,4,4,5,Alice Serafin,2018-06-05,,,PCR successful with KanMX-int5'-R (511) + PF (1417) and KanMX-int3'-F (512) + PR (1418),,TRUE
 rec1773,atg19,a-haploid KanMX disruption of ATG19 (S000005442) in BY background,NA,BY4741,a,NA,S000005442-KanMX,S000005442,,,,,,,,,,,,NA,,
 rec1774,atg34,a-haploid KanMX disruption of ATG34 (S000005443) in BY background,NA,BY4741,a,NA,S000005443-KanMX,S000005443,,,,,,,,,,,,NA,,
 rec1775,phm7,a-haploid KanMX disruption of PHM7 (S000005444) in BY background,NA,BY4741,a,NA,S000005444-KanMX,S000005444,,,,,,,,,,,,NA,,
@@ -1067,7 +1067,7 @@ rec1786,tir2,a-haploid KanMX disruption of TIR2 (S000005536) in BY background,NA
 rec1787,aus1,a-haploid KanMX disruption of AUS1 (S000005537) in BY background,NA,BY4741,a,NA,S000005537-KanMX,S000005537,,,,,,,,,,,,NA,,
 rec1788,yor012w,a-haploid KanMX disruption of YOR012W (S000005538) in BY background,NA,BY4741,a,NA,S000005538-KanMX,S000005538,,,,,,,,,,,,NA,,
 rec1789,irc11,a-haploid KanMX disruption of IRC11 (S000005539) in BY background,NA,BY4741,a,NA,S000005539-KanMX,S000005539,,,,,,,,,,,,NA,,
-rec1790,rts1,a-haploid KanMX disruption of RTS1 (S000005540) in BY background,NA,BY4741,a,NA,S000005540-KanMX,S000005540,,,,,,,,,,,,NA,,
+rec1790,rts1,a-haploid KanMX disruption of RTS1 (S000005540) in BY background,NA,BY4741,a,NA,S000005540-KanMX,S000005540,-80C #2,8,4,3,4,4,4,Alice Serafin,2018-06-05,,,PCR successful with KanMX-int5'-R (511) + PF (1404) and KanMX-int3'-F (512) + PR (1405),,TRUE
 rec1791,yor015w,a-haploid KanMX disruption of YOR015W (S000005541) in BY background,NA,BY4741,a,NA,S000005541-KanMX,S000005541,,,,,,,,,,,,NA,,
 rec1792,erp4,a-haploid KanMX disruption of ERP4 (S000005542) in BY background,NA,BY4741,a,NA,S000005542-KanMX,S000005542,,,,,,,,,,,,NA,,
 rec1793,pet127,a-haploid KanMX disruption of PET127 (S000005543) in BY background,NA,BY4741,a,NA,S000005543-KanMX,S000005543,,,,,,,,,,,,NA,,
@@ -1090,7 +1090,7 @@ rec1810,akr2,a-haploid KanMX disruption of AKR2 (S000005560) in BY background,NA
 rec1811,she4,a-haploid KanMX disruption of SHE4 (S000005561) in BY background,NA,BY4741,a,NA,S000005561-KanMX,S000005561,,,,,,,,,,,,NA,,
 rec1812,pep12,a-haploid KanMX disruption of PEP12 (S000005562) in BY background,NA,BY4741,a,NA,S000005562-KanMX,S000005562,,,,,,,,,,,,NA,,
 rec1813,cyc2,a-haploid KanMX disruption of CYC2 (S000005563) in BY background,NA,BY4741,a,NA,S000005563-KanMX,S000005563,,,,,,,,,,,,NA,,
-rec1814,hir2,a-haploid KanMX disruption of HIR2 (S000005564) in BY background,NA,BY4741,a,NA,S000005564-KanMX,S000005564,,,,,,,,,,,,NA,,
+rec1814,hir2,a-haploid KanMX disruption of HIR2 (S000005564) in BY background,NA,BY4741,a,NA,S000005564-KanMX,S000005564,-80C #2,8,4,3,4,5,3,Alice Serafin,2018-06-05,,,PCR successful with KanMX-int3'-R (511) + PF (807) and Mix KanMX-int3'-F (512) + PR (808),,TRUE
 rec1815,ckb2,a-haploid KanMX disruption of CKB2 (S000005565) in BY background,NA,BY4741,a,NA,S000005565-KanMX,S000005565,,,,,,,,,,,,NA,,
 rec1816,glo4,a-haploid KanMX disruption of GLO4 (S000005566) in BY background,NA,BY4741,a,NA,S000005566-KanMX,S000005566,,,,,,,,,,,,NA,,
 rec1817,yor041c,a-haploid KanMX disruption of YOR041C (S000005567) in BY background,NA,BY4741,a,NA,S000005567-KanMX,S000005567,,,,,,,,,,,,NA,,
@@ -1108,7 +1108,7 @@ rec1830,vhs3,a-haploid KanMX disruption of VHS3 (S000005580) in BY background,NA
 rec1831,yor055w,a-haploid KanMX disruption of YOR055W (S000005581) in BY background,NA,BY4741,a,NA,S000005581-KanMX,S000005581,,,,,,,,,,,,NA,,
 rec1834,ase1,a-haploid KanMX disruption of ASE1 (S000005584) in BY background,NA,BY4741,a,NA,S000005584-KanMX,S000005584,,,,,,,,,,,,NA,,
 rec1835,lpl1,a-haploid KanMX disruption of LPL1 (S000005585) in BY background,NA,BY4741,a,NA,S000005585-KanMX,S000005585,,,,,,,,,,,,NA,,
-rec1837,cka2,a-haploid KanMX disruption of CKA2 (S000005587) in BY background,NA,BY4741,a,NA,S000005587-KanMX,S000005587,,,,,,,,,,,,NA,,
+rec1837,cka2,a-haploid KanMX disruption of CKA2 (S000005587) in BY background,NA,BY4741,a,NA,S000005587-KanMX,S000005587,-80C #2,8,4,3,4,5,5,Alice Serafin,2018-06-05,,,PCR successful with KanMX-int3'-R (511) + PF (490) and KanMX-int3'-F (512) + PR (489),,TRUE
 rec1838,yor062c,a-haploid KanMX disruption of YOR062C (S000005588) in BY background,NA,BY4741,a,NA,S000005588-KanMX,S000005588,,,,,,,,,,,,NA,,
 rec1840,yng1,a-haploid KanMX disruption of YNG1 (S000005590) in BY background,NA,BY4741,a,NA,S000005590-KanMX,S000005590,,,,,,,,,,,,NA,,
 rec1841,cyt1,a-haploid KanMX disruption of CYT1 (S000005591) in BY background,NA,BY4741,a,NA,S000005591-KanMX,S000005591,,,,,,,,,,,,NA,,
@@ -1152,7 +1152,7 @@ rec1894,ssf1,a-haploid KanMX disruption of SSF1 (S000001108) in BY background,NA
 rec1901,osh3,a-haploid KanMX disruption of OSH3 (S000001115) in BY background,NA,BY4741,a,NA,S000001115-KanMX,S000001115,,,,,,,,,,,,NA,,
 rec1903,ppe1,a-haploid KanMX disruption of PPE1 (S000001117) in BY background,NA,BY4741,a,NA,S000001117-KanMX,S000001117,,,,,,,,,,,,NA,,
 rec1904,ptc7,a-haploid KanMX disruption of PTC7 (S000001118) in BY background,NA,BY4741,a,NA,S000001118-KanMX,S000001118,,,,,,,,,,,,NA,,
-rec1905,nmd2,a-haploid KanMX disruption of NMD2 (S000001119) in BY background,NA,BY4741,a,NA,S000001119-KanMX,S000001119,,,,,,,,,,,,NA,,
+rec1905,nmd2,a-haploid KanMX disruption of NMD2 (S000001119) in BY background,NA,BY4741,a,NA,S000001119-KanMX,S000001119,-80C #2,8,4,3,4,2,7,Alice Serafin,2018-05-29,,,PCR successful with KanMX-int5'-R (511) + PF (1543) and KanMX-int3'-F (512) + PR (1544),,TRUE
 rec1906,yhr078w,a-haploid KanMX disruption of YHR078W (S000001120) in BY background,NA,BY4741,a,NA,S000001120-KanMX,S000001120,,,,,,,,,,,,NA,,
 rec1907,ire1,a-haploid KanMX disruption of IRE1 (S000001121) in BY background,NA,BY4741,a,NA,S000001121-KanMX,S000001121,,,,,,,,,,,,NA,,
 rec1908,yhr080c,a-haploid KanMX disruption of YHR080C (S000001122) in BY background,NA,BY4741,a,NA,S000001122-KanMX,S000001122,,,,,,,,,,,,NA,,
@@ -1236,7 +1236,7 @@ rec2011,psy2,a-haploid KanMX disruption of PSY2 (S000005145) in BY background,NA
 rec2012,ynl200c,a-haploid KanMX disruption of YNL200C (S000005144) in BY background,NA,BY4741,a,NA,S000005144-KanMX,S000005144,,,,,,,,,,,,NA,,
 rec2013,gcr2,a-haploid KanMX disruption of GCR2 (S000005143) in BY background,NA,BY4741,a,NA,S000005143-KanMX,S000005143,,,,,,,,,,,,NA,,
 rec2014,ynl198c,a-haploid KanMX disruption of YNL198C (S000005142) in BY background,NA,BY4741,a,NA,S000005142-KanMX,S000005142,,,,,,,,,,,,NA,,
-rec2015,whi3,a-haploid KanMX disruption of WHI3 (S000005141) in BY background,NA,BY4741,a,NA,S000005141-KanMX,S000005141,,,,,,,,,,,,NA,,
+rec2015,whi3,a-haploid KanMX disruption of WHI3 (S000005141) in BY background,NA,BY4741,a,NA,S000005141-KanMX,S000005141,-80C #2,8,4,3,4,6,6,Alice Serafin,2018-06-14,,,PCR successful with KanMX-int5'-R (511) + PF (622) and KanMX-int3'-F (512) + PR (623),,TRUE
 rec2016,slz1,a-haploid KanMX disruption of SLZ1 (S000005140) in BY background,NA,BY4741,a,NA,S000005140-KanMX,S000005140,,,,,,,,,,,,NA,,
 rec2017,ynl195c,a-haploid KanMX disruption of YNL195C (S000005139) in BY background,NA,BY4741,a,NA,S000005139-KanMX,S000005139,,,,,,,,,,,,NA,,
 rec2018,ynl194c,a-haploid KanMX disruption of YNL194C (S000005138) in BY background,NA,BY4741,a,NA,S000005138-KanMX,S000005138,,,,,,,,,,,,NA,,
@@ -1449,9 +1449,9 @@ rec2393,sia1,a-haploid KanMX disruption of SIA1 (S000005663) in BY background,NA
 rec2394,rup1,a-haploid KanMX disruption of RUP1 (S000005664) in BY background,NA,BY4741,a,NA,S000005664-KanMX,S000005664,,,,,,,,,,,,NA,,
 rec2395,yor139c,a-haploid KanMX disruption of YOR139C (S000005665) in BY background,NA,BY4741,a,NA,S000005665-KanMX,S000005665,,,,,,,,,,,,NA,,
 rec2396,sfl1,a-haploid KanMX disruption of SFL1 (S000005666) in BY background,NA,BY4741,a,NA,S000005666-KanMX,S000005666,,,,,,,,,,,,NA,,
-rec2397,arp8,a-haploid KanMX disruption of ARP8 (S000005667) in BY background,NA,BY4741,a,NA,S000005667-KanMX,S000005667,,,,,,,,,,,,NA,,
+rec2397,arp8,a-haploid KanMX disruption of ARP8 (S000005667) in BY background,NA,BY4741,a,NA,S000005667-KanMX,S000005667,-80C #2,8,4,3,4,3,3,Alice Serafin,2018-05-29,,,PCR successful with KanMX-int5'-R (511) + PF (463) and KanMX-int3'-F (512) + PR (462),,TRUE
 rec2398,lsc1,a-haploid KanMX disruption of LSC1 (S000005668) in BY background,NA,BY4741,a,NA,S000005668-KanMX,S000005668,,,,,,,,,,,,NA,,
-rec2400,elg1,a-haploid KanMX disruption of ELG1 (S000005670) in BY background,NA,BY4741,a,NA,S000005670-KanMX,S000005670,,,,,,,,,,,,NA,,
+rec2400,elg1,a-haploid KanMX disruption of ELG1 (S000005670) in BY background,NA,BY4741,a,NA,S000005670-KanMX,S000005670,-80C #2,8,4,3,4,3,4,Alice Serafin,2018-05-29,,,PCR successful with KanMX-int5'-R (511) + PF (706) and KanMX-int3'-F (512) + PR (707),,TRUE
 rec2403,mdm32,a-haploid KanMX disruption of MDM32 (S000005673) in BY background,NA,BY4741,a,NA,S000005673-KanMX,S000005673,,,,,,,,,,,,slow growth,,
 rec2406,mrpl23,a-haploid KanMX disruption of MRPL23 (S000005676) in BY background,NA,BY4741,a,NA,S000005676-KanMX,S000005676,,,,,,,,,,,,petite,,
 rec2408,yor152c,a-haploid KanMX disruption of YOR152C (S000005678) in BY background,NA,BY4741,a,NA,S000005678-KanMX,S000005678,,,,,,,,,,,,NA,,
@@ -1535,7 +1535,7 @@ rec2507,tum1,a-haploid KanMX disruption of TUM1 (S000005777) in BY background,NA
 rec2508,tma16,a-haploid KanMX disruption of TMA16 (S000005778) in BY background,NA,BY4741,a,NA,S000005778-KanMX,S000005778,,,,,,,,,,,,NA,,
 rec2509,nat5,a-haploid KanMX disruption of NAT5 (S000005779) in BY background,NA,BY4741,a,NA,S000005779-KanMX,S000005779,,,,,,,,,,,,NA,,
 rec2511,osw1,a-haploid KanMX disruption of OSW1 (S000005781) in BY background,NA,BY4741,a,NA,S000005781-KanMX,S000005781,,,,,,,,,,,,NA,,
-rec2514,hnt3,a-haploid KanMX disruption of HNT3 (S000005784) in BY background,NA,BY4741,a,NA,S000005784-KanMX,S000005784,,,,,,,,,,,,NA,,
+rec2514,hnt3,a-haploid KanMX disruption of HNT3 (S000005784) in BY background,NA,BY4741,a,NA,S000005784-KanMX,S000005784,-80C #2,8,4,3,4,7,4,Alice Serafin,2018-06-14,,,PCR successful with KanMX-int5'-R (511) + PF (804) and KanMX-int3'-F (512) + PR (805),,TRUE
 rec2519,yor263c,a-haploid KanMX disruption of YOR263C (S000005789) in BY background,NA,BY4741,a,NA,S000005789-KanMX,S000005789,,,,,,,,,,,,NA,,
 rec2520,dse3,a-haploid KanMX disruption of DSE3 (S000005790) in BY background,NA,BY4741,a,NA,S000005790-KanMX,S000005790,,,,,,,,,,,,NA,,
 rec2533,yor277c,a-haploid KanMX disruption of YOR277C (S000005803) in BY background,NA,BY4741,a,NA,S000005803-KanMX,S000005803,,,,,,,,,,,,NA,,
@@ -1599,7 +1599,7 @@ rec2683,ylr072w,a-haploid KanMX disruption of YLR072W (S000004062) in BY backgro
 rec2684,rfu1,a-haploid KanMX disruption of RFU1 (S000004063) in BY background,NA,BY4741,a,NA,S000004063-KanMX,S000004063,,,,,,,,,,,,NA,,
 rec2685,bud20,a-haploid KanMX disruption of BUD20 (S000004064) in BY background,NA,BY4741,a,NA,S000004064-KanMX,S000004064,,,,,,,,,,,,NA,,
 rec2688,fmp25,a-haploid KanMX disruption of FMP25 (S000004067) in BY background,NA,BY4741,a,NA,S000004067-KanMX,S000004067,,,,,,,,,,,,NA,,
-rec2690,sic1,a-haploid KanMX disruption of SIC1 (S000004069) in BY background,NA,BY4741,a,NA,S000004069-KanMX,S000004069,,,,,,,,,,,,NA,,
+rec2690,sic1,a-haploid KanMX disruption of SIC1 (S000004069) in BY background,NA,BY4741,a,NA,S000004069-KanMX,S000004069,-80C #2,8,3,3,4,8,3,Alice Serafin,2018-05-09,,,PCR successful with KanMX-int3'-R (511) + PF (1364) and KanMX-int3'-F (512) + PR (1365),,TRUE
 rec2691,emp46,a-haploid KanMX disruption of EMP46 (S000004070) in BY background,NA,BY4741,a,NA,S000004070-KanMX,S000004070,,,,,,,,,,,,NA,,
 rec2692,gal2,a-haploid KanMX disruption of GAL2 (S000004071) in BY background,NA,BY4741,a,NA,S000004071-KanMX,S000004071,,,,,,,,,,,,NA,,
 rec2693,srl2,a-haploid KanMX disruption of SRL2 (S000004072) in BY background,NA,BY4741,a,NA,S000004072-KanMX,S000004072,,,,,,,,,,,,NA,,
@@ -1629,7 +1629,7 @@ rec2724,hog1,a-haploid KanMX disruption of HOG1 (S000004103) in BY background,NA
 rec2725,avl9,a-haploid KanMX disruption of AVL9 (S000004104) in BY background,NA,BY4741,a,NA,S000004104-KanMX,S000004104,,,,,,,,,,,,NA,,
 rec2729,ylr118c,a-haploid KanMX disruption of YLR118C (S000004108) in BY background,NA,BY4741,a,NA,S000004108-KanMX,S000004108,,,,,,,,,,,,NA,,
 rec2730,srn2,a-haploid KanMX disruption of SRN2 (S000004109) in BY background,NA,BY4741,a,NA,S000004109-KanMX,S000004109,,,,,,,,,,,,NA,,
-rec2731,yps1,a-haploid KanMX disruption of YPS1 (S000004110) in BY background,NA,BY4741,a,NA,S000004110-KanMX,S000004110,,,,,,,,,,,,NA,,
+rec2731,yps1,a-haploid KanMX disruption of YPS1 (S000004110) in BY background,NA,BY4741,a,NA,S000004110-KanMX,S000004110,-80C #2,8,3,3,4,7,5,Alice Serafin,2018-05-09,,,PCR successful with KanMX-int3'-R (511) + PF (1379) + KanMX-int3'-F (512) + PR (1380),,TRUE
 rec2732,yps3,a-haploid KanMX disruption of YPS3 (S000004111) in BY background,NA,BY4741,a,NA,S000004111-KanMX,S000004111,,,,,,,,,,,,NA,,
 rec2733,ylr122c,a-haploid KanMX disruption of YLR122C (S000004112) in BY background,NA,BY4741,a,NA,S000004112-KanMX,S000004112,,,,,,,,,,,,NA,,
 rec2734,ylr123c,a-haploid KanMX disruption of YLR123C (S000004113) in BY background,NA,BY4741,a,NA,S000004113-KanMX,S000004113,,,,,,,,,,,,NA,,
@@ -1700,7 +1700,7 @@ rec2813,hst2,a-haploid KanMX disruption of HST2 (S000005936) in BY background,NA
 rec2814,ypl014w,a-haploid KanMX disruption of YPL014W (S000005935) in BY background,NA,BY4741,a,NA,S000005935-KanMX,S000005935,,,,,,,,,,,,NA,,
 rec2815,mrps16,a-haploid KanMX disruption of MRPS16 (S000005934) in BY background,NA,BY4741,a,NA,S000005934-KanMX,S000005934,,,,,,,,,,,,"slow growth, petite",,
 rec2819,tae2,a-haploid KanMX disruption of TAE2 (S000005930) in BY background,NA,BY4741,a,NA,S000005930-KanMX,S000005930,,,,,,,,,,,,NA,,
-rec2820,chl1,a-haploid KanMX disruption of CHL1 (S000005929) in BY background,NA,BY4741,a,NA,S000005929-KanMX,S000005929,,,,,,,,,,,,NA,,
+rec2820,chl1,a-haploid KanMX disruption of CHL1 (S000005929) in BY background,NA,BY4741,a,NA,S000005929-KanMX,S000005929,-80C #2,8,4,3,4,6,3,Alice Serafin,2018-06-14,,,PCR successful with KanMX-int5'-R (511) + PF (540) and KanMX-int3'-F (512) + PR (541),,TRUE
 rec2822,ncr1,a-haploid KanMX disruption of NCR1 (S000005927) in BY background,NA,BY4741,a,NA,S000005927-KanMX,S000005927,,,,,,,,,,,,mates like alpha. Confirmed Alpha -- CORRECT STRAIN CAN BE FOUND IN PLATE 123 H11,,
 rec2823,aep3,a-haploid KanMX disruption of AEP3 (S000005926) in BY background,NA,BY4741,a,NA,S000005926-KanMX,S000005926,,,,,,,,,,,,NA,,
 rec2825,ula1,a-haploid KanMX disruption of ULA1 (S000005924) in BY background,NA,BY4741,a,NA,S000005924-KanMX,S000005924,,,,,,,,,,,,NA,,
@@ -1849,7 +1849,7 @@ rec3109,ybl083c,a-haploid KanMX disruption of YBL083C (S000000179) in BY backgro
 rec3111,boi1,a-haploid KanMX disruption of BOI1 (S000000181) in BY background,NA,BY4741,a,NA,S000000181-KanMX,S000000181,,,,,,,,,,,,NA,,
 rec3112,ybl086c,a-haploid KanMX disruption of YBL086C (S000000182) in BY background,NA,BY4741,a,NA,S000000182-KanMX,S000000182,,,,,,,,,,,,NA,,
 rec3113,rpl23a,a-haploid KanMX disruption of RPL23A (S000000183) in BY background,NA,BY4741,a,NA,S000000183-KanMX,S000000183,,,,,,,,,,,,NA,,
-rec3114,tel1,a-haploid KanMX disruption of TEL1 (S000000184) in BY background,NA,BY4741,a,NA,S000000184-KanMX,S000000184,,,,,,,,,,,,NA,,
+rec3114,tel1,a-haploid KanMX disruption of TEL1 (S000000184) in BY background,NA,BY4741,a,NA,S000000184-KanMX,S000000184,-80C #2,8,4,3,4,6,4,Alice Serafin,2018-06-14,,,PCR successful with KanMX-int5'-R (511) + PF (837) and KanMX-int3'-F (512) + PR (838),,TRUE
 rec3115,avt5,a-haploid KanMX disruption of AVT5 (S000000185) in BY background,NA,BY4741,a,NA,S000000185-KanMX,S000000185,,,,,,,,,,,,NA,,
 rec3116,mrp21,a-haploid KanMX disruption of MRP21 (S000000186) in BY background,NA,BY4741,a,NA,S000000186-KanMX,S000000186,,,,,,,,,,,,"slow growth, petite",,
 rec3117,map2,a-haploid KanMX disruption of MAP2 (S000000187) in BY background,NA,BY4741,a,NA,S000000187-KanMX,S000000187,,,,,,,,,,,,NA,,
@@ -2045,7 +2045,7 @@ rec3364,ybr224w,a-haploid KanMX disruption of YBR224W (S000000428) in BY backgro
 rec3365,ybr225w,a-haploid KanMX disruption of YBR225W (S000000429) in BY background,NA,BY4741,a,NA,S000000429-KanMX,S000000429,,,,,,,,,,,,NA,,
 rec3366,ybr226c,a-haploid KanMX disruption of YBR226C (S000000430) in BY background,NA,BY4741,a,NA,S000000430-KanMX,S000000430,,,,,,,,,,,,NA,,
 rec3367,mcx1,a-haploid KanMX disruption of MCX1 (S000000431) in BY background,NA,BY4741,a,NA,S000000431-KanMX,S000000431,,,,,,,,,,,,NA,,
-rec3368,slx1,a-haploid KanMX disruption of SLX1 (S000000432) in BY background,NA,BY4741,a,NA,S000000432-KanMX,S000000432,,,,,,,,,,,,NA,,
+rec3368,slx1,a-haploid KanMX disruption of SLX1 (S000000432) in BY background,NA,BY4741,a,NA,S000000432-KanMX,S000000432,-80C #2,8,4,3,4,2,4,Alice Serafin,2018-05-29,,,PCR successful with KanMX-int5'-R (511) + PF (1523) and KanMX-int3'-F (512) + PR (1524),,TRUE
 rec3369,rot2,a-haploid KanMX disruption of ROT2 (S000000433) in BY background,NA,BY4741,a,NA,S000000433-KanMX,S000000433,,,,,,,,,,,,NA,,
 rec3370,om14,a-haploid KanMX disruption of OM14 (S000000434) in BY background,NA,BY4741,a,NA,S000000434-KanMX,S000000434,,,,,,,,,,,,NA,,
 rec3371,swc5,a-haploid KanMX disruption of SWC5 (S000000435) in BY background,NA,BY4741,a,NA,S000000435-KanMX,S000000435,,,,,,,,,,,,NA,,
@@ -2079,7 +2079,7 @@ rec3410,ycl002c,a-haploid KanMX disruption of YCL002C (S000000508) in BY backgro
 rec3413,ldb16,a-haploid KanMX disruption of LDB16 (S000000511) in BY background,NA,BY4741,a,NA,S000000511-KanMX,S000000511,,,,,,,,,,,,NA,,
 rec3414,ycl006c,a-haploid KanMX disruption of NA (S000000512) in BY background,NA,BY4741,a,NA,S000000512-KanMX,S000000512,,,,,,,,,,,,NA,,
 rec3415,ycl007c,a-haploid KanMX disruption of YCL007C (S000000513) in BY background,NA,BY4741,a,NA,S000000513-KanMX,S000000513,,,,,,,,,,,,slow grow,,
-rec3416,stp22,a-haploid KanMX disruption of STP22 (S000000514) in BY background,NA,BY4741,a,NA,S000000514-KanMX,S000000514,,,,,,,,,,,,NA,,
+rec3416,stp22,a-haploid KanMX disruption of STP22 (S000000514) in BY background,NA,BY4741,a,NA,S000000514-KanMX,S000000514,-80C #2,8,4,3,4,7,6,Alice Serafin,2018-06-14,,,PCR successful with KanMX-int5'-R (511) + PF (1528) and KanMX-int3'-F (512) + PR (1529),,TRUE
 rec3417,ilv6,a-haploid KanMX disruption of ILV6 (S000000515) in BY background,NA,BY4741,a,NA,S000000515-KanMX,S000000515,,,,,,,,,,,,NA,,
 rec3418,sgf29,a-haploid KanMX disruption of SGF29 (S000000516) in BY background,NA,BY4741,a,NA,S000000516-KanMX,S000000516,,,,,,,,,,,,NA,,
 rec3419,gbp2,a-haploid KanMX disruption of GBP2 (S000000517) in BY background,NA,BY4741,a,NA,S000000517-KanMX,S000000517,,,,,,,,,,,,NA,,
@@ -2518,12 +2518,12 @@ rec4004,doa4,a-haploid KanMX disruption of DOA4 (S000002476) in BY background,NA
 rec4005,fmp16,a-haploid KanMX disruption of FMP16 (S000002477) in BY background,NA,BY4741,a,NA,S000002477-KanMX,S000002477,,,,,,,,,,,,NA,,
 rec4007,ipt1,a-haploid KanMX disruption of IPT1 (S000002479) in BY background,NA,BY4741,a,NA,S000002479-KanMX,S000002479,,,,,,,,,,,,NA,,
 rec4008,snf11,a-haploid KanMX disruption of SNF11 (S000002480) in BY background,NA,BY4741,a,NA,S000002480-KanMX,S000002480,,,,,,,,,,,,NA,,
-rec4010,pph3,a-haploid KanMX disruption of PPH3 (S000002482) in BY background,NA,BY4741,a,NA,S000002482-KanMX,S000002482,,,,,,,,,,,,NA,,
-rec4011,rad55,a-haploid KanMX disruption of RAD55 (S000002483) in BY background,NA,BY4741,a,NA,S000002483-KanMX,S000002483,,,,,,,,,,,,NA,,
+rec4010,pph3,a-haploid KanMX disruption of PPH3 (S000002482) in BY background,NA,BY4741,a,NA,S000002482-KanMX,S000002482,-80C #2,8,4,3,4,4,8,Alice Serafin,2018-06-05,,,PCR successful with KanMX-int5'-R (511) + PF (1394) and KanMX-int3'-F (512) + PR (1395),,TRUE
+rec4011,rad55,a-haploid KanMX disruption of RAD55 (S000002483) in BY background,NA,BY4741,a,NA,S000002483-KanMX,S000002483,-80C #2,8,3,3,4,8,4,Alice Serafin,2018-05-09,,,PCR successful with KanMX-int3'-R (511) + PF (1385) and KanMX-int3'-F (512) + PR (1386),,TRUE
 rec4012,sed1,a-haploid KanMX disruption of SED1 (S000002484) in BY background,NA,BY4741,a,NA,S000002484-KanMX,S000002484,,,,,,,,,,,,NA,,
 rec4013,shu2,a-haploid KanMX disruption of SHU2 (S000002485) in BY background,NA,BY4741,a,NA,S000002485-KanMX,S000002485,,,,,,,,,,,,NA,,
 rec4014,pet100,a-haploid KanMX disruption of PET100 (S000002486) in BY background,NA,BY4741,a,NA,S000002486-KanMX,S000002486,,,,,,,,,,,,NA,,
-rec4015,vps41,a-haploid KanMX disruption of VPS41 (S000002487) in BY background,NA,BY4741,a,NA,S000002487-KanMX,S000002487,,,,,,,,,,,,NA,,
+rec4015,vps41,a-haploid KanMX disruption of VPS41 (S000002487) in BY background,NA,BY4741,a,NA,S000002487-KanMX,S000002487,-80C #2,8,4,3,4,5,7,Alice Serafin,2018-06-05,,,PCR successful KanMX-int3'-R (511) + PF (619) and KanMX-int3'-F (512) + PR (620),,TRUE
 rec4018,rrp8,a-haploid KanMX disruption of RRP8 (S000002490) in BY background,NA,BY4741,a,NA,S000002490-KanMX,S000002490,,,,,,,,,,,,NA,,
 rec4019,tvp23,a-haploid KanMX disruption of TVP23 (S000002491) in BY background,NA,BY4741,a,NA,S000002491-KanMX,S000002491,,,,,,,,,,,,NA,,
 rec4020,afr1,a-haploid KanMX disruption of AFR1 (S000002492) in BY background,NA,BY4741,a,NA,S000002492-KanMX,S000002492,,,,,,,,,,,,NA,,
@@ -2534,7 +2534,7 @@ rec4028,dnf2,a-haploid KanMX disruption of DNF2 (S000002500) in BY background,NA
 rec4029,ydr094w,a-haploid KanMX disruption of YDR094W (S000002501) in BY background,NA,BY4741,a,NA,S000002501-KanMX,S000002501,,,,,,,,,,,,NA,,
 rec4030,ydr095c,a-haploid KanMX disruption of YDR095C (S000002502) in BY background,NA,BY4741,a,NA,S000002502-KanMX,S000002502,,,,,,,,,,,,NA,,
 rec4031,gis1,a-haploid KanMX disruption of GIS1 (S000002503) in BY background,NA,BY4741,a,NA,S000002503-KanMX,S000002503,,,,,,,,,,,,NA,,
-rec4032,msh6,a-haploid KanMX disruption of MSH6 (S000002504) in BY background,NA,BY4741,a,NA,S000002504-KanMX,S000002504,,,,,,,,,,,,NA,,
+rec4032,msh6,a-haploid KanMX disruption of MSH6 (S000002504) in BY background,NA,BY4741,a,NA,S000002504-KanMX,S000002504,-80C #2,8,4,3,4,5,1,Alice Serafin,2018-06-05,,,PCR successful with KanMX-int5'-R (511) + PF (1422) and Mix KanMX-int3'-F (512) + PR (1423),,TRUE
 rec4033,grx3,a-haploid KanMX disruption of GRX3 (S000002505) in BY background,NA,BY4741,a,NA,S000002505-KanMX,S000002505,,,,,,,,,,,,NA,,
 rec4034,bmh2,a-haploid KanMX disruption of BMH2 (S000002506) in BY background,NA,BY4741,a,NA,S000002506-KanMX,S000002506,,,,,,,,,,,,NA,,
 rec4035,tvp15,a-haploid KanMX disruption of TVP15 (S000002507) in BY background,NA,BY4741,a,NA,S000002507-KanMX,S000002507,,,,,,,,,,,,NA,,
@@ -2555,7 +2555,7 @@ rec4050,mrpl1,a-haploid KanMX disruption of MRPL1 (S000002523) in BY background,
 rec4051,tma64,a-haploid KanMX disruption of TMA64 (S000002524) in BY background,NA,BY4741,a,NA,S000002524-KanMX,S000002524,,,,,,,,,,,,NA,,
 rec4053,vba4,a-haploid KanMX disruption of VBA4 (S000002526) in BY background,NA,BY4741,a,NA,S000002526-KanMX,S000002526,,,,,,,,,,,,NA,,
 rec4054,trm1,a-haploid KanMX disruption of TRM1 (S000002527) in BY background,NA,BY4741,a,NA,S000002527-KanMX,S000002527,,,,,,,,,,,,NA,,
-rec4055,dpb4,a-haploid KanMX disruption of DPB4 (S000002528) in BY background,NA,BY4741,a,NA,S000002528-KanMX,S000002528,,,,,,,,,,,,NA,,
+rec4055,dpb4,a-haploid KanMX disruption of DPB4 (S000002528) in BY background,NA,BY4741,a,NA,S000002528-KanMX,S000002528,-80C #2,8,4,3,4,2,3,Alice Serafin,2018-05-29,,,PCR successful with KanMX-int5'-R (511) + PF (688) and KanMX-int3'-F (512) + PR (689),,TRUE
 rec4056,kin1,a-haploid KanMX disruption of KIN1 (S000002529) in BY background,NA,BY4741,a,NA,S000002529-KanMX,S000002529,,,,,,,,,,,,NA,,
 rec4057,ino2,a-haploid KanMX disruption of INO2 (S000002530) in BY background,NA,BY4741,a,NA,S000002530-KanMX,S000002530,,,,,,,,,,,,NA,,
 rec4058,ydr124w,a-haploid KanMX disruption of YDR124W (S000002531) in BY background,NA,BY4741,a,NA,S000002531-KanMX,S000002531,,,,,,,,,,,,NA,,
@@ -2578,11 +2578,11 @@ rec4074,mtq2,a-haploid KanMX disruption of MTQ2 (S000002547) in BY background,NA
 rec4076,pex7,a-haploid KanMX disruption of PEX7 (S000002549) in BY background,NA,BY4741,a,NA,S000002549-KanMX,S000002549,,,,,,,,,,,,NA,,
 rec4077,san1,a-haploid KanMX disruption of SAN1 (S000002550) in BY background,NA,BY4741,a,NA,S000002550-KanMX,S000002550,,,,,,,,,,,,NA,,
 rec4078,mkc7,a-haploid KanMX disruption of MKC7 (S000002551) in BY background,NA,BY4741,a,NA,S000002551-KanMX,S000002551,,,,,,,,,,,,NA,,
-rec4080,swi5,a-haploid KanMX disruption of SWI5 (S000002553) in BY background,NA,BY4741,a,NA,S000002553-KanMX,S000002553,,,,,,,,,,,,"Transcription factor -- growth on -met, growth on -lys, mates poorly",,
+rec4080,swi5,a-haploid KanMX disruption of SWI5 (S000002553) in BY background,NA,BY4741,a,NA,S000002553-KanMX,S000002553,-80C #2,8,4,3,4,2,5,Alice Serafin,2018-05-29,,,"Transcription factor -- growth on -met, growth on -lys, mates poorly / PCR successful with KanMX-int5'-R (511) + PF (589) and KanMX-int3'-F (512) + PR (590)",,TRUE
 rec4081,ura4,a-haploid KanMX disruption of URA4 (S000004412) in BY background,NA,BY4741,a,NA,S000004412-KanMX,S000004412,,,,,,,,,,,,NA,,
 rec4082,leu3,a-haploid KanMX disruption of LEU3 (S000004443) in BY background,NA,BY4741,a,NA,S000004443-KanMX,S000004443,,,,,,,,,,,,NA,,
 rec4083,ylr126c,a-haploid KanMX disruption of YLR126C (S000004116) in BY background,NA,BY4741,a,NA,S000004116-KanMX,S000004116,,,,,,,,,,,,NA,,
-rec4085,dcn1,a-haploid KanMX disruption of DCN1 (S000004118) in BY background,NA,BY4741,a,NA,S000004118-KanMX,S000004118,,,,,,,,,,,,NA,,
+rec4085,dcn1,a-haploid KanMX disruption of DCN1 (S000004118) in BY background,NA,BY4741,a,NA,S000004118-KanMX,S000004118,-80C #2,8,4,3,4,3,1,Alice Serafin,2018-05-29,,,PCR successful with KanMX-int5'-R (511) + PF (1538) and KanMX-int3'-F (512) + PR (1539),,TRUE
 rec4087,zrt2,a-haploid KanMX disruption of ZRT2 (S000004120) in BY background,NA,BY4741,a,NA,S000004120-KanMX,S000004120,,,,,,,,,,,,NA,,
 rec4088,ace2,a-haploid KanMX disruption of ACE2 (S000004121) in BY background,NA,BY4741,a,NA,S000004121-KanMX,S000004121,,,,,,,,,,,,NA,,
 rec4090,cki1,a-haploid KanMX disruption of CKI1 (S000004123) in BY background,NA,BY4741,a,NA,S000004123-KanMX,S000004123,,,,,,,,,,,,NA,,
@@ -2673,7 +2673,7 @@ rec4204,ypr1,a-haploid KanMX disruption of YPR1 (S000002776) in BY background,NA
 rec4205,xrs2,a-haploid KanMX disruption of XRS2 (S000002777) in BY background,NA,BY4741,a,NA,S000002777-KanMX,S000002777,-80C #2,8,3,3,4,1,8,Alice Serafin,2018-04-11,,,PCR successful with KanMX-int5'-R (511) + PF (747) and KanMX-int3'-F (512) + PR (748),,TRUE
 rec4206,dxo1,a-haploid KanMX disruption of DXO1 (S000002778) in BY background,NA,BY4741,a,NA,S000002778-KanMX,S000002778,,,,,,,,,,,,NA,,
 rec4207,cts2,a-haploid KanMX disruption of CTS2 (S000002779) in BY background,NA,BY4741,a,NA,S000002779-KanMX,S000002779,,,,,,,,,,,,NA,,
-rec4208,vps74,a-haploid KanMX disruption of VPS74 (S000002780) in BY background,NA,BY4741,a,NA,S000002780-KanMX,S000002780,,,,,,,,,,,,NA,,
+rec4208,vps74,a-haploid KanMX disruption of VPS74 (S000002780) in BY background,NA,BY4741,a,NA,S000002780-KanMX,S000002780,-80C #2,8,4,3,4,2,6,Alice Serafin,2018-05-29,,,PCR successful with KanMX-int5'-R (511) + PF (1533) and KanMX-int3'-F (512) + PR (1534),,TRUE
 rec4210,pho92,a-haploid KanMX disruption of PHO92 (S000002782) in BY background,NA,BY4741,a,NA,S000002782-KanMX,S000002782,,,,,,,,,,,,NA,,
 rec4211,bcs1,a-haploid KanMX disruption of BCS1 (S000002783) in BY background,NA,BY4741,a,NA,S000002783-KanMX,S000002783,,,,,,,,,,,,NA,,
 rec4213,atp17,a-haploid KanMX disruption of ATP17 (S000002785) in BY background,NA,BY4741,a,NA,S000002785-KanMX,S000002785,,,,,,,,,,,,NA,,
@@ -2703,10 +2703,10 @@ rec4244,ade8,a-haploid KanMX disruption of ADE8 (S000002816) in BY background,NA
 rec4245,siz1,a-haploid KanMX disruption of SIZ1 (S000002817) in BY background,NA,BY4741,a,NA,S000002817-KanMX,S000002817,,,,,,,,,,,,NA,,
 rec4246,ste14,a-haploid KanMX disruption of STE14 (S000002818) in BY background,NA,BY4741,a,NA,S000002818-KanMX,S000002818,,,,,,,,,,,,Sterile [expected phenotype],,
 rec4247,dfm1,a-haploid KanMX disruption of DFM1 (S000002819) in BY background,NA,BY4741,a,NA,S000002819-KanMX,S000002819,,,,,,,,,,,,NA,,
-rec4250,erd1,a-haploid KanMX disruption of ERD1 (S000002822) in BY background,NA,BY4741,a,NA,S000002822-KanMX,S000002822,,,,,,,,,,,,NA,,
+rec4250,erd1,a-haploid KanMX disruption of ERD1 (S000002822) in BY background,NA,BY4741,a,NA,S000002822-KanMX,S000002822,-80C #2,8,4,3,4,5,8,Alice Serafin,2018-06-05,,,PCR successful with KanMX-int3'-R (511) + PF (780) and KanMX-int3'-F (512) + PR (781),,TRUE
 rec4251,ydr415c,a-haploid KanMX disruption of YDR415C (S000002823) in BY background,NA,BY4741,a,NA,S000002823-KanMX,S000002823,,,,,,,,,,,,NA,,
 rec4254,rpl12b,a-haploid KanMX disruption of RPL12B (S000002826) in BY background,NA,BY4741,a,NA,S000002826-KanMX,S000002826,,,,,,,,,,,,NA,,
-rec4255,rad30,a-haploid KanMX disruption of RAD30 (S000002827) in BY background,NA,BY4741,a,NA,S000002827-KanMX,S000002827,,,,,,,,,,,,NA,,
+rec4255,rad30,a-haploid KanMX disruption of RAD30 (S000002827) in BY background,NA,BY4741,a,NA,S000002827-KanMX,S000002827,-80C #2,8,4,3,4,2,2,Alice Serafin,2018-05-29,,,PCR successful with KanMX-int5'-R (511) + PF (1518) and KanMX-int3'-F (512) + PR (1519),,TRUE
 rec4256,hkr1,a-haploid KanMX disruption of HKR1 (S000002828) in BY background,NA,BY4741,a,NA,S000002828-KanMX,S000002828,,,,,,,,,,,,NA,,
 rec4257,aro80,a-haploid KanMX disruption of ARO80 (S000002829) in BY background,NA,BY4741,a,NA,S000002829-KanMX,S000002829,,,,,,,,,,,,NA,,
 rec4258,sip1,a-haploid KanMX disruption of SIP1 (S000002830) in BY background,NA,BY4741,a,NA,S000002830-KanMX,S000002830,,,,,,,,,,,,NA,,
@@ -2809,7 +2809,7 @@ rec4382,puf4,a-haploid KanMX disruption of PUF4 (S000002982) in BY background,NA
 rec4383,ygl015c,a-haploid KanMX disruption of YGL015C (S000002983) in BY background,NA,BY4741,a,NA,S000002983-KanMX,S000002983,,,,,,,,,,,,NA,,
 rec4384,kap122,a-haploid KanMX disruption of KAP122 (S000002984) in BY background,NA,BY4741,a,NA,S000002984-KanMX,S000002984,,,,,,,,,,,,NA,,
 rec4385,ate1,a-haploid KanMX disruption of ATE1 (S000002985) in BY background,NA,BY4741,a,NA,S000002985-KanMX,S000002985,,,,,,,,,,,,NA,,
-rec4387,ckb1,a-haploid KanMX disruption of CKB1 (S000002987) in BY background,NA,BY4741,a,NA,S000002987-KanMX,S000002987,,,,,,,,,,,,NA,,
+rec4387,ckb1,a-haploid KanMX disruption of CKB1 (S000002987) in BY background,NA,BY4741,a,NA,S000002987-KanMX,S000002987,-80C #2,8,4,3,4,6,7,Alice Serafin,2018-06-14,,,PCR successful with KanMX-int5'-R (511) + PF (567) and KanMX-int3'-F (512) + PR (568),,TRUE
 rec4388,get1,a-haploid KanMX disruption of GET1 (S000002988) in BY background,NA,BY4741,a,NA,S000002988-KanMX,S000002988,,,,,,,,,,,,NA,,
 rec4389,alk1,a-haploid KanMX disruption of ALK1 (S000002989) in BY background,NA,BY4741,a,NA,S000002989-KanMX,S000002989,,,,,,,,,,,,NA,,
 rec4391,pib2,a-haploid KanMX disruption of PIB2 (S000002991) in BY background,NA,BY4741,a,NA,S000002991-KanMX,S000002991,,,,,,,,,,,,NA,,
@@ -3148,7 +3148,7 @@ rec4859,ufd4,a-haploid KanMX disruption of UFD4 (S000001493) in BY background,NA
 rec4860,cce1,a-haploid KanMX disruption of CCE1 (S000001494) in BY background,NA,BY4741,a,NA,S000001494-KanMX,S000001494,,,,,,,,,,,,NA,,
 rec4864,put3,a-haploid KanMX disruption of PUT3 (S000001498) in BY background,NA,BY4741,a,NA,S000001498-KanMX,S000001498,,,,,,,,,,,,NA,,
 rec4865,atp7,a-haploid KanMX disruption of ATP7 (S000001499) in BY background,NA,BY4741,a,NA,S000001499-KanMX,S000001499,,,,,,,,,,,,NA,,
-rec4866,hcs1,a-haploid KanMX disruption of HCS1 (S000001500) in BY background,NA,BY4741,a,NA,S000001500-KanMX,S000001500,,,,,,,,,,,,NA,,
+rec4866,hcs1,a-haploid KanMX disruption of HCS1 (S000001500) in BY background,NA,BY4741,a,NA,S000001500-KanMX,S000001500,-80C #2,8,4,3,4,7,3,Alice Serafin,2018-06-14,,,PCR successful with KanMX-int5'-R (511) + PF (798) and KanMX-int3'-F (512) + PR (799),,TRUE
 rec4869,spt23,a-haploid KanMX disruption of SPT23 (S000001503) in BY background,NA,BY4741,a,NA,S000001503-KanMX,S000001503,,,,,,,,,,,,NA,,
 rec4872,ykl023w,a-haploid KanMX disruption of YKL023W (S000001506) in BY background,NA,BY4741,a,NA,S000001506-KanMX,S000001506,,,,,,,,,,,,NA,,
 rec4874,pan3,a-haploid KanMX disruption of PAN3 (S000001508) in BY background,NA,BY4741,a,NA,S000001508-KanMX,S000001508,,,,,,,,,,,,NA,,
@@ -3217,7 +3217,7 @@ rec4957,ykl107w,a-haploid KanMX disruption of YKL107W (S000001590) in BY backgro
 rec4959,hap4,a-haploid KanMX disruption of HAP4 (S000001592) in BY background,NA,BY4741,a,NA,S000001592-KanMX,S000001592,,,,,,,,,,,,NA,,
 rec4960,kti12,a-haploid KanMX disruption of KTI12 (S000001593) in BY background,NA,BY4741,a,NA,S000001593-KanMX,S000001593,,,,,,,,,,,,NA,,
 rec4963,rad27,a-haploid KanMX disruption of RAD27 (S000001596) in BY background,NA,BY4741,a,NA,S000001596-KanMX,S000001596,,,,,,,,,,,,NA,,
-rec4964,apn1,a-haploid KanMX disruption of APN1 (S000001597) in BY background,NA,BY4741,a,NA,S000001597-KanMX,S000001597,,,,,,,,,,,,NA,,
+rec4964,apn1,a-haploid KanMX disruption of APN1 (S000001597) in BY background,NA,BY4741,a,NA,S000001597-KanMX,S000001597,-80C #2,8,4,3,4,7,2,Alice Serafin,2018-06-14,,,PCR successful with KanMX-int5'-R (511) + PF (454) and KanMX-int3'-F (512) + PR (453),,TRUE
 rec4966,prr1,a-haploid KanMX disruption of PRR1 (S000001599) in BY background,NA,BY4741,a,NA,S000001599-KanMX,S000001599,,,,,,,,,,,,NA,,
 rec4967,sba1,a-haploid KanMX disruption of SBA1 (S000001600) in BY background,NA,BY4741,a,NA,S000001600-KanMX,S000001600,,,,,,,,,,,,NA,,
 rec4968,ykl118w,a-haploid KanMX disruption of YKL118W (S000001601) in BY background,NA,BY4741,a,NA,S000001601-KanMX,S000001601,,,,,,,,,,,,NA,,
@@ -3287,7 +3287,7 @@ rec5056,add66,a-haploid KanMX disruption of ADD66 (S000001689) in BY background,
 rec5057,emc3,a-haploid KanMX disruption of EMC3 (S000001690) in BY background,NA,BY4741,a,NA,S000001690-KanMX,S000001690,,,,,,,,,,,,NA,,
 rec5058,cbt1,a-haploid KanMX disruption of CBT1 (S000001691) in BY background,NA,BY4741,a,NA,S000001691-KanMX,S000001691,,,,,,,,,,,,petite,,
 rec5061,trp3,a-haploid KanMX disruption of TRP3 (S000001694) in BY background,NA,BY4741,a,NA,S000001694-KanMX,S000001694,,,,,,,,,,,,no growth on drop-in media,,
-rec5062,sac1,a-haploid KanMX disruption of SAC1 (S000001695) in BY background,NA,BY4741,a,NA,S000001695-KanMX,S000001695,,,,,,,,,,,,NA,,
+rec5062,sac1,a-haploid KanMX disruption of SAC1 (S000001695) in BY background,NA,BY4741,a,NA,S000001695-KanMX,S000001695,-80C #2,8,4,3,4,7,1,Alice Serafin,2018-06-14,,,PCR successful with KanMX-int5'-R (511) + PF (559) and KanMX-int3'-F (512) + PR (560),,TRUE
 rec5063,doa1,a-haploid KanMX disruption of DOA1 (S000001696) in BY background,NA,BY4741,a,NA,S000001696-KanMX,S000001696,,,,,,,,,,,,NA,,
 rec5064,yra2,a-haploid KanMX disruption of YRA2 (S000001697) in BY background,NA,BY4741,a,NA,S000001697-KanMX,S000001697,,,,,,,,,,,,NA,,
 rec5066,ura1,a-haploid KanMX disruption of URA1 (S000001699) in BY background,NA,BY4741,a,NA,S000001699-KanMX,S000001699,,,,,,,,,,,,NA,,
@@ -3477,7 +3477,7 @@ rec5316,ylr407w,a-haploid KanMX disruption of YLR407W (S000004399) in BY backgro
 rec5317,bls1,a-haploid KanMX disruption of BLS1 (S000004400) in BY background,NA,BY4741,a,NA,S000004400-KanMX,S000004400,,,,,,,,,,,,NA,,
 rec5319,vip1,a-haploid KanMX disruption of VIP1 (S000004402) in BY background,NA,BY4741,a,NA,S000004402-KanMX,S000004402,,,,,,,,,,,,NA,,
 rec5320,ber1,a-haploid KanMX disruption of BER1 (S000004404) in BY background,NA,BY4741,a,NA,S000004404-KanMX,S000004404,,,,,,,,,,,,NA,,
-rec5321,ina1,a-haploid KanMX disruption of INA1 (S000004405) in BY background,NA,BY4741,a,NA,S000004405-KanMX,S000004405,,,,,,,,,,,,NA,,
+rec5321,ina1,a-haploid KanMX disruption of INA1 (S000004405) in BY background,NA,BY4741,a,NA,S000004405-KanMX,S000004405,-80C #2,8,4,3,4,5,2,Alice Serafin,2018-06-05,,,PCR successful with KanMX-int5'-R (511) + PF (1473) and KanMX-int3'-F (512) + PR (1474),,TRUE
 rec5322,pun1,a-haploid KanMX disruption of PUN1 (S000004406) in BY background,NA,BY4741,a,NA,S000004406-KanMX,S000004406,,,,,,,,,,,,NA,,
 rec5323,ylr415c,a-haploid KanMX disruption of YLR415C (S000004407) in BY background,NA,BY4741,a,NA,S000004407-KanMX,S000004407,,,,,,,,,,,,NA,,
 rec5324,ylr416c,a-haploid KanMX disruption of YLR416C (S000004408) in BY background,NA,BY4741,a,NA,S000004408-KanMX,S000004408,,,,,,,,,,,,NA,,
@@ -3626,7 +3626,7 @@ rec5531,rgc1,a-haploid KanMX disruption of RGC1 (S000006319) in BY background,NA
 rec5532,rrg8,a-haploid KanMX disruption of RRG8 (S000006320) in BY background,NA,BY4741,a,NA,S000006320-KanMX,S000006320,,,,,,,,,,,,"slow growth, petite",,
 rec5533,ypr117w,a-haploid KanMX disruption of YPR117W (S000006321) in BY background,NA,BY4741,a,NA,S000006321-KanMX,S000006321,,,,,,,,,,,,NA,,
 rec5534,clb2,a-haploid KanMX disruption of CLB2 (S000006323) in BY background,NA,BY4741,a,NA,S000006323-KanMX,S000006323,,,,,,,,,,,,NA,,
-rec5535,clb5,a-haploid KanMX disruption of CLB5 (S000006324) in BY background,NA,BY4741,a,NA,S000006324-KanMX,S000006324,,,,,,,,,,,,NA,,
+rec5535,clb5,a-haploid KanMX disruption of CLB5 (S000006324) in BY background,NA,BY4741,a,NA,S000006324-KanMX,S000006324,-80C #2,8,4,3,4,6,5,Alice Serafin,2018-06-14,,,PCR successful with KanMX-int5'-R (511) + PF (598) and KanMX-int3'-F (512) + PR (599),,TRUE
 rec5536,thi22,a-haploid KanMX disruption of THI22 (S000006325) in BY background,NA,BY4741,a,NA,S000006325-KanMX,S000006325,,,,,,,,,,,,NA,,
 rec5537,axl1,a-haploid KanMX disruption of AXL1 (S000006326) in BY background,NA,BY4741,a,NA,S000006326-KanMX,S000006326,,,,,,,,,,,,NA,,
 rec5538,ypr123c,a-haploid KanMX disruption of YPR123C (S000006327) in BY background,NA,BY4741,a,NA,S000006327-KanMX,S000006327,,,,,,,,,,,,petite,,
@@ -3797,7 +3797,7 @@ rec5805,ycr087c-a,a-haploid KanMX disruption of YCR087C-A (S000007223) in BY bac
 rec5806,ycr087w,a-haploid KanMX disruption of YCR087W (S000000683) in BY background,NA,BY4741,a,NA,S000000683-KanMX,S000000683,,,,,,,,,,,,NA,,
 rec5809,ycr090c,a-haploid KanMX disruption of YCR090C (S000000686) in BY background,NA,BY4741,a,NA,S000000686-KanMX,S000000686,,,,,,,,,,,,NA,,
 rec5810,kin82,a-haploid KanMX disruption of KIN82 (S000000687) in BY background,NA,BY4741,a,NA,S000000687-KanMX,S000000687,,,,,,,,,,,,NA,,
-rec5811,msh3,a-haploid KanMX disruption of MSH3 (S000000688) in BY background,NA,BY4741,a,NA,S000000688-KanMX,S000000688,,,,,,,,,,,,NA,,
+rec5811,msh3,a-haploid KanMX disruption of MSH3 (S000000688) in BY background,NA,BY4741,a,NA,S000000688-KanMX,S000000688,-80C #2,8,4,3,4,6,2,Alice Serafin,2018-06-14,,,PCR successful with KanMX-int5'-R (511) + PF (607) and KanMX-int3'-F (512) + PR (608),,TRUE
 rec5813,cdc50,a-haploid KanMX disruption of CDC50 (S000000690) in BY background,NA,BY4741,a,NA,S000000690-KanMX,S000000690,,,,,,,,,,,,NA,,
 rec5815,git1,a-haploid KanMX disruption of GIT1 (S000000695) in BY background,NA,BY4741,a,NA,S000000695-KanMX,S000000695,,,,,,,,,,,,NA,,
 rec5816,ycr099c,a-haploid KanMX disruption of YCR099C (S000000696) in BY background,NA,BY4741,a,NA,S000000696-KanMX,S000000696,,,,,,,,,,,,NA,,
@@ -3889,7 +3889,7 @@ rec5939,ima1,a-haploid KanMX disruption of IMA1 (S000003519) in BY background,NA
 rec5940,mal13,a-haploid KanMX disruption of MAL13 (S000003520) in BY background,NA,BY4741,a,NA,S000003520-KanMX,S000003520,,,,,,,,,,,,NA,,
 rec5942,ygr290w,a-haploid KanMX disruption of YGR290W (S000003522) in BY background,NA,BY4741,a,NA,S000003522-KanMX,S000003522,,,,,,,,,,,,NA,,
 rec5947,ecm12,a-haploid KanMX disruption of ECM12 (S000003531) in BY background,NA,BY4741,a,NA,S000003531-KanMX,S000003531,,,,,,,,,,,,NA,,
-rec5948,vma10,a-haploid KanMX disruption of VMA10 (S000002100) in BY background,NA,BY4741,a,NA,S000002100-KanMX,S000002100,,,,,,,,,,,,petite,,
+rec5948,vma10,a-haploid KanMX disruption of VMA10 (S000002100) in BY background,NA,BY4741,a,NA,S000002100-KanMX,S000002100,-80C #2,8,4,3,4,6,8,Alice Serafin,2018-06-14,,,petite / PCR successful with KanMX-int5'-R (511) + PF (561) and KanMX-int3'-F (512) + PR (562),,TRUE
 rec5949,sae3,a-haploid KanMX disruption of SAE3 (S000001957) in BY background,NA,BY4741,a,NA,S000001957-KanMX,S000001957,,,,,,,,,,,,NA,,
 rec5950,est3,a-haploid KanMX disruption of EST3 (S000006432) in BY background,NA,BY4741,a,NA,S000006432-KanMX,S000006432,,,,,,,,,,,,NA,,
 rec5951,met28,a-haploid KanMX disruption of MET28 (S000001456) in BY background,NA,BY4741,a,NA,S000001456-KanMX,S000001456,,,,,,,,,,,,NA,,
