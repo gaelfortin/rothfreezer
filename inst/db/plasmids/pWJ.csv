@@ -345,3 +345,12 @@ pWJ2597,GAL1p-RAD5-HLTF-HIRAN,RAD5 HLTF HIRAN chimera HLTF-p.55_157 replacing RA
 pWJ2598,GAL1p-FLAG-RAD5-HLTF-HIRAN,RAD5 HLTF HIRAN chimera HLTF-p.55_157 replacing RAD5-p.170_296 with an N-terminal FLAG tag,GAL1p,ADH2t,,S000004022,RAD5,LEU2,CEN6/ARS5,AmpR,f1/pBR323,pWJ1781,DH10b,-80C #2,8,3,3,4,1,3,Eric Bryant,2018-04-06,,,,FALSE
 pWJ2599,GAL10p-ELG1 ,ELG1 cloned downstream of GAL10p site using C/D homology and NruI digest of pWJ2216,GAL1p,ADH2t,S000005670,S000005670,ELG1,LEU2,CEN6/ARS5,AmpR,f1/pBR323,pWJ2216,DH10b,-80C #2,,,,,,,Izzy Sollohub,2018-04-06,-,Needs to be sequenced,-,FALSE
 pWJ2600,GAL1p-PCH2,PCH2 cloned downstream of GAL1p site using A/B homology and HpaI digest of pWJ1781. CDS only. Intron was removed via fusion PCR.,GAL1p,ADH2t,S000000390,S000000390,PCH2,LEU2,CEN6/ARS5,AmpR,f1/pBR323,pWJ1781,DH10b,-80C #2,6,4,1,1,3,2,Michael Kirschner,2018-07-23,,,,TRUE
+pWJ2601,pCSN + CEN-ARS,,,,,,,,,,,,,,,,,,,,,,,,,
+pWJ2602,pCSN-GAL1p-FLAG-RAD5,,,,,,,,,,,,,,,,,,,,,,,,,
+pWJ2603,,,,,,,,,,,,,,,,,,,,,,,,,,
+pWJ2604,,,,,,,,,,,,,,,,,,,,,,,,,,
+pWJ2605,,,,,,,,,,,,,,,,,,,,,,,,,,
+pWJ2606,,,,,,,,,,,,,,,,,,,,,,,,,,
+pWJ2607,GAL1p-SML1,SML1 cloned downstream of GAL1p site using A/B homology and HpaI digest of pWJ1781.,GAL1p,ADH2t,S000004523,S000004523,SML1,LEU2,CEN6/ARS5,AmpR,f1/pBR323,pWJ1781,DH10b,-80C #2,6,4,1,1,3,6,Michael Kirschner,2018-07-30,,,,FALSE
+pWJ2608,GAL1p-HUG1,HUG1 cloned downstream of GAL1p site using A/B homology and HpaI digest of pWJ1781.,GAL1p,ADH2t,S000007472,S000007472,HUG1,LEU2,CEN6/ARS5,AmpR,f1/pBR323,pWJ1781,DH10b,-80C #2,6,4,1,1,3,7,Michael Kirschner,2018-07-30,,,,FALSE
+pWJ2609,GAL1p-DIF1,DIF1 cloned downstream of GAL1p site using A/B homology and HpaI digest of pWJ1781.,GAL1p,ADH2t,S000004429,S000004429,DIF1,LEU2,CEN6/ARS5,AmpR,f1/pBR323,pWJ1781,DH10b,-80C #2,6,4,1,1,3,8,Michael Kirschner,2018-07-30,,,,FALSE
