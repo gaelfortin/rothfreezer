@@ -6,29 +6,14 @@ The data in this *R* package is intended for use by members of the Rothstein Lab
 
 ```r
 # Install devtools (>= 1.9.1)
-if (!require('devtools') || packageVersion('devtools') < '1.9.1') {
-  install.packages('devtools')
-}
+install.packages('devtools')
 
-devtools::install_github('EricEdwardBryant/rothfreezer', build_vignettes = T)
+devtools::install_github('EricEdwardBryant/rothfreezer')
 ```
 
 ## Contribute
 
-### Add entries to database
-
-1. **More work for me:** Create a separate `.csv` file for the table you wish to update. Ensure your table has appropriate column names and only your new entries (rows). Send this file to me (Eric Bryant) and I will add it to the package for you.
-
-2. **Less work for me:** Fork the repository, commit your changes, and submit a pull request on GitHub ([example]). You can make sure that your column names and keys are correct by running `easydb::db_doctor('inst/db/_rothfreezer.yaml')` before submitting your pull request.
-
-
-### Modify entries in database
-
-1. **More work for me:** Submit an "Issue" on GitHub detailing which table and entry you would like to update.
-
-2. **Less work for me:** Fork the repository, commit your changes, and submit a pull request on GitHub ([example]). Again, you can make sure that your column names and keys are correct by running `easydb::db_doctor('inst/db/_rothfreezer.yaml')` before submitting your pull request.
-
-
+To update entries in this database, submit an [issue](https://github.com/EricEdwardBryant/rothfreezer/issues) requesting access to our shared Google drive. After adding or modifying an entry on the google drive, please submit a separate [issue](https://github.com/EricEdwardBryant/rothfreezer/issues) requesting a rothfreezer/drive sync. I will import, review, and commit your changes to this repository at which point you can re-install the package to have access to the latest version of the database.
 
 [Rmarkdown]: http://rmarkdown.rstudio.com
 [example]: http://kbroman.org/github_tutorial/pages/fork.html
