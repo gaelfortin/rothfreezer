@@ -110,13 +110,13 @@ J1943,ina1,strains,J1801
 J1944,stp22,strains,J1801
 none,No-query,NA,NA
 pWJ1512,CUP1p-Empty,plasmids,pWJ1512
-pWJ1736,CUP1p-DMC1,plasmids,pWJ1512
 pWJ1781,GAL1p-Empty,plasmids,pWJ1781
 pWJ1799,GAL1p-mcm5-bob1,plasmids,pWJ1781
 pWJ1801,GAL1p-MCM6,plasmids,pWJ1781
 pWJ1806,CUP1p-CIN8,plasmids,pWJ1512
 pWJ1891,GAL1p-SMT3,plasmids,pWJ1781
 pWJ1896,GAL1p-BUB1,plasmids,pWJ1781
+pWJ1936,CUP1p-DMC1,plasmids,pWJ1512
 pWJ2073,GAL1p-CAC2,plasmids,pWJ1781
 pWJ2074,GAL1p-CDC7,plasmids,pWJ1781
 pWJ2075,GAL1p-ECM38,plasmids,pWJ1781
