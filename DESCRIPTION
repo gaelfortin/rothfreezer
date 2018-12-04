@@ -23,4 +23,4 @@ Suggests:
     data.table
 Remotes:
     EricEdwardBryant/easydb
-RoxygenNote: 6.0.1
+RoxygenNote: 6.1.0
