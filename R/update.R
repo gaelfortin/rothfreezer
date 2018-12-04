@@ -295,7 +295,7 @@ update_strains <- function() {
 #' @rdname update_from_googlesheet
 #' @export
 update_strains_special <- function(file = 'strains/special.csv',
-                                   from = 'https://docs.google.com/spreadsheets/d/1UT1e4LyINK1F_z_koIpNC217R-om5fKL1IdwRPt0CLI/edit?usp=sharing') {
+                                   from = 'https://docs.google.com/spreadsheets/d/1M-3LGm8P4X_fQ4hYO9BRha1JvwrmTHVExGRAwHXA_kw/edit?usp=sharing') {
   update_from_googlesheet(file, from)
 }
 
