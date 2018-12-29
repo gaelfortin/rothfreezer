@@ -10,6 +10,8 @@ J1679,slx4,strains,J1801
 J1681,rad1,strains,J1801
 J1683,rev3,strains,J1801
 J1685,rad10,strains,J1801
+J1686,hmt1,strains,J1801
+J1687,sky1,strains,J1801
 J1693,rad54,strains,J1801
 J1694,dhh1,strains,J1801
 J1695,dhh1,strains,J1801
@@ -98,7 +100,7 @@ J1925,rad33,strains,J1801
 J1926,sic1,strains,J1801
 J1927,rad30,strains,J1801
 J1928,dpb4,strains,J1801
-J1929,six1,strains,J1801
+J1929,slx1,strains,J1801
 J1930,swi5,strains,J1801
 J1931,vps74,strains,J1801
 J1932,nmd2,strains,J1801
@@ -315,8 +317,6 @@ pWJ2600,GAL1p-PCH2,plasmids,pWJ1781
 pWJ2607,GAL1p-SML1,plasmids,pWJ1781
 pWJ2608,GAL1p-HUG1,plasmids,pWJ1781
 pWJ2609,GAL1p-DIF1,plasmids,pWJ1781
-R1686,hmt1,strains,J1801
-R1687,sky1,strains,J1801
 U3102,shu1,strains,J1801
 U3103,csm2,strains,J1801
 U3116,shu2,strains,J1801

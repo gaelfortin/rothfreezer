@@ -1,324 +1,337 @@
 strain_id,strain_name,strain_description,parents,background,mat,genotype,allele_id,gene_id,freezer,shelf,rack,pullout,insert,row,column,owner,date,publications,tags,strain_notes,warnings,filemaker
-W4314-2C,rDNA::ADE2-CAN1 recombination assay,ADE2-CAN1 inserted into rDNA array to measure frequency of rDNA recombination. From Kurt Runge.,W4141-44A x W2638-18C,W303,alpha,trp1-1 LYS2 RAD5 rDNA::ADE2-CAN1,,,-80C #2,6,1,3,1,2,5,Robert J.D. Reid,2003-09-30,,,"This strain is the result of crossing the original assay strain (CCFY100 address 433418 with no associated genotype notes) to a tri2∆ (J968) to generate W3991, from which no strains were recorded in the database. W3991-11C, which was just described as MATa in Bob's notes for the W strains book, was crossed to a top1::HIS3 strain (W1956-7C) whose parent diploid contained an sgs1::URA3 allele to generage W4141. Again, no W4141 strains are recorded in the database, but a W4141-44A segregant (MATa top1::HIS3 rDNA::ADE2-CAN1) was then crossed to W2638-18C (MATalpha rad5::URA3). This strain has been confirmed to be his, and ura, but be aware that parental strains were top1, so this strain should probably be backcrossed a few times and the ""tri2"" = UAF30 locus should be checked, or the original CCFY100 should be backcrossed.",,TRUE
-W9100-2D,WT alpha lys2,Wildtype W303 with RAD5 and large CUP1 array (i.e. fixed rad5-G535R and resistant to 800uM copper),W7981-2A x W1588-4C,W303,alpha,"ADE2 leu2-3,112 his3-11,15 ura3-1 TRP1 lys2∆ RAD5 MET15",-,-,-80C #2,8,3,4,2,1,1,Sergio,2010-01-04,-,WT,This strain has been tested and it grows fine when Top1TA is overexpressed. 800 µM Cu2+ resistant. Very long CUP1 array (~ 11 copies) checked by Southern blot.,,TRUE
-W9100-17D,WT a lys2,Wildtype W303 with RAD5 and large CUP1 array (i.e. fixed rad5-G535R and resistant to 800uM copper),W7981-2A x W1588-4C,W303,a,"ADE2 leu2-3,112 his3-11,15 ura3-1 TRP1 lys2∆ RAD5 MET15",-,-,-80C #2,8,3,4,2,1,4,Sergio,2010-01-04,-,WT,This strain has been tested and it grows fine when Top1TA is overexpressed. 800 µM Cu2+ resistant.,,TRUE
-W9100-11B,WT a ade2 lys2,Wildtype W303 with RAD5 and large CUP1 array (i.e. fixed rad5-G535R and resistant to 800uM copper),W7981-2A x W1588-4C,W303,a,"ade2-1 leu2-3,112 his3-11,15 ura3-1 TRP1 lys2∆ RAD5 MET15",-,-,-80C #2,8,3,4,2,1,2,Sergio,2010-02-26,-,WT,This strain has been tested and it grows fine when Top1TA is overexpressed. 800 µM Cu2+ resistant. Very long CUP1 array (~ 11 copies) checked by Southern blot.,,TRUE
-W9100-12C,WT alpha trp1,Wildtype W303 with RAD5 and large CUP1 array (i.e. fixed rad5-G535R and resistant to 800uM copper),W7981-2A x W1588-4C,W303,alpha,"ADE2 leu2-3,112 his3-11,15 ura3-1 trp1 LYS2 RAD5 MET15",-,-,-80C #2,8,3,4,2,1,3,Sergio,2015-03-11,-,WT,-,-,TRUE
-W9942-10B,CAN1,CAN1 forward mutation rate assay strain,W9767-1D x W8706-8A,W303,alpha,"ADE2 leu2-3,112 his3-11,15 ura3-1 trp1 LYS2 RAD5 MET15 CAN1",-,-,-80C #2,6,3,3,3,1,1,Ivana,2012-02-10,-,CAN1,800 µM Cu2+ NOT sensitive,,TRUE
-W11001-11A,ctf4 mec3,ctf4::KanMX mec3::KanMX,rec5550 x rec15198,BY (S288C),alpha,leu2 his3 ura3,-,-,-80C #2,8,4,2,3,6,3,Eric Bryant,2013-09-12,-,CTF4,Eric does not recommend using this strain as this was his first cross.,,TRUE
-W11002-1C,ctf4 rad50,ctf4::KanMX rad50::KanMX,rec5550 x rec16464,BY (S288C),alpha,leu2 his3 ura3,-,-,-80C #2,8,4,2,3,6,4,Eric Bryant,2013-12-13,-,CTF4,Eric does not recommend using this strain as this was his first cross.,,TRUE
-W11166-1A,pol1-DIL142AAA,pol1-DIL142AAA mutant of critical CTF4 binding site residues,J1793 x W9100-17D,W303,a,"ADE2 leu2-3,112 his3-11,15 ura3-1 TRP1 lys2∆ RAD5 MET15 pol1-DIL142AAA",-,-,-80C #2,8,4,2,4,5,3,Eric Bryant,2015-10-13,-,CTF4,Mutant has a PvuII RFLP,-,TRUE
-W11166-1C,pol1-DIL142AAA,pol1-DIL142AAA mutant of critical CTF4 binding site residues,J1793 x W9100-17D,W303,alpha,"ADE2 leu2-3,112 his3-11,15 ura3-1 trp1-1 LYS2 RAD5 MET15 pol1-DIL142AAA",-,-,-80C #2,8,4,2,4,5,4,Eric Bryant,2015-10-13,-,CTF4,Mutant has a PvuII RFLP,-,TRUE
-W11167-3C,sld5-DIL7AAA,sld5-DIL7AAA mutant of critical CTF4 binding site residues,J1798 x W9100-12C,W303,alpha,"ADE2 leu2-3,112 his3-11,15 ura3-1 TRP1 lys2∆ RAD5 MET15 sld5-DIL7AAA",-,-,-80C #2,8,4,2,4,5,8,Eric Bryant,2015-12-11,-,CTF4,Mutant has an AciI RFLP,-,TRUE
-W11168,,,,,,,,,,,,,,,,,,,,,,
-W11169,,,,,,,,,,,,,,,,,,,,,,
-W11170,,,,,,,,,,,,,,,,,,,,,,
-W11171,,,,,,,,,,,,,,,,,,,,,,
-W11172-1B,rad18,rad18::HphMX,,W303,a,"ADE2 leu2-3,112 his3-11,15 ura3-1 TRP1 lys2∆ RAD5 MET15 rad18::HphMX",,,,,,,,,,,,,,,,
-W11173,,,,,,,,,,,,,,,,,,,,,,
-W11174,,,,,,,,,,,,,,,,,,,,,,
-W11175,,,,,,,,,,,,,,,,,,,,,,
-W11176,,,,,,,,,,,,,,,,,,,,,,
-W11177-8D,ubc13 mms2,ubc13::KanMX mms2::NatMX,,W303,a,"ADE2 leu2-3,112 his3-11,15 ura3-1 TRP1 LYS2 RAD5 MET15 ubc13::KanMX mms2::NatMX",,,,,,,,,,,,,,,,
-W11178,,,,,,,,,,,,,,,,,,,,,,
-W11179,,,,,,,,,,,,,,,,,,,,,,
-W11180,,,,,,,,,,,,,,,,,,,,,,
-W11181,,,,,,,,,,,,,,,,,,,,,,
-W11182,,,,,,,,,,,,,,,,,,,,,,
-W11183-2D,pol1-DIL142AAA,pol1-DIL142AAA mutant of critical CTF4 binding site residues,J1799 x R1281,BY (S288C),alpha,"ADE2 leu2-3,112 his3-11,15 ura3-1 TRP1 lys2∆ RAD5 MET15 pol1-DIL142AAA",-,-,-80C #2,8,4,2,4,6,1,Eric Bryant,2015-12-11,-,CTF4,Mutant has a PvuII RFLP,-,TRUE
-W11183-4C,pol1-DIL142AAA,pol1-DIL142AAA mutant of critical CTF4 binding site residues,J1799 x R1281,BY (S288C),a,"ADE2 leu2-3,112 his3-11,15 ura3-1 TRP1 lys2∆ RAD5 MET15 pol1-DIL142AAA",-,-,-80C #2,8,4,2,4,6,2,Eric Bryant,2015-12-11,-,CTF4,Mutant has a PvuII RFLP,-,TRUE
-W11183-4D,pol1-DIL142AAA,pol1-DIL142AAA mutant of critical CTF4 binding site residues,J1799 x R1281,BY (S288C),a,"ADE2 leu2-3,112 his3-11,15 ura3-1 TRP1 LYS2 RAD5 MET15 pol1-DIL142AAA",-,-,-80C #2,8,4,2,4,6,3,Eric Bryant,2015-12-11,-,CTF4,Mutant has a PvuII RFLP,-,TRUE
-W11184,,,,,,,,,,,,,,,,,,,,,,
-W11185,,,,,,,,,,,,,,,,,,,,,,
-W11186,,,,,,,,,,,,,,,,,,,,,,
-W11187,,,,,,,,,,,,,,,,,,,,,,
-W11188,,,,,,,,,,,,,,,,,,,,,,
-W11189,,,,,,,,,,,,,,,,,,,,,,
-W11190,,,,,,,,,,,,,,,,,,,,,,
-W11191-5A,mre11 TetR-mRFP YFP-RAD51,"mre11 KanMX disruption, TetR-mRFP fusion and YFP tagged RAD51",,W303,a,"ADE2 LYS2 ura3 TetR-mRFP(iYGL119W) mre11::KanMX trp1 leu2-3,112 his3-11,15 YFP-RAD51 RAD5",S000004837-KanMX,S000004837,,,,,,,,,,,,Actually spore name in personal notes Cross#1C-5A,,
-W11191-2A,mre11 TetR-mRFP YFP-RAD51,"mre11 KanMX disruption, TetR-mRFP fusion and YFP tagged RAD51",,W303,a,"ADE2 LYS2 ura3 TetR-mRFP(iYGL119W) mre11::KanMX trp1 leu2-3,112 his3-11,15 YFP-RAD51 RAD5",S000004837-KanMX,S000004837,,,,,,,,,,,,Actually spore name in personal notes Cross#1A-2A,,
-W11192,,,,,,,,,,,,,,,,,,,,,,
-W11193,,,,,,,,,,,,,,,,,,,,,,
-W11194-1B,pol30-RR,pol30-RR lys2 ura3 his3 leu2 can1,W11187-12D x W11187-13D,W303,a,"leu2-3,112 his3-11,15 ura3-1 lys2∆ can1 pol30-RR",-,-,-80C #2,8,4,3,1,1,5,Ivana Sunjevaric,2016-02-26,-,-,-,-,TRUE
-W11194-1D,pol30-RR rad51 rad52,"pol30-RR, rad51 HphMX disruption and rad52 KanMx disruption",W11187-12D x W11187-13D,W303,a,"pol30-RR rad51::HphMX rad52::KamMX TRP1 lys2 ADE2 ura3-1 leu2-3,112 his3-11,15 can1RAD5",S000000292-RR,S000000292,,,,,,,,,,,,,,
-W11195,,,,,,,,,,,,,,,,,,,,,,
-W11196,,,,,,,,,,,,,,,,,,,,,,
-W11197-21D,rad51-S192E RAD52-CFP tetOx112 I-SceI TetR-mRFP,"rad51-S192E amino acid mutation at position 192, CFP tagged RAD52, tetOx112 I-Sce1, TetR-mRFP fusion",W4303-19B x W11196-18D,W303,a,ADE2 rad51-S192E  trp1-1 LYS2 RAD5 RAD52-CFP ura3::3xURA3-tetOx112 I-SceI(ura3-1) TetR-mRFP1(iYGL119W),S000000897,S000000897-S192E,,,,,,,,,,,,,,
-W11198-24B,rad51-S192E SPC110-YFP RAD52-CFP,"rad51-S192E amino acid mutation at position 192, YFP tagged SPC110 and CFP tagged RAD52",J1797 x W11088-6B,W303,a,ADE2 rad51-S192E ura3-1 trp1 lys2 SPC110-YFP::HIS3 RAD52-CFP RAD5,S000000897,S000000897-S192E,-80C #2,8,1,3,3,2,4,Michael Smith,2016-03-04,-,-,-,-,TRUE
-W11199-6B,mre11 RAD52-CFP,mre11 KanMX disruption and CFP tagged RAD52,U3145 x W11191-5A,W303,a,"ade2 LYS2 ura3 mre11::KanMX trp1 leu2-3,112 his3-11,15 RAD52-CFP RAD5",S000004837-KanMX,S000004837,-80C #2,8,4,3,2,1,7,Fraulin Joseph,2016-03-08,-,-,-,-,TRUE
-W11199-1B,mre11 TetR-mRFP,mre11 KanMX disruption and TetR-mRFP fusion,U3145 x W11191-5A,W303,alpha,"ADE2 LYS2 ura3 TetR-mRFP(iYGL119W) mre11::KanMX trp1 leu2-3,112 his3-11,15 RAD52-CFP RAD5",S000004837-KanMX,S000004837,-80C #2,8,4,3,2,1,6,Fraulin Joseph,2016-03-08,-,-,-,-,TRUE
-W11199-3D,mre11 YFP-RAD51 RAD52-CFP,"mre11 KanMX disruption, YFP tagged RAD51 and CFP tagged RAD52",U3145 x W11191-5A,W303,alpha,"ADE2 LYS2 ura3 mre11::KanMX trp1 leu2-3,112 his3-11,15 YFP-RAD51 RAD52-CFP RAD5",S000004837-KanMX,S000004837,-80C #2,8,4,3,2,1,5,Fraulin Joseph,2016-03-08,-,-,-,-,TRUE
-W11199-2B,mre11 TetR-mRFP YFP-RAD51 RAD52-CFP,"mre11 KanMX disruption, TetR-mRFP fusion, YFP tagged RAD51 and CFP tagged RAD52",U3145 x W11191-2A,W303,a,"ADE2 lysD ura3 TetR-mRFP(iYGL119W) mre11::KanMX trp1 leu2-3,112 his3-11,15 YFP-RAD51 RAD52-CFP RAD5",S000004837-KanMX,S000004837,-80C #2,8,4,3,2,1,4,Fraulin Joseph,2016-03-08,-,-,-,-,TRUE
-W11199-1A,mre11 YFP-RAD51 RAD52-CFP,"mre11 KanMX disruption, YFP tagged RAD51 and CFP tagged RAD52",U3145 x W11191-2A,W303,a,"ADE2 lysD ura3 TetR-mRFP(iYGL119W) mre11::KanMX trp1 leu2-3,112 his3-11,15 YFP-RAD51 RAD52-CFP RAD5",S000004837-KanMX,S000004837,-80C #2,8,4,3,2,1,3,Fraulin Joseph,2016-03-08,-,-,-,-,TRUE
-W11200-1B,rad17 pol1-DIL142AAA,rad17 KanMX disruption and pol1-DIL142AAA CTF4 binding motif mutant,W11166-1A x W9194-6C,W303,a,"ADE2 leu2-3,112 his3-11,15 ura3-1 TRP1 lys2∆ RAD5 MET15 rad17::KanMX pol1-DIL142AAA",-,-,-80C #2,8,4,2,4,7,2,Eric Bryant,2016-09-20,-,-,-,-,TRUE
-W11200-3D,rad17 pol1-DIL142AAA,rad17 KanMX disruption and pol1-DIL142AAA CTF4 binding motif mutant,W11166-1A x W9194-6C,W303,alpha,"ADE2 leu2-3,112 his3-11,15 ura3-1 TRP1 lys2∆ RAD5 MET15 rad17::KanMX pol1-DIL142AAA",-,-,-80C #2,8,4,2,4,7,3,Eric Bryant,2016-09-20,-,-,-,-,TRUE
-W11200-4A,rad17 pol1-DIL142AAA,rad17 KanMX disruption and pol1-DIL142AAA CTF4 binding motif mutant,W11166-1A x W9194-6C,W303,alpha,"ADE2 leu2-3,112 his3-11,15 ura3-1 TRP1 lys2∆ RAD5 MET15 rad17::KanMX pol1-DIL142AAA",-,-,-80C #2,8,4,2,4,7,4,Eric Bryant,2016-09-20,-,-,-,-,TRUE
-W11200-9C,rad17 pol1-DIL142AAA,rad17 KanMX disruption and pol1-DIL142AAA CTF4 binding motif mutant,W11166-1A x W9194-6C,W303,a,"ADE2 leu2-3,112 his3-11,15 ura3-1 TRP1 lys2∆ RAD5 MET15 rad17::KanMX pol1-DIL142AAA",-,-,-80C #2,8,4,2,4,7,5,Eric Bryant,2016-09-20,-,-,-,-,TRUE
-W11201,,,,,,,,,,,,,,,,,,,,,,
-W11202,,,,,,,,,,,,,,,,,,,,,,
-W11203,,,,,,,,,,,,,,,,,,,,,,
-W11204,,,,,,,,,,,,,,,,,,,,,,
-W11205,,,,,,,,,,,,,,,,,,,,,,
-W11206,,,,,,,,,,,,,,,,,,,,,,
-W11207,,,,,,,,,,,,,,,,,,,,,,
-W11208,,,,,,,,,,,,,,,,,,,,,,
-W11209,,,,,,,,,,,,,,,,,,,,,,
-W11210,,,,,,,,,,,,,,,,,,,,,,
-W11211,,,,,,,,,,,,,,,,,,,,,,
-W11212,,,,,,,,,,,,,,,,,,,,,,
-W11213,,,,,,,,,,,,,,,,,,,,,,
-W11214,,,,,,,,,,,,,,,,,,,,,,
-W11215,,,,,,,,,,,,,,,,,,,,,,
-W11216,,,,,,,,,,,,,,,,,,,,,,
-W11217,,,,,,,,,,,,,,,,,,,,,,
-W11218,,,,,,,,,,,,,,,,,,,,,,
-W11219,,,,,,,,,,,,,,,,,,,,,,
-W11220,,,,,,,,,,,,,,,,,,,,,,
-W11221,,,,,,,,,,,,,,,,,,,,,,
-W11222-1B,SGA Query Starting Strain,SGA query strain which can be crossed to R1266 to make a diploid starter strain (usefull for marker-swapping recombination defective mutants),BY4741 x J1806 ,BY (S288C),a,can1∆::STE2pr-Sp_his5 lyp1∆::STE3pr-LEU2 his3∆1 leu2∆0 ura3∆0 met15∆0,-,-,-80C #2,8,4,4,2,6,1,Ivana Sunjevaric,2016-06-16,,SGA-Query,Check MET and NAT markers and remove this note if correct,,
-W11223,pol30-RR::NatMX,"pol30-K127R,K164R",J1805 x W9100-12C,W303,alpha,"ADE2 leu2-3,112 his3-11,15 ura3-1 trp1 LYS2 RAD5 MET15 pol30-RR::NatMX",,,-80C #2,8,4,3,1,5,3,Ivana Sunjevaric,2016-06-21,,,,,
-W11224-1D,sgs1,sgs1::KanMX in W9100,W8695-10A x W9100-17D,W303,a,"lys2 ura3 his3 leu2(ΔEcoRI or leu2-3,112)",-,-,-80C #2,8,4,3,1,5,4,Ivana Sunjevaric,2016-06-21,-,-,-,-,TRUE
-W11225,,,,,,,,,,,,,,,,,,,,,,
-W11226,,,,,,,,,,,,,,,,,,,,,,
-W11227,,,,,,,,,,,,,,,,,,,,,,
-W11228,,,,,,,,,,,,,,,,,,,,,,
-W11229,,,,,,,,,,,,,,,,,,,,,,
-W11230-1A,pol30-RR::NatMX,"NatMX inserted next to pol30-K127R,K164R",W11223-1C x W11224-1D,W303,a,"ADE2 TRP1 LYS2 MET15 ura3-1 leu2-3,112 his3-11,15 can1 RAD5 pol30-K127R,K164R::NatMX",,,-80C #2,8,4,3,1,6,1,Ivana Sunjevaric,2016-08-10,,Project-RAD5-OE,,,TRUE
-W11231,,,,,,,,,,,,,,,,,,,,,,
-W11232,,,,,,,,,,,,,,,,,,,,,,
-W11233,,,,,,,,,,,,,,,,,,,,,,
-W11234,,,,,,,,,,,,,,,,,,,,,,
-W11235,,,,,,,,,,,,,,,,,,,,,,
-W11236,,,,,,,,,,,,,,,,,,,,,,
-W11237,,,,,,,,,,,,,,,,,,,,,,
-W11238,,,,,,,,,,,,,,,,,,,,,,
-W11239,,,,,,,,,,,,,,,,,,,,,,
-W11240,,,,,,,,,,,,,,,,,,,,,,
-W11241,,,,,,,,,,,,,,,,,,,,,,
-W11242,,,,,,,,,,,,,,,,,,,,,,
-W11243,,,,,,,,,,,,,,,,,,,,,,
-W11244,,,,,,,,,,,,,,,,,,,,,,
-W11245,,,,,,,,,,,,,,,,,,,,,,
-W11246,,,,,,,,,,,,,,,,,,,,,,
-W11247,,,,,,,,,,,,,,,,,,,,,,
-W11248-5B,,,W11243-4B x J1807,,a,MATa bar1::NatMX ADE2 TRP1 LYS2 RAD5,,,6,4,1,1,2,2,,,,,,,,
-W11249,,,,,,,,,,,,,,,,,,,,,,
-W11250,,,,,,,,,,,,,,,,,,,,,,
-W11251,,,,,,,,,,,,,,,,,,,,,,
-W11252,,,,,,,,,,,,,,,,,,,,,,
-W11253,,,,,,,,,,,,,,,,,,,,,,
-W11254,,,,,,,,,,,,,,,,,,,,,,
-W11255,,,,,,,,,,,,,,,,,,,,,,
-W11256,,,,,,,,,,,,,,,,,,,,,,
-W11257,,,,,,,,,,,,,,,,,,,,,,
-W11258,,,,,,,,,,,,,,,,,,,,,,
-W11259,,,,,,,,,,,,,,,,,,,,,,
-W11260,,,,,,MATa sgs1∆::KanMX  bar1∆::NatMX TRP1 lys,,,-80C#2,6,3,4,2,7,8,Bob,,,,,,
-W11261,,,,,,,,,,,,,,,,,,,,,,
-W11262-9B,rDNA::ADE2-CAN1 pol30-RR::NatMX,rDNA::ADE2-CAN1 pol30-RR::NatMX,W4314-2C x W11230-1A,W303,a,"leu2-3,112 his3-11,15 ura3-1 trp1 LYS2 RAD5 MET15 rDNA::ADE2-CAN1 pol30-RR::NatMX",,,-80C #2,6,4,1,3,1,7,Eric Bryant,2018-07-17,,Project-RAD5-OE,,,FALSE
-W11262-22C,rDNA::ADE2-CAN1 pol30-RR::NatMX,rDNA::ADE2-CAN1 pol30-RR::NatMX,W4314-2C x W11230-1A,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 trp1 LYS2 RAD5 MET15 rDNA::ADE2-CAN1 pol30-RR::NatMX",,,-80C #2,6,4,1,3,1,8,Eric Bryant,2018-07-17,,Project-RAD5-OE,,,FALSE
-W11263,,,,,,,,,,,,,,,,,,,,,,
-W11264,,,,,,,,,,,,,,,,,,,,,,
-W11265,,,,,,,,,,,,,,,,,,,,,,
-W11266,,,,,,,,,,,,,,,,,,,,,,
-W11267,RAD5-3V5,RAD5-3V5::KanMX,,,,,,,,,,,,,,,,,,,,
-W11268,,,,,,,,,,,,,,,,,,,,,,
-W11269,,,,,,,,,,,,,,,,,,,,,,
-W11270,,,,,,,,,,,,,,,,,,,,,,
-W11271,,,,,,,,,,,,,,,,,,,,,,
-W11272,,,,,,,,,,,,,,,,,,,,,,
-W11273,,,,,,,,,,,,,,,,,,,,,,
-W11274,,,,,,,,,,,,,,,,,,,,,,
-W11275,,,,,,,,,,,,,,,,,,,,,,
-W11276,,,,,,,,,,,,,,,,,,,,,,
-W11277,,,,,,,,,,,,,,,,,,,,,,
-W11278,,,,,,,,,,,,,,,,,,,,,,
-W11279,,,,,,,,,,,,,,,,,,,,,,
-W11280,,,,,,,,,,,,,,,,,,,,,,
-W11281-2A,ubc13::KanMX,ubc13::KanMX,W11177-8D x W9100-2D,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ ubc13::KanMX",,,-80C #2,8,4,1,4,1,3,Eric Bryant,2017-03-20,,Project-RAD5-OE,,,
-W11281-2B,ubc13::KanMX,ubc13::KanMX,W11177-8D x W9100-2D,W303,a,"leu2-3,112 his3-11,15 ura3-1 lys2∆ ubc13::KanMX",,,-80C #2,8,4,1,4,1,4,Eric Bryant,2017-03-20,,Project-RAD5-OE,,,
-W11281-11B,mms2::NatMX,mms2::NatMX,W11177-8D x W9100-2D,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ ubc13::KanMX",,,-80C #2,8,4,1,4,1,5,Eric Bryant,2017-03-20,,Project-RAD5-OE,,,
-W11282-10A,do not use. see warnings,W303 ,W9191-11C x W11223-1C,W303,alpha,,-,-,,,,,,,,,,,,,Progeny of a cross with a disomic strain,
-W11283-1D,rad27::KanMX,,W9195-10A x W11223-1C,W303,alpha,"ADE2 leu2-3,112 his3-11,15 ura3-1 TRP1 lys2∆ RAD5 MET15 rad27::KanMX",,,-80C #2,8,4,1,4,2,5,Eric Bryant,2017-03-27,,,,,
-W11283-8A,pol30-RR::NatMX,,W9195-10A x W11223-1C,W303,a,"ADE2 leu2-3,112 his3-11,15 ura3-1 TRP1 lys2∆ RAD5 MET15 pol30-RR::NatMX",,,-80C #2,8,4,1,4,2,6,Eric Bryant,2017-03-27,,,,,
-W11283-11D,rad27::KanMX pol30-RR::NatMX,,W9195-10A x W11223-1C,W303,alpha,"ADE2 leu2-3,112 his3-11,15 ura3-1 TRP1 lys2∆ RAD5 MET15 rad27::KanMX pol30-RR::NatMX",,,-80C #2,8,4,1,4,2,7,Eric Bryant,2017-03-27,,,,,
-W11284,,,,,,,,,,,,,,,,,,,,,,
-W11285,,,,,,,,,,,,,,,,,,,,,,
-W11286,,,,,,,,,,,,,,,,,,,,,,
-W11287,,,,,,,,,,,,,,,,,,,,,,
-W11288,,,,,,,,,,,,,,,,,,,,,,
-W11289,,,,,,,,,,,,,,,,,,,,,,
-W11290,,,,,,,,,,,,,,,,,,,,,,
-W11291,,,,,,,,,,,,,,,,,,,,,,
-W11292,,,,,,,,,,,,,,,,,,,,,,
-W11293,,,,,,,,,,,,,,,,,,,,,,
-W11294,,,,,,,,,,,,,,,,,,,,,,
-W11295,,,,,,,,,,,,,,,,,,,,,,
-W11296,,,,,,,,,,,,,,,,,,,,,,
-W11297,,,,,,,,,,,,,,,,,,,,,,
-W11298,,,,,,,,,,,,,,,,,,,,,,
-W11299,,,,,,,,,,,,,,,,,,,,,,
-W11300-6A,mTQ2-RAD5,RAD5 N-terminally tagged with monomeric yeast codon optimized turquoise2,W9117,W303,a,,,,-80C #2,8,4,3,1,8,4,Ivana Sunjevaric,2017-05-05,,Project-RAD5-OE,"Diploid W9117 transformed with TQ2-URA3-TQ2, URA3 pop out on 5FOA , then dissected",,TRUE
-W11301,,,,,,,,,,,,,,,,,,,,,,
-W11302,,,,,,,,,,,,,,,,,,,,,,
-W11303,,,,,,,,,,,,,,,,,,,,,,
-W11304,,,,,,,,,,,,,,,,,,,,,,
-W11305,,,,,,,,,,,,,,,,,,,,,,
-W11306,,,,,,,,,,,,,,,,,,,,,,
-W11307,,,,,,,,,,,,,,,,,,,,,,
-W11308-6A,yen1,yen1::KanMX,U3309 x W11282-10A,W303,a,TRP lys,S000000843-KanMX,S000000843,-,-,-,-,-,-,-,Isabel Sollohub,2017-09-13,,Project-CTF4-OE,U strain for this W strain was not frozen and the W strain was thrown away ,-,
-W11308-6D,yen1,yen1::KanMX,U3309 x W11282-10A,W303,alpha,TRP lys,S000000843-KanMX,S000000843,-,-,-,-,-,-,-,Isabel Sollohub,2017-09-13,,Project-CTF4-OE,U strain for this W strain was not frozen and the W strain was thrown away ,-,
-W11309-2C,mec3,mec3::KanMX,U3310 x W11282-10A,W303,a,TRP lys,S000004279-KanMX,S000004279,-,-,-,-,-,-,-,Isabel Sollohub,2017-09-13,,Project-CTF4-OE,U strain for this W strain was not frozen and the W strain was thrown away ,-,
-W11309-2D,mec3,mec3::KanMX,U3310 x W11282-10A,W303,alpha,TRP lys,S000004279-KanMX,S000004279,-,-,-,-,-,-,-,Isabel Sollohub,2017-09-13,,Project-CTF4-OE,U strain for this W strain was not frozen and the W strain was thrown away ,-,
-W11310-2B,rad24,rad24::KanMX,U3323 X W9100-2D,W303,alpha,TRP lys,S000000975::KanMX,S000000975,-80C #2,8,4,1,4,6,7,Isabel Sollohub,2018-02-22,,Project-CTF4-OE,,,TRUE
-W11310-2D,rad24,rad24::KanMX,U3323 X W9100-2D,W303,a,TRP lys,S000000975::KanMX,S000000975,-80C #2,8,4,1,4,6,4,Isabel Sollohub,2018-02-22,,Project-CTF4-OE,,,TRUE
-W11311-3A,sgs1,sgs1::KanMX,U3326 X W9100-2D,W303,alpha,TRP lys,S000004802::KanMX,S000004802,,,,,,,,Isabel Sollohub,2018-02-22,,Project-CTF4-OE,,,
-W11311-3B,sgs1,sgs1::KanMX,U3326 X W9100-2D,W303,alpha,TRP lys,S000004802::KanMX,S000004802,-80C #2,8,4,1,4,6,3,Isabel Sollohub,2018-02-22,,Project-CTF4-OE,,,TRUE
-W11312-2B,top1,top1::KanMX,U3328 X W9100-2D,W303,alpha,TRP lys,S000005366::KanMX,S000005366,-80C #2,8,4,1,4,6,8,Isabel Sollohub,2018-02-22,,Project-CTF4-OE,,,TRUE
-W11312-2D,top1,top1::KanMX,U3328 X W9100-2D,W303,alpha,TRP lys,S000005366::KanMX,S000005366,,,,,,,,Isabel Sollohub,2018-02-22,,Project-CTF4-OE,,,
-W11313-1B,ddc1,ddc1::KanMX,U3329 X W9100-2D,W303,alpha,TRP lys,S000006115::KanMX,S000006115,-80C #2,8,4,1,4,6,6,Isabel Sollohub,2018-02-22,,Project-CTF4-OE,,,TRUE
-W11313-1D,ddc1,ddc1::KanMX,U3329 X W9100-2D,W303,a,TRP lys,S000006115::KanMX,S000006115,-80C #2,8,4,1,4,6,5,Isabel Sollohub,2018-02-22,,Project-CTF4-OE,,,TRUE
-W11314-8C,rad17,rad17::KanMX,U3311 x W11282-10A,W303,alpha,TRP lys,S000005895-KanMX,S000005895,-,-,-,-,-,-,-,Isabel Sollohub,2017-09-13,,Project-CTF4-OE,U strain for this W strain was not frozen and the W strain was thrown away ,-,-
-W11314-8D,rad17,rad17::KanMX,U3311 x W11282-10A,W303,a,TRP lys,S000005895-KanMX,S000005895,-,-,-,-,-,-,-,Isabel Sollohub,2017-09-13,,Project-CTF4-OE,U strain for this W strain was not frozen and the W strain was thrown away ,-,-
-W11315-6A,ctf4,ctf4::KanMX,U3312 x W11282-10A,W303,alpha,TRP lys,S000006339-KanMX,S000006339,-,-,-,-,-,-,-,Isabel Sollohub,2017-09-13,,Project-CTF4-OE,U strain for this W strain was not frozen and the W strain was thrown away ,-,-
-W11315-6D,ctf4,ctf4::KanMX,U3312 x W11282-10A,W303,a,TRP lys,S000006339-KanMX,S000006339,-,-,-,-,-,-,-,Isabel Sollohub,2017-09-13,,Project-CTF4-OE,U strain for this W strain was not frozen and the W strain was thrown away ,-,-
-W11316-2B,rad50,rad50::KanMX,U3313 x W11282-10A,W303,a,TRP lys,S000005194-KanMX,S000005194,-,-,-,-,-,-,-,Isabel Sollohub,2017-09-13,,Project-CTF4-OE,U strain for this W strain was not frozen and the W strain was thrown away ,-,-
-W11316-10B,rad50,rad50::KanMX,U3313 x W11282-10A,W303,alpha,TRP lys,S000005194-KanMX,S000005194,-,-,-,-,-,-,-,Isabel Sollohub,2017-09-13,,Project-CTF4-OE,U strain for this W strain was not frozen and the W strain was thrown away ,-,-
-W11317-1C,ctf18,ctf18::KanMX,U3314 x W11282-10A,W303,a,TRP lys,S000004683-KanMX,S000004683,-,-,-,-,-,-,-,Isabel Sollohub,2017-09-13,,Project-CTF4-OE,U strain for this W strain was not frozen and the W strain was thrown away ,-,-
-W11317-5C,ctf18,ctf18::KanMX,U3314 x W11282-10A,W303,alpha,TRP lys,S000004683-KanMX,S000004683,-,-,-,-,-,-,-,Isabel Sollohub,2017-09-13,,Project-CTF4-OE,U strain for this W strain was not frozen and the W strain was thrown away ,-,-
-W11318-2A,esc2,esc2::KanMX,U3315 x W11282-10A,W303,a,TRP lys,S000002771-KanMX,S000002771,-,-,-,-,-,-,-,Isabel Sollohub,2017-09-13,,Project-CTF4-OE,U strain for this W strain was not frozen and the W strain was thrown away ,-,-
-W11318-2D,esc2,esc2::KanMX,U3315 x W11282-10A,W303,alpha,TRP lys,S000002771-KanMX,S000002771,-,-,-,-,-,-,-,Isabel Sollohub,2017-09-13,,Project-CTF4-OE,U strain for this W strain was not frozen and the W strain was thrown away ,-,-
-W11319-6A,dpb3,dpb3::KanMX,U3316 x W9100-17D,W303,alpha,TRP lys,S000000482-KanMX,S000000482,-,-,-,-,-,-,-,Isabel Sollohub,2017-09-13,,Project-CTF4-OE,Strain validation on 09-08-17 proved this strain did not have a deletion - PCR with DPB3 - DF primer and KanMX internal,-,-
-W11319-6B,dpb3,dpb3::KanMX,U3316 x W9100-17D,W303,a,TRP lys,S000000482-KanMX,S000000482,-,-,-,-,-,-,-,Isabel Sollohub,2017-09-13,,Project-CTF4-OE,Strain validation on 09-08-17 proved this strain did not have a deletion - PCR with DPB3 - DF primer and KanMX internal,-,-
-W11320,,,,,,,,,,,,,,,,,,,,,,
-W11321,,,,,,,,,,,,,,,,,,,,,,
-W11322,,,,,,,,,,,,,,,,,,,,,,
-W11323,,,,,,,,,,,,,,,,,,,,,,
-W11324,,,,,,,,,,,,,,,,,,,,,,
-W11325,,,,,,,,,,,,,,,,,,,,,,
-W11326,,,,,,,,,,,,,,,,,,,,,,
-W11327,,,,,,,,,,,,,,,,,,,,,,
-W11328,,,,,,,,,,,,,,,,,,,,,,
-W11329,,,,,,,,,,,,,,,,,,,,,,
-W11330,SGA Query Starting Strain,SGA query diploid starter strain (usefull for marker-swapping recombination defective mutants),R1266 x W11222-1B,BY (S288C),a/alpha,can1∆::STE2pr-Sp_his5/can1∆::STE2pr-Sp_his5 lyp1∆::STE3pr-LEU2/lyp1∆::STE3pr-LEU2 his3∆1/his3∆1 leu2∆0/leu2∆0 ura3∆0/ura3∆0 met15∆0/met15∆0,,,-80C #2,8,3,3,2,5,4,Eric Bryant,2017-10-03,,SGA-Query,Strain constructed by pulling zygotes and checking for inability to grow on both -His and -Leu (taking advantage of the haploid specific promoters of the query backgrounds),,FALSE
-W11331-3D,"rad5-DE681,682AA","rad5-DE681,682AA backcrossed pop-in/pop-out",J1848 x W9100-12C,W303,a,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5-DE681,682AA","S000004022-DE681,682AA",S000004022,-80C #2,8,3,3,2,6,3,Eric Bryant,2017-10-11,,Project-RAD5-OE,Sequence verified backcross,,FALSE
-W11331-7A,"rad5-DE681,682AA","rad5-DE681,682AA backcrossed pop-in/pop-out",J1848 x W9100-12C,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5-DE681,682AA","S000004022-DE681,682AA",S000004022,-80C #2,8,3,3,2,6,4,Eric Bryant,2017-10-11,,Project-RAD5-OE,Sequence verified backcross,,FALSE
-W11332-7D,rad5-I916A,rad5-I916A backcrossed pop-in/pop-out,J1849 x W9100-12C,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5-I916A",S000004022-I916A,S000004022,-80C #2,8,3,3,2,6,5,Eric Bryant,2017-10-11,,Project-RAD5-OE,Sequence verified backcross,,FALSE
-W11333-9B,"rad5-DEI681,682,916AAA","rad5-DEI681,682,916AAA backcrossed pop-in/pop-out",J1850 x W9100-12C,W303,a,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5-DEI681,682,916AAA","S000004022-DEI681,682,916AAA",S000004022,-80C #2,8,3,3,2,6,6,Eric Bryant,2017-10-11,,Project-RAD5-OE,Sequence verified backcross,Do NOT use this strain. 2 to 2 segregation of slow growth that does not perfectly segregate with the mutation. Backcrossing a second time.,FALSE
-W11334-4A,rad5-RGRKK217_221EGEEE,rad5-RGRKK217_221EGEEE backcrossed pop-in/pop-out,J1851 x W9100-12C,W303,a,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5-RGRKK217_221EGEEE",S000004022-RGRKK217_221EGEEE,S000004022,-80C #2,8,3,3,2,6,7,Eric Bryant,2017-10-11,,Project-RAD5-OE,Sequence verified backcross,,FALSE
-W11334-6D,rad5-RGRKK217_221EGEEE,rad5-RGRKK217_221EGEEE backcrossed pop-in/pop-out,J1851 x W9100-12C,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5-RGRKK217_221EGEEE",S000004022-RGRKK217_221EGEEE,S000004022,-80C #2,8,3,3,2,6,8,Eric Bryant,2017-10-11,,Project-RAD5-OE,Sequence verified backcross,,FALSE
-W11335-5C,rad5-R229E,rad5-R229E backcrossed pop-in/pop-out,J1853 x W9100-12C,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5-R229E",S000004022-R229E,S000004022,-80C #2,8,3,3,2,7,1,Eric Bryant,2017-10-11,,Project-RAD5-OE,Sequence verified backcross,,FALSE
-W11336-3B,rad5-R241E,rad5-R241E backcrossed pop-in/pop-out,J1854 x W9100-12C,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5-R241E",S000004022-R241E,S000004022,-80C #2,8,3,3,2,7,8,Eric Bryant,2017-10-19,,Project-RAD5-OE,Sequence verified backcross,,FALSE
-W11336-8A,rad5-R241E,rad5-R241E backcrossed pop-in/pop-out,J1854 x W9100-12C,W303,a,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5-R241E",S000004022-R241E,S000004022,-80C #2,8,3,3,2,8,1,Eric Bryant,2017-10-19,,Project-RAD5-OE,Sequence verified backcross,,FALSE
-W11337-1B,rad5-I916A::HPH,rad5-I916A::HPH backcrossed pop-in/pop-out,J1865 x W9100-12C,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5-I916A::HPH",S000004022-I916A::HPH,S000004022,-80C #2,8,3,3,2,7,2,Eric Bryant,2017-10-19,,Project-RAD5-OE,Sequence verified backcross,2 to 2 segregation of mild growth defect that segregates with HPH that was not observed for the unmarked version,FALSE
-W11338-7D,"rad5-DEI681,682,916AAA::HPH","rad5-DEI681,682,916AAA::HPH backcrossed pop-in/pop-out",J1866 x W9100-12C,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5-DEI681,682,916AAA::HPH","S000004022-DEI681,682,916AAA::HPH",S000004022,-80C #2,8,3,3,2,7,3,Eric Bryant,2017-10-19,,Project-RAD5-OE,Sequence verified backcross,2 to 2 segregation of mild growth defect that segregates with HPH that was not observed for the unmarked version,FALSE
-W11339-3A,rad5-RGRKK217_221EGEEE::HPH,rad5-RGRKK217_221EGEEE::HPH backcrossed pop-in/pop-out,J1867 x W9100-12C,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5-RGRKK217_221EGEEE::HPH",S000004022-RGRKK217_221EGEEE::HPH,S000004022,-80C #2,8,3,3,2,7,4,Eric Bryant,2017-10-19,,Project-RAD5-OE,Sequence verified backcross,2 to 2 segregation of very slow growth that segregates with HPH that was not observed for the unmarked version,FALSE
-W11339-7D,rad5-RGRKK217_221EGEEE::HPH,rad5-RGRKK217_221EGEEE::HPH backcrossed pop-in/pop-out,J1867 x W9100-12C,W303,a,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5-RGRKK217_221EGEEE::HPH",S000004022-RGRKK217_221EGEEE::HPH,S000004022,-80C #2,8,3,3,2,7,5,Eric Bryant,2017-10-19,,Project-RAD5-OE,Sequence verified backcross,2 to 2 segregation of very slow growth that segregates with HPH that was not observed for the unmarked version,FALSE
-W11340-7A,rad5-R229E::HPH,rad5-R229E::HPH backcrossed pop-in/pop-out,J1869 x W9100-12C,W303,a,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5-R229E::HPH",S000004022-R229E::HPH,S000004022,-80C #2,8,3,3,2,7,6,Eric Bryant,2017-10-19,,Project-RAD5-OE,Sequence verified backcross,2 to 2 segregation of mild growth defect that segregates with HPH that was not observed for the unmarked version,FALSE
-W11340-6C,rad5-R229E::HPH,rad5-R229E::HPH backcrossed pop-in/pop-out,J1869 x W9100-12C,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5-R229E::HPH",S000004022-R229E::HPH,S000004022,-80C #2,8,3,3,2,7,7,Eric Bryant,2017-10-19,,Project-RAD5-OE,Sequence verified backcross,2 to 2 segregation of mild growth defect that segregates with HPH that was not observed for the unmarked version,FALSE
-W11341,,,W9913-42A x W11119-9A,W303,,,,,,,,,,,,Michael Smith,2017-10-27,,,,,
-W11342,,,W9100-11B x W11153-8B,W303,,,,,,,,,,,,Michael Smith,2017-10-27,,,,,
-W11343,,,W9100-11B x W11006-4A,W303,,,,,,,,,,,,Michael Smith,2017-10-27,,,,,
-W11344,,,R1708 x W9100-12C,W303,,,,,,,,,,,,Michael Smith,2017-11-10,,,,,
-W11345-1D,rad5-R187E,rad5-R187E backcrossed pop-in/pop-out,J1852 x W9100-12C,W303,a,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5-R187E",S000004022-R187E,S000004022,-80C #2,8,3,3,2,8,3,Eric Bryant,2017-11-14,,Project-RAD5-OE,Sequence verified backcross,,FALSE
-W11345-10D,rad5-R187E,rad5-R187E backcrossed pop-in/pop-out,J1852 x W9100-12C,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5-R187E",S000004022-R187E,S000004022,-80C #2,8,3,3,2,8,4,Eric Bryant,2017-11-14,,Project-RAD5-OE,Sequence verified backcross,,FALSE
-W11346,,,,,,,,,,,,,,,,Michael Smith,2017-11-20,,,,,
-W11347,,,,,,,,,,,,,,,,Michael Smith,2017-11-20,,,,,
-W11348-11D,"rad5-DEI681,682,916AAA","rad5-DEI681,682,916AAA second backcross",W11333-9B x W9100-2D,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5-DEI681,682,916AAA","S000004022-DEI681,682,916AAA",S000004022,-80C #2,8,3,3,2,8,5,Eric Bryant,2017-11-21,-,Project-RAD5-OE,Sequence verified backcross #2,,FALSE
-W11349,rad5∆ rDNA-CAN1-ADE2,rad5::KanMX rDNA-CAN1-ADE2,J1884 x W4314-2C,,,,,,,,,,,,,Ivana Sunjevaric,2017-12-01,,Project-RAD5-OE,,,
-W11350,,,J1890 x W11248-5B,,,,,,,,,,,,,Ivana Sunjevaric,,,,,,
-W11351,,,W1696-6C x R1696,,,,,,,,,,,,,Robert J.D. Reid,,,,,,
-W11352,,,W1696-6C x W9100-17D,,,,,,,,,,,,,Robert J.D. Reid,,,,,,
-W11353-1A,rad5∆,rad5::KanMX,J1884 x W9100-2D,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5::KanMX",S000004022-KanMX,S000004022,-80C #2,8,3,3,2,8,6,Eric Bryant,2017-12-06,-,Project-RAD5-OE,PCR validation: RAD5-DF (756) RAD5-DR (757) RAD5-int-332-R (1254) KanMX-int5'-R2 (511),,FALSE
-W11353-1C,rad5∆,rad5::KanMX,J1884 x W9100-2D,W303,a,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5::KanMX",S000004022-KanMX,S000004022,-80C #2,8,3,3,2,8,7,Eric Bryant,2017-12-06,-,Project-RAD5-OE,PCR validation: RAD5-DF (756) RAD5-DR (757) RAD5-int-332-R (1254) KanMX-int5'-R2 (511),,FALSE
-W11354,,,,,,,,,,,,,,,,,,,,,,
-W11355,,,,,,,,,,,,,,,,,,,,,,
-W11356,,,,,,,,,,,,,,,,,,,,,,
-W11357,,,,,,,,,,,,,,,,,,,,,,
-W11358-1B,FLAG-RAD5,FLAG-RAD5,J1897 x W9100-2D,W303,a,"leu2-3,112 his3-11,15 ura3-1 lys2∆ FLAG-RAD5",S000004022-FLAG-N-terminus,S000004022,-80C #2,8,3,3,3,3,5,Eric Bryant,2018-01-11,-,Project-RAD5-OE,-,,FALSE
-W11358-2D,FLAG-RAD5,FLAG-RAD5,J1897 x W9100-2D,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ FLAG-RAD5",S000004022-FLAG-N-terminus,S000004022,-80C #2,8,3,3,3,3,6,Eric Bryant,2018-01-11,-,Project-RAD5-OE,-,,FALSE
-W11359,,,,,,,,,,,,,,,,Robert J.D. Reid,2018-01-14,,,,,
-W11360,,,,,,,,,,,,,,,,Michael Smith,2018-01-22,,,,,
-W11361-10A,rad51 rad5,rad51::KanMX rad5::KanMX,J1756 x W11353-1A,W303,a,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad51::KanMX rad5::KanMX",,,-80C #2,8,3,3,3,5,5,Eric Bryant,2018-01-13,,Project-RAD5-OE,,,FALSE
-W11361-10D,rad51 rad5,rad51::KanMX rad5::KanMX,J1756 x W11353-1A,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad51::KanMX rad5::KanMX",,,-80C #2,8,3,3,3,5,6,Eric Bryant,2018-01-13,,Project-RAD5-OE,,,FALSE
-W11362-1A,rad51,rad51,J1756 x W11331-7A,W303,a,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad51::KanMX",,,-80C #2,8,3,3,3,5,7,Eric Bryant,2018-01-13,,Project-RAD5-OE,,,FALSE
-W11362-1B,"rad51 rad5-DE681,682AA","rad51 rad5-DE681,682AA",J1756 x W11331-7A,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad51::KanMX rad5-DE681,682AA",,,-80C #2,8,3,3,3,5,8,Eric Bryant,2018-01-13,,Project-RAD5-OE,,,FALSE
-W11362-2C,"rad51 rad5-DE681,682AA","rad51 rad5-DE681,682AA",J1756 x W11331-7A,W303,a,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad51::KanMX rad5-DE681,682AA",,,-80C #2,8,3,3,3,6,1,Eric Bryant,2018-01-13,,Project-RAD5-OE,,,FALSE
-W11362-5B,rad51,rad51,J1756 x W11331-7A,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad51::KanMX",,,-80C #2,8,3,3,3,6,2,Eric Bryant,2018-01-13,,Project-RAD5-OE,,,FALSE
-W11363-1C,rad51 rad5-I916A,rad51 rad5-I916A,J1756 x W11332-7D,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad51::KanMX rad5-I916A",,,-80C #2,8,3,3,3,6,3,Eric Bryant,2018-01-13,,Project-RAD5-OE,,,FALSE
-W11363-6C,rad51 rad5-I916A,rad51 rad5-I916A,J1756 x W11332-7D,W303,a,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad51::KanMX rad5-I916A",,,-80C #2,8,3,3,3,6,4,Eric Bryant,2018-01-13,,Project-RAD5-OE,,,FALSE
-W11364-2D,rad51 rad5-R187E,rad51 rad5-R187E,J1756 x W11345-10D,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad51::KanMX rad5-R187E",,,-80C #2,8,3,3,3,6,5,Eric Bryant,2018-01-13,,Project-RAD5-OE,,,FALSE
-W11364-4D,rad51 rad5-R187E,rad51 rad5-R187E,J1756 x W11345-10D,W303,a,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad51::KanMX rad5-R187E",,,-80C #2,8,3,3,3,6,6,Eric Bryant,2018-01-13,,Project-RAD5-OE,,,FALSE
-W11365-5A,sgs1 rad5,sgs1 rad5,W11224-1D x W11353-1A,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ sgs1::KanMX rad5::KanMX",,,-80C #2,8,3,3,3,6,7,Eric Bryant,2018-01-13,,Project-RAD5-OE,,,FALSE
-W11365-5B,sgs1 rad5,sgs1 rad5,W11224-1D x W11353-1A,W303,a,"leu2-3,112 his3-11,15 ura3-1 lys2∆ sgs1::KanMX rad5::KanMX",,,-80C #2,8,3,3,3,6,8,Eric Bryant,2018-01-13,,Project-RAD5-OE,,,FALSE
-W11366-3A,sgs1,sgs1,W11224-1D x W11331-7A,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ sgs1::KanMX",,,-80C #2,8,3,3,3,7,1,Eric Bryant,2018-01-13,,Project-RAD5-OE,,,FALSE
-W11366-3C,"sgs1 rad5-DE681,682AA","sgs1 rad5-DE681,682AA",W11224-1D x W11331-7A,W303,a,"leu2-3,112 his3-11,15 ura3-1 lys2∆ sgs1::KanMX rad5-DE681,682AA",,,-80C #2,8,3,3,3,7,2,Eric Bryant,2018-01-13,,Project-RAD5-OE,,,FALSE
-W11366-7A,"sgs1 rad5-DE681,682AA","sgs1 rad5-DE681,682AA",W11224-1D x W11331-7A,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ sgs1::KanMX rad5-DE681,682AA",,,-80C #2,8,3,3,3,7,3,Eric Bryant,2018-01-13,,Project-RAD5-OE,,,FALSE
-W11367-2B,sgs1 rad5-I916A,sgs1 rad5-I916A,W11224-1D x W11332-7D,W303,a,"leu2-3,112 his3-11,15 ura3-1 lys2∆ sgs1::KanMX rad5-I916A",,,-80C #2,8,3,3,3,7,4,Eric Bryant,2018-01-13,,Project-RAD5-OE,,,FALSE
-W11367-7B,sgs1 rad5-I916A,sgs1 rad5-I916A,W11224-1D x W11332-7D,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ sgs1::KanMX rad5-I916A",,,-80C #2,8,3,3,3,7,7,Eric Bryant,2018-01-13,,Project-RAD5-OE,,,FALSE
-W11368-6A,sgs1 rad5-R187E,sgs1 rad5-R187E,W11224-1D x W11345-10D,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ sgs1::KanMX rad5-R187E",,,-80C #2,8,3,3,3,7,5,Eric Bryant,2018-01-13,,Project-RAD5-OE,,,FALSE
-W11368-6C,sgs1 rad5-R187E,sgs1 rad5-R187E,W11224-1D x W11345-10D,W303,a,"leu2-3,112 his3-11,15 ura3-1 lys2∆ sgs1::KanMX rad5-R187E",,,-80C #2,8,3,3,3,7,6,Eric Bryant,2018-01-13,,Project-RAD5-OE,,,FALSE
-W11369,,,,,,,,,,,,,,,,,,,,,,
-W11370,,,,,,,,,,,,,,,,,,,,,,
-W11371,,,,,,,,,,,,,,,,,,,,,,
-W11372,,,,,,,,,,,,,,,,,,,,,,
-W11373,,,,,,,,,,,,,,,,,,,,,,
-W11374,,,,,,,,,,,,,,,,,,,,,,
-W11375,,,,,,,,,,,,,,,,,,,,,,
-W11376,,,,,,,,,,,,,,,,,,,,,,
-W11377,,,,,,,,,,,,,,,,,,,,,,
-W11378,,,,,,,,,,,,,,,,,,,,,,
-W11379,,,,,,,,,,,,,,,,,,,,,,
-W11380,,,,,,,,,,,,,,,,,,,,,,
-W11381,,,,,,,,,,,,,,,,,,,,,,
-W11382,,,,,,,,,,,,,,,,,,,,,,
-W11383,,,,,,,,,,,,,,,,,,,,,,
-W11384,,,,,,,,,,,,,,,,,,,,,,
-W11385,,,,,,,,,,,,,,,,,,,,,,
-W11386,,,,,,,,,,,,,,,,,,,,,,
-W11387,,,,,,,,,,,,,,,,,,,,,,
-W11388,,,,,,,,,,,,,,,,,,,,,,
-W11389,,,,,,,,,,,,,,,,,,,,,,
-W11390,,,,,,,,,,,,,,,,,,,,,,
-W11391-2C,sgs1 pol30-RR,sgs1::KanMX pol30-RR::NatMX,W11366-3A x W11283-8A,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ sgs1::KanMX pol30-RR::NatMX",,,-80C #2,8,3,3,4,5,7,Eric Bryant,2018-03-31,,Project-RAD5-OE,,,FALSE
-W11391-2D,sgs1,sgs1::KanMX,W11366-3A x W11283-8A,W303,a,"leu2-3,112 his3-11,15 ura3-1 lys2∆ sgs1::KanMX",,,-80C #2,8,3,3,4,5,8,Eric Bryant,2018-03-31,,Project-RAD5-OE,,,FALSE
-W11391-4A,sgs1 pol30-RR,sgs1::KanMX pol30-RR::NatMX,W11366-3A x W11283-8A,W303,a,"leu2-3,112 his3-11,15 ura3-1 lys2∆ sgs1::KanMX pol30-RR::NatMX",,,-80C #2,8,3,3,4,6,1,Eric Bryant,2018-03-31,,Project-RAD5-OE,,,FALSE
-W11391-8C,pol30-RR,pol30-RR::NatMX,W11366-3A x W11283-8A,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ pol30-RR::NatMX",,,-80C #2,8,3,3,4,6,2,Eric Bryant,2018-03-31,,Project-RAD5-OE,,,FALSE
-W11392,,,,,,,,,,,,,,,,,,,,,,
-W11393,,,,,,,,,,,,,,,,,,,,,,
-W11394,,,,,,,,,,,,,,,,,,,,,,
-W11395,,,,,,,,,,,,,,,,,,,,,,
-W11396,,,,,,,,,,,,,,,,,,,,,,
-W11397,,,,,,,,,,,,,,,,,,,,,,
-W11398,,,,,,,,,,,,,,,,,,,,,,
-W11399,rad5::NatMX,rad5::NatMX,J1898 x W9100-17D,W303,,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5::NatMX",,,,,,,,,,Eric Bryant,2018-04-25,,Project-RAD5-OE,,,FALSE
-W11400,top1::KanMX,top1::KanMX,W11312-2B x W9100-17D,W303,,"leu2-3,112 his3-11,15 ura3-1 lys2∆ top1::KanMX",,,,,,,,,,Eric Bryant,2018-04-25,,Project-RAD5-OE,,,FALSE
-W11401,,,,,,,,,,,,,,,,,,,,,,
-W11402,,,,,,,,,,,,,,,,,,,,,,
-W11403,top1::KanMX rad5::NatMX,top1::KanMX rad5::NatMX,W11400-2C x W11399-1B,W303,,"leu2-3,112 his3-11,15 ura3-1 lys2∆ top1::KanMX rad5::NatMX",,,,,,,,,,Eric Bryant,2018-05-01,,Project-RAD5-OE,,,FALSE
-W11404,,,,,,,,,,,,,,,,,,,,,,
-W11405,,,,,,,,,,,,,,,,,,,,,,
-W11406,,,,,,,,,,,,,,,,,,,,,,
-W11407,,,,,,,,,,,,,,,,,,,,,,
-W11408,,,,,,,,,,,,,,,,,,,,,,
-W11409-1D,rad18,rad18::HphMX,W11172-1B x W11366-3A,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad18::HphMX",,,-80C #2,8,4,3,4,3,7,Eric Bryant,2018-05-31,,Project-RAD5-OE,,,FALSE
-W11409-1B,sgs1 rad18,sgs1::KanMX rad18::HphMX,W11172-1B x W11366-3A,W303,a,"leu2-3,112 his3-11,15 ura3-1 lys2∆ sgs1::KanMX rad18::HphMX",,,-80C #2,8,4,3,4,3,8,Eric Bryant,2018-05-31,,Project-RAD5-OE,,,FALSE
-W11409-4D,sgs1 rad18,sgs1::KanMX rad18::HphMX,W11172-1B x W11366-3A,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ sgs1::KanMX rad18::HphMX",,,-80C #2,8,4,3,4,4,1,Eric Bryant,2018-05-31,,Project-RAD5-OE,,,FALSE
-W11410-2A,ubc13 mms2,ubc13::KanMX mms2::NatMX,W11177-8D x W11366-3A,W303,a,"leu2-3,112 his3-11,15 ura3-1 lys2∆ ubc13::KanMX mms2::NatMX",,,-80C #2,6,4,1,3,2,1,Eric Bryant,2018-05-31,,Project-RAD5-OE,,,FALSE
-W11410-2C,mms2,mms2::NatMX,W11177-8D x W11366-3A,W303,a,"leu2-3,112 his3-11,15 ura3-1 lys2∆ mms2::NatMX",,,-80C #2,6,4,1,3,2,2,Eric Bryant,2018-05-31,,Project-RAD5-OE,,,FALSE
-W11410-4B,ubc13 mms2,ubc13::KanMX mms2::NatMX,W11177-8D x W11366-3A,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ ubc13::KanMX mms2::NatMX",,,-80C #2,6,4,1,3,2,3,Eric Bryant,2018-05-31,,Project-RAD5-OE,,,
-W11410-4C,sgs1 ubc13 mms2,sgs1::KanMX ubc13::KanMX mms2::NatMX,W11177-8D x W11366-3A,W303,a,"leu2-3,112 his3-11,15 ura3-1 lys2∆ sgs1::KanMX ubc13::KanMX mms2::NatMX",,,-80C #2,6,4,1,3,2,4,Eric Bryant,2018-05-31,,Project-RAD5-OE,,,
-W11410-7B,mms2,mms2::NatMX,W11177-8D x W11366-3A,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ mms2::NatMX",,,-80C #2,6,4,1,3,2,5,Eric Bryant,2018-05-31,,Project-RAD5-OE,,,
-W11410-13D,sgs1 ubc13 mms2,sgs1::KanMX ubc13::KanMX mms2::NatMX,W11177-8D x W11366-3A,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ sgs1::KanMX ubc13::KanMX mms2::NatMX",,,-80C #2,6,4,1,3,2,6,Eric Bryant,2018-05-31,,Project-RAD5-OE,,,
-W11411,,,,,,,,,,,,,,,,,,,,,,
-W11412,,,,,,,,,,,,,,,,,,,,,,
-W11413,,,,,,,,,,,,,,,,,,,,,,
-W11414,,,,,,,,,,,,,,,,,,,,,,
-W11415,,,,,,,,,,,,,,,,,,,,,,
-W11416,,,,,,,,,,,,,,,,,,,,,,
-W11417,,,,,,,,,,,,,,,,,,,,,,
-W11418,,,,,,,,,,,,,,,,,,,,,,
-W11419,,,,,,,,,,,,,,,,,,,,,,
-W11420,,,,,,,,,,,,,,,,,,,,,,
-W11421-44B,rDNA::ADE2-CAN1 rad18,rDNA::ADE2-CAN1 rad18::HphMX,W4314-2C x W11172-1B,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 trp1 rDNA::ADE2-CAN1 rad18::HphMX",,,-80C #2,6,4,1,3,2,7,Eric Bryant,2018-07-17,,Project-RAD5-OE,,,FALSE
-W11422-30C,rDNA::ADE2-CAN1 ubc13 mms2,rDNA::ADE2-CAN1 ubc13::KanMX mms2::NatMX,W4314-2C x W11410-2A,W303,a,"leu2-3,112 his3-11,15 ura3-1 trp1 rDNA::ADE2-CAN1 ubc13::KanMX mms2::NatMX",,,-80C #2,6,4,1,3,2,8,Eric Bryant,2018-07-17,,Project-RAD5-OE,,,FALSE
+W4314-2C,rDNA::ADE2-CAN1 recombination assay,ADE2-CAN1 inserted into rDNA array to measure frequency of rDNA recombination. From Kurt Runge.,W4141-44A x W2638-18C,W303,alpha,trp1-1 LYS2 RAD5 rDNA::ADE2-CAN1,NA,NA,-80C #2,6,1,3,1,2,5,Robert J.D. Reid,2003-09-30,2019-RAD5-Bryant-Reid,NA,"This strain is the result of crossing the original assay strain (CCFY100 address 433418 with no associated genotype notes) to a tri2∆ (J968) to generate W3991, from which no strains were recorded in the database. W3991-11C, which was just described as MATa in Bob's notes for the W strains book, was crossed to a top1::HIS3 strain (W1956-7C) whose parent diploid contained an sgs1::URA3 allele to generage W4141. Again, no W4141 strains are recorded in the database, but a W4141-44A segregant (MATa top1::HIS3 rDNA::ADE2-CAN1) was then crossed to W2638-18C (MATalpha rad5::URA3). This strain has been confirmed to be his, and ura, but be aware that parental strains were top1, so this strain should probably be backcrossed a few times and the ""tri2"" = UAF30 locus should be checked, or the original CCFY100 should be backcrossed.",NA,TRUE
+W5270-1A,rDNA::ADE2-CAN1 fob1,fob1∆ allele transferred from deletion collection.  The fob1::URA3 alleles Marisa made do not show a fob1 phenotype  rDNA has ADE2-CAN1 recombination/silencing assay,W5248-2D x W4314-2B,W303,alpha,"ura3-1 trp1-1 leu2-3,112 his3-11,15 can1-100 RAD5+ ade2-1 fob1∆1::KanMX4 rDNA:ADE1-CAN1 ",NA,NA,-80C #2,6,1,3,1,9,3,Robert J.D. Reid,2005-11-07,2019-RAD5-Bryant-Reid,NA,NA,NA,TRUE
+W9100-2D,WT alpha lys2,Wildtype W303 with RAD5 and large CUP1 array (i.e. fixed rad5-G535R and resistant to 800uM copper),W7981-2A x W1588-4C,W303,alpha,"ADE2 leu2-3,112 his3-11,15 ura3-1 TRP1 lys2∆ RAD5 MET15",NA,NA,-80C #2,8,3,4,2,1,1,Sergio Gonzalez,2010-01-04,2019-RAD5-Bryant-Reid,WT,This strain has been tested and it grows fine when Top1TA is overexpressed. 800 µM Cu2+ resistant. Very long CUP1 array (~ 11 copies) checked by Southern blot.,NA,TRUE
+W9100-17D,WT a lys2,Wildtype W303 with RAD5 and large CUP1 array (i.e. fixed rad5-G535R and resistant to 800uM copper),W7981-2A x W1588-4C,W303,a,"ADE2 leu2-3,112 his3-11,15 ura3-1 TRP1 lys2∆ RAD5 MET15",NA,NA,-80C #2,8,3,4,2,1,4,Sergio Gonzalez,2010-01-04,2019-RAD5-Bryant-Reid,WT,This strain has been tested and it grows fine when Top1TA is overexpressed. 800 µM Cu2+ resistant.,NA,TRUE
+W9100-11B,WT a ade2 lys2,Wildtype W303 with RAD5 and large CUP1 array (i.e. fixed rad5-G535R and resistant to 800uM copper),W7981-2A x W1588-4C,W303,a,"ade2-1 leu2-3,112 his3-11,15 ura3-1 TRP1 lys2∆ RAD5 MET15",NA,NA,-80C #2,8,3,4,2,1,2,Sergio Gonzalez,2010-02-26,NA,WT,This strain has been tested and it grows fine when Top1TA is overexpressed. 800 µM Cu2+ resistant. Very long CUP1 array (~ 11 copies) checked by Southern blot.,NA,TRUE
+W9100-12C,WT alpha trp1,Wildtype W303 with RAD5 and large CUP1 array (i.e. fixed rad5-G535R and resistant to 800uM copper),W7981-2A x W1588-4C,W303,alpha,"ADE2 leu2-3,112 his3-11,15 ura3-1 trp1 LYS2 RAD5 MET15",NA,NA,-80C #2,8,3,4,2,1,3,Sergio Gonzalez,2015-03-11,NA,WT,NA,NA,TRUE
+W9942-10B,CAN1,CAN1 forward mutation rate assay strain,W9767-1D x W8706-8A,W303,alpha,"ADE2 leu2-3,112 his3-11,15 ura3-1 trp1 LYS2 RAD5 MET15 CAN1",NA,NA,-80C #2,6,3,3,3,1,1,Ivana Sunjevaric,2012-02-10,NA,CAN1,800 µM Cu2+ NOT sensitive,NA,TRUE
+W11001-11A,ctf4 mec3,ctf4::KanMX mec3::KanMX,rec5550 x rec15198,BY (S288C),alpha,leu2 his3 ura3,NA,NA,-80C #2,8,4,2,3,6,3,Eric Bryant,2013-09-12,NA,CTF4,Eric does not recommend using this strain as this was his first cross.,NA,TRUE
+W11002-1C,ctf4 rad50,ctf4::KanMX rad50::KanMX,rec5550 x rec16464,BY (S288C),alpha,leu2 his3 ura3,NA,NA,-80C #2,8,4,2,3,6,4,Eric Bryant,2013-12-13,NA,CTF4,Eric does not recommend using this strain as this was his first cross.,NA,TRUE
+W11166-1A,pol1-DIL142AAA,pol1-DIL142AAA mutant of critical CTF4 binding site residues,J1793 x W9100-17D,W303,a,"ADE2 leu2-3,112 his3-11,15 ura3-1 TRP1 lys2∆ RAD5 MET15 pol1-DIL142AAA",NA,NA,-80C #2,8,4,2,4,5,3,Eric Bryant,2015-10-13,NA,CTF4,Mutant has a PvuII RFLP,NA,TRUE
+W11166-1C,pol1-DIL142AAA,pol1-DIL142AAA mutant of critical CTF4 binding site residues,J1793 x W9100-17D,W303,alpha,"ADE2 leu2-3,112 his3-11,15 ura3-1 trp1-1 LYS2 RAD5 MET15 pol1-DIL142AAA",NA,NA,-80C #2,8,4,2,4,5,4,Eric Bryant,2015-10-13,NA,CTF4,Mutant has a PvuII RFLP,NA,TRUE
+W11167-3C,sld5-DIL7AAA,sld5-DIL7AAA mutant of critical CTF4 binding site residues,J1798 x W9100-12C,W303,alpha,"ADE2 leu2-3,112 his3-11,15 ura3-1 TRP1 lys2∆ RAD5 MET15 sld5-DIL7AAA",NA,NA,-80C #2,8,4,2,4,5,8,Eric Bryant,2015-12-11,NA,CTF4,Mutant has an AciI RFLP,NA,TRUE
+W11168,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Ivana Sunjevaric,2015-10-13,NA,NA,NA,NA,NA
+W11169,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Robert J.D. Reid,NA,NA,NA,NA,NA,NA
+W11170,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Robert J.D. Reid,NA,NA,NA,NA,NA,NA
+W11171,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,So Jung Lee,2015-10-30,NA,NA,NA,NA,NA
+W11172-1B,rad18,rad18::HphMX,W11168-6C x R1465,W303,a,"ADE2 leu2-3,112 his3-11,15 ura3-1 TRP1 lys2∆ RAD5 MET15 rad18::HphMX",NA,NA,-80C #2,8,4,1,1,6,5,Ivana Sunjevaric,2015-11-11,NA,NA,NA,NA,TRUE
+W11173,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Ivana Sunjevaric,2015-10-30,NA,NA,NA,NA,NA
+W11174,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Michael Smith,2015-11-04,NA,NA,NA,NA,NA
+W11175,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Michael Smith,2015-11-04,NA,NA,NA,NA,NA
+W11176,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Ivana Sunjevaric,2015-11-05,NA,NA,NA,NA,NA
+W11177-8D,ubc13 mms2,ubc13::KanMX mms2::NatMX,W11173-5A x J1976,W303,a,"ADE2 leu2-3,112 his3-11,15 ura3-1 TRP1 LYS2 RAD5 MET15 ubc13::KanMX mms2::NatMX",NA,NA,-80C #2,8,4,1,1,7,4,Ivana Sunjevaric,2015-11-05,NA,NA,NA,NA,TRUE
+W11178,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Robert J.D. Reid,NA,NA,NA,NA,NA,NA
+W11179,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Ivana Sunjevaric,2015-11-05,NA,NA,NA,NA,NA
+W11180,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Robert J.D. Reid,NA,NA,NA,NA,NA,NA
+W11181,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Ivana Sunjevaric,2015-12-07,NA,NA,NA,NA,NA
+W11182,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Ivana Sunjevaric,2015-12-07,NA,NA,NA,NA,NA
+W11183-2D,pol1-DIL142AAA,pol1-DIL142AAA mutant of critical CTF4 binding site residues,J1799 x R1281,BY (S288C),alpha,"ADE2 leu2-3,112 his3-11,15 ura3-1 TRP1 lys2∆ RAD5 MET15 pol1-DIL142AAA",NA,NA,-80C #2,8,4,2,4,6,1,Eric Bryant,2015-12-11,NA,CTF4,Mutant has a PvuII RFLP,NA,TRUE
+W11183-4C,pol1-DIL142AAA,pol1-DIL142AAA mutant of critical CTF4 binding site residues,J1799 x R1281,BY (S288C),a,"ADE2 leu2-3,112 his3-11,15 ura3-1 TRP1 lys2∆ RAD5 MET15 pol1-DIL142AAA",NA,NA,-80C #2,8,4,2,4,6,2,Eric Bryant,2015-12-11,NA,CTF4,Mutant has a PvuII RFLP,NA,TRUE
+W11183-4D,pol1-DIL142AAA,pol1-DIL142AAA mutant of critical CTF4 binding site residues,J1799 x R1281,BY (S288C),a,"ADE2 leu2-3,112 his3-11,15 ura3-1 TRP1 LYS2 RAD5 MET15 pol1-DIL142AAA",NA,NA,-80C #2,8,4,2,4,6,3,Eric Bryant,2015-12-11,NA,CTF4,Mutant has a PvuII RFLP,NA,TRUE
+W11184,sld5-7AAA,sld5-7AAA,J1800 x R1281,BY (S288C),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Eric Bryant,2015-12-11,NA,NA,NA,Did not validate,FALSE
+W11185,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Ivana Sunjevaric,2016-01-08,NA,NA,NA,NA,NA
+W11186,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Ivana Sunjevaric,2016-01-08,NA,NA,NA,NA,NA
+W11187,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Ivana Sunjevaric,2016-01-08,NA,NA,NA,NA,NA
+W11188,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,So Jung Lee,NA,NA,NA,NA,NA,NA
+W11189,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+W11190,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+W11191-5A,mre11 TetR-mRFP YFP-RAD51,"mre11 KanMX disruption, TetR-mRFP fusion and YFP tagged RAD51",,W303,a,"ADE2 LYS2 ura3 TetR-mRFP(iYGL119W) mre11::KanMX trp1 leu2-3,112 his3-11,15 YFP-RAD51 RAD5",S000004837-KanMX,S000004837,-80C #2,8,4,3,2,1,2,Fraulin Joseph,2016-02-08,NA,NA,NA,Actually spore name in personal notes Cross#1C-5A,TRUE
+W11191-2A,mre11 TetR-mRFP YFP-RAD51,"mre11 KanMX disruption, TetR-mRFP fusion and YFP tagged RAD51",,W303,a,"ADE2 LYS2 ura3 TetR-mRFP(iYGL119W) mre11::KanMX trp1 leu2-3,112 his3-11,15 YFP-RAD51 RAD5",S000004837-KanMX,S000004837,-80C #2,8,4,3,2,1,1,Fraulin Joseph,2016-02-08,NA,NA,NA,Actually spore name in personal notes Cross#1A-2A,TRUE
+W11192,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fraulin Joseph,2016-02-08,NA,NA,NA,NA,NA
+W11193,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Michael Smith,2016-02-18,NA,NA,NA,NA,NA
+W11194-1B,pol30-RR,pol30-RR lys2 ura3 his3 leu2 can1,W11187-12D x W11187-13D,W303,a,"leu2-3,112 his3-11,15 ura3-1 lys2∆ can1 pol30-RR",NA,NA,-80C #2,8,4,3,1,1,5,Ivana Sunjevaric,2016-02-26,NA,NA,NA,NA,TRUE
+W11194-1D,pol30-RR rad51 rad52,"pol30-RR, rad51 HphMX disruption and rad52 KanMx disruption",W11187-12D x W11187-13D,W303,a,"pol30-RR rad51::HphMX rad52::KamMX TRP1 lys2 ADE2 ura3-1 leu2-3,112 his3-11,15 can1RAD5",S000000292-RR,S000000292,-80C #2,8,4,3,1,2,1,Ivana Sunjevaric,2016-02-26,NA,NA,NA,NA,TRUE
+W11195,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Robert J.D. Reid,NA,NA,NA,NA,NA,FALSE
+W11196,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Michael Smith,2016-02-29,NA,NA,NA,NA,NA
+W11197-21D,rad51-S192E RAD52-CFP tetOx112 I-SceI TetR-mRFP,"rad51-S192E amino acid mutation at position 192, CFP tagged RAD52, tetOx112 I-Sce1, TetR-mRFP fusion",W4303-19B x W11196-18D,W303,a,ADE2 rad51-S192E  trp1-1 LYS2 RAD5 RAD52-CFP ura3::3xURA3-tetOx112 I-SceI(ura3-1) TetR-mRFP1(iYGL119W),S000000897-S192E,S000000897,-80C #2,6,1,3,3,2,3,Michael Smith,2016-02-29,NA,NA,NA,NA,TRUE
+W11198-24B,rad51-S192E SPC110-YFP RAD52-CFP,"rad51-S192E amino acid mutation at position 192, YFP tagged SPC110 and CFP tagged RAD52",J1797 x W11088-6B,W303,a,ADE2 rad51-S192E ura3-1 trp1 lys2 SPC110-YFP::HIS3 RAD52-CFP RAD5,S000000897-S192E,S000000897,-80C #2,8,1,3,3,2,4,Michael Smith,2016-03-04,NA,NA,NA,NA,TRUE
+W11199-6B,mre11 RAD52-CFP,mre11 KanMX disruption and CFP tagged RAD52,U3145 x W11191-5A,W303,a,"ade2 LYS2 ura3 mre11::KanMX trp1 leu2-3,112 his3-11,15 RAD52-CFP RAD5",S000004837-KanMX,S000004837,-80C #2,8,4,3,2,1,7,Fraulin Joseph,2016-03-08,NA,NA,NA,NA,TRUE
+W11199-1B,mre11 TetR-mRFP,mre11 KanMX disruption and TetR-mRFP fusion,U3145 x W11191-5A,W303,alpha,"ADE2 LYS2 ura3 TetR-mRFP(iYGL119W) mre11::KanMX trp1 leu2-3,112 his3-11,15 RAD52-CFP RAD5",S000004837-KanMX,S000004837,-80C #2,8,4,3,2,1,6,Fraulin Joseph,2016-03-08,NA,NA,NA,NA,TRUE
+W11199-3D,mre11 YFP-RAD51 RAD52-CFP,"mre11 KanMX disruption, YFP tagged RAD51 and CFP tagged RAD52",U3145 x W11191-5A,W303,alpha,"ADE2 LYS2 ura3 mre11::KanMX trp1 leu2-3,112 his3-11,15 YFP-RAD51 RAD52-CFP RAD5",S000004837-KanMX,S000004837,-80C #2,8,4,3,2,1,5,Fraulin Joseph,2016-03-08,NA,NA,NA,NA,TRUE
+W11199-2B,mre11 TetR-mRFP YFP-RAD51 RAD52-CFP,"mre11 KanMX disruption, TetR-mRFP fusion, YFP tagged RAD51 and CFP tagged RAD52",U3145 x W11191-2A,W303,a,"ADE2 lysD ura3 TetR-mRFP(iYGL119W) mre11::KanMX trp1 leu2-3,112 his3-11,15 YFP-RAD51 RAD52-CFP RAD5",S000004837-KanMX,S000004837,-80C #2,8,4,3,2,1,4,Fraulin Joseph,2016-03-08,NA,NA,NA,NA,TRUE
+W11199-1A,mre11 YFP-RAD51 RAD52-CFP,"mre11 KanMX disruption, YFP tagged RAD51 and CFP tagged RAD52",U3145 x W11191-2A,W303,a,"ADE2 lysD ura3 TetR-mRFP(iYGL119W) mre11::KanMX trp1 leu2-3,112 his3-11,15 YFP-RAD51 RAD52-CFP RAD5",S000004837-KanMX,S000004837,-80C #2,8,4,3,2,1,3,Fraulin Joseph,2016-03-08,NA,NA,NA,NA,TRUE
+W11200-1B,rad17 pol1-DIL142AAA,rad17 KanMX disruption and pol1-DIL142AAA CTF4 binding motif mutant,W11166-1A x W9194-6C,W303,a,"ADE2 leu2-3,112 his3-11,15 ura3-1 TRP1 lys2∆ RAD5 MET15 rad17::KanMX pol1-DIL142AAA",NA,NA,-80C #2,8,4,2,4,7,2,Eric Bryant,2016-09-20,NA,NA,NA,NA,TRUE
+W11200-3D,rad17 pol1-DIL142AAA,rad17 KanMX disruption and pol1-DIL142AAA CTF4 binding motif mutant,W11166-1A x W9194-6C,W303,alpha,"ADE2 leu2-3,112 his3-11,15 ura3-1 TRP1 lys2∆ RAD5 MET15 rad17::KanMX pol1-DIL142AAA",NA,NA,-80C #2,8,4,2,4,7,3,Eric Bryant,2016-09-20,NA,NA,NA,NA,TRUE
+W11200-4A,rad17 pol1-DIL142AAA,rad17 KanMX disruption and pol1-DIL142AAA CTF4 binding motif mutant,W11166-1A x W9194-6C,W303,alpha,"ADE2 leu2-3,112 his3-11,15 ura3-1 TRP1 lys2∆ RAD5 MET15 rad17::KanMX pol1-DIL142AAA",NA,NA,-80C #2,8,4,2,4,7,4,Eric Bryant,2016-09-20,NA,NA,NA,NA,TRUE
+W11200-9C,rad17 pol1-DIL142AAA,rad17 KanMX disruption and pol1-DIL142AAA CTF4 binding motif mutant,W11166-1A x W9194-6C,W303,a,"ADE2 leu2-3,112 his3-11,15 ura3-1 TRP1 lys2∆ RAD5 MET15 rad17::KanMX pol1-DIL142AAA",NA,NA,-80C #2,8,4,2,4,7,5,Eric Bryant,2016-09-20,NA,NA,NA,NA,TRUE
+W11201-1B,rad27 pol1-DIL142AAA,rad27 pol1-DIL142AAA,W11166-1A x W9195-6D,W303,a,ADE2 leu2 his3 ura3 LYS2 TRP1 RAD5 MET15 pol1-DIL142AAA rad27::KanMX,NA,NA,-80C #2,8,4,2,4,7,6,Eric Bryant,2016-09-20,NA,NA,POL1 mutant with DIL at position 142 mutated to AAA. Mutant has a PvuII RFLP. Crossed to rad27::KanMX W303 background.,NA,TRUE
+W11201-2A,rad27 pol1-DIL142AAA,rad27 pol1-DIL142AAA,W11166-1A x W9195-6D,W303,alpha,ADE2 leu2 his3 ura3 lys2 TRP1 RAD5 MET15 pol1-DIL142AAA rad27::KanMX,NA,NA,-80C #2,8,4,2,4,7,7,Eric Bryant,2016-09-20,NA,NA,POL1 mutant with DIL at position 142 mutated to AAA. Mutant has a PvuII RFLP. Crossed to rad27::KanMX W303 background.,NA,TRUE
+W11201-2D,rad27 pol1-DIL142AAA,rad27 pol1-DIL142AAA,W11166-1A x W9195-6D,W303,alpha,ADE2 leu2 his3 ura3 LYS2 TRP1 RAD5 MET15 pol1-DIL142AAA rad27::KanMX,NA,NA,-80C #2,8,4,2,4,7,8,Eric Bryant,2016-09-20,NA,NA,POL1 mutant with DIL at position 142 mutated to AAA. Mutant has a PvuII RFLP. Crossed to rad27::KanMX W303 background.,NA,TRUE
+W11201-4A,rad27 pol1-DIL142AAA,rad27 pol1-DIL142AAA,W11166-1A x W9195-6D,W303,a,ADE2 leu2 his3 ura3 lys2 trp1 RAD5 MET15 pol1-DIL142AAA rad27::KanMX,NA,NA,-80C #2,8,4,2,4,8,1,Eric Bryant,2016-09-20,NA,NA,POL1 mutant with DIL at position 142 mutated to AAA. Mutant has a PvuII RFLP. Crossed to rad27::KanMX W303 background.,NA,TRUE
+W11202,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Michael Smith,2016-04-05,NA,NA,NA,NA,NA
+W11203,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Michael Smith,2016-04-16,NA,NA,NA,NA,NA
+W11204,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Michael Smith,2016-04-16,NA,NA,NA,NA,NA
+W11205,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Michael Smith,2016-04-16,NA,NA,NA,NA,NA
+W11206,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Michael Smith,2016-04-16,NA,NA,NA,NA,NA
+W11207,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Michael Smith,2016-04-16,NA,NA,NA,NA,NA
+W11208,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Michael Smith,2016-04-16,NA,NA,NA,NA,NA
+W11209,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Michael Smith,2016-04-16,NA,NA,NA,NA,NA
+W11210,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Michael Smith,2016-04-16,NA,NA,NA,NA,NA
+W11211,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Michael Smith,2016-04-16,NA,NA,NA,NA,NA
+W11212,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Michael Smith,2016-04-16,NA,NA,NA,NA,NA
+W11213,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Michael Smith,2016-04-16,NA,NA,NA,NA,NA
+W11214,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Michael Smith,2016-04-16,NA,NA,NA,NA,NA
+W11215,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Michael Smith,2016-04-18,NA,NA,NA,NA,NA
+W11216,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fraulin Joseph,2016-05-16,NA,NA,NA,NA,NA
+W11217,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Ivana Sunjevaric,2016-05-17,NA,NA,NA,NA,NA
+W11218,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Michael Smith,2016-06-07,NA,NA,NA,NA,NA
+W11219,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Michael Smith,2016-06-13,NA,NA,NA,NA,NA
+W11220,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Michael Smith,2016-06-13,NA,NA,NA,NA,NA
+W11221,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,So Jung Lee,2016-06-13,NA,NA,NA,NA,NA
+W11222-1B,SGA Query Starting Strain,SGA query strain which can be crossed to R1266 to make a diploid starter strain (usefull for marker-swapping recombination defective mutants),BY4741 x J1806 ,BY (S288C),a,can1∆::STE2pr-Sp_his5 lyp1∆::STE3pr-LEU2 his3∆1 leu2∆0 ura3∆0 met15∆0,NA,NA,-80C #2,8,4,4,2,6,1,Ivana Sunjevaric,2016-06-16,NA,SGA-Query,NA,Check MET and NAT markers and remove this note if correct,TRUE
+W11223-1C,pol30-RR::NatMX,"pol30-K127R,K164R",J1805 x W9100-12C,W303,alpha,"ADE2 leu2-3,112 his3-11,15 ura3-1 trp1 LYS2 RAD5 MET15 pol30-RR::NatMX",NA,NA,-80C #2,8,4,3,1,5,3,Ivana Sunjevaric,2016-06-21,NA,NA,NA,NA,TRUE
+W11224-1D,sgs1,sgs1::KanMX in W9100,W8695-10A x W9100-17D,W303,a,"lys2 ura3 his3 leu2(ΔEcoRI or leu2-3,112)",NA,NA,-80C #2,8,4,3,1,5,4,Ivana Sunjevaric,2016-06-21,NA,NA,NA,NA,TRUE
+W11225,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Ivana Sunjevaric,2016-06-13,NA,NA,NA,NA,NA
+W11226,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Ivana Sunjevaric,2016-06-15,NA,NA,NA,NA,NA
+W11227,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Ivana Sunjevaric,2016-06-15,NA,NA,NA,NA,NA
+W11228,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,So Jung Lee,2016-06-20,NA,NA,NA,NA,NA
+W11229,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Ivana Sunjevaric,2016-06-20,NA,NA,NA,NA,NA
+W11230-1A,pol30-RR::NatMX,"NatMX inserted next to pol30-K127R,K164R",W11223-1C x W11224-1D,W303,a,"ADE2 TRP1 LYS2 MET15 ura3-1 leu2-3,112 his3-11,15 can1 RAD5 pol30-K127R,K164R::NatMX",,,-80C #2,8,4,3,1,6,1,Ivana Sunjevaric,2016-08-10,NA,Project-RAD5-OE,NA,NA,TRUE
+W11231,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Ivana Sunjevaric,2016-06-20,NA,NA,NA,NA,NA
+W11232,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,So Jung Lee,2016-06-29,NA,NA,NA,NA,NA
+W11233,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,So Jung Lee,2016-06-29,NA,NA,NA,NA,NA
+W11234,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Michael Smith,2016-07-08,NA,NA,NA,NA,NA
+W11235,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Michael Smith,2016-08-02,NA,NA,NA,NA,NA
+W11236,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Michael Smith,2016-08-12,NA,NA,NA,NA,NA
+W11237,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Michael Smith,2016-08-12,NA,NA,NA,NA,NA
+W11238,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,So Jung Lee,2016-09-13,NA,NA,NA,NA,NA
+W11239,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,So Jung Lee,2016-10-01,NA,NA,NA,NA,NA
+W11240,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,So Jung Lee,2016-10-19,NA,NA,NA,NA,NA
+W11241,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fraulin Joseph,2016-10-20,NA,NA,NA,NA,NA
+W11242,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Robert J.D. Reid,NA,NA,NA,NA,NA,NA
+W11243,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Robert J.D. Reid,NA,NA,NA,NA,NA,NA
+W11244,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Robert J.D. Reid,NA,NA,NA,NA,NA,NA
+W11245,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Robert J.D. Reid,NA,NA,NA,NA,NA,NA
+W11246,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Robert J.D. Reid,NA,NA,NA,NA,NA,NA
+W11247,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Robert J.D. Reid,NA,NA,NA,NA,NA,NA
+W11248-5B,bar1,bar1::NatMX,W11243-4B x J1807,W303,a,bar1::NatMX ADE2 TRP1 LYS2 RAD5,NA,NA,-80C #2,6,4,1,1,2,2,Robert J.D. Reid,2017-05-09,2019-RAD5-Bryant-Reid,,NA,NA,TRUE
+W11249,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Robert J.D. Reid,NA,NA,NA,NA,NA,NA
+W11250,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Robert J.D. Reid,NA,NA,NA,NA,NA,NA
+W11251,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Robert J.D. Reid,2016-11-02,NA,NA,NA,NA,NA
+W11252,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Robert J.D. Reid,2016-11-02,NA,NA,NA,NA,NA
+W11253,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Robert J.D. Reid,2016-11-02,NA,NA,NA,NA,NA
+W11254,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Robert J.D. Reid,2016-11-02,NA,NA,NA,NA,NA
+W11255,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Michael Smith,2016-11-14,NA,NA,NA,NA,NA
+W11256-1D,pol30-RR pol32,pol30-RR pol32,W11230-1A x W9154-1A,W303,alpha,ADE LYS trp ura leu his pol30-RR::NatMX  pol32::KanMX,NA,NA,-80C #2,8,4,1,3,3,1,Eric Bryant,2016-11-14,NA,NA,pol30-RR is a non-ubiqutinatable form of PCNA (2 K to R changes),NA,TRUE
+W11256-9D,pol30-RR pol32,pol30-RR pol32,W11230-1A x W9154-1A,W303,a,ADE LYS trp ura leu his pol30-RR::NatMX  pol32::KanMX,NA,NA,-80C #2,8,4,1,3,3,2,Eric Bryant,2016-11-14,NA,NA,pol30-RR is a non-ubiqutinatable form of PCNA (2 K to R changes),NA,TRUE
+W11257-2C,pol30-RR mre11,pol30-RR mre11,W11230-1A x W9193-10B,W303,alpha,ADE LYS trp ura leu his pol30-RR::NatMX  mre11::KanMX,NA,NA,-80C #2,8,4,1,3,3,3,Eric Bryant,2016-11-14,NA,NA,pol30-RR is a non-ubiqutinatable form of PCNA (2 K to R changes),NA,TRUE
+W11257-2D,pol30-RR mre11,pol30-RR mre11,W11230-1A x W9193-10B,W303,a,ADE LYS trp ura leu his pol30-RR::NatMX mre11::KanMX,NA,NA,-80C #2,8,4,1,3,3,4,Eric Bryant,2016-11-14,NA,NA,pol30-RR is a non-ubiqutinatable form of PCNA (2 K to R changes),NA,TRUE
+W11258-1C,pol30-RR mms4,pol30-RR mms4,W11230-1A x W9202-3D,W303,a,ADE TRP lys ura leu his pol30-RR::NatMX mms4::KanMX,NA,NA,-80C #2,8,4,1,3,3,5,Eric Bryant,2016-11-14,NA,NA,pol30-RR is a non-ubiqutinatable form of PCNA (2 K to R changes),NA,TRUE
+W11259,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Robert J.D. Reid,2016-11-20,NA,NA,NA,NA,NA
+W11260-7A,sgs1 bar1,sgs1::KanMX bar1::NatMX,W11224-1D x W11249-8A,W303,a,sgs1∆::KanMX  bar1∆::NatMX TRP1 lys,NA,NA,-80C#2,6,3,4,2,7,8,Robert J.D. Reid,2016-11-20,2019-RAD5-Bryant-Reid,NA,NA,NA,TRUE
+W11261,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fraulin Joseph,2016-11-30,NA,NA,NA,NA,NA
+W11262-9B,rDNA::ADE2-CAN1 pol30-RR::NatMX,rDNA::ADE2-CAN1 pol30-RR::NatMX,W4314-2C x W11230-1A,W303,a,"leu2-3,112 his3-11,15 ura3-1 trp1 LYS2 RAD5 MET15 rDNA::ADE2-CAN1 pol30-RR::NatMX",NA,NA,-80C #2,6,4,1,3,1,7,Eric Bryant,2018-07-17,NA,Project-RAD5-OE,NA,NA,TRUE
+W11262-22C,rDNA::ADE2-CAN1 pol30-RR::NatMX,rDNA::ADE2-CAN1 pol30-RR::NatMX,W4314-2C x W11230-1A,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 trp1 LYS2 RAD5 MET15 rDNA::ADE2-CAN1 pol30-RR::NatMX",NA,NA,-80C #2,6,4,1,3,1,8,Eric Bryant,2018-07-17,2019-RAD5-Bryant-Reid,Project-RAD5-OE,NA,NA,TRUE
+W11263,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Ivana Sunjevaric,2016-12-28,NA,NA,NA,NA,NA
+W11264,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Ivana Sunjevaric,2016-12-28,NA,NA,NA,NA,NA
+W11265,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fraulin Joseph,2017-01-13,NA,NA,NA,NA,NA
+W11266,NA,NA,U3304 x W9100-12C,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Eric Bryant,2017-01-24,NA,NA,NA,Failed to mate,FALSE
+W11267-6A,RAD5-3V5,RAD5-3V5::KanMX,U3305 x W9100-12C,W303,alpha,ADE trp LYS ura leu his RAD5-3V5::KanMX,NA,NA,-80C #2,8,4,1,3,8,1,Eric Bryant,2017-01-24,NA,NA,Backcross of U3305 transformation of RAD5-3V5::KanMX into W9100-17D,NA,TRUE
+W11267-8A,RAD5-3V5,RAD5-3V5::KanMX,U3305 x W9100-12C,W303,a,ADE TRP lys ura leu his RAD5-3V5::KanMX,NA,NA,-80C #2,8,4,1,3,8,2,Eric Bryant,2017-01-24,NA,NA,Backcross of U3305 transformation of RAD5-3V5::KanMX into W9100-17D,NA,TRUE
+W11268,exo1,exo1,rec1189 x R1281,BY (S288C),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Eric Bryant,2017-01-26,NA,NA,NA,No isolates frozen,FALSE
+W11269,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,So Jung Lee,2017-02-01,NA,NA,NA,NA,NA
+W11270,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fraulin Joseph,2017-02-03,NA,NA,NA,NA,NA
+W11271,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,So Jung Lee,2017-02-14,NA,NA,NA,NA,NA
+W11272,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Ivana Sunjevaric,2017-02-16,NA,NA,NA,NA,NA
+W11273,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,So Jung Lee,2017-02-28,NA,NA,NA,NA,NA
+W11274,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Robert J.D. Reid,NA,NA,NA,NA,NA,NA
+W11275,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Robert J.D. Reid,NA,NA,NA,NA,NA,NA
+W11276,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Robert J.D. Reid,NA,NA,NA,NA,NA,NA
+W11277,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Robert J.D. Reid,NA,NA,NA,NA,NA,NA
+W11278,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,So Jung Lee,2017-03-09,NA,NA,NA,NA,NA
+W11279,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Ivana Sunjevaric,2017-03-13,NA,NA,NA,NA,NA
+W11280-2B,pol30-RR,pol30-RR::NatMX,W9193-9B x W11223-1C,W303,alpha,his3 leu2 ura3 trp1 lys2  pol30-RR::NatMX,NA,NA,-80C #2,8,4,1,4,1,1,Eric Bryant,2017-03-20,NA,Project-RAD5-OE,NA,NA,TRUE
+W11280-10D,mre11,mre11::KanMX,W9193-9B x W11223-1C,W303,alpha,his3 leu2 ura3 TRP1 lys2 mre11::KanMX,NA,NA,-80C #2,8,4,1,4,1,2,Eric Bryant,2017-03-20,NA,Project-RAD5-OE,NA,NA,TRUE
+W11281-2A,ubc13,ubc13::KanMX,W11177-8D x W9100-2D,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ ubc13::KanMX",NA,NA,-80C #2,8,4,1,4,1,3,Eric Bryant,2017-03-20,NA,Project-RAD5-OE,NA,NA,TRUE
+W11281-2B,ubc13,ubc13::KanMX,W11177-8D x W9100-2D,W303,a,"leu2-3,112 his3-11,15 ura3-1 lys2∆ ubc13::KanMX",NA,NA,-80C #2,8,4,1,4,1,4,Eric Bryant,2017-03-20,NA,Project-RAD5-OE,NA,NA,TRUE
+W11281-11B,mms2,mms2::NatMX,W11177-8D x W9100-2D,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ ubc13::KanMX",NA,NA,-80C #2,8,4,1,4,1,5,Eric Bryant,2017-03-20,NA,Project-RAD5-OE,NA,NA,TRUE
+W11282,NA,NA,W9191-11C x W11223-1C,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Eric Bryant,2017-03-20,NA,NA,NA,WARNING: Progeny of a cross with a disomic strain (W9191-11C),FALSE
+W11283-1D,rad27,rad27::KanMX,W9195-10A x W11223-1C,W303,alpha,"ADE2 leu2-3,112 his3-11,15 ura3-1 TRP1 lys2∆ RAD5 MET15 rad27::KanMX",NA,NA,-80C #2,8,4,1,4,2,5,Eric Bryant,2017-03-27,NA,Project-RAD5-OE,NA,NA,TRUE
+W11283-8A,pol30-RR,pol30-RR::NatMX,W9195-10A x W11223-1C,W303,a,"ADE2 leu2-3,112 his3-11,15 ura3-1 TRP1 lys2∆ RAD5 MET15 pol30-RR::NatMX",NA,NA,-80C #2,8,4,1,4,2,6,Eric Bryant,2017-03-27,NA,Project-RAD5-OE,NA,NA,TRUE
+W11283-11D,rad27 pol30-RR,rad27::KanMX pol30-RR::NatMX,W9195-10A x W11223-1C,W303,alpha,"ADE2 leu2-3,112 his3-11,15 ura3-1 TRP1 lys2∆ RAD5 MET15 rad27::KanMX pol30-RR::NatMX",NA,NA,-80C #2,8,4,1,4,2,7,Eric Bryant,2017-03-27,NA,Project-RAD5-OE,NA,NA,TRUE
+W11284-1D,pol32,pol32::KanMX,W9154-9C x W11223-1C,W303,alpha,his3 leu2 ura3 TRP1 lys2 pol32::KanMX,NA,NA,-80C #2,8,4,1,4,2,8,Eric Bryant,2017-03-20,NA,Project-RAD5-OE,NA,NA,TRUE
+W11284-11C,pol30-RR,pol30-RR::NatMX,W9154-9C x W11223-1C,W303,a,his3 leu2 ura3 trp1 lys2 pol30-RR::NatMX,NA,NA,-80C #2,8,4,1,4,2,9,Eric Bryant,2017-03-20,NA,Project-RAD5-OE,NA,NA,TRUE
+W11285-3A,rad17 pol30-RR,rad17::KanMX pol30-RR::NatMX,W9194-2A x W11223-1C,W303,a,his3 leu2 ura3 TRP1 lys2 rad17::KanMX pol30-RR::NatMX,NA,NA,-80C #2,8,4,1,4,3,1,Eric Bryant,2017-03-20,NA,Project-RAD5-OE,NA,NA,TRUE
+W11286-3C,exo1,exo1::KanMX,LSY2374-1 x W9100-17D,W303,a,his3 leu2 ura3 TRP1 lys2 exo1::KanMX,NA,NA,-80C #2,8,4,1,4,3,2,Eric Bryant,2017-03-20,NA,Project-RAD5-OE,W303 a TRP lys exo1::KanMX W11286-8D has same genotype LSY2374-1 is from the Symington lab: MAT alpha ade2 trp1 LYS2 his3 leu2 ura3 can1 exo1::KanMX6 RAD5+,NA,TRUE
+W11286-8D,exo1,exo1::KanMX,LSY2374-1 x W9100-17D,W303,a,his3 leu2 ura3 TRP1 lys2 exo1::KanMX,NA,NA,-80C #2,8,4,1,4,3,3,Eric Bryant,2017-03-20,NA,Project-RAD5-OE,W303 a TRP lys exo1::KanMX W11286-8D has same genotype LSY2374-1 is from the Symington lab: MAT alpha ade2 trp1 LYS2 his3 leu2 ura3 can1 exo1::KanMX6 RAD5+,NA,TRUE
+W11287-3D,mms4,mms4::KanMX,W9202-3A x W11223-1C,W303,alpha,his3 leu2 ura3 TRP1 lys2 mms4::KanMX,NA,NA,-80C #2,8,4,1,4,3,4,Eric Bryant,2017-03-20,NA,Project-RAD5-OE,NA,NA,TRUE
+W11288,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Michael Smith,2017-03-30,NA,NA,NA,NA,NA
+W11289,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Robert J.D. Reid,2017-03-31,NA,NA,NA,NA,NA
+W11290,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Judith Mine Hattab,2017-04-07,NA,NA,NA,NA,NA
+W11291,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Judith Mine Hattab,2017-04-07,NA,NA,NA,NA,NA
+W11292,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Eric Bryant,2017-04-10,NA,NA,NA,Not completed,FALSE
+W11293,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Eric Bryant,2017-04-10,NA,NA,NA,Not completed,FALSE
+W11294,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Eric Bryant,2017-04-10,NA,NA,NA,Not completed,FALSE
+W11295,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Eric Bryant,2017-04-10,NA,NA,NA,Not completed,FALSE
+W11296,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Eric Bryant,2017-04-10,NA,NA,NA,Not completed,FALSE
+W11297,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Eric Bryant,2017-04-10,NA,NA,NA,Not completed,FALSE
+W11298,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Ivana Sunjevaric,2017-04-17,NA,NA,NA,NA,NA
+W11299,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Ivana Sunjevaric,2017-04-17,NA,NA,NA,NA,NA
+W11300-6A,mTQ2-RAD5,RAD5 N-terminally tagged with monomeric yeast codon optimized turquoise2,W9117,W303,a,"leu2-3,112 his3-11,15 ura3-1 mTQ2-RAD5",NA,NA,-80C #2,8,4,3,1,8,4,Ivana Sunjevaric,2017-05-05,2019-RAD5-Bryant-Reid,Project-RAD5-OE,"Diploid W9117 transformed with TQ2-URA3-TQ2, URA3 pop out on 5FOA , then dissected",NA,TRUE
+W11301,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Michael Smith,2017-04-19,NA,NA,NA,NA,NA
+W11302,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Michael Smith,2017-04-19,NA,NA,NA,NA,NA
+W11303,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,So Jung Lee,2017-04-28,NA,NA,NA,NA,NA
+W11304,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Robert J.D. Reid,2017-05-08,NA,NA,NA,NA,NA
+W11305,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Michael Smith,2017-05-24,NA,NA,NA,NA,NA
+W11306,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Michael Smith,2017-05-24,NA,NA,NA,NA,NA
+W11307,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Michael Smith,2017-06-06,NA,NA,NA,NA,NA
+W11308-6A,yen1,yen1::KanMX,U3309 x W11282-10A,W303,a,TRP lys,S000000843-KanMX,S000000843,NA,NA,NA,NA,NA,NA,NA,Isabel Sollohub,2017-09-13,NA,Project-CTF4-OE,U strain for this W strain was not frozen and the W strain was thrown away ,U strain for this W strain was not frozen and the W strain was thrown away ,FALSE
+W11308-6D,yen1,yen1::KanMX,U3309 x W11282-10A,W303,alpha,TRP lys,S000000843-KanMX,S000000843,NA,NA,NA,NA,NA,NA,NA,Isabel Sollohub,2017-09-13,NA,Project-CTF4-OE,U strain for this W strain was not frozen and the W strain was thrown away ,U strain for this W strain was not frozen and the W strain was thrown away ,FALSE
+W11309-2C,mec3,mec3::KanMX,U3310 x W11282-10A,W303,a,TRP lys,S000004279-KanMX,S000004279,NA,NA,NA,NA,NA,NA,NA,Isabel Sollohub,2017-09-13,NA,Project-CTF4-OE,U strain for this W strain was not frozen and the W strain was thrown away ,U strain for this W strain was not frozen and the W strain was thrown away ,FALSE
+W11309-2D,mec3,mec3::KanMX,U3310 x W11282-10A,W303,alpha,TRP lys,S000004279-KanMX,S000004279,NA,NA,NA,NA,NA,NA,NA,Isabel Sollohub,2017-09-13,NA,Project-CTF4-OE,U strain for this W strain was not frozen and the W strain was thrown away ,U strain for this W strain was not frozen and the W strain was thrown away ,FALSE
+W11310-2B,rad24,rad24::KanMX,U3323 X W9100-2D,W303,alpha,TRP lys,S000000975::KanMX,S000000975,-80C #2,8,4,1,4,6,7,Isabel Sollohub,2018-02-22,NA,Project-CTF4-OE,NA,NA,TRUE
+W11310-2D,rad24,rad24::KanMX,U3323 X W9100-2D,W303,a,TRP lys,S000000975::KanMX,S000000975,-80C #2,8,4,1,4,6,4,Isabel Sollohub,2018-02-22,NA,Project-CTF4-OE,NA,NA,TRUE
+W11311-3A,sgs1,sgs1::KanMX,U3326 X W9100-2D,W303,alpha,TRP lys,S000004802::KanMX,S000004802,NA,NA,NA,NA,NA,NA,NA,Isabel Sollohub,2018-02-22,NA,Project-CTF4-OE,NA,NA,FALSE
+W11311-3B,sgs1,sgs1::KanMX,U3326 X W9100-2D,W303,alpha,TRP lys,S000004802::KanMX,S000004802,-80C #2,8,4,1,4,6,3,Isabel Sollohub,2018-02-22,NA,Project-CTF4-OE,NA,NA,TRUE
+W11312-2B,top1,top1::KanMX,U3328 X W9100-2D,W303,alpha,TRP lys,S000005366::KanMX,S000005366,-80C #2,8,4,1,4,6,8,Isabel Sollohub,2018-02-22,NA,Project-CTF4-OE,NA,NA,TRUE
+W11312-2D,top1,top1::KanMX,U3328 X W9100-2D,W303,alpha,TRP lys,S000005366::KanMX,S000005366,NA,NA,NA,NA,NA,NA,NA,Isabel Sollohub,2018-02-22,NA,Project-CTF4-OE,NA,NA,FALSE
+W11313-1B,ddc1,ddc1::KanMX,U3329 X W9100-2D,W303,alpha,TRP lys,S000006115::KanMX,S000006115,-80C #2,8,4,1,4,6,6,Isabel Sollohub,2018-02-22,NA,Project-CTF4-OE,NA,NA,TRUE
+W11313-1D,ddc1,ddc1::KanMX,U3329 X W9100-2D,W303,a,TRP lys,S000006115::KanMX,S000006115,-80C #2,8,4,1,4,6,5,Isabel Sollohub,2018-02-22,NA,Project-CTF4-OE,NA,NA,TRUE
+W11314-8C,rad17,rad17::KanMX,U3311 x W11282-10A,W303,alpha,TRP lys,S000005895-KanMX,S000005895,NA,NA,NA,NA,NA,NA,NA,Isabel Sollohub,2017-09-13,NA,Project-CTF4-OE,U strain for this W strain was not frozen and the W strain was thrown away ,U strain for this W strain was not frozen and the W strain was thrown away ,FALSE
+W11314-8D,rad17,rad17::KanMX,U3311 x W11282-10A,W303,a,TRP lys,S000005895-KanMX,S000005895,NA,NA,NA,NA,NA,NA,NA,Isabel Sollohub,2017-09-13,NA,Project-CTF4-OE,U strain for this W strain was not frozen and the W strain was thrown away ,U strain for this W strain was not frozen and the W strain was thrown away ,FALSE
+W11315-6A,ctf4,ctf4::KanMX,U3312 x W11282-10A,W303,alpha,TRP lys,S000006339-KanMX,S000006339,NA,NA,NA,NA,NA,NA,NA,Isabel Sollohub,2017-09-13,NA,Project-CTF4-OE,U strain for this W strain was not frozen and the W strain was thrown away ,U strain for this W strain was not frozen and the W strain was thrown away ,FALSE
+W11315-6D,ctf4,ctf4::KanMX,U3312 x W11282-10A,W303,a,TRP lys,S000006339-KanMX,S000006339,NA,NA,NA,NA,NA,NA,NA,Isabel Sollohub,2017-09-13,NA,Project-CTF4-OE,U strain for this W strain was not frozen and the W strain was thrown away ,U strain for this W strain was not frozen and the W strain was thrown away ,FALSE
+W11316-2B,rad50,rad50::KanMX,U3313 x W11282-10A,W303,a,TRP lys,S000005194-KanMX,S000005194,NA,NA,NA,NA,NA,NA,NA,Isabel Sollohub,2017-09-13,NA,Project-CTF4-OE,U strain for this W strain was not frozen and the W strain was thrown away ,U strain for this W strain was not frozen and the W strain was thrown away ,FALSE
+W11316-10B,rad50,rad50::KanMX,U3313 x W11282-10A,W303,alpha,TRP lys,S000005194-KanMX,S000005194,NA,NA,NA,NA,NA,NA,NA,Isabel Sollohub,2017-09-13,NA,Project-CTF4-OE,U strain for this W strain was not frozen and the W strain was thrown away ,U strain for this W strain was not frozen and the W strain was thrown away ,FALSE
+W11317-1C,ctf18,ctf18::KanMX,U3314 x W11282-10A,W303,a,TRP lys,S000004683-KanMX,S000004683,NA,NA,NA,NA,NA,NA,NA,Isabel Sollohub,2017-09-13,NA,Project-CTF4-OE,U strain for this W strain was not frozen and the W strain was thrown away ,U strain for this W strain was not frozen and the W strain was thrown away ,FALSE
+W11317-5C,ctf18,ctf18::KanMX,U3314 x W11282-10A,W303,alpha,TRP lys,S000004683-KanMX,S000004683,NA,NA,NA,NA,NA,NA,NA,Isabel Sollohub,2017-09-13,NA,Project-CTF4-OE,U strain for this W strain was not frozen and the W strain was thrown away ,U strain for this W strain was not frozen and the W strain was thrown away ,FALSE
+W11318-2A,esc2,esc2::KanMX,U3315 x W11282-10A,W303,a,TRP lys,S000002771-KanMX,S000002771,NA,NA,NA,NA,NA,NA,NA,Isabel Sollohub,2017-09-13,NA,Project-CTF4-OE,U strain for this W strain was not frozen and the W strain was thrown away ,U strain for this W strain was not frozen and the W strain was thrown away ,FALSE
+W11318-2D,esc2,esc2::KanMX,U3315 x W11282-10A,W303,alpha,TRP lys,S000002771-KanMX,S000002771,NA,NA,NA,NA,NA,NA,NA,Isabel Sollohub,2017-09-13,NA,Project-CTF4-OE,U strain for this W strain was not frozen and the W strain was thrown away ,U strain for this W strain was not frozen and the W strain was thrown away ,FALSE
+W11319-6A,dpb3,dpb3::KanMX,U3316 x W9100-17D,W303,alpha,TRP lys,S000000482-KanMX,S000000482,NA,NA,NA,NA,NA,NA,NA,Isabel Sollohub,2017-09-13,NA,Project-CTF4-OE,Strain validation on 09-08-17 proved this strain did not have a deletion - PCR with DPB3 - DF primer and KanMX internal,Strain validation on 09-08-17 proved this strain did not have a deletion - PCR with DPB3 - DF primer and KanMX internal,FALSE
+W11319-6B,dpb3,dpb3::KanMX,U3316 x W9100-17D,W303,a,TRP lys,S000000482-KanMX,S000000482,NA,NA,NA,NA,NA,NA,NA,Isabel Sollohub,2017-09-13,NA,Project-CTF4-OE,Strain validation on 09-08-17 proved this strain did not have a deletion - PCR with DPB3 - DF primer and KanMX internal,Strain validation on 09-08-17 proved this strain did not have a deletion - PCR with DPB3 - DF primer and KanMX internal,FALSE
+W11320,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Ivana Sunjevaric,2017-07-02,NA,NA,NA,NA,NA
+W11321,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Isabel Sollohub,2017-08-01,NA,NA,NA,NA,NA
+W11322,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Isabel Sollohub,2017-08-01,NA,NA,NA,NA,NA
+W11323,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Ivana Sunjevaric,2017-08-25,NA,NA,NA,NA,NA
+W11324,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Ivana Sunjevaric,2017-08-25,NA,NA,NA,NA,NA
+W11325,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Ivana Sunjevaric,2017-08-25,NA,NA,NA,NA,NA
+W11326,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Ivana Sunjevaric,2017-08-25,NA,NA,NA,NA,NA
+W11327,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Ivana Sunjevaric,2017-08-25,NA,NA,NA,NA,NA
+W11328,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Michael Smith,2017-09-27,NA,NA,NA,NA,NA
+W11329,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Michael Smith,2017-09-27,NA,NA,NA,NA,NA
+W11330,SGA Query Starting Strain,SGA query diploid starter strain (useful for marker-swapping recombination defective mutants),R1266 x W11222-1B,BY (S288C),a/alpha,can1∆::STE2pr-Sp_his5/can1∆::STE2pr-Sp_his5 lyp1∆::STE3pr-LEU2/lyp1∆::STE3pr-LEU2 his3∆1/his3∆1 leu2∆0/leu2∆0 ura3∆0/ura3∆0 met15∆0/met15∆0,NA,NA,-80C #2,8,3,3,2,5,4,Eric Bryant,2017-10-03,NA,SGA-Query,Strain constructed by pulling zygotes and checking for inability to grow on both -His and -Leu (taking advantage of the haploid specific promoters of the query backgrounds),NA,TRUE
+W11331-3D,"rad5-DE681,682AA","rad5-DE681,682AA backcrossed pop-in/pop-out",J1848 x W9100-12C,W303,a,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5-DE681,682AA","S000004022-DE681,682AA",S000004022,-80C #2,8,3,3,2,6,3,Eric Bryant,2017-10-11,NA,Project-RAD5-OE,Sequence verified backcross,NA,TRUE
+W11331-7A,"rad5-DE681,682AA","rad5-DE681,682AA backcrossed pop-in/pop-out",J1848 x W9100-12C,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5-DE681,682AA","S000004022-DE681,682AA",S000004022,-80C #2,8,3,3,2,6,4,Eric Bryant,2017-10-11,2019-RAD5-Bryant-Reid,Project-RAD5-OE,Sequence verified backcross,NA,TRUE
+W11332-7D,rad5-I916A,rad5-I916A backcrossed pop-in/pop-out,J1849 x W9100-12C,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5-I916A",S000004022-I916A,S000004022,-80C #2,8,3,3,2,6,5,Eric Bryant,2017-10-11,2019-RAD5-Bryant-Reid,Project-RAD5-OE,Sequence verified backcross,NA,TRUE
+W11333-9B,"rad5-DEI681,682,916AAA","rad5-DEI681,682,916AAA backcrossed pop-in/pop-out",J1850 x W9100-12C,W303,a,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5-DEI681,682,916AAA","S000004022-DEI681,682,916AAA",S000004022,-80C #2,8,3,3,2,6,6,Eric Bryant,2017-10-11,NA,Project-RAD5-OE,Sequence verified backcross,Do NOT use this strain. 2 to 2 segregation of slow growth that does not perfectly segregate with the mutation. Backcrossing a second time.,TRUE
+W11334-4A,rad5-RGRKK217_221EGEEE,rad5-RGRKK217_221EGEEE backcrossed pop-in/pop-out,J1851 x W9100-12C,W303,a,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5-RGRKK217_221EGEEE",S000004022-RGRKK217_221EGEEE,S000004022,-80C #2,8,3,3,2,6,7,Eric Bryant,2017-10-11,NA,Project-RAD5-OE,Sequence verified backcross,NA,TRUE
+W11334-6D,rad5-RGRKK217_221EGEEE,rad5-RGRKK217_221EGEEE backcrossed pop-in/pop-out,J1851 x W9100-12C,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5-RGRKK217_221EGEEE",S000004022-RGRKK217_221EGEEE,S000004022,-80C #2,8,3,3,2,6,8,Eric Bryant,2017-10-11,NA,Project-RAD5-OE,Sequence verified backcross,NA,TRUE
+W11335-5C,rad5-R229E,rad5-R229E backcrossed pop-in/pop-out,J1853 x W9100-12C,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5-R229E",S000004022-R229E,S000004022,-80C #2,8,3,3,2,7,1,Eric Bryant,2017-10-11,NA,Project-RAD5-OE,Sequence verified backcross,NA,TRUE
+W11336-3B,rad5-R241E,rad5-R241E backcrossed pop-in/pop-out,J1854 x W9100-12C,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5-R241E",S000004022-R241E,S000004022,-80C #2,8,3,3,2,7,8,Eric Bryant,2017-10-19,NA,Project-RAD5-OE,Sequence verified backcross,NA,TRUE
+W11336-8A,rad5-R241E,rad5-R241E backcrossed pop-in/pop-out,J1854 x W9100-12C,W303,a,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5-R241E",S000004022-R241E,S000004022,-80C #2,8,3,3,2,8,1,Eric Bryant,2017-10-19,NA,Project-RAD5-OE,Sequence verified backcross,NA,TRUE
+W11337-1B,rad5-I916A::HPH,rad5-I916A::HPH backcrossed pop-in/pop-out,J1865 x W9100-12C,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5-I916A::HPH",S000004022-I916A::HPH,S000004022,-80C #2,8,3,3,2,7,2,Eric Bryant,2017-10-19,NA,Project-RAD5-OE,Sequence verified backcross,2 to 2 segregation of mild growth defect that segregates with HPH that was not observed for the unmarked version,TRUE
+W11338-7D,"rad5-DEI681,682,916AAA::HPH","rad5-DEI681,682,916AAA::HPH backcrossed pop-in/pop-out",J1866 x W9100-12C,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5-DEI681,682,916AAA::HPH","S000004022-DEI681,682,916AAA::HPH",S000004022,-80C #2,8,3,3,2,7,3,Eric Bryant,2017-10-19,NA,Project-RAD5-OE,Sequence verified backcross,2 to 2 segregation of mild growth defect that segregates with HPH that was not observed for the unmarked version,TRUE
+W11339-3A,rad5-RGRKK217_221EGEEE::HPH,rad5-RGRKK217_221EGEEE::HPH backcrossed pop-in/pop-out,J1867 x W9100-12C,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5-RGRKK217_221EGEEE::HPH",S000004022-RGRKK217_221EGEEE::HPH,S000004022,-80C #2,8,3,3,2,7,4,Eric Bryant,2017-10-19,NA,Project-RAD5-OE,Sequence verified backcross,2 to 2 segregation of very slow growth that segregates with HPH that was not observed for the unmarked version,TRUE
+W11339-7D,rad5-RGRKK217_221EGEEE::HPH,rad5-RGRKK217_221EGEEE::HPH backcrossed pop-in/pop-out,J1867 x W9100-12C,W303,a,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5-RGRKK217_221EGEEE::HPH",S000004022-RGRKK217_221EGEEE::HPH,S000004022,-80C #2,8,3,3,2,7,5,Eric Bryant,2017-10-19,NA,Project-RAD5-OE,Sequence verified backcross,2 to 2 segregation of very slow growth that segregates with HPH that was not observed for the unmarked version,TRUE
+W11340-7A,rad5-R229E::HPH,rad5-R229E::HPH backcrossed pop-in/pop-out,J1869 x W9100-12C,W303,a,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5-R229E::HPH",S000004022-R229E::HPH,S000004022,-80C #2,8,3,3,2,7,6,Eric Bryant,2017-10-19,NA,Project-RAD5-OE,Sequence verified backcross,2 to 2 segregation of mild growth defect that segregates with HPH that was not observed for the unmarked version,TRUE
+W11340-6C,rad5-R229E::HPH,rad5-R229E::HPH backcrossed pop-in/pop-out,J1869 x W9100-12C,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5-R229E::HPH",S000004022-R229E::HPH,S000004022,-80C #2,8,3,3,2,7,7,Eric Bryant,2017-10-19,NA,Project-RAD5-OE,Sequence verified backcross,2 to 2 segregation of mild growth defect that segregates with HPH that was not observed for the unmarked version,TRUE
+W11341,NA,NA,W9913-42A x W11119-9A,W303,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Michael Smith,2017-10-27,NA,NA,NA,NA,NA
+W11342,NA,NA,W9100-11B x W11153-8B,W303,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Michael Smith,2017-10-27,NA,NA,NA,NA,NA
+W11343,NA,NA,W9100-11B x W11006-4A,W303,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Michael Smith,2017-10-27,NA,NA,NA,NA,NA
+W11344,NA,NA,R1708 x W9100-12C,W303,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Michael Smith,2017-11-10,NA,NA,NA,NA,NA
+W11345-1D,rad5-R187E,rad5-R187E backcrossed pop-in/pop-out,J1852 x W9100-12C,W303,a,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5-R187E",S000004022-R187E,S000004022,-80C #2,8,3,3,2,8,3,Eric Bryant,2017-11-14,NA,Project-RAD5-OE,Sequence verified backcross,NA,TRUE
+W11345-10D,rad5-R187E,rad5-R187E backcrossed pop-in/pop-out,J1852 x W9100-12C,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5-R187E",S000004022-R187E,S000004022,-80C #2,8,3,3,2,8,4,Eric Bryant,2017-11-14,2019-RAD5-Bryant-Reid,Project-RAD5-OE,Sequence verified backcross,NA,TRUE
+W11346,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Michael Smith,2017-11-20,NA,NA,NA,NA,NA
+W11347,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Michael Smith,2017-11-20,NA,NA,NA,NA,NA
+W11348-11D,"rad5-DEI681,682,916AAA","rad5-DEI681,682,916AAA second backcross",W11333-9B x W9100-2D,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5-DEI681,682,916AAA","S000004022-DEI681,682,916AAA",S000004022,-80C #2,8,3,3,2,8,5,Eric Bryant,2017-11-21,NA,Project-RAD5-OE,Sequence verified backcross #2,NA,TRUE
+W11349-7D,rad5∆ rDNA-CAN1-ADE2,rad5::KanMX rDNA-CAN1-ADE2,J1884 x W4314-2C,W303,a,"leu2-3,112 his3-11,15 ura3-1 trp1-1 rad5::KanMX rDNA::ADE2-CAN1",NA,NA,-80C #2,8,3,3,1,4,1,Ivana Sunjevaric,2017-12-01,2019-RAD5-Bryant-Reid,Project-RAD5-OE,NA,NA,TRUE
+W11350,NA,NA,J1890 x W11248-5B,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Ivana Sunjevaric,2017-12-01,NA,NA,NA,NA,NA
+W11351,NA,NA,W1696-6C x R1696,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Robert J.D. Reid,2017-12-04,NA,NA,NA,NA,NA
+W11352,NA,NA,W1696-6C x W9100-17D,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Robert J.D. Reid,2017-12-04,NA,NA,NA,NA,NA
+W11353-1A,rad5∆,rad5::KanMX,J1884 x W9100-2D,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5::KanMX",S000004022-KanMX,S000004022,-80C #2,8,3,3,2,8,6,Eric Bryant,2017-12-06,2019-RAD5-Bryant-Reid,Project-RAD5-OE,PCR validation: RAD5-DF (756) RAD5-DR (757) RAD5-int-332-R (1254) KanMX-int5'-R2 (511),NA,TRUE
+W11353-1C,rad5∆,rad5::KanMX,J1884 x W9100-2D,W303,a,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5::KanMX",S000004022-KanMX,S000004022,-80C #2,8,3,3,2,8,7,Eric Bryant,2017-12-06,NA,Project-RAD5-OE,PCR validation: RAD5-DF (756) RAD5-DR (757) RAD5-int-332-R (1254) KanMX-int5'-R2 (511),NA,TRUE
+W11354,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Robert J.D. Reid,2018-01-08,NA,NA,NA,NA,NA
+W11355,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Robert J.D. Reid,2018-01-08,NA,NA,NA,NA,NA
+W11356,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Robert J.D. Reid,2018-01-08,NA,NA,NA,NA,NA
+W11357,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Robert J.D. Reid,2018-01-08,NA,NA,NA,NA,NA
+W11358-1B,FLAG-RAD5,FLAG-RAD5,J1897 x W9100-2D,W303,a,"leu2-3,112 his3-11,15 ura3-1 lys2∆ FLAG-RAD5",S000004022-FLAG-N-terminus,S000004022,-80C #2,8,3,3,3,3,5,Eric Bryant,2018-01-11,NA,Project-RAD5-OE,NA,NA,TRUE
+W11358-2D,FLAG-RAD5,FLAG-RAD5,J1897 x W9100-2D,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ FLAG-RAD5",S000004022-FLAG-N-terminus,S000004022,-80C #2,8,3,3,3,3,6,Eric Bryant,2018-01-11,NA,Project-RAD5-OE,NA,NA,TRUE
+W11359,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Robert J.D. Reid,2018-01-14,NA,NA,NA,NA,NA
+W11360,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Michael Smith,2018-01-22,NA,NA,NA,NA,NA
+W11361-10A,rad51 rad5,rad51::KanMX rad5::KanMX,J1756 x W11353-1A,W303,a,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad51::KanMX rad5::KanMX",NA,NA,-80C #2,8,3,3,3,5,5,Eric Bryant,2018-01-13,NA,Project-RAD5-OE,NA,NA,TRUE
+W11361-10D,rad51 rad5,rad51::KanMX rad5::KanMX,J1756 x W11353-1A,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad51::KanMX rad5::KanMX",NA,NA,-80C #2,8,3,3,3,5,6,Eric Bryant,2018-01-13,NA,Project-RAD5-OE,NA,NA,TRUE
+W11362-1A,rad51,rad51,J1756 x W11331-7A,W303,a,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad51::KanMX",NA,NA,-80C #2,8,3,3,3,5,7,Eric Bryant,2018-01-13,NA,Project-RAD5-OE,NA,NA,TRUE
+W11362-1B,"rad51 rad5-DE681,682AA","rad51 rad5-DE681,682AA",J1756 x W11331-7A,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad51::KanMX rad5-DE681,682AA",NA,NA,-80C #2,8,3,3,3,5,8,Eric Bryant,2018-01-13,NA,Project-RAD5-OE,NA,NA,TRUE
+W11362-2C,"rad51 rad5-DE681,682AA","rad51 rad5-DE681,682AA",J1756 x W11331-7A,W303,a,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad51::KanMX rad5-DE681,682AA",NA,NA,-80C #2,8,3,3,3,6,1,Eric Bryant,2018-01-13,NA,Project-RAD5-OE,NA,NA,TRUE
+W11362-5B,rad51,rad51,J1756 x W11331-7A,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad51::KanMX",NA,NA,-80C #2,8,3,3,3,6,2,Eric Bryant,2018-01-13,2019-RAD5-Bryant-Reid,Project-RAD5-OE,NA,NA,TRUE
+W11363-1C,rad51 rad5-I916A,rad51 rad5-I916A,J1756 x W11332-7D,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad51::KanMX rad5-I916A",NA,NA,-80C #2,8,3,3,3,6,3,Eric Bryant,2018-01-13,NA,Project-RAD5-OE,NA,NA,TRUE
+W11363-6C,rad51 rad5-I916A,rad51 rad5-I916A,J1756 x W11332-7D,W303,a,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad51::KanMX rad5-I916A",NA,NA,-80C #2,8,3,3,3,6,4,Eric Bryant,2018-01-13,NA,Project-RAD5-OE,NA,NA,TRUE
+W11364-2D,rad51 rad5-R187E,rad51 rad5-R187E,J1756 x W11345-10D,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad51::KanMX rad5-R187E",NA,NA,-80C #2,8,3,3,3,6,5,Eric Bryant,2018-01-13,NA,Project-RAD5-OE,NA,NA,TRUE
+W11364-4D,rad51 rad5-R187E,rad51 rad5-R187E,J1756 x W11345-10D,W303,a,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad51::KanMX rad5-R187E",NA,NA,-80C #2,8,3,3,3,6,6,Eric Bryant,2018-01-13,NA,Project-RAD5-OE,NA,NA,TRUE
+W11365-5A,sgs1 rad5,sgs1 rad5,W11224-1D x W11353-1A,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ sgs1::KanMX rad5::KanMX",NA,NA,-80C #2,8,3,3,3,6,7,Eric Bryant,2018-01-13,2019-RAD5-Bryant-Reid,Project-RAD5-OE,NA,NA,TRUE
+W11365-5B,sgs1 rad5,sgs1 rad5,W11224-1D x W11353-1A,W303,a,"leu2-3,112 his3-11,15 ura3-1 lys2∆ sgs1::KanMX rad5::KanMX",NA,NA,-80C #2,8,3,3,3,6,8,Eric Bryant,2018-01-13,NA,Project-RAD5-OE,NA,NA,TRUE
+W11366-3A,sgs1,sgs1,W11224-1D x W11331-7A,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ sgs1::KanMX",NA,NA,-80C #2,8,3,3,3,7,1,Eric Bryant,2018-01-13,2019-RAD5-Bryant-Reid,Project-RAD5-OE,NA,NA,TRUE
+W11366-3C,"sgs1 rad5-DE681,682AA","sgs1 rad5-DE681,682AA",W11224-1D x W11331-7A,W303,a,"leu2-3,112 his3-11,15 ura3-1 lys2∆ sgs1::KanMX rad5-DE681,682AA",NA,NA,-80C #2,8,3,3,3,7,2,Eric Bryant,2018-01-13,NA,Project-RAD5-OE,NA,NA,TRUE
+W11366-7A,"sgs1 rad5-DE681,682AA","sgs1 rad5-DE681,682AA",W11224-1D x W11331-7A,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ sgs1::KanMX rad5-DE681,682AA",NA,NA,-80C #2,8,3,3,3,7,3,Eric Bryant,2018-01-13,NA,Project-RAD5-OE,NA,NA,TRUE
+W11367-2B,sgs1 rad5-I916A,sgs1 rad5-I916A,W11224-1D x W11332-7D,W303,a,"leu2-3,112 his3-11,15 ura3-1 lys2∆ sgs1::KanMX rad5-I916A",NA,NA,-80C #2,8,3,3,3,7,4,Eric Bryant,2018-01-13,NA,Project-RAD5-OE,NA,NA,TRUE
+W11367-7B,sgs1 rad5-I916A,sgs1 rad5-I916A,W11224-1D x W11332-7D,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ sgs1::KanMX rad5-I916A",NA,NA,-80C #2,8,3,3,3,7,7,Eric Bryant,2018-01-13,NA,Project-RAD5-OE,NA,NA,TRUE
+W11368-6A,sgs1 rad5-R187E,sgs1 rad5-R187E,W11224-1D x W11345-10D,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ sgs1::KanMX rad5-R187E",NA,NA,-80C #2,8,3,3,3,7,5,Eric Bryant,2018-01-13,NA,Project-RAD5-OE,NA,NA,TRUE
+W11368-6C,sgs1 rad5-R187E,sgs1 rad5-R187E,W11224-1D x W11345-10D,W303,a,"leu2-3,112 his3-11,15 ura3-1 lys2∆ sgs1::KanMX rad5-R187E",NA,NA,-80C #2,8,3,3,3,7,6,Eric Bryant,2018-01-13,NA,Project-RAD5-OE,NA,NA,TRUE
+W11369,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Serge Gangloff,2018-02-02,NA,NA,NA,NA,NA
+W11370,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Serge Gangloff,2018-02-07,NA,NA,NA,NA,NA
+W11371,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Serge Gangloff,2018-02-07,NA,NA,NA,NA,NA
+W11372,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Michael Smith,2018-02-21,NA,NA,NA,NA,NA
+W11373,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Michael Smith,2018-02-21,NA,NA,NA,NA,NA
+W11374,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Michael Smith,2018-02-21,NA,NA,NA,W11378,NA
+W11375,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Michael Smith,2018-02-21,NA,NA,NA,Skipped due to illegible writing in book,NA
+W11376,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Michael Smith,2018-02-21,NA,NA,NA,Skipped due to illegible writing in book,NA
+W11377,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Michael Smith,2018-02-21,NA,NA,NA,Skipped due to illegible writing in book,NA
+W11378,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Michael Smith,2018-02-21,NA,NA,NA,W11374,NA
+W11379,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Michael Smith,2018-02-26,NA,NA,NA,NA,NA
+W11380,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Michael Smith,2018-03-01,NA,NA,NA,NA,NA
+W11381,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Michael Smith,2018-03-07,NA,NA,NA,NA,NA
+W11382,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fraulin Joseph,2018-03-14,NA,NA,NA,NA,NA
+W11383,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fraulin Joseph,2018-03-14,NA,NA,NA,NA,NA
+W11384,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Michael Smith,2018-03-16,NA,NA,NA,NA,NA
+W11385,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Michael Smith,2018-03-16,NA,NA,NA,NA,NA
+W11386,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Michael Smith,2018-03-16,NA,NA,NA,NA,NA
+W11387,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fraulin Joseph,2018-03-27,NA,NA,NA,NA,NA
+W11388,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Fraulin Joseph,2018-03-27,NA,NA,NA,NA,NA
+W11389,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Michael Smith,2018-03-27,NA,NA,NA,NA,NA
+W11390,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Michael Smith,2018-03-27,NA,NA,NA,NA,NA
+W11391-2C,sgs1 pol30-RR,sgs1::KanMX pol30-RR::NatMX,W11366-3A x W11283-8A,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ sgs1::KanMX pol30-RR::NatMX",NA,NA,-80C #2,8,3,3,4,5,7,Eric Bryant,2018-03-31,2019-RAD5-Bryant-Reid,Project-RAD5-OE,NA,NA,TRUE
+W11391-2D,sgs1,sgs1::KanMX,W11366-3A x W11283-8A,W303,a,"leu2-3,112 his3-11,15 ura3-1 lys2∆ sgs1::KanMX",NA,NA,-80C #2,8,3,3,4,5,8,Eric Bryant,2018-03-31,NA,Project-RAD5-OE,NA,NA,TRUE
+W11391-4A,sgs1 pol30-RR,sgs1::KanMX pol30-RR::NatMX,W11366-3A x W11283-8A,W303,a,"leu2-3,112 his3-11,15 ura3-1 lys2∆ sgs1::KanMX pol30-RR::NatMX",NA,NA,-80C #2,8,3,3,4,6,1,Eric Bryant,2018-03-31,NA,Project-RAD5-OE,NA,NA,TRUE
+W11391-8C,pol30-RR,pol30-RR::NatMX,W11366-3A x W11283-8A,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ pol30-RR::NatMX",NA,NA,-80C #2,8,3,3,4,6,2,Eric Bryant,2018-03-31,2019-RAD5-Bryant-Reid,Project-RAD5-OE,NA,NA,TRUE
+W11392,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Michael Smith,2018-04-06,NA,NA,NA,NA,NA
+W11393,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Michael Smith,2018-04-13,NA,NA,NA,NA,NA
+W11394,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Robert J.D. Reid,2018-04-17,NA,NA,NA,NA,NA
+W11395,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Robert J.D. Reid,2018-04-17,NA,NA,NA,NA,NA
+W11396,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Robert J.D. Reid,2018-04-17,NA,NA,NA,NA,NA
+W11397,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Robert J.D. Reid,2018-04-17,NA,NA,NA,NA,NA
+W11398,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Robert J.D. Reid,2018-04-17,NA,NA,NA,NA,NA
+W11399-1B,rad5,rad5::NatMX,J1898 x W9100-17D,W303,a,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5::NatMX",NA,NA,-80C #2,8,3,3,4,6,3,Eric Bryant,2018-04-25,NA,Project-RAD5-OE,NA,NA,TRUE
+W11399-2A,rad5,rad5::NatMX,J1898 x W9100-17D,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad5::NatMX",NA,NA,-80C #2,8,3,3,4,6,4,Eric Bryant,2018-04-25,NA,Project-RAD5-OE,NA,NA,TRUE
+W11400-2B,top1::KanMX,top1::KanMX,W11312-2B x W9100-17D,W303,a,"leu2-3,112 his3-11,15 ura3-1 lys2∆ top1::KanMX",NA,NA,-80C #2,8,3,3,4,6,5,Eric Bryant,2018-04-25,NA,Project-RAD5-OE,NA,NA,TRUE
+W11400-2C,top1::KanMX,top1::KanMX,W11312-2B x W9100-17D,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ top1::KanMX",NA,NA,-80C #2,8,3,3,4,6,6,Eric Bryant,2018-04-25,NA,Project-RAD5-OE,NA,NA,TRUE
+W11401,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Ivana Sunjevaric,2018-04-26,NA,NA,NA,NA,NA
+W11402,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Robert J.D. Reid,NA,NA,NA,NA,NA,NA
+W11403-2D,top1::KanMX rad5::NatMX,top1::KanMX rad5::NatMX,W11400-2C x W11399-1B,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ top1::KanMX rad5::NatMX",NA,NA,-80C #2,8,3,3,4,6,7,Eric Bryant,2018-05-01,NA,Project-RAD5-OE,NA,NA,TRUE
+W11403-5B,top1::KanMX rad5::NatMX,top1::KanMX rad5::NatMX,W11400-2C x W11399-1B,W303,a,"leu2-3,112 his3-11,15 ura3-1 lys2∆ top1::KanMX rad5::NatMX",NA,NA,-80C #2,8,3,3,4,6,8,Eric Bryant,2018-05-01,NA,Project-RAD5-OE,NA,NA,TRUE
+W11404,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Robert J.D. Reid,2018-05-09,NA,NA,NA,NA,NA
+W11405,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Michael Smith,2018-05-10,NA,NA,NA,NA,NA
+W11406,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Serge Gangloff,2018-05-10,NA,NA,NA,NA,NA
+W11407,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Serge Gangloff,2018-05-10,NA,NA,NA,NA,NA
+W11408,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Robert J.D. Reid,2018-0514,NA,NA,NA,NA,NA
+W11409-1D,rad18,rad18::HphMX,W11172-1B x W11366-3A,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ rad18::HphMX",NA,NA,-80C #2,8,4,3,4,3,7,Eric Bryant,2018-05-31,2019-RAD5-Bryant-Reid,Project-RAD5-OE,NA,NA,TRUE
+W11409-1B,sgs1 rad18,sgs1::KanMX rad18::HphMX,W11172-1B x W11366-3A,W303,a,"leu2-3,112 his3-11,15 ura3-1 lys2∆ sgs1::KanMX rad18::HphMX",NA,NA,-80C #2,8,4,3,4,3,8,Eric Bryant,2018-05-31,NA,Project-RAD5-OE,NA,NA,TRUE
+W11409-4D,sgs1 rad18,sgs1::KanMX rad18::HphMX,W11172-1B x W11366-3A,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ sgs1::KanMX rad18::HphMX",NA,NA,-80C #2,8,4,3,4,4,1,Eric Bryant,2018-05-31,2019-RAD5-Bryant-Reid,Project-RAD5-OE,NA,NA,TRUE
+W11410-2A,ubc13 mms2,ubc13::KanMX mms2::NatMX,W11177-8D x W11366-3A,W303,a,"leu2-3,112 his3-11,15 ura3-1 lys2∆ ubc13::KanMX mms2::NatMX",NA,NA,-80C #2,6,4,1,3,2,1,Eric Bryant,2018-05-31,NA,Project-RAD5-OE,NA,NA,TRUE
+W11410-2C,mms2,mms2::NatMX,W11177-8D x W11366-3A,W303,a,"leu2-3,112 his3-11,15 ura3-1 lys2∆ mms2::NatMX",NA,NA,-80C #2,6,4,1,3,2,2,Eric Bryant,2018-05-31,NA,Project-RAD5-OE,NA,NA,TRUE
+W11410-4B,ubc13 mms2,ubc13::KanMX mms2::NatMX,W11177-8D x W11366-3A,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ ubc13::KanMX mms2::NatMX",NA,NA,-80C #2,6,4,1,3,2,3,Eric Bryant,2018-05-31,2019-RAD5-Bryant-Reid,Project-RAD5-OE,NA,NA,TRUE
+W11410-4C,sgs1 ubc13 mms2,sgs1::KanMX ubc13::KanMX mms2::NatMX,W11177-8D x W11366-3A,W303,a,"leu2-3,112 his3-11,15 ura3-1 lys2∆ sgs1::KanMX ubc13::KanMX mms2::NatMX",NA,NA,-80C #2,6,4,1,3,2,4,Eric Bryant,2018-05-31,NA,Project-RAD5-OE,NA,NA,TRUE
+W11410-7B,mms2,mms2::NatMX,W11177-8D x W11366-3A,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ mms2::NatMX",NA,NA,-80C #2,6,4,1,3,2,5,Eric Bryant,2018-05-31,NA,Project-RAD5-OE,NA,NA,TRUE
+W11410-13D,sgs1 ubc13 mms2,sgs1::KanMX ubc13::KanMX mms2::NatMX,W11177-8D x W11366-3A,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 lys2∆ sgs1::KanMX ubc13::KanMX mms2::NatMX",NA,NA,-80C #2,6,4,1,3,2,6,Eric Bryant,2018-05-31,2019-RAD5-Bryant-Reid,Project-RAD5-OE,NA,NA,TRUE
+W11411,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Serge Gangloff,2018-05-21,NA,NA,NA,NA,NA
+W11412,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Serge Gangloff,2018-05-21,NA,NA,NA,NA,NA
+W11413,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Serge Gangloff,2018-05-21,NA,NA,NA,NA,NA
+W11414,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Michael Smith,2018-06-01,NA,NA,NA,NA,NA
+W11415,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Michael Smith,2018-06-01,NA,NA,NA,NA,NA
+W11416,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Michael Smith,2018-06-01,NA,NA,NA,NA,NA
+W11417,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Michael Smith,2018-06-01,NA,NA,NA,NA,NA
+W11418,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Michael Smith,2018-06-01,NA,NA,NA,NA,NA
+W11419,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Michael Smith,2018-06-01,NA,NA,NA,NA,NA
+W11420,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Michael Smith,2018-06-01,NA,NA,NA,NA,NA
+W11421-44B,rDNA::ADE2-CAN1 rad18,rDNA::ADE2-CAN1 rad18::HphMX,W4314-2C x W11172-1B,W303,alpha,"leu2-3,112 his3-11,15 ura3-1 trp1 rDNA::ADE2-CAN1 rad18::HphMX",NA,NA,-80C #2,6,4,1,3,2,7,Eric Bryant,2018-07-17,2019-RAD5-Bryant-Reid,Project-RAD5-OE,NA,NA,TRUE
+W11422-30C,rDNA::ADE2-CAN1 ubc13 mms2,rDNA::ADE2-CAN1 ubc13::KanMX mms2::NatMX,W4314-2C x W11410-2A,W303,a,"leu2-3,112 his3-11,15 ura3-1 trp1 rDNA::ADE2-CAN1 ubc13::KanMX mms2::NatMX",NA,NA,-80C #2,6,4,1,3,2,8,Eric Bryant,2018-07-17,2019-RAD5-Bryant-Reid,Project-RAD5-OE,NA,NA,TRUE

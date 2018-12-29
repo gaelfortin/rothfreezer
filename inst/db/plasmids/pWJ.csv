@@ -1,356 +1,356 @@
-plasmid_id,name,description,promoter,terminator,allele_id,gene_id,gene_name,yeast_marker,yeast_propagation,bact_marker,bact_propagation,plasmid_parent,host_strain,freezer,shelf,rack,pullout,insert,row,column,owner,date,reference_available,notes,phenotype,filemaker
-pWJ1512,CUP1p-Empty,,CUP1p,,empty,empty,empty,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pRS415,,-80C #2,8,2,1,2,5,4,Peter Thorpe,2010-01-29,,"Yeast centromere vector pRS415 with LEU2 marker, copper inducible promoter, and A/B homology sites.",viable,TRUE
-pWJ1781,GAL1p-Empty,,GAL1p,,empty,empty,empty,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1512 & pWJ1047,,-80C #2,8,1,1,1,5,7,John Dittmar,2009-05-11,,"Yeast centromere vector pRS415 with LEU2 marker, galactose inducible promoter, and A/B homology sites.",viable,TRUE
-pWJ1799,GAL1p-mcm5-bob1,,GAL1p,ADH2t,S000004264-bob1,S000004264,mcm5-bob1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,,-80C #2,8,1,1,1,8,1,John Dittmar,2009-07-08,,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,TRUE
-pWJ1800,GAL1p-MCM5,,GAL1p,ADH2t,S000004264,S000004264,MCM5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,,-80C #2,8,1,1,1,8,2,John Dittmar,2009-07-08,,Transformed with A/B homology into pWJ1781 cut with Hpa1,-,TRUE
-pWJ1801,GAL1p-MCM6,,GAL1p,ADH2t,S000003169,S000003169,MCM6,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,,-80C #2,8,1,1,1,8,3,John Dittmar,2009-07-08,,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,TRUE
-pWJ1802,LacOx256,"pRS306 LacOx256 in stb2 cells, frozen in TB buffer (pWJ1413 digested with XhoI to remove the iYCL013 sequence).",-,-,,,,,,,,pWJ1413,stbl2,-80C #2,8,3,2,3,4,9,Judith Mine-Hattab,2009-07-29,,Grow at 30 degres. 2014-01-13 Strain do not grow on 30C or 37C!,-,TRUE
-pWJ1803,CUP1p-PKH3,,CUP1p,ADH2t,,,PKH3,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1512,,-80C #2,8,1,1,1,8,4,John Dittmar,2009-09-17,,,,TRUE
-pWJ1804,CUP1p-ULP2,,CUP1p,ADH2t,,,ULP2,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1512,,-80C #2,8,1,1,1,8,5,John Dittmar,2009-09-28,,,,TRUE
-pWJ1805,CUP1p-SGO1,,CUP1p,ADH2t,,,SGO1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1512,,-80C #2,6,1,3,4,5,6,Ivana Sunjevaric,2009-10-27,,,,TRUE
-pWJ1806,CUP1p-CIN8,,CUP1p,,S000000787,S000000787,CIN8,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1512,,-80C #2,6,1,3,4,5,7,Ivana Sunjevaric,2009-10-27,,Transformed with A/B homology into pWJ1512 cut with Hpa1,viable,TRUE
-pWJ1891,GAL1p-SMT3,,GAL1p,ADH2t,S000002918,S000002918,SMT3,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,,-80C #2,7,2,3,1,7,6,John Dittmar,2011-01-21,,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,TRUE
-pWJ1892,GAL1p-SPC110,,GAL1p,ADH2t,,,SPC110,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,,-80C #2,7,2,3,1,7,7,John Dittmar,2011-01-21,,,LETHAL,TRUE
-pWJ1893,CUP1p-PKH2,,CUP1p,ADH2t,,,PKH2,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1512,,-80C #2,6,1,2,3,8,8,Ivana Sunjevaric,2011-01-24,,,,TRUE
-pWJ1894,Vector for independent promoter and ORF cloning,Z-NruI-A-HpaI-B,-,ADH2t,,,-,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1512,,-80C #2,6,3,4,3,1,2,Robert J.D. Reid,2011-02-04,,,,TRUE
-pWJ1895,CUP1p-SMT3,,CUP1p,ADH2t,,,SMT3,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1512,,-80C #2,7,2,3,1,7,8,John Dittmar,2011-01-25,,,,TRUE
-pWJ1896,GAL1p-BUB1,,GAL1p,ADH2t,S000003420,S000003420,BUB1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,,-80C #2,7,2,3,1,8,1,John Dittmar,2011-01-31,,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,TRUE
-pWJ1936,CUP1p-DMC1,DMC1 cDNA transformed with A/B homology into pWJ1512 cut with Hpa1,CUP1p,ADH2t,S000000981,S000000981,DMC1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1512,DH10b,-80C #2,8,1,3,3,8,6,Ivana Sunjevaric,2011-06-14,,DMC1 cDNA transformed with A/B homology into pWJ1512 cut with Hpa1,viable,TRUE
-pWJ2073,GAL1p-CAC2,,GAL1p,ADH2t,S000004570,S000004570,CAC2,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,1,1,Eric Bryant,2012-07-20,,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,TRUE
-pWJ2074,GAL1p-CDC7,,GAL1p,ADH2t,S000002175,S000002175,CDC7,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,1,2,Eric Bryant,2012-07-20,,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,TRUE
-pWJ2075,GAL1p-ECM38,,GAL1p,ADH2t,S000004290,S000004290,ECM38,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,1,3,Eric Bryant,2012-07-24,,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,TRUE
-pWJ2076,GAL1p-CTF4,,GAL1p,ADH2t,S000006339,S000006339,CTF4,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,1,4,Eric Bryant,2012-07-24,,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,TRUE
-pWJ2077,GAL1p-GUA1,,GAL1p,ADH2t,S000004830,S000004830,GUA1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,1,5,Eric Bryant,2012-07-24,,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,TRUE
-pWJ2078,GAL1p-STI1,,GAL1p,ADH2t,S000005553,S000005553,STI1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,1,6,Eric Bryant,2012-07-30,,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,TRUE
-pWJ2079,GAL1p-ULP2,,GAL1p,ADH2t,S000001293,S000001293,ULP2,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,1,7,Eric Bryant,2012-08-08,,Transformed with A/B homology into pWJ1781 cut with Hpa1,LETHAL,TRUE
-pWJ2080,GAL1p-YTA7,,GAL1p,ADH2t,S000003502,S000003502,YTA7,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,1,8,Eric Bryant,2012-08-08,,Transformed with A/B homology into pWJ1781 cut with Hpa1,LETHAL,TRUE
-pWJ2081,GAL1p-AKR2,,GAL1p,ADH2t,S000005560,S000005560,AKR2,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,2,1,Eric Bryant,2012-08-09,,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,TRUE
-pWJ2082,GAL1p-BUR6,,GAL1p,ADH2t,S000000961,S000000961,BUR6,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,2,2,Eric Bryant,2012-08-08,,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,TRUE
-pWJ2083,GAL1p-AIM25,,GAL1p,ADH2t,S000003861,S000003861,AIM25,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,2,3,Eric Bryant,2012-08-08,,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,TRUE
-pWJ2084,GAL1p-AKR1,,GAL1p,ADH2t,S000002672,S000002672,AKR1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,2,4,Eric Bryant,2012-08-08,,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,TRUE
-pWJ2085,GAL1p-POL30,,GAL1p,ADH2t,S000000292,S000000292,POL30,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,2,5,Eric Bryant,2012-08-14,,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,TRUE
-pWJ2086,GAL1p-RPN5,,GAL1p,ADH2t,S000002306,S000002306,RPN5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,2,6,Eric Bryant,2012-08-14,,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,TRUE
-pWJ2087,GAL1p-SRP1,,GAL1p,ADH2t,S000005133,S000005133,SRP1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,2,7,Eric Bryant,2012-08-14,,Transformed with A/B homology into pWJ1781 cut with Hpa1,SICK,TRUE
-pWJ2088,CUP1p-npl3-K217Q,,CUP1p,ADH2t,-,-,NPL3,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1512,DH10b,-80C #2,9,3,2,1,8,8,John Dittmar,2012-08-29,,,,TRUE
-pWJ2089,CUP1p-npl3-K217R,,CUP1p,ADH2t,-,-,NPL3,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1512,DH10b,-80C #2,8,3,1,2,1,1,John Dittmar,2012-08-29,,,,TRUE
-pWJ2090,GAL1p-CLB2,,GAL1p,ADH2t,S000006323,S000006323,CLB2,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,2,8,Eric Bryant,2012-09-12,,Transformed with A/B homology into pWJ1781 cut with Hpa1,LETHAL,TRUE
-pWJ2091,GAL1p-KIP1,,GAL1p,ADH2t,S000000159,S000000159,KIP1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,3,1,Eric Bryant,2012-09-12,,Transformed with A/B homology into pWJ1781 cut with Hpa1,LETHAL,TRUE
-pWJ2092,GAL1p-RAD57,,GAL1p,ADH2t,S000002411,S000002411,RAD57,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,3,2,Eric Bryant,2012-09-12,,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,TRUE
-pWJ2093,GAL1p-DSK2,,GAL1p,ADH2t,S000004889,S000004889,DSK2,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,3,3,Eric Bryant,2012-09-14,,Transformed with A/B homology into pWJ1781 cut with Hpa1,,TRUE
-pWJ2094,GAL1p-ECM14,,GAL1p,ADH2t,S000001174,S000001174,ECM14,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,3,4,Eric Bryant,2012-09-14,,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,TRUE
-pWJ2095,GAL1p-KAR3,,GAL1p,ADH2t,S000006345,S000006345,KAR3,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,3,5,Eric Bryant,2012-09-14,,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,TRUE
-pWJ2096,GAL1p-MPH1,,GAL1p,ADH2t,S000001441,S000001441,MPH1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,3,6,Eric Bryant,2012-09-14,,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,TRUE
-pWJ2097,GAL1p-MRPL9,,GAL1p,ADH2t,S000003452,S000003452,MRPL9,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,3,7,Eric Bryant,2012-09-14,,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,TRUE
-pWJ2098,GAL1p-MRS2,,GAL1p,ADH2t,S000005861,S000005861,MRS2,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,3,8,Eric Bryant,2012-09-14,,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,TRUE
-pWJ2099,GAL1p-RFC2,,GAL1p,ADH2t,S000003829,S000003829,RFC2,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,4,1,Eric Bryant,2012-09-14,,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,TRUE
-pWJ2100,GAL1p-TIM17,,GAL1p,ADH2t,S000003679,S000003679,TIM17,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,4,2,Eric Bryant,2012-09-14,,Transformed with A/B homology into pWJ1781 cut with Hpa1,SICK,TRUE
-pWJ2101,GAL1p-TSA1,,GAL1p,ADH2t,S000004490,S000004490,TSA1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,4,3,Eric Bryant,2012-09-14,,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,TRUE
-pWJ2102,GAL1p-TSA2,,GAL1p,ADH2t,S000002861,S000002861,TSA2,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,4,4,Eric Bryant,2012-09-14,,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,TRUE
-pWJ2103,GAL1p-TUB2,,GAL1p,ADH2t,S000001857,S000001857,TUB2,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,4,5,Eric Bryant,2012-09-14,,Transformed with A/B homology into pWJ1781 cut with Hpa1,,TRUE
-pWJ2104,MRE11-CFP,,,,,,,LEU2,,,,pWJ1864,DH10b,-80C #2,6,1,1,2,5,7,Michael Smith,2012-09-12,,,,TRUE
-pWJ2105,GAL1p-CLB5,,GAL1p,ADH2t,S000006324,S000006324,CLB5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,4,6,Eric Bryant,2012-09-24,,Transformed with A/B homology into pWJ1781 cut with Hpa1,,TRUE
-pWJ2106,GAL1p-RPN1,,GAL1p,ADH2t,S000001069,S000001069,RPN1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,4,7,Eric Bryant,2012-09-24,,Transformed with A/B homology into pWJ1781 cut with Hpa1. CTC-1290-CTG silent,viable,TRUE
-pWJ2107,CUP1p-npl3-K194Q,,CUP1p,ADH2t,S000002840-K194Q,S000002840,NPL3,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1512,DH10b,-80C #2,8,3,1,2,2,1,John Dittmar,2012-10-11,,,,TRUE
-pWJ2108,CUP1p-npl3-K194R,,CUP1p,ADH2t,S000002840-K194R,S000002840,NPL3,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1512,DH10b,-80C #2,8,3,1,2,2,2,John Dittmar,2012-10-11,,,,TRUE
-pWJ2109,CUP1p-npl3-K205Q,,CUP1p,ADH2t,S000002840-K205Q,S000002840,NPL3,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1512,DH10b,-80C #2,8,3,1,2,2,3,John Dittmar,2012-10-11,,,,TRUE
-pWJ2110,CUP1p-npl3-K205R,,CUP1p,ADH2t,S000002840-K205R,S000002840,NPL3,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1512,DH10b,-80C #2,8,3,1,2,2,4,John Dittmar,2012-10-11,,,,TRUE
-pWJ2111,CUP1p-npl3-4KQ,,CUP1p,ADH2t,S000002840-??,S000002840,NPL3,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1512,DH10b,-80C #2,8,3,1,2,2,5,John Dittmar,2012-10-11,,,,TRUE
-pWJ2112,CUP1p-npl3-4KR,,CUP1p,ADH2t,S000002840-??,S000002840,NPL3,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1512,DH10b,-80C #2,8,3,1,2,2,6,John Dittmar,2012-10-11,,,,TRUE
-pWJ2113,GAL1p-ypk2-T501E,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Vered W,2012-11-26,,,,TRUE
-pWJ2114,?,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Vered W,2012-11-26,-,-,-,FALSE
-pWJ2115,?,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Vered W,2012-11-26,-,-,-,FALSE
-pWJ2116,?,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Vered W,2012-11-26,-,-,-,FALSE
-pWJ2117,?,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Vered W,2012-11-26,-,-,-,FALSE
-pWJ2118,?,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Vered W,2012-11-26,-,-,-,FALSE
-pWJ2119,GAL1p-SPF1,,GAL1p,ADH2t,S000000757,S000000757,SPF1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,4,8,Eric Bryant,2013-03-04,,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,TRUE
-pWJ2120,GAL1p-VAM6,,GAL1p,ADH2t,S000002235,S000002235,VPS39,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,5,1,Eric Bryant,2013-03-04,,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,TRUE
-pWJ2121,GAL1p-ISN1,,GAL1p,ADH2t,S000005681,S000005681,ISN1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,5,2,Eric Bryant,2013-03-04,,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,TRUE
-pWJ2122,"GAL1p-ADE5,7",,GAL1p,ADH2t,S000003203,S000003203,"ADE5,7",LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,5,3,Eric Bryant,2013-06-04,,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,TRUE
-pWJ2123,GAL1p-CLB4,,GAL1p,ADH2t,S000004200,S000004200,CLB4,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,5,4,Eric Bryant,2013-06-04,,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,TRUE
-pWJ2124,GAL1p-rad5-G535R,,GAL1p,ADH2t,S000004022-G535R,S000004022,rad5-G535R,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,5,5,Eric Bryant,2013-06-04,,Transformed with A/B homology into pWJ1781 cut with Hpa1,,TRUE
-pWJ2125,GAL1p-RAD51,,GAL1p,ADH2t,S000000897,S000000897,RAD51,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,5,6,Eric Bryant,2013-06-04,,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,TRUE
-pWJ2126,GAL1p-RGD1,,GAL1p,ADH2t,S000000464,S000000464,RGD1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,5,7,Eric Bryant,2013-06-04,,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,TRUE
-pWJ2127,GAL1p-RPD3,,GAL1p,ADH2t,S000005274,S000005274,RPD3,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,5,8,Eric Bryant,2013-06-04,,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,TRUE
-pWJ2128,GAL1p-SKY1,,GAL1p,ADH2t,S000004829,S000004829,SKY1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,6,1,Eric Bryant,2013-06-04,,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,TRUE
-pWJ2129,GAL1p-SMD1,,GAL1p,ADH2t,S000003306,S000003306,SMD1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,6,2,Eric Bryant,2013-06-04,,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,TRUE
-pWJ2130,CUP1p-MIH1,,CUP1p,ADH2t,-,-,MIH1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1512,DH10b,-80C #2,8,1,4,1,6,6,Robert J.D. Reid,2016-06-10,,-,-,TRUE
-pWJ2131,GAL1p-MIH1,,GAL1p,ADH2t,-,-,MIH1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,1,4,1,6,7,Robert J.D. Reid,2016-06-10,-,-,-,TRUE
-pWJ2132,ras2-V19,,,,,,,HIS3,,AmpR,,pRS413,,-80C #2,8,1,4,3,5,4,Sake Vanwagenigen,2013-06-10,-,-,-,TRUE
-pWJ2133,CUP1p-rad53-4AQ,,CUP1p,ADH2t,-,-,RAD53,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1512,DH10b,-80C #2,8,1,4,3,5,6,Sake Vanwagenigen,2013-06-10,-,-,-,TRUE
-pWJ2134,CUP1p-HAC1 (CDS),CDS,CUP1p,ADH2t,-,-,HAC1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1512,DH10b,-80C #2,8,1,4,3,5,7,Sake Vanwagenigen,2013-06-10,-,-,-,TRUE
-pWJ2135,CUP1p-HAC1 (Genomic),Genomic,CUP1p,ADH2t,-,-,HAC1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1512,DH10b,-80C #2,8,1,4,3,5,8,Sake Vanwagenigen,2013-06-10,-,-,-,TRUE
-pWJ2136,SWE1-FLAG,,,,,,,,,,,pWJ1894,,-80C #2,8,1,4,1,6,8,Ivana Sunjevaric,2013-06-10,-,-,-,TRUE
-pWJ2137,CUP1p-CDH1,,CUP1p,ADH2t,-,-,CDH1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1512,DH10b,-80C #2,8,3,1,2,3,3,John Dittmar,2013-07-02,-,-,-,TRUE
-pWJ2138,SWE1-FLAG,,,,,,,,,,,pRS303,DH10b,-80C #2,8,1,4,1,7,2,Ivana Sunjevaric,2013-07-17,-,-,-,TRUE
-pWJ2139,CUP1p-MIH1,,CUP1p,ADH2t,-,-,MIH1,HIS3,CEN6/ARS4,AmpR,f1/pBR322,pWJ2130,DH10b,-80C #2,8,1,4,1,7,4,Ivana Sunjevaric,2013-08-28,-,-,-,TRUE
-pWJ2140,CUP1p-HSL7,,,,,,,URA3,CEN,AmpR,,pWJ1589,,-80C #2,8,1,4,1,7,5,Ivana Sunjevaric,2013-08-28,-,-,-,TRUE
-pWJ2141,GAL1p-EXO1,,GAL1p,ADH2t,S000005559,S000005559,EXO1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,6,5,Eric Bryant,2013-10-09,,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,TRUE
-pWJ2142,GAL1p-SEC14,,GAL1p,ADH2t,S000004684,S000004684,SEC14,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,6,6,Eric Bryant,2013-10-09,,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,TRUE
-pWJ2143,GAL1p-SNF1,,GAL1p,ADH2t,S000002885,S000002885,SNF1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,6,7,Eric Bryant,2013-10-09,,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,TRUE
-pWJ2144,GAL1p-TAF5,,GAL1p,ADH2t,S000000402,S000000402,TAF5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,6,8,Eric Bryant,2013-10-09,,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,TRUE
-pWJ2145,GAL1p-URA7,,GAL1p,ADH2t,S000000135,S000000135,URA7,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,7,1,Eric Bryant,2013-10-09,,Transformed with A/B homology into pWJ1781 cut with Hpa1,,TRUE
-pWJ2146,C-D adaptamers HpaI 2micron vector,,,,,,,URA3,,,,pRS426,,-80C #2,8,1,4,2,2,4,Ivana Sunjevaric,2013-12-12,-,-,-,TRUE
-pWJ2147,SIC1,,,,,,,URA3,,,,pWJ2146,,-80C #2,8,1,4,2,2,7,Ivana Sunjevaric,2013-12-20,-,-,-,TRUE
-pWJ2148,GAL1p-FLAG-CKS1,,GAL1p,ADH2t,-,-,CKS1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,1,4,2,2,8,Ivana Sunjevaric,2013-12-20,-,-,-,TRUE
-pWJ2149,GAL1p-CKS1-FLAG,,GAL1p,ADH2t,-,-,CKS1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,1,4,2,3,1,Ivana Sunjevaric,2013-12-20,-,-,-,TRUE
-pWJ2150,CUP1p-KIP2,,CUP1p,ADH2t,S000006076,S000006076,KIP2,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1512,DH10b,-80C #2,8,4,2,3,7,2,Eric Bryant,2014-01-21,,Transformed with A/B homology into pWJ1781 cut with Hpa1,,TRUE
-pWJ2151,CUP1p-TUB1,,CUP1p,ADH2t,S000004550,S000004550,TUB1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1512,DH10b,-80C #2,8,4,2,3,7,3,Eric Bryant,2014-01-21,,Transformed with A/B homology into pWJ1781 cut with Hpa1. T126del in spliced intron (does not affect splicing consensus sequences),,TRUE
-pWJ2152,CUP1p-TUB2,,CUP1p,ADH2t,S000001857,S000001857,TUB2,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1512,DH10b,-80C #2,8,4,2,3,7,4,Eric Bryant,2014-01-21,,Transformed with A/B homology into pWJ1781 cut with Hpa1,,TRUE
-pWJ2153,CUP1p-TUB3,,CUP1p,ADH2t,S000004593,S000004593,TUB3,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1512,DH10b,-80C #2,8,4,2,3,7,5,Eric Bryant,2014-01-21,,Transformed with A/B homology into pWJ1781 cut with Hpa1,,TRUE
-pWJ2154,CUP1p-MAD3,,CUP1p,ADH2t,S000003550,S000003550,MAD3,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1512,DH10b,-80C #2,8,4,2,3,7,6,Eric Bryant,2014-01-21,,Transformed with A/B homology into pWJ1781 cut with Hpa1,,TRUE
-pWJ2155,GAL1p-TUB1,,GAL1p,ADH2t,S000004550,S000004550,TUB1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,8,4,Eric Bryant,2014-01-21,,Transformed with A/B homology into pWJ1781 cut with Hpa1,,TRUE
-pWJ2156,CUP1p-TIM17,,CUP1p,ADH2t,S000003679,S000003679,TIM17,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1512,DH10b,-80C #2,8,4,2,3,7,7,Eric Bryant,2014-01-21,,Transformed with A/B homology into pWJ1781 cut with Hpa1,,TRUE
-pWJ2157,CUP1p-VPS4,,CUP1p,ADH2t,S000006377,S000006377,VPS4,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1512,DH10b,-80C #2,8,4,2,3,7,8,Eric Bryant,2014-01-21,,Transformed with A/B homology into pWJ1781 cut with Hpa1,,TRUE
-pWJ2158,CUP1p-DSK2,,CUP1p,ADH2t,S000004889,S000004889,DSK2,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1512,DH10b,-80C #2,8,4,2,3,8,1,Eric Bryant,2014-01-21,,Transformed with A/B homology into pWJ1781 cut with Hpa1,,TRUE
-pWJ2159,CUP1p-KAR3,,CUP1p,ADH2t,S000006345,S000006345,KAR3,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1512,DH10b,-80C #2,8,4,2,3,8,2,Eric Bryant,2014-01-21,,Transformed with A/B homology into pWJ1781 cut with Hpa1,,TRUE
-pWJ2160,CUP1p-MPH1,,CUP1p,ADH2t,S000001441,S000001441,MPH1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1512,DH10b,-80C #2,8,4,2,3,8,3,Eric Bryant,2014-01-21,,Transformed with A/B homology into pWJ1781 cut with Hpa1,,TRUE
-pWJ2161,GAL1p-VPS4,,GAL1p,ADH2t,S000006377,S000006377,VPS4,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,8,5,Eric Bryant,2014-01-21,,Transformed with A/B homology into pWJ1781 cut with Hpa1,,TRUE
-pWJ2162,GAL1p-YKL091C,,GAL1p,ADH2t,S000001574,S000001574,YKL091C,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,8,6,Eric Bryant,2014-01-21,,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,TRUE
-pWJ2163,GAL1p-YPT6,,GAL1p,ADH2t,S000004252,S000004252,YPT6,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,8,7,Eric Bryant,2014-01-21,,Transformed with A/B homology into pWJ1781 cut with Hpa1. TAG-648-TAA silent mutation; GAC-342-GAT silent mutation; PstI and SalI restriction sites added immediately within A and B adaptamer sequences.,viable,TRUE
-pWJ2164,CUP1p-SPF1,,CUP1p,ADH2t,S000000757,S000000757,SPF1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1512,DH10b,-80C #2,8,4,2,3,8,8,Eric Bryant,2014-02-05,,Transformed with A/B homology into pWJ1781 cut with Hpa1,,TRUE
-pWJ2165,GAL1p-KIP2,,GAL1p,ADH2t,S000006076,S000006076,KIP2,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,4,1,1,Eric Bryant,2014-02-05,,Transformed with A/B homology into pWJ1781 cut with Hpa1,,TRUE
-pWJ2166,GAL1p-TUB3,,GAL1p,ADH2t,S000004593,S000004593,TUB3,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,4,1,2,Eric Bryant,2014-02-05,,Transformed with A/B homology into pWJ1781 cut with Hpa1,,TRUE
-pWJ2167,GAL1p-MAD3,,GAL1p,ADH2t,S000003550,S000003550,MAD3,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,4,1,3,Eric Bryant,2014-02-05,,Transformed with A/B homology into pWJ1781 cut with Hpa1,,TRUE
-pWJ2168,CUP1p-SIC1,,CUP1p,ADH2t,-,-,SIC1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1512,DH10b,-80C #2,8,1,4,2,4,1,Ivana Sunjevaric,2014-02-24,-,-,-,TRUE
-pWJ2169,GAL1p-SIC1,,GAL1p,ADH2t,-,-,SIC1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,1,4,2,4,2,Ivana Sunjevaric,2014-02-24,-,-,-,TRUE
-pWJ2170,GAL1p-SIC1-FLAG,,GAL1p,ADH2t,-,-,SIC1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,1,4,2,4,3,Ivana Sunjevaric,2014-02-24,-,-,-,TRUE
-pWJ2171,GAL1p-DPB11,,GAL1p,ADH2t,S000003626,S000003626,DPB11,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,4,1,6,Eric Bryant,2014-02-27,,Transformed with A/B homology into pWJ1781 cut with Hpa1,,TRUE
-pWJ2172,GAL1p-URA8,,GAL1p,ADH2t,S000003864,S000003864,URA8,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,4,1,7,Eric Bryant,2014-02-27,,Transformed with A/B homology into pWJ1781 cut with Hpa1,,TRUE
-pWJ2173,GAL1p-VPS34,,GAL1p,ADH2t,S000004230,S000004230,VPS34,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,4,1,8,Eric Bryant,2014-02-27,,Transformed with A/B homology into pWJ1781 cut with Hpa1. 12 silent mutations: A174G; G333A; G576A; T747C; T1491C; C1710T; T1809C; T1944C; A2118G; T2199C; G2220A; T2439G,,TRUE
-pWJ2174,GAL1p-YPK9,,GAL1p,ADH2t,S000005817,S000005817,YPK9,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,4,2,1,Eric Bryant,2014-02-27,,Transformed with A/B homology into pWJ1781 cut with Hpa1,,TRUE
-pWJ2175,GAL1p-EMC2,,GAL1p,ADH2t,S000003848,S000003848,EMC2,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,4,2,2,Eric Bryant,2014-04-29,,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,TRUE
-pWJ2176,GAL1p-ORM1,,GAL1p,ADH2t,S000003270,S000003270,ORM1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,4,2,3,Eric Bryant,2014-04-29,,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,TRUE
-pWJ2177,GAL1p-VPS74,,GAL1p,ADH2t,S000002780,S000002780,VPS74,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,4,2,4,Eric Bryant,2014-04-29,,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,TRUE
-pWJ2178,pRS315,,,,,,,,,,,ZOO599,,,,,,,,,Eric Bryant,2014-07-03,,,,FALSE
-pWJ2179,pST1911,,,,,,,,,,,ZOO599,,,,,,,,,Eric Bryant,2014-07-03,,,,FALSE
-pWJ2180,pST1912,,,,,,,,,,,ZOO599,,,,,,,,,Eric Bryant,2014-07-03,,,,FALSE
-pWJ2181,GAL1p-HRD1,,GAL1p,ADH2t,S000005373,S000005373,HRD1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,4,2,6,Eric Bryant,2014-07-08,,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,TRUE
-pWJ2182,GAL1p-MMS2,,GAL1p,ADH2t,S000003055,S000003055,MMS2,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,4,2,7,Eric Bryant,2014-07-08,,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,TRUE
-pWJ2183,GAL1p-SGS1,,GAL1p,ADH2t,S000004802,S000004802,SGS1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,4,2,8,Eric Bryant,2014-07-08,,Transformed with A/B homology into pWJ1781 cut with Hpa1,SICK,TRUE
-pWJ2184,SIC1 2micron,,,,,,,HIS3,2micron,AmpR,,pWJ2147,DH10b,-80C #2,8,1,4,2,5,1,Ivana Sunjevaric,2014-08-01,-,-,-,TRUE
-pWJ2185,GAL1p-ARF1,,GAL1p,ADH2t,S000002351,S000002351,ARF1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,4,3,1,Eric Bryant,2014-08-14,,Transformed with A/B homology into pWJ1781 cut with Hpa1,SICK,TRUE
-pWJ2186,GAL1p-ARF2,,GAL1p,ADH2t,S000002296,S000002296,ARF2,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,4,3,2,Eric Bryant,2014-08-14,,Transformed with A/B homology into pWJ1781 cut with Hpa1,slow,TRUE
-pWJ2187,GAL1p-HSF1,,GAL1p,ADH2t,S000003041,S000003041,HSF1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,4,3,3,Eric Bryant,2014-08-14,,Transformed with A/B homology into pWJ1781 cut with Hpa1,SICK,TRUE
-pWJ2188,GAL1p-LSM1,,GAL1p,ADH2t,S000003660,S000003660,LSM1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,4,3,4,Eric Bryant,2014-08-14,,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,TRUE
-pWJ2189,GAL1p-YBL055C,,GAL1p,ADH2t,S000000151,S000000151,YBL055C,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,4,3,5,Eric Bryant,2014-08-14,,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,TRUE
-pWJ2190,GAL1p-LTO1,,GAL1p,ADH2t,S000005204,S000005204,LTO1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,4,3,6,Eric Bryant,2014-08-14,,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,TRUE
-pWJ2191,GAL1p-PER1,,GAL1p,ADH2t,S000000640,S000000640,PER1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,4,3,7,Eric Bryant,2014-08-26,,Transformed with A/B homology into pWJ1781 cut with Hpa1,slow,TRUE
-pWJ2192,CUP1p-FLAG-SWE1,,CUP1p,ADH2t,-,-,SWE1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1512,DH10b,-80C #2,8,1,4,2,5,4,Ivana Sunjevaric,2014-08-26,-,-,-,TRUE
-pWJ2193,GAL1p-CDC6,,GAL1p,ADH2t,S000003730,S000003730,CDC6,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,4,3,8,Eric Bryant,2014-12-23,,Transformed with A/B homology into pWJ1781 cut with Hpa1,,TRUE
-pWJ2194,GAL1p-SMP3,,GAL1p,ADH2t,S000005675,S000005675,SMP3,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,4,4,1,Eric Bryant,2014-12-23,,Transformed with A/B homology into pWJ1781 cut with Hpa1,,TRUE
-pWJ2195,GAL1p-DBR1,,GAL1p,ADH2t,S000001632,S000001632,DBR1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,4,4,2,Eric Bryant,2014-12-23,,Transformed with A/B homology into pWJ1781 cut with Hpa1,,TRUE
-pWJ2196,GAL1p-SCH9,,GAL1p,ADH2t,S000001248,S000001248,SCH9,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,4,4,3,Eric Bryant,2014-12-23,,Transformed with A/B homology into pWJ1781 cut with Hpa1,,TRUE
-pWJ2197,GAL1p-DCN1,,GAL1p,ADH2t,S000004118,S000004118,DCN1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,4,4,4,Eric Bryant,2014-12-29,,Transformed with A/B homology into pWJ1781 cut with Hpa1,,TRUE
-pWJ2198,GAL1p-SRS2,,,,,,,LEU2,2micron,AmpR,,ZOO383,,-80C #2,6,1,1,3,6,8,Michael Smith,2015-02-04,-,NOT SEQUENCE VERIFIED,,TRUE
-pWJ2199,GAL1p-POL1,,,,,,,,,,,,DH10b,,,,,,,,Eric Bryant,2015-03-27,,NOT SEQUENCE VERIFIED,,FALSE
-pWJ2200,GAL1p-RAD5,,GAL1p,ADH2t,S000004022,S000004022,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,,-80C #2,8,4,1,1,2,1,Robert J.D. Reid,2015-04-17,,-,-,TRUE
-pWJ2201,CUP1p-HHF1-YFP,,CUP1p,ADH2t,-,-,HHF1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1863,DH10b,-80C #2,8,4,1,1,2,2,Robert J.D. Reid,2015-04-17,-,-,-,TRUE
-pWJ2202,HHF1-YFP,,HHF1p,ADH2t,-,-,HHF1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1863,DH10b,-80C #2,8,4,1,1,2,3,Robert J.D. Reid,2015-04-17,-,-,-,TRUE
-pWJ2203,GAL1p-CKS1,,,,,,,,,,,pRS305,,-80C #2,8,4,1,1,2,5,Ivana Sunjevaric,2015-04-29,-,-,-,TRUE
-pWJ2204,CUP1p-HPR1,,CUP1p,ADH2t,-,-,HPR1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1512,DH10b,-80C #2,8,4,1,1,2,6,Benoit Palancade,2015-05-14,-,-,-,TRUE
-pWJ2205,CUP1p-hpr1-KR,,CUP1p,ADH2t,-,-,HPR1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1512,DH10b,-80C #2,8,4,1,1,2,7,Benoit Palancade,2015-05-14,-,-,-,TRUE
-pWJ2206,,,,,,,,,,,,,,-80C #2,8,4,2,1,5,4,So Jung Lee,2015-05-18,-,-,-,TRUE
-pWJ2207,-,-,-,-,-,-,-,-,-,-,-,-,-,-80C #2,-,-,-,-,-,-,So Jung Lee,2015-06-25,-,-,-,-
-pWJ2208,GAL1p-RAD5-YFP,,GAL1p,ADH2t,-,-,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2200,DH10b,-80C #2,8,4,1,1,2,8,Ivana Sunjevaric,2015-07-13,-,-,-,TRUE
-pWJ2209,GAL1p-RAD5-YFP,,,,,,RAD5,LEU2,,AmpR,,pRS305,DH10b,-80C #2,8,4,1,1,4,1,Ivana Sunjevaric,2015-08-17,-,-,-,TRUE
-pWJ2210,GAL1p-RAD6,,GAL1p,ADH2t,-,-,RAD6,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,1,1,4,2,Ivana Sunjevaric,2015-08-17,-,-,-,TRUE
-pWJ2211,GAL1p-RAD18,,GAL1p,ADH2t,-,-,RAD18,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,1,1,4,3,Ivana Sunjevaric,2015-08-17,-,-,-,TRUE
-pWJ2212,GAL1p-UBC13,,GAL1p,ADH2t,-,-,UBC13,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,1,1,4,4,Ivana Sunjevaric,2015-08-17,-,-,-,TRUE
-pWJ2213,GAL1p-BRE1,,,,,,,,,,,,,,,,,,,,Ivana Sunjevaric,2015-08-17,,,,FALSE
-pWJ2214,,,,,,,,,,,,,,-80C #2,8,4,2,1,5,5,So Jung Lee,2015-08-30,-,-,-,TRUE
-pWJ2215,GAL1p-RAD5,,GAL1p,ADH2t,-,-,RAD5,URA3,CEN6/ARS4,AmpR,f1/pBR322,pWJ2200,DH10b,-80C #2,8,4,1,1,5,2,Ivana Sunjevaric,2015-09-03,-,-,-,TRUE
-pWJ2216,"GAL1,10p double overexpression vector","GAL1,10p double overexpression vector. TEF terminator cloned into pWJ1781 (NruI digest) Amp, LEU2, CEN, Gal1,10 promoter.",GAL1p GAL10p,ADH2t TEFt,-,-,-,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781 & pAG36,DH10b,-80C #2,8,4,2,4,4,7,Eric Bryant,2015-09-25,-,"The TEF terminator from a KanMX cassette plasmid (pAG36) was amplified and cloned into the NruI cut site adjacent to the GAL1,10 bi-directional promoter. An NruI cut site was included to allow for double overexpression experiments by cloning into either NruI (downstream of GAL10), or HpaI (Downstream of GAL1)",-,TRUE
-pWJ2217,GAL1p-ctf4-C874A,,GAL1p,ADH2t,-,-,CTF4,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,4,4,8,Eric Bryant,2015-09-28,-,-,-,TRUE
-pWJ2218,GAL1p-ctf4-K900A,,GAL1p,ADH2t,-,-,CTF4,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,4,5,1,Eric Bryant,2015-10-09,-,-,-,TRUE
-pWJ2219,"GAL1p-ctf4-C874A,K900A",,GAL1p,ADH2t,-,-,CTF4,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,4,5,2,Eric Bryant,2015-10-09,-,-,-,TRUE
-pWJ2220,GAL1p-rad5-N155d,,GAL1p,ADH2t,-,-,CTF4,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,4,5,5,Eric Bryant,2015-11-16,-,rad5-R155MDYKDDDDK (ATGGACTACAAAGACGATGACGACAAG) N-terminal truncation of first 155 residues from rad5 with N-terminal FLAG epitope tag cloned downstream of GAL1 promoter. This version is likely functional since SDL interaction with rad51 is still observed. Sequence verified on 2016-08-29 Eric Bryant: Sequence checked from DNA purified on 2017-11-09,,TRUE
-pWJ2221,GAL1p-FLAG-RAD5,,GAL1p,ADH2t,-,-,CTF4,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,4,5,6,Eric Bryant,2015-11-16,-,RAD5-M1MDYKDDDDK (ATGGACTACAAAGACGATGACGACAAG) RAD5 with N-terminal FLAG epitope tag cloned downstream of GAL1 promoter. This version is likely functional since SDL interaction with rad51 is still observed. Sequence verified on 2016-08-29 Eric Bryant: sequence verified from DNA purified on 2017-11-09,-,TRUE
-pWJ2222,GAL1p-RAD5-FLAG,,GAL1p,ADH2t,-,-,CTF4,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,4,5,7,Eric Bryant,2015-11-16,-,RAD5-stop1170DYKDDDDKstop (TAG3508GACTACAAAGACGATGACGACAAGTAG) RAD5 with C-terminal FLAG epitope tag cloned downstream of GAL1 promoter. Sequence verified 2016-08-29 Eric Bryant: sequence verified from DNA purified on 2017-11-09,-,TRUE
-pWJ2223,,,,,,,,,,,,,,,,,,,,,So Jung Lee,2015-11-20,,,,-
-pWJ2224,GAL1p-RAD5,,GAL1p,ADH2t,-,-,RAD5,HIS3,CEN6/ARS4,AmpR,f1/pBR322,pWJ2200,DH10b,-80C #2,8,4,1,1,8,4,Ivana Sunjevaric,2015-12-29,-,-,-,TRUE
-pWJ2225,GAL10p-HA-YLR108C,,GAL10p,TEFt,-,-,YLR108C,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2216,DH10b,-80C #2,8,4,2,4,6,4,Eric Bryant,2016-02-10,-,Double Check sequence from 2016-08-29!,-,TRUE
-pWJ2226,GAL10p-YLR108C-HA,,GAL10p,TEFt,-,-,YLR108C,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2216,DH10b,-80C #2,8,4,2,4,6,5,Eric Bryant,2016-02-10,-,Double Check sequence from 2016-08-29!,-,TRUE
-pWJ2227,GAL10p-CTF18-HA,,GAL10p,TEFt,-,-,CTF18,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2216,DH10b,-80C #2,8,4,2,4,6,6,Eric Bryant,2016-02-10,-,Double Check sequence from 2016-08-29!,-,TRUE
-pWJ2228,GAL1p-FLAG-VPS74,,GAL1p,ADH2t,-,-,VPS74,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2216,DH10b,-80C #2,8,4,2,4,6,7,Eric Bryant,2016-02-10,-,Double Check sequence from 2016-08-29!,-,TRUE
-pWJ2229,GAL1p-VPS74-FLAG,,GAL1p,ADH2t,-,-,VPS74,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2216,DH10b,-80C #2,8,4,2,4,6,8,Eric Bryant,2016-02-10,-,Double Check sequence from 2016-08-29!,-,TRUE
-pWJ2230,"GAL1p-rad5-DE681,682AA",,GAL1p,ADH2t,-,-,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,1,1,8,5,Ivana Sunjevaric,2016-02-16,-,-,-,TRUE
-pWJ2231,GAL1p-rad5-I916A,,GAL1p,ADH2t,-,-,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,1,1,8,6,Ivana Sunjevaric,2016-02-16,-,-,-,TRUE
-pWJ2232,GAL1p-FLAG-CTF4,,GAL1p,ADH2t,-,-,CTF4,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2216,DH10b,-80C #2,8,4,2,4,7,1,Eric Bryant,2016-02-22,-,Duplicate at 842221? Sequence verified 2016-08-29,-,Duplicates!
-pWJ2233,GAL1p-rad5-p.1_164del,,GAL1p,ADH2t,-,-,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,1,1,8,7,Ivana Sunjevaric,2016-02-22,-,-,-,TRUE
-pWJ2234,GAL1p-rad5-p.1_293del,,GAL1p,ADH2t,-,-,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,1,1,8,8,Ivana Sunjevaric,2016-02-22,-,-,-,TRUE
-pWJ2235,GAL1p-rad5-p.1_904del,,GAL1p,ADH2t,-,-,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,3,1,1,1,Ivana Sunjevaric,2016-02-22,-,-,-,TRUE
-pWJ2236,GAL1p-rad5-p.1_983del,,GAL1p,ADH2t,-,-,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,3,1,1,2,Ivana Sunjevaric,2016-02-22,-,-,-,TRUE
-pWJ2237,GAL1p-rad5-p.990_1170del,,GAL1p,ADH2t,-,-,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,3,1,1,3,Ivana Sunjevaric,2016-02-22,-,-,-,TRUE
-pWJ2238,GAL1p-rad5-Q1106D,,GAL1p,ADH2t,-,-,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,3,1,1,3,Ivana Sunjevaric,2016-02-22,-,-,-,TRUE
-pWJ2239,GAL1p-rad5-V228A,,GAL1p,ADH2t,-,-,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,3,1,2,2,Ivana Sunjevaric,2016-04-11,-,-,-,TRUE
-pWJ2240,GAL1p-rad5-R229A,,GAL1p,ADH2t,-,-,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,3,1,2,3,Ivana Sunjevaric,2016-04-11,-,-,-,TRUE
-pWJ2241,GAL1p-rad5-I230A,,GAL1p,ADH2t,-,-,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,3,1,2,4,Ivana Sunjevaric,2016-04-11,-,-,-,TRUE
-pWJ2242,GAL1p-rad5-D232A,,GAL1p,ADH2t,-,-,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,3,1,2,5,Ivana Sunjevaric,2016-04-11,-,-,-,TRUE
-pWJ2243,GAL1p-rad5-G240A,,GAL1p,ADH2t,-,-,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,3,1,2,6,Ivana Sunjevaric,2016-04-11,-,-,-,TRUE
-pWJ2244,GAL1p-rad5-T186A,,GAL1p,ADH2t,-,-,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,3,1,3,1,Ivana Sunjevaric,2016-05-05,-,-,-,TRUE
-pWJ2245,GAL1p-rad5-L273A,,GAL1p,ADH2t,-,-,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,3,1,3,2,Ivana Sunjevaric,2016-05-05,-,-,-,TRUE
-pWJ2446,mRFP1-LacI,,,,,,,HIS3,,,,ZOO509,,-80C #2,8,4,2,1,8,2,So Jung Lee,2016-05-15,-,HIS3 marker. mRFP1-LacI expressed from HIS3 promoter. YFP was replaced with mRFP1 in ZOO509. HIS3p-mRFP1-LacI verified by sequencing but bad expression (doesn't form focus on LacO array),-,TRUE
-pWJ2447,GAL1p-rad5-173_281del,,GAL1p,ADH2t,-,-,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,3,1,3,5,Ivana Sunjevaric,2016-06-01,-,-,-,TRUE
-pWJ2448,GAL1p-rad5-183-189del,,GAL1p,ADH2t,-,-,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,3,1,3,6,Ivana Sunjevaric,2016-06-01,-,-,-,TRUE
-pWJ2449,GAL1p-rad5-G183_S197delinsIGGI,,GAL1p,ADH2t,-,-,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,3,1,3,7,Ivana Sunjevaric,2016-06-01,-,-,-,TRUE
-pWJ2450,GAL1p-rad5-190_197del,,GAL1p,ADH2t,-,-,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,3,1,3,8,Ivana Sunjevaric,2016-06-01,-,-,-,TRUE
-pWJ2451,GAL1p-rad5-204_214del,,GAL1p,ADH2t,-,-,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,3,1,4,1,Ivana Sunjevaric,2016-06-01,-,-,-,TRUE
-pWJ2452,GAL1p-rad5-S204_A225delinsIGGI,,GAL1p,ADH2t,-,-,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,3,1,4,2,Ivana Sunjevaric,2016-06-01,-,-,-,TRUE
-pWJ2453A,GAL1p-rad5-215-225del,,GAL1p,ADH2t,-,-,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,3,1,4,3,Ivana Sunjevaric,2016-06-01,-,-,-,TRUE
-pWJ2453B,CUP1p-RAD5,,CUP1p,ADH2t,-,-,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1512,DH10b,-80C #2,8,4,3,1,5,2,Ivana Sunjevaric,2016-06-15,-,-,-,TRUE
-pWJ2454,mCitrine-LacI-R197K,,HIS3p,,,,,HIS3,,,,ZOO509,,-80C #2,8,4,1,2,1,4,So Jung Lee,2016-06-22,-,-,-,TRUE
-pWJ2455,mCherry-Laci-R197K,,HIS3p,,,,,HIS3,,,,ZOO509,,-80C #2,8,4,1,2,1,6,So Jung Lee,2016-07-29,-,-,-,TRUE
-pWJ2456,,,,,,,,,,,,,,,,,,,,,So Jung Lee,2016-07-29,,,,-
-pWJ2457,,,,,,,,,,,,,,,,,,,,,So Jung Lee,2016-07-29,,,,-
-pWJ2458,GAL1p-vps74-201_204del,FRAMESHIFT MUTATION,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Izzy Sollohub,2016-08-01,-,FRAMESHIFT MUTATION,,TRUE
-pWJ2459,"GAL1p-vps74-K178A,R181L",,GAL1p,ADH2t,-,-,VPS74,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,2,1,7,Izzy Sollohub,2016-08-01,-,Needs to be re-sequenced,-,TRUE
-pWJ2460,"GAL1p-vps74-L170I,L173R",,GAL1p,ADH2t,-,-,VPS74,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,2,1,1,Izzy Sollohub,2016-08-01,-,Needs to be re-sequenced,-,TRUE
-pWJ2461,"GAL1p-vps74-SS155,157EE",,GAL1p,ADH2t,-,-,VPS74,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,2,1,2,Izzy Sollohub,2016-08-01,-,Needs to be re-sequenced,-,TRUE
-pWJ2462,"GAL1p-vps74-SS155,157AA",,GAL1p,ADH2t,-,-,VPS74,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,2,1,3,Izzy Sollohub,2016-08-01,-,Needs to be re-sequenced,-,TRUE
-pWJ2463,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Izzy Sollohub,2016-08-01,-,-,-,-
-pWJ2464,GAL1p-vps74-N60del,,GAL1p,ADH2t,-,-,VPS74,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,2,1,4,Izzy Sollohub,2016-08-01,-,Needs to be re-sequenced,-,TRUE
-pWJ2465,"GAL1p-vps74-L170I,L173R",,GAL1p,ADH2t,-,-,VPS74,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,2,1,5,Izzy Sollohub,2016-08-01,-,Needs to be re-sequenced,-,TRUE
-pWJ2466,GAL1p-vps74-N60del or 201-204del?,,GAL1p,ADH2t,-,-,VPS74,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,2,1,6,Izzy Sollohub,2016-08-01,-,Needs to be re-sequenced,-,TRUE
-pWJ2467,,,,,,,,,,,,,,-80C #2,8,4,1,2,4,3,So Jung Lee,2016-08-08,,,,TRUE
-pWJ2468,,,,,,,,,,,,,,-80C #2,8,4,1,2,4,4,So Jung Lee,2016-08-08,,,,TRUE
-pWJ2469,,,,,,,,,,,,,,-80C #2,8,4,1,2,4,7,So Jung Lee,2016-08-08,,,,TRUE
-pWJ2470,,,,,,,,,,,,,,-80C #2,8,4,1,2,4,5,So Jung Lee,2016-08-08,,,,TRUE
-pWJ2471,GAL1p AID* degron vector,,,,,,,,,,,pWJ1781,,-80C #2,6,3,4,2,7,1,Robert J.D. Reid,2016-08-12,,pWJ1781 but with AID* degron (auxin -inducible) from 10.1002/yea.2967 cloned in between A and B adaptamers. Hpa1 site on N-term side of AID and Nru1 site on C-term side for cloning. Gal promoter. Sequence verified 08-2016 by Bob. Nru1 blocked by overlapping Me + upstream Nru1 - so plasmid is best for C-terminal tagging using Hpa1 site,,TRUE
-pWJ2472,GAL1p AID* degron vector,,,,,,,,,,,pWJ1894,,-80C #2,6,3,4,1,7,2,Robert J.D. Reid,2016-08-12,,pWJ1894 but with AID* degron (auxin -inducible) cloned in between A and B adaptamers. Hpa1 site on N-term side of AID and Nru1 site on C-term side for cloning. No promoter. Sequence verified 08-2016 by Bob. Nru1 blocked by overlapping Me + upstream Nru1 - so plasmid is best for C-terminal tagging using Hpa1 site,,TRUE
-pWJ2473,GAL1p-FLAG-rad5-I916A,,GAL1p,ADH2t,S000004022,S000004022,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,3,1,7,7,Ivana Sunjevaric,2016-08-30,,,,TRUE
-pWJ2474,"GAL1p-FLAG-rad5-DE681,682AA",,GAL1p,ADH2t,S000004022,S000004022,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,3,1,7,8,Ivana Sunjevaric,2016-08-30,,,,TRUE
-pWJ2475,GAL1p-FLAG-rad5-V228A,,GAL1p,ADH2t,S000004022,S000004022,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,3,1,8,1,Ivana Sunjevaric,2016-08-30,,,,TRUE
-pWJ2476,GAL1p-FLAG-rad5-D232A,,GAL1p,ADH2t,S000004022,S000004022,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,3,1,8,2,Ivana Sunjevaric,2016-08-30,,,,TRUE
-pWJ2477,,,,,,,,,,,,,,-80C #2,8,4,1,2,5,2,So Jung Lee,2016-09-12,,,,TRUE
-pWJ2478,GAL1p-ctf4-L90_D99del,,GAL1p,ADH2t,,,CTF4,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,2,2,3,Eric Bryant,2016-09-20,,Sequence verified on 2016-09-28,,TRUE
-pWJ2479,GAL1p-ctf4-E429_D439del,,GAL1p,ADH2t,,,CTF4,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,2,2,4,Eric Bryant,2016-09-20,,Sequence verified on 2016-09-28,,TRUE
-pWJ2480,GAL1p-ctf4-W237_A245del,,GAL1p,ADH2t,,,CTF4,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,2,2,5,Eric Bryant,2016-09-20,,Sequence verified on 2016-09-28,,TRUE
-pWJ2481,GAL1p-ctf4-K783_K927del,,GAL1p,ADH2t,,,CTF4,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,2,2,6,Eric Bryant,2016-09-20,,Sequence verified on 2016-09-28,,TRUE
-pWJ2482,GAL1p-ctf4-V819_K927del,,GAL1p,ADH2t,,,CTF4,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,2,2,7,Eric Bryant,2016-09-20,,Sequence verified on 2016-09-28,,TRUE
-pWJ2483,GAL1p-ctf4-G845_K927del,,GAL1p,ADH2t,,,CTF4,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,2,2,8,Eric Bryant,2016-09-20,,Sequence verified on 2016-09-28,,TRUE
-pWJ2484,GAL1p-ctf4-L889_K927del,,GAL1p,ADH2t,,,CTF4,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,2,3,1,Eric Bryant,2016-09-20,,Sequence verified on 2016-09-28,,TRUE
-pWJ2485,GAL1p-ctf4-A905_K927del,,GAL1p,ADH2t,,,CTF4,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,2,3,2,Eric Bryant,2016-09-20,,Sequence verified on 2016-09-28,,TRUE
-pWJ2486,GAL1p-ctf4-M1_N43del,,GAL1p,ADH2t,,,CTF4,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,2,3,3,Eric Bryant,2016-09-20,,Sequence verified on 2016-09-28,,TRUE
-pWJ2487,,,,,,,,,,,,,,,,,,,,,Robert J.D. Reid,2016-09-23,,,,FALSE
-pWJ2488,,,,,,,,,,,,,,,,,,,,,Robert J.D. Reid,2016-09-23,,,,FALSE
-pWJ2489,,,,,,,,,,,,Gene-Synthesis,,,,,,,,,So Jung Lee,2016-09-29,,,,-
-pWJ2490,,,,,,,,,,,,pWJ2468,,,,,,,,,So Jung Lee,2016-09-29,,,,-
-pWJ2491,,,,,,,,,,,,pWJ2477,,,,,,,,,So Jung Lee,2016-09-30,,,,-
-pWJ2492,,,,,,,,,,,,pWJ2470,,-80C #2,8,4,1,2,6,1,So Jung Lee,2016-09-30,,,,TRUE
-pWJ2493,,,,,,,,,,,,pWJ2467,,-80C #2,8,4,1,2,4,3,So Jung Lee,2016-09-30,,,,TRUE
-pWJ2494,,,,,,,,,,,,pWJ1894,,,,,,,,,Robert J.D. Reid,2016-10-16,,,,FALSE
-pWJ2495,,,,,,,,,,,,pWJ2487,,,,,,,,,Robert J.D. Reid,2016-10-16,,,,FALSE
-pWJ2496,GAL1p-A-HpaI-3V5-ZraI-B,,GAL1p,ADH2t,,,,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,2,3,5,Eric Bryant,2016-10-18,,,,TRUE
-pWJ2497,GAL1p-A-HpaI-YFP-ZraI-B,,GAL1p,ADH2t,,,,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,2,3,6,Eric Bryant,2016-10-18,,,,TRUE
-pWJ2498,,,,,,,,,,,,pWJ2495,,-80C #2,6,3,3,2,4,7,Robert J.D. Reid,2016-10-19,,,,TRUE
-pWJ2499,,,,,,,,,,,,pWJ2498,,,,,,,,,Robert J.D. Reid,2016-10-19,,,,FALSE
-pWJ2500,,,,,,,,,,,,pWJ2499,,,,,,,,,Robert J.D. Reid,2016-10-19,,,,FALSE
-pWJ2501,,,,,,,,,,,,pWJ2499,,,,,,,,,Robert J.D. Reid,2016-10-19,,,,FALSE
-pWJ2502,GAL1p-YFP-RAD5,,GAL1p,ADH2t,S000004022,S000004022,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2497,DH10b,-80C #2,8,4,2,2,3,7,Eric Bryant,2016-10-28,,Sequence verified on 2016-10-27,,TRUE
-pWJ2503,GAL1p-RAD5-YFP,,GAL1p,ADH2t,S000004022,S000004022,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2497,DH10b,-80C #2,8,4,2,2,3,8,Eric Bryant,2016-10-28,,Sequence verified on 2016-10-27,,TRUE
-pWJ2504,GAL1p-3V5-RAD5,,GAL1p,ADH2t,S000004022,S000004022,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2496,DH10b,-80C #2,8,4,2,2,4,1,Eric Bryant,2016-10-28,,Sequence verified on 2016-10-27,,TRUE
-pWJ2505,GAL1p-A-HpaI-mRuby2-ZraI-B,,GAL1p,ADH2t,,,,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,6,1,3,3,4,5,Michael Smith,2016-11-03,,,,TRUE
-pWJ2506,,,,,,,,,,,,pWJ2492,,,,,,,,,So Jung Lee,2016-11-07,,,,-
-pWJ2507,,,,,,,,,,,,pWJ2492,,,,,,,,,So Jung Lee,2016-11-07,,,,-
-pWJ2508,,,,,,,,,,,,ZOO617,,-80C #2,8,4,1,2,6,6,So Jung Lee,2016-11-07,,Use pWJ2521 instead,,TRUE
-pWJ2509,GAL1p-A-PmeI-mTurquoise2-ZraI-B,,GAL1p,ADH2t,,,,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,2,8,8,Eric Bryant,2016-11-09,,,,TRUE
-pWJ2510,GAL1p-mRuby2-RAD51,,GAL1p,ADH2t,,,RAD51,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2505,DH10b,-80C #2,6,1,3,3,4,6,Michael Smith,2016-11-04,,,,TRUE
-pWJ2511,GAL1p-mTQ2-RAD5,,GAL1p,ADH2t,,,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2509,DH10b,-80C #2,8,4,1,3,3,6,Eric Bryant,2016-11-21,,,,TRUE
-pWJ2512,GAL1p-RAD5-3V5,,GAL1p,ADH2t,,,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2496,DH10b,-80C #2,8,4,1,3,3,7,Eric Bryant,2016-11-21,,,,TRUE
-pWJ2513,GAL1p-RAD5-mTQ2,,GAL1p,ADH2t,,,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2509,DH10b,-80C #2,8,4,1,3,3,8,Eric Bryant,2016-11-22,,,,TRUE
-pWJ2514,,,,,,,,,,,,pWJ2455,,-80C #2,8,4,1,2,6,8,So Jung Lee,2016-11-30,,,,TRUE
-pWJ2515,"GAL1p-hltf-E472K,L854F",,GAL1p,ADH2t,,ENSG00000071794,HLTF,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,1,3,5,8,Eric Bryant,2016-12-09,,,,TRUE
-pWJ2516,GAL1p-HLTF-3V5,,GAL1p,ADH2t,,ENSG00000071794,HLTF,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2496,DH10b,-80C #2,8,4,1,3,6,1,Eric Bryant,2016-12-09,,,,TRUE
-pWJ2517,GAL1p-HLTF-mTQ2,,GAL1p,ADH2t,,ENSG00000071794,HLTF,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2509,DH10b,-80C #2,8,4,1,3,6,2,Eric Bryant,2016-12-09,,,,TRUE
-pWJ2518,GAL1p-shprh-E1662V,,GAL1p,ADH2t,,ENSG00000146414,SHPRH,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,1,3,6,3,Eric Bryant,2016-12-09,,,,TRUE
-pWJ2519,GAL1p-SHPRH-3V5,,GAL1p,ADH2t,,ENSG00000146414,SHPRH,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2496,DH10b,-80C #2,8,4,1,3,6,4,Eric Bryant,2016-12-09,,,,TRUE
-pWJ2520,GAL1p-SHPRH-mTQ2,,GAL1p,ADH2t,,ENSG00000146414,SHPRH,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2509,DH10b,-80C #2,8,4,1,3,6,5,Eric Bryant,2016-12-09,,,,TRUE
-pWJ2521,,,,,,,,,,,,,,-80C #2,8,4,1,2,7,2,So Jung Lee,2016-12-12,,,,TRUE
-pWJ2522,"GAL1p-rad5-HD,RING",Galactose inducible rad5 helicase dead and RING domain mutant,GAL1p,ADH2t,"S000004022-c.GACGAG2041-2046GCTGCT,ATC2746-2748GCT-p.D681A,E682A,I916A",S000004022,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,1,3,6,6,Eric Bryant,2016-12-12,,,,TRUE
-pWJ2523,"GAL1p-rad5-HIRAN,RING",Galactose inducible rad5 HIRAN and RING domain mutant,GAL1p,ADH2t,"S000004022-c.GTA682-684GCT,ATC2746-2748GCT-p.V228A,I916A",S000004022,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,1,3,6,7,Eric Bryant,2016-12-12,,,,TRUE
-pWJ2524,"GAL1p-rad5-HIRAN,HD",Galactose inducible rad5 helicase dead and HIRAN domain mutant,GAL1p,ADH2t,"S000004022-c.GTA682-684GCT,GACGAG2041-2046GCTGCT-p.V228A,D681A,E682A",S000004022,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,1,3,6,8,Eric Bryant,2016-12-12,,,,TRUE
-pWJ2525,GAL1p-rad5-NLS3d-mTQ2,Galactose inducible rad5 C-terminal truncation of G3460-3510 with a C-terminal mTQ2 tag,GAL1p,ADH2t,S000004022-c.G3460_3510del,S000004022,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2509,DH10b,-80C #2,8,4,1,3,7,1,Eric Bryant,2016-12-12,,,,TRUE
-pWJ2526,GAL1p-CTF4-mTQ2,,GAL1p,ADH2t,,,,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2509,DH10b,-80C #2,8,4,1,3,7,2,Eric Bryant,2016-12-12,,,,TRUE
-pWJ2527,GAL1p-mTQ2-CTF4,,GAL1p,ADH2t,,,,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2509,DH10b,-80C #2,8,4,1,3,7,3,Eric Bryant,2016-12-12,,,,TRUE
-pWJ2528,GAL1p-CTF4-YFP,,GAL1p,ADH2t,,,,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2497,DH10b,-80C #2,8,4,1,3,7,3,Eric Bryant,2016-12-12,,,,TRUE
-pWJ2529,GAL1p-YFP-CTF4,,GAL1p,ADH2t,,,,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2497,DH10b,-80C #2,8,4,1,3,7,5,Eric Bryant,2016-12-12,,,,TRUE
-pWJ2530,GAL1p-3V5-CTF4,,GAL1p,ADH2t,,,,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2496,DH10b,-80C #2,8,4,1,3,7,6,Eric Bryant,2016-12-12,,,,TRUE
-pWJ2531,,mTurquoise2-ADH1 terminator NatMX,,,,,,URA3,CEN6/ARS4,AmpR,,pAG36,,,,,,,,,So Jung Lee,2017-01-17,,,,-
-pWJ2532,GAL1p-rad5-zipper,,GAL1p,ADH2t,S000004022-c.GATGAAGAGCTAGAAAGC983-1000GCTGCCGCAGCTGCAGCC-p.DEELES328-333AAAAAA,S000004022,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,1,3,7,7,Eric Bryant,2017-01-27,,,,TRUE
-pWJ2533,,mTurquoise2 pop-in pop-out 1st half of klURA3,,,,,,,,,,pRS304,,-80C #2,8,4,3,3,1,1,So Jung Lee,2017-03-02,,,,TRUE
-pWJ2534,,mTurquoise2 pop-in pop-out 2nd half of klURA3,,,,,,,,,,pRS304,,-80C #2,8,4,3,3,1,3,So Jung Lee,2017-03-02,,,,TRUE
-pWJ2535,,mClover3 pop-in pop-out 1st half of klURA3,,,,,,,,,,pRS304,,-80C #2,8,4,3,3,1,5,So Jung Lee,2017-03-02,,,,TRUE
-pWJ2536,,mClover3 pop-in pop-out 2nd half of klURA3,,,,,,,,,,pRS304,,-80C #2,8,4,3,3,1,6,So Jung Lee,2017-03-02,,,,TRUE
-pWJ2537,,mRFP in pWJ2455 removed by XhoI/SmaI. Ligated to yeast optimized mClover3 to make HIS3p-yomClover3-LacI-??,,,,,,,,,,pWJ2455,,-,-,-,-,-,-,-,So Jung Lee,2017-03-02,,,,TRUE
-pWJ2538,"GAL1p-rad5-HD,RING-3V5",Galactose inducible rad5 helicase dead and RING domain mutant with a C-terminal 3V5 epitope tag,GAL1p,ADH2t,"S000004022-c.GACGAG2041-2046GCTGCT,ATC2746-2748GCT-p.D681A,E682A,I916A",S000004022,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2496,DH10b,-80C #2,8,4,1,3,7,8,Eric Bryant,2017-04-14,,,,TRUE
-pWJ2539,"GAL1p-rad5-HIRAN,RING-3V5",Galactose inducible rad5 HIRAN and RING domain mutant with a C-terminal 3V5 epitope tag,GAL1p,ADH2t,"S000004022-c.GTA682-684GCT,ATC2746-2748GCT-p.V228A,I916A",S000004022,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2496,DH10b,-80C #2,8,4,1,3,8,3,Eric Bryant,2017-04-14,,,,TRUE
-pWJ2540,"GAL1p-rad5-HIRAN,HD-3V5",Galactose inducible rad5 helicase dead and HIRAN domain mutant with a C-terminal 3V5 epitope tag,GAL1p,ADH2t,"S000004022-c.GTA682-684GCT,GACGAG2041-2046GCTGCT-p.V228A,D681A,E682A",S000004022,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2496,DH10b,-80C #2,8,4,1,3,8,4,Eric Bryant,2017-04-14,,,,TRUE
-pWJ2541,GAL1p-rad5-HIRAN-3V5,Galactose inducible rad5 HIRAN domain mutant with a C-terminal 3V5 epitope tag,GAL1p,ADH2t,S000004022-c.GTA682-684GCT-p.V228A,S000004022,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2496,DH10b,-80C #2,8,4,1,3,8,5,Eric Bryant,2017-04-14,,,,TRUE
-pWJ2542,GAL1p-rad5-HD-3V5,Galactose inducible rad5 helicase dead mutant with a C-terminal 3V5 epitope tag,GAL1p,ADH2t,"S000004022-c.GACGAG2041-2046GCTGCT-p.D681A,E682A",S000004022,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2496,DH10b,-80C #2,8,4,1,3,8,6,Eric Bryant,2017-04-14,,,,TRUE
-pWJ2543,GAL1p-rad5-RING-3V5,Galactose inducible rad5 RING domain mutant with a C-terminal 3V5 epitope tag,GAL1p,ADH2t,S000004022-c.ATC2746-2748GCT-p.I916A,S000004022,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2496,DH10b,-80C #2,8,4,1,3,8,7,Eric Bryant,2017-04-14,,,,TRUE
-pWJ2544,GAL1p-rad5-zipper-3V5,Galactose inducible rad5 leucine zipper mutant with a C-terminal 3V5 epitope tag,GAL1p,ADH2t,S000004022-c.GATGAAGAGCTAGAAAGC983-1000GCTGCCGCAGCTGCAGCC-p.DEELES328-333AAAAAA,S000004022,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2496,DH10b,-80C #2,8,4,1,3,8,8,Eric Bryant,2017-04-14,,,,TRUE
-pWJ2545,GAL1p-HLTF,Galactose inducible human HLTF,GAL1p,ADH2t,c.G909A-p.T303T (silent),ENSG00000071794,HLTF,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,1,4,3,5,Eric Bryant,2017-03-03,,,,TRUE
-pWJ2546,GAL1p-SHPRH,Galactose inducible human SHPRH,GAL1p,ADH2t,-,ENSG00000146414,SHPRH,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-,-,-,-,-,-,-,Eric Bryant,2017-03-03,-,Failed sequence verification,-,-
-pWJ2547,mClover3-LacI-R197K,Yeast codon optimized mClover3 + old LacI. ADH1 terminator inserted at EagI/SacI. Has expression problems,-,ADH1t,-,-,-,HIS3,-,-,-,pWJ2537,,-80C #2,8,4,3,3,2,2,So Jung Lee,2017-04-13,-,Added ADH1 terminator at Eng2/Snu2,-,TRUE
-pWJ2548,mTurquoise2-TUSx14,TUSx14 with N-terminal mTurquoise2 fluorescent tag,GAL1p,ADH2t,-,-,-,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2509,-,-80C #2,8,4,3,1,8,3,Ivana Sunjevaric,2017-04-07,-,-,-,TRUE
-pWJ2549,mClover3-MV-LacI-R197K,Yeast codon optimized mClover3 + yeast codon optimized MV+LacI (21AA del). It's new LacI with MV added in the N term of LacI (after yomClover3 and linker),-,ADH1t,-,-,-,HIS3,-,AmpR,-,pWJ2547,-,-80C #2,8,4,3,3,2,4,So Jung Lee,2017-04-13,-,Cut out old LacZ w/ BsrG2/Xba2. Ligate yoLac2x MV,-,TRUE
-pWJ2550,mClover3-LacI-R197K,Yeast codon optimized mClover3 + codon optimized 11AA Cterm deletion LacI (same protein sequence as old LacI),-,ADH1t,-,-,-,HIS3,-,AmpR,-,pWJ2547,-,-80C #2,8,4,3,3,2,5,So Jung Lee,2017-04-13,-,Cut out old LacZ w/ BsrG2/Xba2. Ligate yoLac2x 10AA C-term,-,TRUE
-pWJ2551,GAL1p-rad5-HIRAN-acidic-loop,Galactose inducible rad5-HIRAN-acidic-loop,GAL1p,ADH2t,S000004022-c.CGTGGTAGAAAGAAA649-663GAAGGTGAAGAAGAA-p.RGRKK217-221EGEEE,S000004022,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,1,4,3,6,Eric Bryant,2017-04-14,-,Sequenced on 2017-04-14.,-,TRUE
-pWJ2552,GAL1p-rad5-HIRAN-acidicl-loop-3V5,Galactose inducible rad5-HIRAN-acidic-loop with C-terminal 3V5 epitope tag,GAL1p,ADH2t,S000004022-c.CGTGGTAGAAAGAAA649-663GAAGGTGAAGAAGAA-p.RGRKK217-221EGEEE,S000004022,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2496,DH10b,-80C #2,8,4,1,4,3,7,Eric Bryant,2017-04-14,-,Sequenced on 2017-04-14.,-,TRUE
-pWJ2553,GAL1p-rad5-HIRAN-neutral-loop,Galactose inducible rad5-HIRAN-neutral-loop,GAL1p,ADH2t,S000004022-c.GACTCACGTGGTAGAAAGAAA643-663GCTTCAGCTGGTGCTGCAGCT-p.DSRGRKK215-221ASAGAAA,S000004022,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,1,4,3,8,Eric Bryant,2017-04-14,-,Sequenced on 2017-04-14.,-,TRUE
-pWJ2554,GAL1p-rad5-HIRAN-neutral-loop-3V5,Galactose inducible rad5-HIRAN-neutral-loop with C-terminal 3V5 epitope tag,GAL1p,ADH2t,S000004022-c.GACTCACGTGGTAGAAAGAAA643-663GCTTCAGCTGGTGCTGCAGCT-p.DSRGRKK215-221ASAGAAA,S000004022,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2496,DH10b,-80C #2,8,4,1,4,3,9,Eric Bryant,2017-04-14,-,Sequenced on 2017-04-14.,-,TRUE
-pWJ2555,GAL1p-rad5-R187E,Galactose inducible rad5-R187E,GAL1p,ADH2t,S000004022-c.AGA559-561GAA-p.R187E,S000004022,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,1,4,4,1,Eric Bryant,2017-04-14,-,Sequenced on 2017-04-14.,-,TRUE
-pWJ2556,GAL1p-rad5-R187E-3V5,Galactose inducible rad5-R187E with C-terminal 3V5 epitope tag,GAL1p,ADH2t,S000004022-c.AGA559-561GAA-p.R187E,S000004022,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2496,DH10b,-80C #2,8,4,1,4,4,2,Eric Bryant,2017-04-14,-,Sequenced on 2017-04-14.,-,TRUE
-pWJ2557,GAL1p-rad5-R229E,Galactose inducible rad5-R229E,GAL1p,ADH2t,S000004022-c.AGA685-687GAA-p.R229E,S000004022,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,1,4,4,3,Eric Bryant,2017-04-14,-,Sequenced on 2017-04-14.,-,TRUE
-pWJ2558,GAL1p-rad5-R229E-3V5,Galactose inducible rad5-R229E with C-terminal 3V5 epitope tag,GAL1p,ADH2t,S000004022-c.AGA685-687GAA-p.R229E,S000004022,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2496,DH10b,-80C #2,8,4,1,4,4,4,Eric Bryant,2017-04-14,-,Sequenced on 2017-04-14.,-,TRUE
-pWJ2559,GAL1p-rad5-R241E,Galactose inducible rad5-R241E,GAL1p,ADH2t,S000004022-c.AGA721-723GAA-p.R241E,S000004022,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,1,4,4,5,Eric Bryant,2017-04-14,-,Sequenced on 2017-04-14.,-,TRUE
-pWJ2560,GAL1p-rad5-R241E-3V5,Galactose inducible rad5-R241E with C-terminal 3V5 epitope tag,GAL1p,ADH2t,S000004022-c.AGA721-723GAA-p.R241E,S000004022,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2496,DH10b,-80C #2,8,4,1,4,4,6,Eric Bryant,2017-04-14,-,Sequenced on 2017-04-14.,-,TRUE
-pWJ2561,-,HIS3 promoter replacing CYC1 promoter @ Kpn2/BamHI site,HIS3,-,-,-,-,-,-,-,-,pWJ2492,-,-,-,-,-,-,-,-,So Jung Lee,2017-05-12,-,-,-,-
-pWJ2562,GAL10p-SLD5,SLD5 cloned downstream of GAL10p site using C/D homology and NruI digest of pWJ2216,GAL10p,TEFt,S000002897,S000002897,SLD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2216,DH10b,-80C #2,8,4,2,4,8,5,Izzy Sollohub,2017-09-26,-,Sequence verified 2017-09-26,-,TRUE
-pWJ2563,GAL10p-DNA2,DNA2 cloned downstream of GAL10p site using C/D homology and NruI digest of pWJ2216,GAL10p,TEFt,S000001207,S000001207,DNA2,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2216,DH10b,-80C #2,8,4,2,4,8,8,Izzy Sollohub,2017-10-11,-,Sequence verified 2017-09-26,-,TRUE
-pWJ2564,GAL10p-YLR108C,YLR108C cloned downstream of GAL10p site using C/D homology and NruI digest of pWJ2216,GAL10p,TEFt,S000004098,S000004098,YLR108C,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2216,DH10b,-80C #2,8,4,2,4,8,6,Izzy Sollohub,2017-09-26,-,Sequence verified 2017-09-26,-,TRUE
-pWJ2565,GAL10p-CTF18,CTF18 cloned downstream of GAL10p site using C/D homology and NruI digest of pWJ2216,GAL10p,TEFt,S000004683,S000004683,CTF18,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2216,DH10b,-80C #2,8,4,2,4,8,7,Izzy Sollohub,2017-09-26,-,Sequence verified 2017-09-26,-,TRUE
-pWJ2566,GAL10p-POL1,POL1 cloned downstream of GAL10p site using C/D homology and NruI digest of pWJ2216,GAL10p,TEFt,S000005046,S000005046,POL1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2216,DH10b,-80C #2,8,4,1,4,9,7,Izzy Sollohub,2017-10-11,-,Sequence verified 2017-09-26,-,TRUE
-pWJ2567,GAL1p-CTF4,CTF4 cloned downstream of GAL1p site using A/B homology and HpAI digest of pWJ2216,GAL 1p,ADH2t,S000006339,S000006339,CTF4,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2216,DH10b,-80C #2,8,3,3,3,1,1,Izzy Sollohub,2017-11-27,-,Sequence verified 2017-11-27,-,TRUE
-pWJ2568,GAL10p-DNA2 GAL1p-CTF4,CTF4 cloned downstream of GAL1p site using A/B homology and HpAI digest of pWJ2563,GAL 1p,ADH2t,S000006339,S000006339,CTF4,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2563,DH10b,-80C #2,8,4,2,2,1,8,Izzy Sollohub,2017-11-27,-,CORRECT 2018-01-30,-,TRUE
-pWJ2569,GAL10p-ELG1-HA GAL1p-FLAG-CTF4,ELG1 cloned downstream of GAL10p site using C/D homology and NruI digest of pWJ2232,GAL10p,TEFt,S000005670,S000005670-c.C'insTACCCATACGATGTTCCAGATTACGCT-p.C'insYPYDVPDYA,ELG1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2232,DH10b,-80C #2,8,3,3,3,1,2,Izzy Sollohub,2017-11-27,-,Sequence verified 2017-11-27,-,TRUE
-pWJ2570,GAL10p-YLR108C-HA GAL1p-FLAG-CTF4,YLR108C cloned downstream of GAL10p site using C/D homology and NruI digest of pWJ2233,GAL10p,TEFt,S000004098,S000004098-c.C'insTACCCATACGATGTTCCAGATTACGCT-p.C'insYPYDVPDYA,YLR108C,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2232,DH10b,-80C #2,8,3,3,3,1,3,Izzy Sollohub,2017-11-27,-,Sequence verified 2017-11-27,-,TRUE
-pWJ2571,GAL10p-POL1-HA GAL1p-FLAG-CTF4,POL1 cloned downstream of GAL10p site using C/D homology and NruI digest of pWJ2232,GAL10p,TEFt,S000005046,S000005046-c.C'insTACCCATACGATGTTCCAGATTACGCT-p.C'insYPYDVPDYA,POL1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2232,DH10b,-80C #2,8,4,1,4,8,7,Izzy Sollohub,2017-11-27,-,CORRECT 2018-01-30,-,TRUE
-pWJ2572,GAL10p-SLD5-HA GAL1p-FLAG-CTF4,SLD5 cloned downstream of GAL10p site using C/D homology and NruI digest of pWJ2235,GAL10p,TEFt,S000002897,S000002897-c.C'insTACCCATACGATGTTCCAGATTACGCT-p.C'insYPYDVPDYA,SLD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2232,DH10b,-80C #2,8,3,3,3,1,4,Izzy Sollohub,2017-11-27,-,Sequence verified 2017-11-27,-,TRUE
-pWJ2573,GAL10p-HA-DNA2  GAL1p-FLAG-CTF4,DNA2 cloned downstream of GAL10p site using C/D homology and NruI digest of pWJ2236,GAL10p,TEFt,S000001207,S000001207-c.C'insTACCCATACGATGTTCCAGATTACGCT-p.C'insYPYDVPDYA,DNA2,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2232,DH10b,-80C #2,8,4,1,4,8,8,Izzy Sollohub,2017-11-27,-,CORRECT 2018-01-30,-,TRUE
-pWJ2574,GAL10p-HA-ELG1 GAL1p-FLAG-CTF4,ELG1 cloned downstream of GAL10p site using C/D homology and NruI digest of pWJ2237,GAL10p,TEFt,S000005670,S000005670-c.3_4insTACCCATACGATGTTCCAGATTACGCT-p.1_2insYPYDVPDYA,ELG1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2232,DH10b,-80C #2,8,3,3,3,1,5,Izzy Sollohub,2017-11-27,-,Sequence verified 2017-11-27,-,TRUE
-pWJ2575,GAL10p-HA-CTF18 GAL1p-FLAG-CTF4,CTF18 cloned downstream of GAL10p site using C/D homology and NruI digest of pWJ2238,GAL10p,TEFt,S000004683,S000004683-c.3_4insTACCCATACGATGTTCCAGATTACGCT-p.1_2insYPYDVPDYA,CTF18,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2232,DH10b,-80C #2,8,3,3,3,1,6,Izzy Sollohub,2017-11-27,-,Sequence verified 2017-11-27,-,TRUE
-pWJ2576,GAL10p-HA-POL1 GAL1p-FLAG-CTF4,POL1 cloned downstream of GAL10p site using C/D homology and NruI digest of pWJ2239,GAL10p,TEFt,S000005046,S000005046-c.3_4insTACCCATACGATGTTCCAGATTACGCT-p.1_2insYPYDVPDYA,POL1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2232,DH10b,-80C #2,8,4,1,4,7,4,Izzy Sollohub,2017-11-27,-,CORRECT 2018-01-30,-,TRUE
-pWJ2577,GAL10p-HA-SLD5 GAL1p-FLAG-CTF4,SLD5 cloned downstream of GAL10p site using C/D homology and NruI digest of pWJ2240,GAL10p,TEFt,S000002897,S000002897-c.3_4insTACCCATACGATGTTCCAGATTACGCT-p.1_2insYPYDVPDYA,SLD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2232,DH10b,-80C #2,8,4,1,4,7,5,Izzy Sollohub,2017-11-27,-,CORRECT 2018-01-30,-,TRUE
-pWJ2578,GAL10p-HA-YLR108C GAL1p-FLAG-CTF4,YLR108C cloned downstream of GAL10p site using C/D homology and NruI digest of pWJ2241,GAL10p,TEFt,S000004098,S000004098-c.3_4insTACCCATACGATGTTCCAGATTACGCT-p.1_2insYPYDVPDYA,YLR108C,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2232,DH10b,-80C #2,8,3,3,3,1,7,Izzy Sollohub,2017-11-27,-,Sequence verified 2017-11-27,-,TRUE
-pWJ2579,GAL10p-DNA2 GAL1p-RAD5,Galactose inducible overexpression of DNA2 and RAD5,GAL10p GAL1p,TEFt ADH2t,-,-,DNA2 RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2563,DH10b,-80C #2,8,3,3,1,4,2,Ivana Sunjevaric,2017-12-05,-,Plasmid mini-prep yield is typically low due to large size,-,TRUE
-pWJ2580,"GAL1p-rad5-RDE187,681,682EAA",rad5 HIRAN and Helicase mutant,GAL1p,ADH2t,-,S000004022,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,3,3,3,1,8,Eric Bryant,2017-12-08,-,Sequence verified 2017-12-08,-,TRUE
-pWJ2581,"GAL1p-rad5-RI187,916EA",rad5 HIRAN and RING mutant,GAL1p,ADH2t,-,S000004022,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,3,3,3,2,1,Eric Bryant,2017-12-08,-,Sequence verified 2017-12-08,-,TRUE
-pWJ2582,"GAL1p-rad5-RDEI187,681,682,916EAAA","rad5 HIRAN, Helicase and RING mutant",GAL1p,ADH2t,-,S000004022,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,3,3,3,2,2,Eric Bryant,2017-12-08,-,Sequence verified 2017-12-08,-,TRUE
-pWJ2583,"GAL1p-FLAG-rad5-RDEI187,681,682,916EAAA","N-terminal FLAG tagged rad5 HIRAN, Helicase and RING mutant",GAL1p,ADH2t,-,S000004022,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,3,3,3,2,3,Eric Bryant,2017-12-08,-,Sequence verified 2017-12-08,-,TRUE
-pWJ2584,"GAL1p-FLAG-rad5-DE681,682AA",N-terminal FLAG tagged rad5 Helicase mutant,GAL1p,ADH2t,"S000004022-c.GACGAG2041-2046GCTGCT-p.D681A,E682A",S000004022,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,3,3,3,2,4,Eric Bryant,2017-12-08,-,Sequence verified 2017-12-08,-,TRUE
-pWJ2585,GAL1p-FLAG-rad5-RGRKK217_221EGEEE,N-terminal FLAG tagged rad5 HIRAN acidic loop mutant,GAL1p,ADH2t,S000004022-c.CGTGGTAGAAAGAAA649-663GAAGGTGAAGAAGAA-p.RGRKK217-221EGEEE,S000004022,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,3,3,3,2,5,Eric Bryant,2017-12-08,-,Sequence verified 2017-12-08,-,TRUE
-pWJ2586,GAL1p-FLAG-rad5-R187E,N-terminal FLAG tagged rad5 HIRAN mutant,GAL1p,ADH2t,S000004022-c.AGA559-561GAA-p.R187E,S000004022,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,3,3,3,2,6,Eric Bryant,2017-12-08,-,Sequence verified 2017-12-08,-,TRUE
-pWJ2587,GAL10p-YLR108C GAL1p-CTF4,YLR108C cloned downstream of GAL1p site using C/D homology and NruI digest of pWJ2567,GAL10p,TEFt,S000004098,S000004099,YLR108C,LEU2,CEN6/ARS7,AmpR,f1/pBR325,pWJ2567,DH10b,-80C #2,8,4,1,4,7,6,Izzy Sollohub,2017-12-13,,CORRECT 2018-01-30,,TRUE
-pWJ2588,GAL10p-POL1 GAL1p-CTF4,POL1 cloned downstream of GAL1p site using C/D homology and NruI digest of pWJ2567,GAL10p,TEFt,S000005046,S000005047,POL1,LEU2,CEN6/ARS9,AmpR,f1/pBR327,pWJ2567,DH10b,,,,,,,,Izzy Sollohub,2017-12-13,,INCORRECT 2018-1-30 NEEDS TO BE REMADE,,FALSE
-pWJ2589,GAL10p-SLD5 GAL1p-CTF4,SLD5 cloned downstream of GAL1p site using C/D homology and NruI digest of pWJ2567,GAL10p,TEFt,S000002897,S000002898,SLD5,LEU2,CEN6/ARS5,AmpR,f1/pBR323,pWJ2567,DH10b,-80C #2,8,4,1,4,7,7,Izzy Sollohub,2017-12-13,,CORRECT 2018-01-30,,TRUE
-pWJ2590,GAL10p-dna2-K1080E,,,,,,,,,,,pWJ2216,,,,,,,,,Ivana Sunjevaric,2018-01-25,,,,
-pWJ2591,GAL10p-dna2-K1080E GAL1p-RAD5,,,,,,,,,,,pWJ2590,,,,,,,,,Ivana Sunjevaric,2018-01-25,,,,
-pWJ2592,GAL1p-NLS-mTQ2,N-terminal NLS-mTQ2 cloning vector (SV40 NLS),GAL1p,ADH2t,,,,LEU2,CEN6/ARS5,AmpR,f1/pBR323,pWJ2509,DH10b,-80C #2,8,3,3,3,7,8,Eric Bryant,2018-03-06,,,,FALSE
-pWJ2593,GAL1p-mTQ2-NLS,C-terminal mTQ2-NLS cloning vector,GAL1p,ADH2t,,,,LEU2,CEN6/ARS5,AmpR,f1/pBR323,pWJ2509,DH10b,-80C #2,8,3,3,3,8,1,Eric Bryant,2018-03-06,,,,FALSE
-pWJ2594,GAL1p-mTQ2-HLTF,N-terminal tagged mTQ2-HLTF same as pWJ2595,GAL1p,ADH2t,,,,LEU2,CEN6/ARS5,AmpR,f1/pBR323,pWJ2509,DH10b,-80C #2,8,3,3,3,8,2,Eric Bryant,2018-03-06,,,,FALSE
-pWJ2595,GAL1p-mTQ2-HLTF,N-terminal tagged mTQ2-HLTF same as pWJ2594,GAL1p,ADH2t,,,,LEU2,CEN6/ARS5,AmpR,f1/pBR323,pWJ2509,DH10b,-80C #2,8,3,3,3,8,3,Eric Bryant,2018-03-06,,,,FALSE
-pWJ2596,GAL1p-NLS-mTQ2-HLTF,N-terminal tagged mTQ2-HLTF with SV40 NLS,GAL1p,ADH2t,,,,LEU2,CEN6/ARS5,AmpR,f1/pBR323,pWJ2592,DH10b,-80C #2,8,3,3,4,1,1,Eric Bryant,2018-03-22,,,,FALSE
-pWJ2597,GAL1p-RAD5-HLTF-HIRAN,RAD5 HLTF HIRAN chimera HLTF-p.55_157 replacing RAD5-p.170_296,GAL1p,ADH2t,,S000004022,RAD5,LEU2,CEN6/ARS5,AmpR,f1/pBR323,pWJ1781,DH10b,-80C #2,8,3,3,4,1,2,Eric Bryant,2018-04-06,,,,FALSE
-pWJ2598,GAL1p-FLAG-RAD5-HLTF-HIRAN,RAD5 HLTF HIRAN chimera HLTF-p.55_157 replacing RAD5-p.170_296 with an N-terminal FLAG tag,GAL1p,ADH2t,,S000004022,RAD5,LEU2,CEN6/ARS5,AmpR,f1/pBR323,pWJ1781,DH10b,-80C #2,8,3,3,4,1,3,Eric Bryant,2018-04-06,,,,FALSE
-pWJ2599,GAL10p-ELG1 ,ELG1 cloned downstream of GAL10p site using C/D homology and NruI digest of pWJ2216,GAL1p,ADH2t,S000005670,S000005670,ELG1,LEU2,CEN6/ARS5,AmpR,f1/pBR323,pWJ2216,DH10b,-80C #2,,,,,,,Izzy Sollohub,2018-04-06,-,Needs to be sequenced,-,FALSE
-pWJ2600,GAL1p-PCH2,PCH2 cloned downstream of GAL1p site using A/B homology and HpaI digest of pWJ1781. CDS only. Intron was removed via fusion PCR.,GAL1p,ADH2t,S000000390,S000000390,PCH2,LEU2,CEN6/ARS5,AmpR,f1/pBR323,pWJ1781,DH10b,-80C #2,6,4,1,1,3,2,Michael Kirschner,2018-07-23,,,,TRUE
-pWJ2601,pCSN + CEN-ARS,,,,,,,,,,,,,,,,,,,,,,,,,
-pWJ2602,pCSN-GAL1p-FLAG-RAD5,,,,,,,,,,,,,,,,,,,,,,,,,
-pWJ2603,,,,,,,,,,,,,,,,,,,,,,,,,,
-pWJ2604,,,,,,,,,,,,,,,,,,,,,,,,,,
-pWJ2605,,,,,,,,,,,,,,,,,,,,,,,,,,
-pWJ2606,,,,,,,,,,,,,,,,,,,,,,,,,,
-pWJ2607,GAL1p-SML1,SML1 cloned downstream of GAL1p site using A/B homology and HpaI digest of pWJ1781.,GAL1p,ADH2t,S000004523,S000004523,SML1,LEU2,CEN6/ARS5,AmpR,f1/pBR323,pWJ1781,DH10b,-80C #2,6,4,1,1,3,6,Michael Kirschner,2018-07-30,,,,FALSE
-pWJ2608,GAL1p-HUG1,HUG1 cloned downstream of GAL1p site using A/B homology and HpaI digest of pWJ1781.,GAL1p,ADH2t,S000007472,S000007472,HUG1,LEU2,CEN6/ARS5,AmpR,f1/pBR323,pWJ1781,DH10b,-80C #2,6,4,1,1,3,7,Michael Kirschner,2018-07-30,,,,FALSE
-pWJ2609,GAL1p-DIF1,DIF1 cloned downstream of GAL1p site using A/B homology and HpaI digest of pWJ1781.,GAL1p,ADH2t,S000004429,S000004429,DIF1,LEU2,CEN6/ARS5,AmpR,f1/pBR323,pWJ1781,DH10b,-80C #2,6,4,1,1,3,8,Michael Kirschner,2018-07-30,,,,FALSE
+plasmid_id,name,description,promoter,terminator,allele_id,gene_id,gene_name,yeast_marker,yeast_propagation,bact_marker,bact_propagation,plasmid_parent,host_strain,freezer,shelf,rack,pullout,insert,row,column,owner,date,reference_available,notes,phenotype,warning,filemaker
+pWJ1512,CUP1p-Empty,CUP1 promoter vector,CUP1p,ADH2t,empty,empty,empty,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pRS415,NA,-80C #2,8,2,1,2,5,4,Peter Thorpe,2010-01-29,NA,"Yeast centromere vector pRS415 with LEU2 marker, copper inducible promoter, and A/B homology sites.",viable,NA,TRUE
+pWJ1781,GAL1p-Empty,GAL1 promoter vector,GAL1p,ADH2t,empty,empty,empty,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1512 & pWJ1047,NA,-80C #2,8,1,1,1,5,7,John Dittmar,2009-05-11,2019-RAD5-Bryant-Reid,"Yeast centromere vector pRS415 with LEU2 marker, galactose inducible promoter, and A/B homology sites.",viable,NA,TRUE
+pWJ1799,GAL1p-mcm5-bob1,NA,GAL1p,ADH2t,S000004264-bob1,S000004264,mcm5-bob1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,NA,-80C #2,8,1,1,1,8,1,John Dittmar,2009-07-08,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,NA,TRUE
+pWJ1800,GAL1p-MCM5,NA,GAL1p,ADH2t,S000004264,S000004264,MCM5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,NA,-80C #2,8,1,1,1,8,2,John Dittmar,2009-07-08,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1,NA,NA,TRUE
+pWJ1801,GAL1p-MCM6,NA,GAL1p,ADH2t,S000003169,S000003169,MCM6,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,NA,-80C #2,8,1,1,1,8,3,John Dittmar,2009-07-08,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,NA,TRUE
+pWJ1802,LacOx256,"pRS306 LacOx256 in stb2 cells, frozen in TB buffer (pWJ1413 digested with XhoI to remove the iYCL013 sequence).",NA,NA,NA,NA,NA,NA,NA,NA,NA,pWJ1413,stbl2,-80C #2,8,3,2,3,4,9,Judith Mine-Hattab,2009-07-29,NA,Grow at 30 degres. 2014-01-13 Strain do not grow on 30C or 37C!,NA,NA,TRUE
+pWJ1803,CUP1p-PKH3,NA,CUP1p,ADH2t,NA,NA,PKH3,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1512,NA,-80C #2,8,1,1,1,8,4,John Dittmar,2009-09-17,NA,NA,NA,NA,TRUE
+pWJ1804,CUP1p-ULP2,NA,CUP1p,ADH2t,NA,NA,ULP2,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1512,NA,-80C #2,8,1,1,1,8,5,John Dittmar,2009-09-28,NA,NA,NA,NA,TRUE
+pWJ1805,CUP1p-SGO1,NA,CUP1p,ADH2t,NA,NA,SGO1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1512,NA,-80C #2,6,1,3,4,5,6,Ivana Sunjevaric,2009-10-27,NA,NA,NA,NA,TRUE
+pWJ1806,CUP1p-CIN8,NA,CUP1p,ADH2t,S000000787,S000000787,CIN8,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1512,NA,-80C #2,6,1,3,4,5,7,Ivana Sunjevaric,2009-10-27,NA,Transformed with A/B homology into pWJ1512 cut with Hpa1,viable,NA,TRUE
+pWJ1891,GAL1p-SMT3,NA,GAL1p,ADH2t,S000002918,S000002918,SMT3,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,NA,-80C #2,7,2,3,1,7,6,John Dittmar,2011-01-21,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,NA,TRUE
+pWJ1892,GAL1p-SPC110,NA,GAL1p,ADH2t,NA,NA,SPC110,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,NA,-80C #2,7,2,3,1,7,7,John Dittmar,2011-01-21,NA,NA,LETHAL,NA,TRUE
+pWJ1893,CUP1p-PKH2,NA,CUP1p,ADH2t,NA,NA,PKH2,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1512,NA,-80C #2,6,1,2,3,8,8,Ivana Sunjevaric,2011-01-24,NA,NA,NA,NA,TRUE
+pWJ1894,Vector for independent promoter and ORF cloning,Z-NruI-A-HpaI-B,NA,ADH2t,NA,NA,NA,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1512,NA,-80C #2,6,3,4,3,1,2,Robert J.D. Reid,2011-02-04,NA,NA,NA,NA,TRUE
+pWJ1895,CUP1p-SMT3,NA,CUP1p,ADH2t,NA,NA,SMT3,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1512,NA,-80C #2,7,2,3,1,7,8,John Dittmar,2011-01-25,NA,NA,NA,NA,TRUE
+pWJ1896,GAL1p-BUB1,NA,GAL1p,ADH2t,S000003420,S000003420,BUB1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,NA,-80C #2,7,2,3,1,8,1,John Dittmar,2011-01-31,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,NA,TRUE
+pWJ1936,CUP1p-DMC1,DMC1 cDNA transformed with A/B homology into pWJ1512 cut with Hpa1,CUP1p,ADH2t,S000000981,S000000981,DMC1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1512,DH10b,-80C #2,8,1,3,3,8,6,Ivana Sunjevaric,2011-06-14,NA,DMC1 cDNA transformed with A/B homology into pWJ1512 cut with Hpa1,viable,NA,TRUE
+pWJ2073,GAL1p-CAC2,NA,GAL1p,ADH2t,S000004570,S000004570,CAC2,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,1,1,Eric Bryant,2012-07-20,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,NA,TRUE
+pWJ2074,GAL1p-CDC7,NA,GAL1p,ADH2t,S000002175,S000002175,CDC7,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,1,2,Eric Bryant,2012-07-20,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,NA,TRUE
+pWJ2075,GAL1p-ECM38,NA,GAL1p,ADH2t,S000004290,S000004290,ECM38,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,1,3,Eric Bryant,2012-07-24,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,NA,TRUE
+pWJ2076,GAL1p-CTF4,NA,GAL1p,ADH2t,S000006339,S000006339,CTF4,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,1,4,Eric Bryant,2012-07-24,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,NA,TRUE
+pWJ2077,GAL1p-GUA1,NA,GAL1p,ADH2t,S000004830,S000004830,GUA1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,1,5,Eric Bryant,2012-07-24,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,NA,TRUE
+pWJ2078,GAL1p-STI1,NA,GAL1p,ADH2t,S000005553,S000005553,STI1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,1,6,Eric Bryant,2012-07-30,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,NA,TRUE
+pWJ2079,GAL1p-ULP2,NA,GAL1p,ADH2t,S000001293,S000001293,ULP2,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,1,7,Eric Bryant,2012-08-08,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1,LETHAL,NA,TRUE
+pWJ2080,GAL1p-YTA7,NA,GAL1p,ADH2t,S000003502,S000003502,YTA7,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,1,8,Eric Bryant,2012-08-08,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1,LETHAL,NA,TRUE
+pWJ2081,GAL1p-AKR2,NA,GAL1p,ADH2t,S000005560,S000005560,AKR2,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,2,1,Eric Bryant,2012-08-09,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,NA,TRUE
+pWJ2082,GAL1p-BUR6,NA,GAL1p,ADH2t,S000000961,S000000961,BUR6,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,2,2,Eric Bryant,2012-08-08,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,NA,TRUE
+pWJ2083,GAL1p-AIM25,NA,GAL1p,ADH2t,S000003861,S000003861,AIM25,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,2,3,Eric Bryant,2012-08-08,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,NA,TRUE
+pWJ2084,GAL1p-AKR1,NA,GAL1p,ADH2t,S000002672,S000002672,AKR1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,2,4,Eric Bryant,2012-08-08,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,NA,TRUE
+pWJ2085,GAL1p-POL30,NA,GAL1p,ADH2t,S000000292,S000000292,POL30,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,2,5,Eric Bryant,2012-08-14,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,NA,TRUE
+pWJ2086,GAL1p-RPN5,NA,GAL1p,ADH2t,S000002306,S000002306,RPN5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,2,6,Eric Bryant,2012-08-14,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,NA,TRUE
+pWJ2087,GAL1p-SRP1,NA,GAL1p,ADH2t,S000005133,S000005133,SRP1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,2,7,Eric Bryant,2012-08-14,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1,SICK,NA,TRUE
+pWJ2088,CUP1p-npl3-K217Q,NA,CUP1p,ADH2t,NA,NA,NPL3,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1512,DH10b,-80C #2,9,3,2,1,8,8,John Dittmar,2012-08-29,NA,NA,NA,NA,TRUE
+pWJ2089,CUP1p-npl3-K217R,NA,CUP1p,ADH2t,NA,NA,NPL3,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1512,DH10b,-80C #2,8,3,1,2,1,1,John Dittmar,2012-08-29,NA,NA,NA,NA,TRUE
+pWJ2090,GAL1p-CLB2,NA,GAL1p,ADH2t,S000006323,S000006323,CLB2,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,2,8,Eric Bryant,2012-09-12,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1,LETHAL,NA,TRUE
+pWJ2091,GAL1p-KIP1,NA,GAL1p,ADH2t,S000000159,S000000159,KIP1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,3,1,Eric Bryant,2012-09-12,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1,LETHAL,NA,TRUE
+pWJ2092,GAL1p-RAD57,NA,GAL1p,ADH2t,S000002411,S000002411,RAD57,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,3,2,Eric Bryant,2012-09-12,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,NA,TRUE
+pWJ2093,GAL1p-DSK2,NA,GAL1p,ADH2t,S000004889,S000004889,DSK2,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,3,3,Eric Bryant,2012-09-14,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1,NA,NA,TRUE
+pWJ2094,GAL1p-ECM14,NA,GAL1p,ADH2t,S000001174,S000001174,ECM14,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,3,4,Eric Bryant,2012-09-14,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,NA,TRUE
+pWJ2095,GAL1p-KAR3,NA,GAL1p,ADH2t,S000006345,S000006345,KAR3,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,3,5,Eric Bryant,2012-09-14,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,NA,TRUE
+pWJ2096,GAL1p-MPH1,NA,GAL1p,ADH2t,S000001441,S000001441,MPH1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,3,6,Eric Bryant,2012-09-14,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,NA,TRUE
+pWJ2097,GAL1p-MRPL9,NA,GAL1p,ADH2t,S000003452,S000003452,MRPL9,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,3,7,Eric Bryant,2012-09-14,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,NA,TRUE
+pWJ2098,GAL1p-MRS2,NA,GAL1p,ADH2t,S000005861,S000005861,MRS2,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,3,8,Eric Bryant,2012-09-14,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,NA,TRUE
+pWJ2099,GAL1p-RFC2,NA,GAL1p,ADH2t,S000003829,S000003829,RFC2,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,4,1,Eric Bryant,2012-09-14,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,NA,TRUE
+pWJ2100,GAL1p-TIM17,NA,GAL1p,ADH2t,S000003679,S000003679,TIM17,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,4,2,Eric Bryant,2012-09-14,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1,SICK,NA,TRUE
+pWJ2101,GAL1p-TSA1,NA,GAL1p,ADH2t,S000004490,S000004490,TSA1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,4,3,Eric Bryant,2012-09-14,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,NA,TRUE
+pWJ2102,GAL1p-TSA2,NA,GAL1p,ADH2t,S000002861,S000002861,TSA2,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,4,4,Eric Bryant,2012-09-14,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,NA,TRUE
+pWJ2103,GAL1p-TUB2,NA,GAL1p,ADH2t,S000001857,S000001857,TUB2,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,4,5,Eric Bryant,2012-09-14,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1,NA,NA,TRUE
+pWJ2104,MRE11-CFP,NA,NA,NA,NA,NA,NA,LEU2,NA,NA,NA,pWJ1864,DH10b,-80C #2,6,1,1,2,5,7,Michael Smith,2012-09-12,NA,NA,NA,NA,TRUE
+pWJ2105,GAL1p-CLB5,NA,GAL1p,ADH2t,S000006324,S000006324,CLB5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,4,6,Eric Bryant,2012-09-24,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1,NA,NA,TRUE
+pWJ2106,GAL1p-RPN1,NA,GAL1p,ADH2t,S000001069,S000001069,RPN1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,4,7,Eric Bryant,2012-09-24,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1. CTC-1290-CTG silent,viable,NA,TRUE
+pWJ2107,CUP1p-npl3-K194Q,NA,CUP1p,ADH2t,S000002840-K194Q,S000002840,NPL3,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1512,DH10b,-80C #2,8,3,1,2,2,1,John Dittmar,2012-10-11,NA,NA,NA,NA,TRUE
+pWJ2108,CUP1p-npl3-K194R,NA,CUP1p,ADH2t,S000002840-K194R,S000002840,NPL3,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1512,DH10b,-80C #2,8,3,1,2,2,2,John Dittmar,2012-10-11,NA,NA,NA,NA,TRUE
+pWJ2109,CUP1p-npl3-K205Q,NA,CUP1p,ADH2t,S000002840-K205Q,S000002840,NPL3,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1512,DH10b,-80C #2,8,3,1,2,2,3,John Dittmar,2012-10-11,NA,NA,NA,NA,TRUE
+pWJ2110,CUP1p-npl3-K205R,NA,CUP1p,ADH2t,S000002840-K205R,S000002840,NPL3,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1512,DH10b,-80C #2,8,3,1,2,2,4,John Dittmar,2012-10-11,NA,NA,NA,NA,TRUE
+pWJ2111,CUP1p-npl3-4KQ,NA,CUP1p,ADH2t,NA,S000002840,NPL3,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1512,DH10b,-80C #2,8,3,1,2,2,5,John Dittmar,2012-10-11,NA,NA,NA,NA,TRUE
+pWJ2112,CUP1p-npl3-4KR,NA,CUP1p,ADH2t,NA,S000002840,NPL3,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1512,DH10b,-80C #2,8,3,1,2,2,6,John Dittmar,2012-10-11,NA,NA,NA,NA,TRUE
+pWJ2113,GAL1p-ypk2-T501E,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Vered W,2012-11-26,NA,NA,NA,NA,TRUE
+pWJ2114,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Vered W,2012-11-26,NA,NA,NA,NA,FALSE
+pWJ2115,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Vered W,2012-11-26,NA,NA,NA,NA,FALSE
+pWJ2116,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Vered W,2012-11-26,NA,NA,NA,NA,FALSE
+pWJ2117,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Vered W,2012-11-26,NA,NA,NA,NA,FALSE
+pWJ2118,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Vered W,2012-11-26,NA,NA,NA,NA,FALSE
+pWJ2119,GAL1p-SPF1,NA,GAL1p,ADH2t,S000000757,S000000757,SPF1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,4,8,Eric Bryant,2013-03-04,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,NA,TRUE
+pWJ2120,GAL1p-VAM6,NA,GAL1p,ADH2t,S000002235,S000002235,VPS39,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,5,1,Eric Bryant,2013-03-04,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,NA,TRUE
+pWJ2121,GAL1p-ISN1,NA,GAL1p,ADH2t,S000005681,S000005681,ISN1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,5,2,Eric Bryant,2013-03-04,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,NA,TRUE
+pWJ2122,"GAL1p-ADE5,7",NA,GAL1p,ADH2t,S000003203,S000003203,"ADE5,7",LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,5,3,Eric Bryant,2013-06-04,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,NA,TRUE
+pWJ2123,GAL1p-CLB4,NA,GAL1p,ADH2t,S000004200,S000004200,CLB4,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,5,4,Eric Bryant,2013-06-04,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,NA,TRUE
+pWJ2124,GAL1p-rad5-G535R,NA,GAL1p,ADH2t,S000004022-G535R,S000004022,rad5-G535R,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,5,5,Eric Bryant,2013-06-04,2019-RAD5-Bryant-Reid,Transformed with A/B homology into pWJ1781 cut with Hpa1,NA,NA,TRUE
+pWJ2125,GAL1p-RAD51,NA,GAL1p,ADH2t,S000000897,S000000897,RAD51,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,5,6,Eric Bryant,2013-06-04,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,NA,TRUE
+pWJ2126,GAL1p-RGD1,NA,GAL1p,ADH2t,S000000464,S000000464,RGD1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,5,7,Eric Bryant,2013-06-04,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,NA,TRUE
+pWJ2127,GAL1p-RPD3,NA,GAL1p,ADH2t,S000005274,S000005274,RPD3,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,5,8,Eric Bryant,2013-06-04,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,NA,TRUE
+pWJ2128,GAL1p-SKY1,NA,GAL1p,ADH2t,S000004829,S000004829,SKY1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,6,1,Eric Bryant,2013-06-04,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,NA,TRUE
+pWJ2129,GAL1p-SMD1,NA,GAL1p,ADH2t,S000003306,S000003306,SMD1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,6,2,Eric Bryant,2013-06-04,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,NA,TRUE
+pWJ2130,CUP1p-MIH1,NA,CUP1p,ADH2t,NA,NA,MIH1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1512,DH10b,-80C #2,8,1,4,1,6,6,Robert J.D. Reid,2016-06-10,NA,NA,NA,NA,TRUE
+pWJ2131,GAL1p-MIH1,NA,GAL1p,ADH2t,NA,NA,MIH1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,1,4,1,6,7,Robert J.D. Reid,2016-06-10,NA,NA,NA,NA,TRUE
+pWJ2132,ras2-V19,NA,NA,NA,NA,NA,NA,HIS3,NA,AmpR,NA,pRS413,NA,-80C #2,8,1,4,3,5,4,Sake Vanwagenigen,2013-06-10,NA,NA,NA,NA,TRUE
+pWJ2133,CUP1p-rad53-4AQ,NA,CUP1p,ADH2t,NA,NA,RAD53,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1512,DH10b,-80C #2,8,1,4,3,5,6,Sake Vanwagenigen,2013-06-10,NA,NA,NA,NA,TRUE
+pWJ2134,CUP1p-HAC1 (CDS),CDS,CUP1p,ADH2t,NA,NA,HAC1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1512,DH10b,-80C #2,8,1,4,3,5,7,Sake Vanwagenigen,2013-06-10,NA,NA,NA,NA,TRUE
+pWJ2135,CUP1p-HAC1 (Genomic),Genomic,CUP1p,ADH2t,NA,NA,HAC1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1512,DH10b,-80C #2,8,1,4,3,5,8,Sake Vanwagenigen,2013-06-10,NA,NA,NA,NA,TRUE
+pWJ2136,SWE1-FLAG,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,pWJ1894,NA,-80C #2,8,1,4,1,6,8,Ivana Sunjevaric,2013-06-10,NA,NA,NA,NA,TRUE
+pWJ2137,CUP1p-CDH1,NA,CUP1p,ADH2t,NA,NA,CDH1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1512,DH10b,-80C #2,8,3,1,2,3,3,John Dittmar,2013-07-02,NA,NA,NA,NA,TRUE
+pWJ2138,SWE1-FLAG,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,pRS303,DH10b,-80C #2,8,1,4,1,7,2,Ivana Sunjevaric,2013-07-17,NA,NA,NA,NA,TRUE
+pWJ2139,CUP1p-MIH1,NA,CUP1p,ADH2t,NA,NA,MIH1,HIS3,CEN6/ARS4,AmpR,f1/pBR322,pWJ2130,DH10b,-80C #2,8,1,4,1,7,4,Ivana Sunjevaric,2013-08-28,NA,NA,NA,NA,TRUE
+pWJ2140,CUP1p-HSL7,NA,NA,NA,NA,NA,NA,URA3,CEN,AmpR,NA,pWJ1589,NA,-80C #2,8,1,4,1,7,5,Ivana Sunjevaric,2013-08-28,NA,NA,NA,NA,TRUE
+pWJ2141,GAL1p-EXO1,NA,GAL1p,ADH2t,S000005559,S000005559,EXO1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,6,5,Eric Bryant,2013-10-09,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,NA,TRUE
+pWJ2142,GAL1p-SEC14,NA,GAL1p,ADH2t,S000004684,S000004684,SEC14,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,6,6,Eric Bryant,2013-10-09,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,NA,TRUE
+pWJ2143,GAL1p-SNF1,NA,GAL1p,ADH2t,S000002885,S000002885,SNF1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,6,7,Eric Bryant,2013-10-09,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,NA,TRUE
+pWJ2144,GAL1p-TAF5,NA,GAL1p,ADH2t,S000000402,S000000402,TAF5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,6,8,Eric Bryant,2013-10-09,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,NA,TRUE
+pWJ2145,GAL1p-URA7,NA,GAL1p,ADH2t,S000000135,S000000135,URA7,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,7,1,Eric Bryant,2013-10-09,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1,NA,NA,TRUE
+pWJ2146,C-D adaptamers HpaI 2micron vector,NA,NA,NA,NA,NA,NA,URA3,NA,NA,NA,pRS426,NA,-80C #2,8,1,4,2,2,4,Ivana Sunjevaric,2013-12-12,NA,NA,NA,NA,TRUE
+pWJ2147,SIC1,NA,NA,NA,NA,NA,NA,URA3,NA,NA,NA,pWJ2146,NA,-80C #2,8,1,4,2,2,7,Ivana Sunjevaric,2013-12-20,NA,NA,NA,NA,TRUE
+pWJ2148,GAL1p-FLAG-CKS1,NA,GAL1p,ADH2t,NA,NA,CKS1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,1,4,2,2,8,Ivana Sunjevaric,2013-12-20,NA,NA,NA,NA,TRUE
+pWJ2149,GAL1p-CKS1-FLAG,NA,GAL1p,ADH2t,NA,NA,CKS1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,1,4,2,3,1,Ivana Sunjevaric,2013-12-20,NA,NA,NA,NA,TRUE
+pWJ2150,CUP1p-KIP2,NA,CUP1p,ADH2t,S000006076,S000006076,KIP2,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1512,DH10b,-80C #2,8,4,2,3,7,2,Eric Bryant,2014-01-21,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1,NA,NA,TRUE
+pWJ2151,CUP1p-TUB1,NA,CUP1p,ADH2t,S000004550,S000004550,TUB1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1512,DH10b,-80C #2,8,4,2,3,7,3,Eric Bryant,2014-01-21,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1. T126del in spliced intron (does not affect splicing consensus sequences),NA,NA,TRUE
+pWJ2152,CUP1p-TUB2,NA,CUP1p,ADH2t,S000001857,S000001857,TUB2,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1512,DH10b,-80C #2,8,4,2,3,7,4,Eric Bryant,2014-01-21,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1,NA,NA,TRUE
+pWJ2153,CUP1p-TUB3,NA,CUP1p,ADH2t,S000004593,S000004593,TUB3,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1512,DH10b,-80C #2,8,4,2,3,7,5,Eric Bryant,2014-01-21,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1,NA,NA,TRUE
+pWJ2154,CUP1p-MAD3,NA,CUP1p,ADH2t,S000003550,S000003550,MAD3,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1512,DH10b,-80C #2,8,4,2,3,7,6,Eric Bryant,2014-01-21,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1,NA,NA,TRUE
+pWJ2155,GAL1p-TUB1,NA,GAL1p,ADH2t,S000004550,S000004550,TUB1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,8,4,Eric Bryant,2014-01-21,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1,NA,NA,TRUE
+pWJ2156,CUP1p-TIM17,NA,CUP1p,ADH2t,S000003679,S000003679,TIM17,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1512,DH10b,-80C #2,8,4,2,3,7,7,Eric Bryant,2014-01-21,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1,NA,NA,TRUE
+pWJ2157,CUP1p-VPS4,NA,CUP1p,ADH2t,S000006377,S000006377,VPS4,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1512,DH10b,-80C #2,8,4,2,3,7,8,Eric Bryant,2014-01-21,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1,NA,NA,TRUE
+pWJ2158,CUP1p-DSK2,NA,CUP1p,ADH2t,S000004889,S000004889,DSK2,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1512,DH10b,-80C #2,8,4,2,3,8,1,Eric Bryant,2014-01-21,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1,NA,NA,TRUE
+pWJ2159,CUP1p-KAR3,NA,CUP1p,ADH2t,S000006345,S000006345,KAR3,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1512,DH10b,-80C #2,8,4,2,3,8,2,Eric Bryant,2014-01-21,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1,NA,NA,TRUE
+pWJ2160,CUP1p-MPH1,NA,CUP1p,ADH2t,S000001441,S000001441,MPH1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1512,DH10b,-80C #2,8,4,2,3,8,3,Eric Bryant,2014-01-21,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1,NA,NA,TRUE
+pWJ2161,GAL1p-VPS4,NA,GAL1p,ADH2t,S000006377,S000006377,VPS4,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,8,5,Eric Bryant,2014-01-21,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1,NA,NA,TRUE
+pWJ2162,GAL1p-YKL091C,NA,GAL1p,ADH2t,S000001574,S000001574,YKL091C,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,8,6,Eric Bryant,2014-01-21,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,NA,TRUE
+pWJ2163,GAL1p-YPT6,NA,GAL1p,ADH2t,S000004252,S000004252,YPT6,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,3,8,7,Eric Bryant,2014-01-21,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1. TAG-648-TAA silent mutation; GAC-342-GAT silent mutation; PstI and SalI restriction sites added immediately within A and B adaptamer sequences.,viable,NA,TRUE
+pWJ2164,CUP1p-SPF1,NA,CUP1p,ADH2t,S000000757,S000000757,SPF1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1512,DH10b,-80C #2,8,4,2,3,8,8,Eric Bryant,2014-02-05,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1,NA,NA,TRUE
+pWJ2165,GAL1p-KIP2,NA,GAL1p,ADH2t,S000006076,S000006076,KIP2,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,4,1,1,Eric Bryant,2014-02-05,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1,NA,NA,TRUE
+pWJ2166,GAL1p-TUB3,NA,GAL1p,ADH2t,S000004593,S000004593,TUB3,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,4,1,2,Eric Bryant,2014-02-05,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1,NA,NA,TRUE
+pWJ2167,GAL1p-MAD3,NA,GAL1p,ADH2t,S000003550,S000003550,MAD3,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,4,1,3,Eric Bryant,2014-02-05,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1,NA,NA,TRUE
+pWJ2168,CUP1p-SIC1,NA,CUP1p,ADH2t,NA,NA,SIC1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1512,DH10b,-80C #2,8,1,4,2,4,1,Ivana Sunjevaric,2014-02-24,NA,NA,NA,NA,TRUE
+pWJ2169,GAL1p-SIC1,NA,GAL1p,ADH2t,NA,NA,SIC1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,1,4,2,4,2,Ivana Sunjevaric,2014-02-24,NA,NA,NA,NA,TRUE
+pWJ2170,GAL1p-SIC1-FLAG,NA,GAL1p,ADH2t,NA,NA,SIC1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,1,4,2,4,3,Ivana Sunjevaric,2014-02-24,NA,NA,NA,NA,TRUE
+pWJ2171,GAL1p-DPB11,NA,GAL1p,ADH2t,S000003626,S000003626,DPB11,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,4,1,6,Eric Bryant,2014-02-27,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1,NA,NA,TRUE
+pWJ2172,GAL1p-URA8,NA,GAL1p,ADH2t,S000003864,S000003864,URA8,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,4,1,7,Eric Bryant,2014-02-27,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1,NA,NA,TRUE
+pWJ2173,GAL1p-VPS34,NA,GAL1p,ADH2t,S000004230,S000004230,VPS34,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,4,1,8,Eric Bryant,2014-02-27,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1. 12 silent mutations: A174G; G333A; G576A; T747C; T1491C; C1710T; T1809C; T1944C; A2118G; T2199C; G2220A; T2439G,NA,NA,TRUE
+pWJ2174,GAL1p-YPK9,NA,GAL1p,ADH2t,S000005817,S000005817,YPK9,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,4,2,1,Eric Bryant,2014-02-27,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1,NA,NA,TRUE
+pWJ2175,GAL1p-EMC2,NA,GAL1p,ADH2t,S000003848,S000003848,EMC2,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,4,2,2,Eric Bryant,2014-04-29,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,NA,TRUE
+pWJ2176,GAL1p-ORM1,NA,GAL1p,ADH2t,S000003270,S000003270,ORM1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,4,2,3,Eric Bryant,2014-04-29,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,NA,TRUE
+pWJ2177,GAL1p-VPS74,NA,GAL1p,ADH2t,S000002780,S000002780,VPS74,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,4,2,4,Eric Bryant,2014-04-29,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,NA,TRUE
+pWJ2178,pRS315,ZOO599,NA,NA,NA,NA,NA,NA,NA,NA,NA,ZOO599,NA,NA,NA,NA,NA,NA,NA,NA,Eric Bryant,2014-07-03,NA,See ZOO entries,NA,See ZOO entries,FALSE
+pWJ2179,pST1911,ZOO600,NA,NA,NA,NA,NA,NA,NA,NA,NA,ZOO599,NA,NA,NA,NA,NA,NA,NA,NA,Eric Bryant,2014-07-03,NA,See ZOO entries,NA,See ZOO entries,FALSE
+pWJ2180,pST1912,ZOO601,NA,NA,NA,NA,NA,NA,NA,NA,NA,ZOO599,NA,NA,NA,NA,NA,NA,NA,NA,Eric Bryant,2014-07-03,NA,See ZOO entries,NA,See ZOO entries,FALSE
+pWJ2181,GAL1p-HRD1,NA,GAL1p,ADH2t,S000005373,S000005373,HRD1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,4,2,6,Eric Bryant,2014-07-08,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,NA,TRUE
+pWJ2182,GAL1p-MMS2,NA,GAL1p,ADH2t,S000003055,S000003055,MMS2,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,4,2,7,Eric Bryant,2014-07-08,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,NA,TRUE
+pWJ2183,GAL1p-SGS1,NA,GAL1p,ADH2t,S000004802,S000004802,SGS1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,4,2,8,Eric Bryant,2014-07-08,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1,SICK,NA,TRUE
+pWJ2184,SIC1 2micron,NA,NA,NA,NA,NA,NA,HIS3,2micron,AmpR,NA,pWJ2147,DH10b,-80C #2,8,1,4,2,5,1,Ivana Sunjevaric,2014-08-01,NA,NA,NA,NA,TRUE
+pWJ2185,GAL1p-ARF1,NA,GAL1p,ADH2t,S000002351,S000002351,ARF1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,4,3,1,Eric Bryant,2014-08-14,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1,SICK,NA,TRUE
+pWJ2186,GAL1p-ARF2,NA,GAL1p,ADH2t,S000002296,S000002296,ARF2,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,4,3,2,Eric Bryant,2014-08-14,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1,slow,NA,TRUE
+pWJ2187,GAL1p-HSF1,NA,GAL1p,ADH2t,S000003041,S000003041,HSF1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,4,3,3,Eric Bryant,2014-08-14,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1,SICK,NA,TRUE
+pWJ2188,GAL1p-LSM1,NA,GAL1p,ADH2t,S000003660,S000003660,LSM1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,4,3,4,Eric Bryant,2014-08-14,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,NA,TRUE
+pWJ2189,GAL1p-YBL055C,NA,GAL1p,ADH2t,S000000151,S000000151,YBL055C,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,4,3,5,Eric Bryant,2014-08-14,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,NA,TRUE
+pWJ2190,GAL1p-LTO1,NA,GAL1p,ADH2t,S000005204,S000005204,LTO1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,4,3,6,Eric Bryant,2014-08-14,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1,viable,NA,TRUE
+pWJ2191,GAL1p-PER1,NA,GAL1p,ADH2t,S000000640,S000000640,PER1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,4,3,7,Eric Bryant,2014-08-26,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1,slow,NA,TRUE
+pWJ2192,CUP1p-FLAG-SWE1,NA,CUP1p,ADH2t,NA,NA,SWE1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1512,DH10b,-80C #2,8,1,4,2,5,4,Ivana Sunjevaric,2014-08-26,NA,NA,NA,NA,TRUE
+pWJ2193,GAL1p-CDC6,NA,GAL1p,ADH2t,S000003730,S000003730,CDC6,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,4,3,8,Eric Bryant,2014-12-23,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1,NA,NA,TRUE
+pWJ2194,GAL1p-SMP3,NA,GAL1p,ADH2t,S000005675,S000005675,SMP3,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,4,4,1,Eric Bryant,2014-12-23,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1,NA,NA,TRUE
+pWJ2195,GAL1p-DBR1,NA,GAL1p,ADH2t,S000001632,S000001632,DBR1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,4,4,2,Eric Bryant,2014-12-23,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1,NA,NA,TRUE
+pWJ2196,GAL1p-SCH9,NA,GAL1p,ADH2t,S000001248,S000001248,SCH9,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,4,4,3,Eric Bryant,2014-12-23,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1,NA,NA,TRUE
+pWJ2197,GAL1p-DCN1,NA,GAL1p,ADH2t,S000004118,S000004118,DCN1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,4,4,4,Eric Bryant,2014-12-29,NA,Transformed with A/B homology into pWJ1781 cut with Hpa1,NA,NA,TRUE
+pWJ2198,GAL1p-SRS2,NA,NA,NA,NA,NA,NA,LEU2,2micron,AmpR,NA,ZOO383,NA,-80C #2,6,1,1,3,6,8,Michael Smith,2015-02-04,NA,NOT SEQUENCE VERIFIED,NA,NOT SEQUENCE VERIFIED,TRUE
+pWJ2199,GAL1p-POL1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,DH10b,NA,NA,NA,NA,NA,NA,NA,Eric Bryant,2015-03-27,NA,NOT SEQUENCE VERIFIED,NA,NOT SEQUENCE VERIFIED,FALSE
+pWJ2200,GAL1p-RAD5,NA,GAL1p,ADH2t,S000004022,S000004022,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,NA,-80C #2,8,4,1,1,2,1,Robert J.D. Reid,2015-04-17,2019-RAD5-Bryant-Reid,NA,NA,NA,TRUE
+pWJ2201,CUP1p-HHF1-YFP,NA,CUP1p,ADH2t,NA,NA,HHF1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1863,DH10b,-80C #2,8,4,1,1,2,2,Robert J.D. Reid,2015-04-17,NA,NA,NA,NA,TRUE
+pWJ2202,HHF1-YFP,NA,HHF1p,ADH2t,NA,NA,HHF1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1863,DH10b,-80C #2,8,4,1,1,2,3,Robert J.D. Reid,2015-04-17,NA,NA,NA,NA,TRUE
+pWJ2203,GAL1p-CKS1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,pRS305,NA,-80C #2,8,4,1,1,2,5,Ivana Sunjevaric,2015-04-29,NA,NA,NA,NA,TRUE
+pWJ2204,CUP1p-HPR1,NA,CUP1p,ADH2t,NA,NA,HPR1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1512,DH10b,-80C #2,8,4,1,1,2,6,Benoit Palancade,2015-05-14,NA,NA,NA,NA,TRUE
+pWJ2205,CUP1p-hpr1-KR,NA,CUP1p,ADH2t,NA,NA,HPR1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1512,DH10b,-80C #2,8,4,1,1,2,7,Benoit Palancade,2015-05-14,NA,NA,NA,NA,TRUE
+pWJ2206,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,-80C #2,8,4,2,1,5,4,So Jung Lee,2015-05-18,NA,NA,NA,NA,TRUE
+pWJ2207,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,So Jung Lee,2015-06-25,NA,NA,NA,NA,FALSE
+pWJ2208,GAL1p-RAD5-YFP,NA,GAL1p,ADH2t,NA,NA,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2200,DH10b,-80C #2,8,4,1,1,2,8,Ivana Sunjevaric,2015-07-13,NA,NA,NA,NA,TRUE
+pWJ2209,GAL1p-RAD5-YFP,NA,NA,NA,NA,NA,RAD5,LEU2,NA,AmpR,NA,pRS305,DH10b,-80C #2,8,4,1,1,4,1,Ivana Sunjevaric,2015-08-17,NA,NA,NA,NA,TRUE
+pWJ2210,GAL1p-RAD6,NA,GAL1p,ADH2t,NA,NA,RAD6,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,1,1,4,2,Ivana Sunjevaric,2015-08-17,NA,NA,NA,NA,TRUE
+pWJ2211,GAL1p-RAD18,NA,GAL1p,ADH2t,NA,NA,RAD18,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,1,1,4,3,Ivana Sunjevaric,2015-08-17,NA,NA,NA,NA,TRUE
+pWJ2212,GAL1p-UBC13,NA,GAL1p,ADH2t,NA,NA,UBC13,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,1,1,4,4,Ivana Sunjevaric,2015-08-17,NA,NA,NA,NA,TRUE
+pWJ2213,GAL1p-BRE1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Ivana Sunjevaric,2015-08-17,NA,NA,NA,NA,FALSE
+pWJ2214,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,-80C #2,8,4,2,1,5,5,So Jung Lee,2015-08-30,NA,NA,NA,NA,TRUE
+pWJ2215,GAL1p-RAD5,NA,GAL1p,ADH2t,NA,NA,RAD5,URA3,CEN6/ARS4,AmpR,f1/pBR322,pWJ2200,DH10b,-80C #2,8,4,1,1,5,2,Ivana Sunjevaric,2015-09-03,NA,NA,NA,NA,TRUE
+pWJ2216,"GAL1,10p double overexpression vector","GAL1,10p double overexpression vector. TEF terminator cloned into pWJ1781 (NruI digest) Amp, LEU2, CEN, Gal1,10 promoter.",GAL1p GAL10p,ADH2t TEFt,NA,NA,NA,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781 & pAG36,DH10b,-80C #2,8,4,2,4,4,7,Eric Bryant,2015-09-25,NA,"The TEF terminator from a KanMX cassette plasmid (pAG36) was amplified and cloned into the NruI cut site adjacent to the GAL1,10 bi-directional promoter. An NruI cut site was included to allow for double overexpression experiments by cloning into either NruI (downstream of GAL10), or HpaI (Downstream of GAL1)",NA,NA,TRUE
+pWJ2217,GAL1p-ctf4-C874A,NA,GAL1p,ADH2t,NA,NA,CTF4,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,4,4,8,Eric Bryant,2015-09-28,NA,NA,NA,NA,TRUE
+pWJ2218,GAL1p-ctf4-K900A,NA,GAL1p,ADH2t,NA,NA,CTF4,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,4,5,1,Eric Bryant,2015-10-09,NA,NA,NA,NA,TRUE
+pWJ2219,"GAL1p-ctf4-C874A,K900A",NA,GAL1p,ADH2t,NA,NA,CTF4,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,4,5,2,Eric Bryant,2015-10-09,NA,NA,NA,NA,TRUE
+pWJ2220,GAL1p-rad5-N155d,NA,GAL1p,ADH2t,NA,NA,CTF4,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,4,5,5,Eric Bryant,2015-11-16,NA,rad5-R155MDYKDDDDK (ATGGACTACAAAGACGATGACGACAAG) N-terminal truncation of first 155 residues from rad5 with N-terminal FLAG epitope tag cloned downstream of GAL1 promoter. This version is likely functional since SDL interaction with rad51 is still observed. Sequence verified on 2016-08-29 Eric Bryant: Sequence checked from DNA purified on 2017-11-09,NA,NA,TRUE
+pWJ2221,GAL1p-FLAG-RAD5,NA,GAL1p,ADH2t,NA,NA,CTF4,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,4,5,6,Eric Bryant,2015-11-16,2019-RAD5-Bryant-Reid,RAD5-M1MDYKDDDDK (ATGGACTACAAAGACGATGACGACAAG) RAD5 with N-terminal FLAG epitope tag cloned downstream of GAL1 promoter. This version is likely functional since SDL interaction with rad51 is still observed. Sequence verified on 2016-08-29 Eric Bryant: sequence verified from DNA purified on 2017-11-09,NA,NA,TRUE
+pWJ2222,GAL1p-RAD5-FLAG,NA,GAL1p,ADH2t,NA,NA,CTF4,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,4,5,7,Eric Bryant,2015-11-16,NA,RAD5-stop1170DYKDDDDKstop (TAG3508GACTACAAAGACGATGACGACAAGTAG) RAD5 with C-terminal FLAG epitope tag cloned downstream of GAL1 promoter. Sequence verified 2016-08-29 Eric Bryant: sequence verified from DNA purified on 2017-11-09,NA,NA,TRUE
+pWJ2223,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,So Jung Lee,2015-11-20,NA,NA,NA,NA,FALSE
+pWJ2224,GAL1p-RAD5,NA,GAL1p,ADH2t,NA,NA,RAD5,HIS3,CEN6/ARS4,AmpR,f1/pBR322,pWJ2200,DH10b,-80C #2,8,4,1,1,8,4,Ivana Sunjevaric,2015-12-29,NA,NA,NA,NA,TRUE
+pWJ2225,GAL10p-HA-YLR108C,NA,GAL10p,TEFt,NA,NA,YLR108C,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2216,DH10b,-80C #2,8,4,2,4,6,4,Eric Bryant,2016-02-10,NA,Double Check sequence from 2016-08-29!,NA,NA,TRUE
+pWJ2226,GAL10p-YLR108C-HA,NA,GAL10p,TEFt,NA,NA,YLR108C,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2216,DH10b,-80C #2,8,4,2,4,6,5,Eric Bryant,2016-02-10,NA,Double Check sequence from 2016-08-29!,NA,NA,TRUE
+pWJ2227,GAL10p-CTF18-HA,NA,GAL10p,TEFt,NA,NA,CTF18,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2216,DH10b,-80C #2,8,4,2,4,6,6,Eric Bryant,2016-02-10,NA,Double Check sequence from 2016-08-29!,NA,NA,TRUE
+pWJ2228,GAL1p-FLAG-VPS74,NA,GAL1p,ADH2t,NA,NA,VPS74,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2216,DH10b,-80C #2,8,4,2,4,6,7,Eric Bryant,2016-02-10,NA,Double Check sequence from 2016-08-29!,NA,NA,TRUE
+pWJ2229,GAL1p-VPS74-FLAG,NA,GAL1p,ADH2t,NA,NA,VPS74,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2216,DH10b,-80C #2,8,4,2,4,6,8,Eric Bryant,2016-02-10,NA,Double Check sequence from 2016-08-29!,NA,NA,TRUE
+pWJ2230,"GAL1p-rad5-DE681,682AA",NA,GAL1p,ADH2t,NA,NA,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,1,1,8,5,Ivana Sunjevaric,2016-02-16,2019-RAD5-Bryant-Reid,NA,NA,NA,TRUE
+pWJ2231,GAL1p-rad5-I916A,NA,GAL1p,ADH2t,NA,NA,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,1,1,8,6,Ivana Sunjevaric,2016-02-16,2019-RAD5-Bryant-Reid,NA,NA,NA,TRUE
+pWJ2232,GAL1p-FLAG-CTF4,NA,GAL1p,ADH2t,NA,NA,CTF4,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2216,DH10b,-80C #2,8,4,2,4,7,1,Eric Bryant,2016-02-22,NA,Duplicate at 842221? Sequence verified 2016-08-29,NA,Duplicate at 842221? Sequence verified 2016-08-29,TRUE
+pWJ2233,GAL1p-rad5-p.1_164del,NA,GAL1p,ADH2t,NA,NA,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,1,1,8,7,Ivana Sunjevaric,2016-02-22,2019-RAD5-Bryant-Reid,NA,NA,NA,TRUE
+pWJ2234,GAL1p-rad5-p.1_293del,NA,GAL1p,ADH2t,NA,NA,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,1,1,8,8,Ivana Sunjevaric,2016-02-22,2019-RAD5-Bryant-Reid,NA,NA,NA,TRUE
+pWJ2235,GAL1p-rad5-p.1_904del,NA,GAL1p,ADH2t,NA,NA,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,3,1,1,1,Ivana Sunjevaric,2016-02-22,NA,NA,NA,NA,TRUE
+pWJ2236,GAL1p-rad5-p.1_983del,NA,GAL1p,ADH2t,NA,NA,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,3,1,1,2,Ivana Sunjevaric,2016-02-22,NA,NA,NA,NA,TRUE
+pWJ2237,GAL1p-rad5-p.990_1170del,NA,GAL1p,ADH2t,NA,NA,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,3,1,1,3,Ivana Sunjevaric,2016-02-22,NA,NA,NA,NA,TRUE
+pWJ2238,GAL1p-rad5-Q1106D,NA,GAL1p,ADH2t,NA,NA,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,3,1,1,3,Ivana Sunjevaric,2016-02-22,2019-RAD5-Bryant-Reid,NA,NA,NA,TRUE
+pWJ2239,GAL1p-rad5-V228A,NA,GAL1p,ADH2t,NA,NA,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,3,1,2,2,Ivana Sunjevaric,2016-04-11,2019-RAD5-Bryant-Reid,NA,NA,NA,TRUE
+pWJ2240,GAL1p-rad5-R229A,NA,GAL1p,ADH2t,NA,NA,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,3,1,2,3,Ivana Sunjevaric,2016-04-11,2019-RAD5-Bryant-Reid,NA,NA,NA,TRUE
+pWJ2241,GAL1p-rad5-I230A,NA,GAL1p,ADH2t,NA,NA,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,3,1,2,4,Ivana Sunjevaric,2016-04-11,2019-RAD5-Bryant-Reid,NA,NA,NA,TRUE
+pWJ2242,GAL1p-rad5-D232A,NA,GAL1p,ADH2t,NA,NA,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,3,1,2,5,Ivana Sunjevaric,2016-04-11,NA,NA,NA,NA,TRUE
+pWJ2243,GAL1p-rad5-G240A,NA,GAL1p,ADH2t,NA,NA,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,3,1,2,6,Ivana Sunjevaric,2016-04-11,2019-RAD5-Bryant-Reid,NA,NA,NA,TRUE
+pWJ2244,GAL1p-rad5-T186A,NA,GAL1p,ADH2t,NA,NA,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,3,1,3,1,Ivana Sunjevaric,2016-05-05,2019-RAD5-Bryant-Reid,NA,NA,NA,TRUE
+pWJ2245,GAL1p-rad5-L273A,NA,GAL1p,ADH2t,NA,NA,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,3,1,3,2,Ivana Sunjevaric,2016-05-05,NA,NA,NA,NA,TRUE
+pWJ2446,mRFP1-LacI,NA,NA,NA,NA,NA,NA,HIS3,NA,NA,NA,ZOO509,NA,-80C #2,8,4,2,1,8,2,So Jung Lee,2016-05-15,NA,HIS3 marker. mRFP1-LacI expressed from HIS3 promoter. YFP was replaced with mRFP1 in ZOO509. HIS3p-mRFP1-LacI verified by sequencing but bad expression (doesn't form focus on LacO array),NA,NA,TRUE
+pWJ2447,GAL1p-rad5-173_281del,NA,GAL1p,ADH2t,NA,NA,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,3,1,3,5,Ivana Sunjevaric,2016-06-01,2019-RAD5-Bryant-Reid,NA,NA,NA,TRUE
+pWJ2448,GAL1p-rad5-183-189del,NA,GAL1p,ADH2t,NA,NA,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,3,1,3,6,Ivana Sunjevaric,2016-06-01,2019-RAD5-Bryant-Reid,NA,NA,NA,TRUE
+pWJ2449,GAL1p-rad5-G183_S197delinsIGGI,NA,GAL1p,ADH2t,NA,NA,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,3,1,3,7,Ivana Sunjevaric,2016-06-01,2019-RAD5-Bryant-Reid,NA,NA,NA,TRUE
+pWJ2450,GAL1p-rad5-190_197del,NA,GAL1p,ADH2t,NA,NA,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,3,1,3,8,Ivana Sunjevaric,2016-06-01,2019-RAD5-Bryant-Reid,NA,NA,NA,TRUE
+pWJ2451,GAL1p-rad5-204_214del,NA,GAL1p,ADH2t,NA,NA,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,3,1,4,1,Ivana Sunjevaric,2016-06-01,2019-RAD5-Bryant-Reid,NA,NA,NA,TRUE
+pWJ2452,GAL1p-rad5-S204_A225delinsIGGI,NA,GAL1p,ADH2t,NA,NA,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,3,1,4,2,Ivana Sunjevaric,2016-06-01,2019-RAD5-Bryant-Reid,NA,NA,NA,TRUE
+pWJ2453A,GAL1p-rad5-215-225del,NA,GAL1p,ADH2t,NA,NA,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,3,1,4,3,Ivana Sunjevaric,2016-06-01,2019-RAD5-Bryant-Reid,NA,NA,NA,TRUE
+pWJ2453B,CUP1p-RAD5,NA,CUP1p,ADH2t,NA,NA,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1512,DH10b,-80C #2,8,4,3,1,5,2,Ivana Sunjevaric,2016-06-15,NA,NA,NA,NA,TRUE
+pWJ2454,mCitrine-LacI-R197K,NA,HIS3p,NA,NA,NA,NA,HIS3,NA,NA,NA,ZOO509,NA,-80C #2,8,4,1,2,1,4,So Jung Lee,2016-06-22,NA,NA,NA,NA,TRUE
+pWJ2455,mCherry-Laci-R197K,NA,HIS3p,NA,NA,NA,NA,HIS3,NA,NA,NA,ZOO509,NA,-80C #2,8,4,1,2,1,6,So Jung Lee,2016-07-29,NA,NA,NA,NA,TRUE
+pWJ2456,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,So Jung Lee,2016-07-29,NA,NA,NA,NA,FALSE
+pWJ2457,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,So Jung Lee,2016-07-29,NA,NA,NA,NA,FALSE
+pWJ2458,GAL1p-vps74-201_204del,FRAMESHIFT MUTATION,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Izzy Sollohub,2016-08-01,NA,FRAMESHIFT MUTATION,NA,FRAMESHIFT MUTATION,TRUE
+pWJ2459,"GAL1p-vps74-K178A,R181L",NA,GAL1p,ADH2t,NA,NA,VPS74,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,2,1,7,Izzy Sollohub,2016-08-01,NA,Needs to be re-sequenced,NA,NA,TRUE
+pWJ2460,"GAL1p-vps74-L170I,L173R",NA,GAL1p,ADH2t,NA,NA,VPS74,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,2,1,1,Izzy Sollohub,2016-08-01,NA,Needs to be re-sequenced,NA,NA,TRUE
+pWJ2461,"GAL1p-vps74-SS155,157EE",NA,GAL1p,ADH2t,NA,NA,VPS74,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,2,1,2,Izzy Sollohub,2016-08-01,NA,Needs to be re-sequenced,NA,NA,TRUE
+pWJ2462,"GAL1p-vps74-SS155,157AA",NA,GAL1p,ADH2t,NA,NA,VPS74,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,2,1,3,Izzy Sollohub,2016-08-01,NA,Needs to be re-sequenced,NA,NA,TRUE
+pWJ2463,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Izzy Sollohub,2016-08-01,NA,NA,NA,NA,FALSE
+pWJ2464,GAL1p-vps74-N60del,NA,GAL1p,ADH2t,NA,NA,VPS74,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,2,1,4,Izzy Sollohub,2016-08-01,NA,Needs to be re-sequenced,NA,NA,TRUE
+pWJ2465,"GAL1p-vps74-L170I,L173R",NA,GAL1p,ADH2t,NA,NA,VPS74,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,2,1,5,Izzy Sollohub,2016-08-01,NA,Needs to be re-sequenced,NA,NA,TRUE
+pWJ2466,GAL1p-vps74-N60del or 201-204del?,NA,GAL1p,ADH2t,NA,NA,VPS74,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,2,1,6,Izzy Sollohub,2016-08-01,NA,Needs to be re-sequenced,NA,NA,TRUE
+pWJ2467,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,-80C #2,8,4,1,2,4,3,So Jung Lee,2016-08-08,NA,NA,NA,NA,TRUE
+pWJ2468,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,-80C #2,8,4,1,2,4,4,So Jung Lee,2016-08-08,NA,NA,NA,NA,TRUE
+pWJ2469,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,-80C #2,8,4,1,2,4,7,So Jung Lee,2016-08-08,NA,NA,NA,NA,TRUE
+pWJ2470,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,-80C #2,8,4,1,2,4,5,So Jung Lee,2016-08-08,NA,NA,NA,NA,TRUE
+pWJ2471,GAL1p AID* degron vector,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,pWJ1781,NA,-80C #2,6,3,4,2,7,1,Robert J.D. Reid,2016-08-12,NA,pWJ1781 but with AID* degron (auxin -inducible) from 10.1002/yea.2967 cloned in between A and B adaptamers. Hpa1 site on N-term side of AID and Nru1 site on C-term side for cloning. Gal promoter. Sequence verified 08-2016 by Bob. Nru1 blocked by overlapping Me + upstream Nru1 - so plasmid is best for C-terminal tagging using Hpa1 site,NA,NA,TRUE
+pWJ2472,GAL1p AID* degron vector,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,pWJ1894,NA,-80C #2,6,3,4,1,7,2,Robert J.D. Reid,2016-08-12,NA,pWJ1894 but with AID* degron (auxin -inducible) cloned in between A and B adaptamers. Hpa1 site on N-term side of AID and Nru1 site on C-term side for cloning. No promoter. Sequence verified 08-2016 by Bob. Nru1 blocked by overlapping Me + upstream Nru1 - so plasmid is best for C-terminal tagging using Hpa1 site,NA,NA,TRUE
+pWJ2473,GAL1p-FLAG-rad5-I916A,NA,GAL1p,ADH2t,S000004022,S000004022,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,3,1,7,7,Ivana Sunjevaric,2016-08-30,2019-RAD5-Bryant-Reid,NA,NA,NA,TRUE
+pWJ2474,"GAL1p-FLAG-rad5-DE681,682AA",NA,GAL1p,ADH2t,S000004022,S000004022,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,3,1,7,8,Ivana Sunjevaric,2016-08-30,NA,NA,NA,NA,TRUE
+pWJ2475,GAL1p-FLAG-rad5-V228A,NA,GAL1p,ADH2t,S000004022,S000004022,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,3,1,8,1,Ivana Sunjevaric,2016-08-30,NA,NA,NA,NA,TRUE
+pWJ2476,GAL1p-FLAG-rad5-D232A,NA,GAL1p,ADH2t,S000004022,S000004022,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,3,1,8,2,Ivana Sunjevaric,2016-08-30,NA,NA,NA,NA,TRUE
+pWJ2477,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,-80C #2,8,4,1,2,5,2,So Jung Lee,2016-09-12,NA,NA,NA,NA,TRUE
+pWJ2478,GAL1p-ctf4-L90_D99del,NA,GAL1p,ADH2t,NA,NA,CTF4,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,2,2,3,Eric Bryant,2016-09-20,NA,Sequence verified on 2016-09-28,NA,NA,TRUE
+pWJ2479,GAL1p-ctf4-E429_D439del,NA,GAL1p,ADH2t,NA,NA,CTF4,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,2,2,4,Eric Bryant,2016-09-20,NA,Sequence verified on 2016-09-28,NA,NA,TRUE
+pWJ2480,GAL1p-ctf4-W237_A245del,NA,GAL1p,ADH2t,NA,NA,CTF4,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,2,2,5,Eric Bryant,2016-09-20,NA,Sequence verified on 2016-09-28,NA,NA,TRUE
+pWJ2481,GAL1p-ctf4-K783_K927del,NA,GAL1p,ADH2t,NA,NA,CTF4,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,2,2,6,Eric Bryant,2016-09-20,NA,Sequence verified on 2016-09-28,NA,NA,TRUE
+pWJ2482,GAL1p-ctf4-V819_K927del,NA,GAL1p,ADH2t,NA,NA,CTF4,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,2,2,7,Eric Bryant,2016-09-20,NA,Sequence verified on 2016-09-28,NA,NA,TRUE
+pWJ2483,GAL1p-ctf4-G845_K927del,NA,GAL1p,ADH2t,NA,NA,CTF4,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,2,2,8,Eric Bryant,2016-09-20,NA,Sequence verified on 2016-09-28,NA,NA,TRUE
+pWJ2484,GAL1p-ctf4-L889_K927del,NA,GAL1p,ADH2t,NA,NA,CTF4,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,2,3,1,Eric Bryant,2016-09-20,NA,Sequence verified on 2016-09-28,NA,NA,TRUE
+pWJ2485,GAL1p-ctf4-A905_K927del,NA,GAL1p,ADH2t,NA,NA,CTF4,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,2,3,2,Eric Bryant,2016-09-20,NA,Sequence verified on 2016-09-28,NA,NA,TRUE
+pWJ2486,GAL1p-ctf4-M1_N43del,NA,GAL1p,ADH2t,NA,NA,CTF4,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,2,3,3,Eric Bryant,2016-09-20,NA,Sequence verified on 2016-09-28,NA,NA,TRUE
+pWJ2487,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Robert J.D. Reid,2016-09-23,NA,NA,NA,NA,FALSE
+pWJ2488,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Robert J.D. Reid,2016-09-23,NA,NA,NA,NA,FALSE
+pWJ2489,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Gene-Synthesis,NA,NA,NA,NA,NA,NA,NA,NA,So Jung Lee,2016-09-29,NA,NA,NA,NA,FALSE
+pWJ2490,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,pWJ2468,NA,NA,NA,NA,NA,NA,NA,NA,So Jung Lee,2016-09-29,NA,NA,NA,NA,FALSE
+pWJ2491,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,pWJ2477,NA,NA,NA,NA,NA,NA,NA,NA,So Jung Lee,2016-09-30,NA,NA,NA,NA,FALSE
+pWJ2492,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,pWJ2470,NA,-80C #2,8,4,1,2,6,1,So Jung Lee,2016-09-30,NA,NA,NA,NA,TRUE
+pWJ2493,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,pWJ2467,NA,-80C #2,8,4,1,2,4,3,So Jung Lee,2016-09-30,NA,NA,NA,NA,TRUE
+pWJ2494,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,pWJ1894,NA,NA,NA,NA,NA,NA,NA,NA,Robert J.D. Reid,2016-10-16,NA,NA,NA,NA,FALSE
+pWJ2495,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,pWJ2487,NA,NA,NA,NA,NA,NA,NA,NA,Robert J.D. Reid,2016-10-16,NA,NA,NA,NA,FALSE
+pWJ2496,GAL1p-A-HpaI-3V5-ZraI-B,NA,GAL1p,ADH2t,,,,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,2,3,5,Eric Bryant,2016-10-18,2019-RAD5-Bryant-Reid,NA,NA,NA,TRUE
+pWJ2497,GAL1p-A-HpaI-YFP-ZraI-B,NA,GAL1p,ADH2t,,,,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,2,3,6,Eric Bryant,2016-10-18,NA,NA,NA,NA,TRUE
+pWJ2498,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,pWJ2495,NA,-80C #2,6,3,3,2,4,7,Robert J.D. Reid,2016-10-19,NA,NA,NA,NA,TRUE
+pWJ2499,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,pWJ2498,NA,NA,NA,NA,NA,NA,NA,NA,Robert J.D. Reid,2016-10-19,NA,NA,NA,NA,FALSE
+pWJ2500,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,pWJ2499,NA,NA,NA,NA,NA,NA,NA,NA,Robert J.D. Reid,2016-10-19,NA,NA,NA,NA,FALSE
+pWJ2501,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,pWJ2499,NA,NA,NA,NA,NA,NA,NA,NA,Robert J.D. Reid,2016-10-19,NA,NA,NA,NA,FALSE
+pWJ2502,GAL1p-YFP-RAD5,NA,GAL1p,ADH2t,S000004022,S000004022,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2497,DH10b,-80C #2,8,4,2,2,3,7,Eric Bryant,2016-10-28,NA,Sequence verified on 2016-10-27,NA,NA,TRUE
+pWJ2503,GAL1p-RAD5-YFP,NA,GAL1p,ADH2t,S000004022,S000004022,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2497,DH10b,-80C #2,8,4,2,2,3,8,Eric Bryant,2016-10-28,NA,Sequence verified on 2016-10-27,NA,NA,TRUE
+pWJ2504,GAL1p-3V5-RAD5,NA,GAL1p,ADH2t,S000004022,S000004022,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2496,DH10b,-80C #2,8,4,2,2,4,1,Eric Bryant,2016-10-28,NA,Sequence verified on 2016-10-27,NA,NA,TRUE
+pWJ2505,GAL1p-A-HpaI-mRuby2-ZraI-B,NA,GAL1p,ADH2t,,,,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,6,1,3,3,4,5,Michael Smith,2016-11-03,NA,NA,NA,NA,TRUE
+pWJ2506,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,pWJ2492,NA,NA,NA,NA,NA,NA,NA,NA,So Jung Lee,2016-11-07,NA,NA,NA,NA,FALSE
+pWJ2507,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,pWJ2492,NA,NA,NA,NA,NA,NA,NA,NA,So Jung Lee,2016-11-07,NA,NA,NA,NA,FALSE
+pWJ2508,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,ZOO617,NA,-80C #2,8,4,1,2,6,6,So Jung Lee,2016-11-07,NA,Use pWJ2521 instead,NA,NA,TRUE
+pWJ2509,GAL1p-A-PmeI-mTurquoise2-ZraI-B,NA,GAL1p,ADH2t,NA,NA,NA,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,2,2,8,8,Eric Bryant,2016-11-09,2019-RAD5-Bryant-Reid,NA,NA,NA,TRUE
+pWJ2510,GAL1p-mRuby2-RAD51,NA,GAL1p,ADH2t,NA,NA,RAD51,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2505,DH10b,-80C #2,6,1,3,3,4,6,Michael Smith,2016-11-04,NA,NA,NA,NA,TRUE
+pWJ2511,GAL1p-mTQ2-RAD5,NA,GAL1p,ADH2t,NA,NA,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2509,DH10b,-80C #2,8,4,1,3,3,6,Eric Bryant,2016-11-21,2019-RAD5-Bryant-Reid,NA,NA,NA,TRUE
+pWJ2512,GAL1p-RAD5-3V5,NA,GAL1p,ADH2t,NA,NA,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2496,DH10b,-80C #2,8,4,1,3,3,7,Eric Bryant,2016-11-21,2019-RAD5-Bryant-Reid,NA,NA,NA,TRUE
+pWJ2513,GAL1p-RAD5-mTQ2,NA,GAL1p,ADH2t,NA,NA,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2509,DH10b,-80C #2,8,4,1,3,3,8,Eric Bryant,2016-11-22,2019-RAD5-Bryant-Reid,NA,NA,NA,TRUE
+pWJ2514,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,pWJ2455,NA,-80C #2,8,4,1,2,6,8,So Jung Lee,2016-11-30,NA,NA,NA,NA,TRUE
+pWJ2515,"GAL1p-hltf-E472K,L854F",NA,GAL1p,ADH2t,NA,ENSG00000071794,HLTF,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,1,3,5,8,Eric Bryant,2016-12-09,NA,NA,NA,NA,TRUE
+pWJ2516,GAL1p-HLTF-3V5,NA,GAL1p,ADH2t,NA,ENSG00000071794,HLTF,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2496,DH10b,-80C #2,8,4,1,3,6,1,Eric Bryant,2016-12-09,NA,NA,NA,NA,TRUE
+pWJ2517,GAL1p-HLTF-mTQ2,NA,GAL1p,ADH2t,NA,ENSG00000071794,HLTF,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2509,DH10b,-80C #2,8,4,1,3,6,2,Eric Bryant,2016-12-09,NA,NA,NA,NA,TRUE
+pWJ2518,GAL1p-shprh-E1662V,NA,GAL1p,ADH2t,NA,ENSG00000146414,SHPRH,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,1,3,6,3,Eric Bryant,2016-12-09,NA,NA,NA,NA,TRUE
+pWJ2519,GAL1p-SHPRH-3V5,NA,GAL1p,ADH2t,NA,ENSG00000146414,SHPRH,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2496,DH10b,-80C #2,8,4,1,3,6,4,Eric Bryant,2016-12-09,NA,NA,NA,NA,TRUE
+pWJ2520,GAL1p-SHPRH-mTQ2,NA,GAL1p,ADH2t,NA,ENSG00000146414,SHPRH,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2509,DH10b,-80C #2,8,4,1,3,6,5,Eric Bryant,2016-12-09,NA,NA,NA,NA,TRUE
+pWJ2521,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,-80C #2,8,4,1,2,7,2,So Jung Lee,2016-12-12,NA,NA,NA,NA,TRUE
+pWJ2522,"GAL1p-rad5-HD,RING",Galactose inducible rad5 helicase dead and RING domain mutant,GAL1p,ADH2t,"S000004022-c.GACGAG2041-2046GCTGCT,ATC2746-2748GCT-p.D681A,E682A,I916A",S000004022,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,1,3,6,6,Eric Bryant,2016-12-12,NA,NA,NA,NA,TRUE
+pWJ2523,"GAL1p-rad5-HIRAN,RING",Galactose inducible rad5 HIRAN and RING domain mutant,GAL1p,ADH2t,"S000004022-c.GTA682-684GCT,ATC2746-2748GCT-p.V228A,I916A",S000004022,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,1,3,6,7,Eric Bryant,2016-12-12,NA,NA,NA,NA,TRUE
+pWJ2524,"GAL1p-rad5-HIRAN,HD",Galactose inducible rad5 helicase dead and HIRAN domain mutant,GAL1p,ADH2t,"S000004022-c.GTA682-684GCT,GACGAG2041-2046GCTGCT-p.V228A,D681A,E682A",S000004022,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,1,3,6,8,Eric Bryant,2016-12-12,NA,NA,NA,NA,TRUE
+pWJ2525,GAL1p-rad5-NLS3d-mTQ2,Galactose inducible rad5 C-terminal truncation of G3460-3510 with a C-terminal mTQ2 tag,GAL1p,ADH2t,S000004022-c.G3460_3510del,S000004022,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2509,DH10b,-80C #2,8,4,1,3,7,1,Eric Bryant,2016-12-12,NA,NA,NA,NA,TRUE
+pWJ2526,GAL1p-CTF4-mTQ2,NA,GAL1p,ADH2t,NA,NA,NA,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2509,DH10b,-80C #2,8,4,1,3,7,2,Eric Bryant,2016-12-12,NA,NA,NA,NA,TRUE
+pWJ2527,GAL1p-mTQ2-CTF4,NA,GAL1p,ADH2t,NA,NA,NA,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2509,DH10b,-80C #2,8,4,1,3,7,3,Eric Bryant,2016-12-12,NA,NA,NA,NA,TRUE
+pWJ2528,GAL1p-CTF4-YFP,NA,GAL1p,ADH2t,NA,NA,NA,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2497,DH10b,-80C #2,8,4,1,3,7,3,Eric Bryant,2016-12-12,NA,NA,NA,NA,TRUE
+pWJ2529,GAL1p-YFP-CTF4,NA,GAL1p,ADH2t,NA,NA,NA,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2497,DH10b,-80C #2,8,4,1,3,7,5,Eric Bryant,2016-12-12,NA,NA,NA,NA,TRUE
+pWJ2530,GAL1p-3V5-CTF4,NA,GAL1p,ADH2t,NA,NA,NA,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2496,DH10b,-80C #2,8,4,1,3,7,6,Eric Bryant,2016-12-12,NA,NA,NA,NA,TRUE
+pWJ2531,NA,mTurquoise2-ADH1 terminator NatMX,NA,NA,NA,NA,NA,URA3,CEN6/ARS4,AmpR,NA,pAG36,NA,NA,NA,NA,NA,NA,NA,NA,So Jung Lee,2017-01-17,NA,NA,NA,Not frozen,FALSE
+pWJ2532,GAL1p-rad5-zipper,NA,GAL1p,ADH2t,S000004022-c.GATGAAGAGCTAGAAAGC983-1000GCTGCCGCAGCTGCAGCC-p.DEELES328-333AAAAAA,S000004022,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,1,3,7,7,Eric Bryant,2017-01-27,2019-RAD5-Bryant-Reid,NA,NA,NA,TRUE
+pWJ2533,NA,mTurquoise2 pop-in pop-out 1st half of klURA3,,NA,NA,NA,NA,NA,NA,NA,NA,pRS304,NA,-80C #2,8,4,3,3,1,1,So Jung Lee,2017-03-02,NA,NA,NA,NA,TRUE
+pWJ2534,NA,mTurquoise2 pop-in pop-out 2nd half of klURA3,,NA,NA,NA,NA,NA,NA,NA,NA,pRS304,NA,-80C #2,8,4,3,3,1,3,So Jung Lee,2017-03-02,NA,NA,NA,NA,TRUE
+pWJ2535,NA,mClover3 pop-in pop-out 1st half of klURA3,,NA,NA,NA,NA,NA,NA,NA,NA,pRS304,NA,-80C #2,8,4,3,3,1,5,So Jung Lee,2017-03-02,NA,NA,NA,NA,TRUE
+pWJ2536,NA,mClover3 pop-in pop-out 2nd half of klURA3,,NA,NA,NA,NA,NA,NA,NA,NA,pRS304,NA,-80C #2,8,4,3,3,1,6,So Jung Lee,2017-03-02,NA,NA,NA,NA,TRUE
+pWJ2537,NA,mRFP in pWJ2455 removed by XhoI/SmaI. Ligated to yeast optimized mClover3 to make HIS3p-yomClover3-LacI-??,,NA,NA,NA,NA,NA,NA,NA,NA,pWJ2455,NA,NA,NA,NA,NA,NA,NA,NA,So Jung Lee,2017-03-02,NA,NA,NA,Not frozen,TRUE
+pWJ2538,"GAL1p-rad5-HD,RING-3V5",Galactose inducible rad5 helicase dead and RING domain mutant with a C-terminal 3V5 epitope tag,GAL1p,ADH2t,"S000004022-c.GACGAG2041-2046GCTGCT,ATC2746-2748GCT-p.D681A,E682A,I916A",S000004022,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2496,DH10b,-80C #2,8,4,1,3,7,8,Eric Bryant,2017-04-14,NA,NA,NA,NA,TRUE
+pWJ2539,"GAL1p-rad5-HIRAN,RING-3V5",Galactose inducible rad5 HIRAN and RING domain mutant with a C-terminal 3V5 epitope tag,GAL1p,ADH2t,"S000004022-c.GTA682-684GCT,ATC2746-2748GCT-p.V228A,I916A",S000004022,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2496,DH10b,-80C #2,8,4,1,3,8,3,Eric Bryant,2017-04-14,NA,NA,NA,NA,TRUE
+pWJ2540,"GAL1p-rad5-HIRAN,HD-3V5",Galactose inducible rad5 helicase dead and HIRAN domain mutant with a C-terminal 3V5 epitope tag,GAL1p,ADH2t,"S000004022-c.GTA682-684GCT,GACGAG2041-2046GCTGCT-p.V228A,D681A,E682A",S000004022,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2496,DH10b,-80C #2,8,4,1,3,8,4,Eric Bryant,2017-04-14,NA,NA,NA,NA,TRUE
+pWJ2541,GAL1p-rad5-HIRAN-3V5,Galactose inducible rad5 HIRAN domain mutant with a C-terminal 3V5 epitope tag,GAL1p,ADH2t,S000004022-c.GTA682-684GCT-p.V228A,S000004022,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2496,DH10b,-80C #2,8,4,1,3,8,5,Eric Bryant,2017-04-14,NA,NA,NA,NA,TRUE
+pWJ2542,GAL1p-rad5-HD-3V5,Galactose inducible rad5 helicase dead mutant with a C-terminal 3V5 epitope tag,GAL1p,ADH2t,"S000004022-c.GACGAG2041-2046GCTGCT-p.D681A,E682A",S000004022,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2496,DH10b,-80C #2,8,4,1,3,8,6,Eric Bryant,2017-04-14,NA,NA,NA,NA,TRUE
+pWJ2543,GAL1p-rad5-RING-3V5,Galactose inducible rad5 RING domain mutant with a C-terminal 3V5 epitope tag,GAL1p,ADH2t,S000004022-c.ATC2746-2748GCT-p.I916A,S000004022,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2496,DH10b,-80C #2,8,4,1,3,8,7,Eric Bryant,2017-04-14,NA,NA,NA,NA,TRUE
+pWJ2544,GAL1p-rad5-zipper-3V5,Galactose inducible rad5 leucine zipper mutant with a C-terminal 3V5 epitope tag,GAL1p,ADH2t,S000004022-c.GATGAAGAGCTAGAAAGC983-1000GCTGCCGCAGCTGCAGCC-p.DEELES328-333AAAAAA,S000004022,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2496,DH10b,-80C #2,8,4,1,3,8,8,Eric Bryant,2017-04-14,NA,NA,NA,NA,TRUE
+pWJ2545,GAL1p-HLTF,Galactose inducible human HLTF,GAL1p,ADH2t,c.G909A-p.T303T (silent),ENSG00000071794,HLTF,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,1,4,3,5,Eric Bryant,2017-03-03,NA,NA,NA,NA,TRUE
+pWJ2546,GAL1p-SHPRH,Galactose inducible human SHPRH,GAL1p,ADH2t,NA,ENSG00000146414,SHPRH,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,NA,NA,NA,NA,NA,NA,NA,Eric Bryant,2017-03-03,NA,Failed sequence verification,NA,Failed sequence verification,FALSE
+pWJ2547,mClover3-LacI-R197K,Yeast codon optimized mClover3 + old LacI. ADH1 terminator inserted at EagI/SacI. Has expression problems,NA,ADH1t,NA,NA,NA,HIS3,NA,NA,NA,pWJ2537,NA,-80C #2,8,4,3,3,2,2,So Jung Lee,2017-04-13,NA,Added ADH1 terminator at Eng2/Snu2,NA,NA,TRUE
+pWJ2548,mTurquoise2-TUSx14,TUSx14 with N-terminal mTurquoise2 fluorescent tag,GAL1p,ADH2t,NA,NA,NA,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2509,NA,-80C #2,8,4,3,1,8,3,Ivana Sunjevaric,2017-04-07,NA,NA,NA,NA,TRUE
+pWJ2549,mClover3-MV-LacI-R197K,Yeast codon optimized mClover3 + yeast codon optimized MV+LacI (21AA del). It's new LacI with MV added in the N term of LacI (after yomClover3 and linker),NA,ADH1t,NA,NA,NA,HIS3,NA,AmpR,NA,pWJ2547,NA,-80C #2,8,4,3,3,2,4,So Jung Lee,2017-04-13,NA,Cut out old LacZ w/ BsrG2/Xba2. Ligate yoLac2x MV,NA,NA,TRUE
+pWJ2550,mClover3-LacI-R197K,Yeast codon optimized mClover3 + codon optimized 11AA Cterm deletion LacI (same protein sequence as old LacI),NA,ADH1t,NA,NA,NA,HIS3,NA,AmpR,NA,pWJ2547,NA,-80C #2,8,4,3,3,2,5,So Jung Lee,2017-04-13,NA,Cut out old LacZ w/ BsrG2/Xba2. Ligate yoLac2x 10AA C-term,NA,NA,TRUE
+pWJ2551,GAL1p-rad5-HIRAN-acidic-loop,Galactose inducible rad5-HIRAN-acidic-loop,GAL1p,ADH2t,S000004022-c.CGTGGTAGAAAGAAA649-663GAAGGTGAAGAAGAA-p.RGRKK217-221EGEEE,S000004022,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,1,4,3,6,Eric Bryant,2017-04-14,NA,Sequenced on 2017-04-14.,NA,NA,TRUE
+pWJ2552,GAL1p-rad5-HIRAN-acidicl-loop-3V5,Galactose inducible rad5-HIRAN-acidic-loop with C-terminal 3V5 epitope tag,GAL1p,ADH2t,S000004022-c.CGTGGTAGAAAGAAA649-663GAAGGTGAAGAAGAA-p.RGRKK217-221EGEEE,S000004022,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2496,DH10b,-80C #2,8,4,1,4,3,7,Eric Bryant,2017-04-14,NA,Sequenced on 2017-04-14.,NA,NA,TRUE
+pWJ2553,GAL1p-rad5-HIRAN-neutral-loop,Galactose inducible rad5-HIRAN-neutral-loop,GAL1p,ADH2t,S000004022-c.GACTCACGTGGTAGAAAGAAA643-663GCTTCAGCTGGTGCTGCAGCT-p.DSRGRKK215-221ASAGAAA,S000004022,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,1,4,3,8,Eric Bryant,2017-04-14,NA,Sequenced on 2017-04-14.,NA,NA,TRUE
+pWJ2554,GAL1p-rad5-HIRAN-neutral-loop-3V5,Galactose inducible rad5-HIRAN-neutral-loop with C-terminal 3V5 epitope tag,GAL1p,ADH2t,S000004022-c.GACTCACGTGGTAGAAAGAAA643-663GCTTCAGCTGGTGCTGCAGCT-p.DSRGRKK215-221ASAGAAA,S000004022,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2496,DH10b,-80C #2,8,4,1,4,3,9,Eric Bryant,2017-04-14,NA,Sequenced on 2017-04-14.,NA,NA,TRUE
+pWJ2555,GAL1p-rad5-R187E,Galactose inducible rad5-R187E,GAL1p,ADH2t,S000004022-c.AGA559-561GAA-p.R187E,S000004022,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,1,4,4,1,Eric Bryant,2017-04-14,2019-RAD5-Bryant-Reid,Sequenced on 2017-04-14.,NA,NA,TRUE
+pWJ2556,GAL1p-rad5-R187E-3V5,Galactose inducible rad5-R187E with C-terminal 3V5 epitope tag,GAL1p,ADH2t,S000004022-c.AGA559-561GAA-p.R187E,S000004022,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2496,DH10b,-80C #2,8,4,1,4,4,2,Eric Bryant,2017-04-14,NA,Sequenced on 2017-04-14.,NA,NA,TRUE
+pWJ2557,GAL1p-rad5-R229E,Galactose inducible rad5-R229E,GAL1p,ADH2t,S000004022-c.AGA685-687GAA-p.R229E,S000004022,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,1,4,4,3,Eric Bryant,2017-04-14,2019-RAD5-Bryant-Reid,Sequenced on 2017-04-14.,NA,NA,TRUE
+pWJ2558,GAL1p-rad5-R229E-3V5,Galactose inducible rad5-R229E with C-terminal 3V5 epitope tag,GAL1p,ADH2t,S000004022-c.AGA685-687GAA-p.R229E,S000004022,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2496,DH10b,-80C #2,8,4,1,4,4,4,Eric Bryant,2017-04-14,NA,Sequenced on 2017-04-14.,NA,NA,TRUE
+pWJ2559,GAL1p-rad5-R241E,Galactose inducible rad5-R241E,GAL1p,ADH2t,S000004022-c.AGA721-723GAA-p.R241E,S000004022,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,4,1,4,4,5,Eric Bryant,2017-04-14,2019-RAD5-Bryant-Reid,Sequenced on 2017-04-14.,NA,NA,TRUE
+pWJ2560,GAL1p-rad5-R241E-3V5,Galactose inducible rad5-R241E with C-terminal 3V5 epitope tag,GAL1p,ADH2t,S000004022-c.AGA721-723GAA-p.R241E,S000004022,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2496,DH10b,-80C #2,8,4,1,4,4,6,Eric Bryant,2017-04-14,NA,Sequenced on 2017-04-14.,NA,NA,TRUE
+pWJ2561,NA,HIS3 promoter replacing CYC1 promoter @ Kpn2/BamHI site,HIS3,NA,NA,NA,NA,NA,NA,NA,NA,pWJ2492,NA,NA,NA,NA,NA,NA,NA,NA,So Jung Lee,2017-05-12,NA,NA,NA,NA,FALSE
+pWJ2562,GAL10p-SLD5,SLD5 cloned downstream of GAL10p site using C/D homology and NruI digest of pWJ2216,GAL10p,TEFt,S000002897,S000002897,SLD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2216,DH10b,-80C #2,8,4,2,4,8,5,Izzy Sollohub,2017-09-26,NA,Sequence verified 2017-09-26,NA,NA,TRUE
+pWJ2563,GAL10p-DNA2,DNA2 cloned downstream of GAL10p site using C/D homology and NruI digest of pWJ2216,GAL10p,TEFt,S000001207,S000001207,DNA2,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2216,DH10b,-80C #2,8,4,2,4,8,8,Izzy Sollohub,2017-10-11,NA,Sequence verified 2017-09-26,NA,NA,TRUE
+pWJ2564,GAL10p-YLR108C,YLR108C cloned downstream of GAL10p site using C/D homology and NruI digest of pWJ2216,GAL10p,TEFt,S000004098,S000004098,YLR108C,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2216,DH10b,-80C #2,8,4,2,4,8,6,Izzy Sollohub,2017-09-26,NA,Sequence verified 2017-09-26,NA,NA,TRUE
+pWJ2565,GAL10p-CTF18,CTF18 cloned downstream of GAL10p site using C/D homology and NruI digest of pWJ2216,GAL10p,TEFt,S000004683,S000004683,CTF18,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2216,DH10b,-80C #2,8,4,2,4,8,7,Izzy Sollohub,2017-09-26,NA,Sequence verified 2017-09-26,NA,NA,TRUE
+pWJ2566,GAL10p-POL1,POL1 cloned downstream of GAL10p site using C/D homology and NruI digest of pWJ2216,GAL10p,TEFt,S000005046,S000005046,POL1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2216,DH10b,-80C #2,8,4,1,4,9,7,Izzy Sollohub,2017-10-11,NA,Sequence verified 2017-09-26,NA,NA,TRUE
+pWJ2567,GAL1p-CTF4,CTF4 cloned downstream of GAL1p site using A/B homology and HpAI digest of pWJ2216,GAL 1p,ADH2t,S000006339,S000006339,CTF4,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2216,DH10b,-80C #2,8,3,3,3,1,1,Izzy Sollohub,2017-11-27,NA,Sequence verified 2017-11-27,NA,NA,TRUE
+pWJ2568,GAL10p-DNA2 GAL1p-CTF4,CTF4 cloned downstream of GAL1p site using A/B homology and HpAI digest of pWJ2563,GAL 1p,ADH2t,S000006339,S000006339,CTF4,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2563,DH10b,-80C #2,8,4,2,2,1,8,Izzy Sollohub,2017-11-27,NA,CORRECT 2018-01-30,NA,NA,TRUE
+pWJ2569,GAL10p-ELG1-HA GAL1p-FLAG-CTF4,ELG1 cloned downstream of GAL10p site using C/D homology and NruI digest of pWJ2232,GAL10p,TEFt,S000005670,S000005670-c.C'insTACCCATACGATGTTCCAGATTACGCT-p.C'insYPYDVPDYA,ELG1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2232,DH10b,-80C #2,8,3,3,3,1,2,Izzy Sollohub,2017-11-27,NA,Sequence verified 2017-11-27,NA,NA,TRUE
+pWJ2570,GAL10p-YLR108C-HA GAL1p-FLAG-CTF4,YLR108C cloned downstream of GAL10p site using C/D homology and NruI digest of pWJ2233,GAL10p,TEFt,S000004098,S000004098-c.C'insTACCCATACGATGTTCCAGATTACGCT-p.C'insYPYDVPDYA,YLR108C,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2232,DH10b,-80C #2,8,3,3,3,1,3,Izzy Sollohub,2017-11-27,NA,Sequence verified 2017-11-27,NA,NA,TRUE
+pWJ2571,GAL10p-POL1-HA GAL1p-FLAG-CTF4,POL1 cloned downstream of GAL10p site using C/D homology and NruI digest of pWJ2232,GAL10p,TEFt,S000005046,S000005046-c.C'insTACCCATACGATGTTCCAGATTACGCT-p.C'insYPYDVPDYA,POL1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2232,DH10b,-80C #2,8,4,1,4,8,7,Izzy Sollohub,2017-11-27,NA,CORRECT 2018-01-30,NA,NA,TRUE
+pWJ2572,GAL10p-SLD5-HA GAL1p-FLAG-CTF4,SLD5 cloned downstream of GAL10p site using C/D homology and NruI digest of pWJ2235,GAL10p,TEFt,S000002897,S000002897-c.C'insTACCCATACGATGTTCCAGATTACGCT-p.C'insYPYDVPDYA,SLD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2232,DH10b,-80C #2,8,3,3,3,1,4,Izzy Sollohub,2017-11-27,NA,Sequence verified 2017-11-27,NA,NA,TRUE
+pWJ2573,GAL10p-HA-DNA2  GAL1p-FLAG-CTF4,DNA2 cloned downstream of GAL10p site using C/D homology and NruI digest of pWJ2236,GAL10p,TEFt,S000001207,S000001207-c.C'insTACCCATACGATGTTCCAGATTACGCT-p.C'insYPYDVPDYA,DNA2,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2232,DH10b,-80C #2,8,4,1,4,8,8,Izzy Sollohub,2017-11-27,NA,CORRECT 2018-01-30,NA,NA,TRUE
+pWJ2574,GAL10p-HA-ELG1 GAL1p-FLAG-CTF4,ELG1 cloned downstream of GAL10p site using C/D homology and NruI digest of pWJ2237,GAL10p,TEFt,S000005670,S000005670-c.3_4insTACCCATACGATGTTCCAGATTACGCT-p.1_2insYPYDVPDYA,ELG1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2232,DH10b,-80C #2,8,3,3,3,1,5,Izzy Sollohub,2017-11-27,NA,Sequence verified 2017-11-27,NA,NA,TRUE
+pWJ2575,GAL10p-HA-CTF18 GAL1p-FLAG-CTF4,CTF18 cloned downstream of GAL10p site using C/D homology and NruI digest of pWJ2238,GAL10p,TEFt,S000004683,S000004683-c.3_4insTACCCATACGATGTTCCAGATTACGCT-p.1_2insYPYDVPDYA,CTF18,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2232,DH10b,-80C #2,8,3,3,3,1,6,Izzy Sollohub,2017-11-27,NA,Sequence verified 2017-11-27,NA,NA,TRUE
+pWJ2576,GAL10p-HA-POL1 GAL1p-FLAG-CTF4,POL1 cloned downstream of GAL10p site using C/D homology and NruI digest of pWJ2239,GAL10p,TEFt,S000005046,S000005046-c.3_4insTACCCATACGATGTTCCAGATTACGCT-p.1_2insYPYDVPDYA,POL1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2232,DH10b,-80C #2,8,4,1,4,7,4,Izzy Sollohub,2017-11-27,NA,CORRECT 2018-01-30,NA,NA,TRUE
+pWJ2577,GAL10p-HA-SLD5 GAL1p-FLAG-CTF4,SLD5 cloned downstream of GAL10p site using C/D homology and NruI digest of pWJ2240,GAL10p,TEFt,S000002897,S000002897-c.3_4insTACCCATACGATGTTCCAGATTACGCT-p.1_2insYPYDVPDYA,SLD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2232,DH10b,-80C #2,8,4,1,4,7,5,Izzy Sollohub,2017-11-27,NA,CORRECT 2018-01-30,NA,NA,TRUE
+pWJ2578,GAL10p-HA-YLR108C GAL1p-FLAG-CTF4,YLR108C cloned downstream of GAL10p site using C/D homology and NruI digest of pWJ2241,GAL10p,TEFt,S000004098,S000004098-c.3_4insTACCCATACGATGTTCCAGATTACGCT-p.1_2insYPYDVPDYA,YLR108C,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2232,DH10b,-80C #2,8,3,3,3,1,7,Izzy Sollohub,2017-11-27,NA,Sequence verified 2017-11-27,NA,NA,TRUE
+pWJ2579,GAL10p-DNA2 GAL1p-RAD5,Galactose inducible overexpression of DNA2 and RAD5,GAL10p GAL1p,TEFt ADH2t,NA,NA,DNA2 RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2563,DH10b,-80C #2,8,3,3,1,4,2,Ivana Sunjevaric,2017-12-05,NA,Plasmid mini-prep yield is typically low due to large size,NA,NA,TRUE
+pWJ2580,"GAL1p-rad5-RDE187,681,682EAA",rad5 HIRAN and Helicase mutant,GAL1p,ADH2t,NA,S000004022,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,3,3,3,1,8,Eric Bryant,2017-12-08,NA,Sequence verified 2017-12-08,NA,NA,TRUE
+pWJ2581,"GAL1p-rad5-RI187,916EA",rad5 HIRAN and RING mutant,GAL1p,ADH2t,NA,S000004022,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,3,3,3,2,1,Eric Bryant,2017-12-08,NA,Sequence verified 2017-12-08,NA,NA,TRUE
+pWJ2582,"GAL1p-rad5-RDEI187,681,682,916EAAA","rad5 HIRAN, Helicase and RING mutant",GAL1p,ADH2t,NA,S000004022,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,3,3,3,2,2,Eric Bryant,2017-12-08,NA,Sequence verified 2017-12-08,NA,NA,TRUE
+pWJ2583,"GAL1p-FLAG-rad5-RDEI187,681,682,916EAAA","N-terminal FLAG tagged rad5 HIRAN, Helicase and RING mutant",GAL1p,ADH2t,NA,S000004022,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,3,3,3,2,3,Eric Bryant,2017-12-08,2019-RAD5-Bryant-Reid,Sequence verified 2017-12-08,NA,NA,TRUE
+pWJ2584,"GAL1p-FLAG-rad5-DE681,682AA",N-terminal FLAG tagged rad5 Helicase mutant,GAL1p,ADH2t,"S000004022-c.GACGAG2041-2046GCTGCT-p.D681A,E682A",S000004022,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,3,3,3,2,4,Eric Bryant,2017-12-08,2019-RAD5-Bryant-Reid,Sequence verified 2017-12-08,NA,NA,TRUE
+pWJ2585,GAL1p-FLAG-rad5-RGRKK217_221EGEEE,N-terminal FLAG tagged rad5 HIRAN acidic loop mutant,GAL1p,ADH2t,S000004022-c.CGTGGTAGAAAGAAA649-663GAAGGTGAAGAAGAA-p.RGRKK217-221EGEEE,S000004022,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,3,3,3,2,5,Eric Bryant,2017-12-08,NA,Sequence verified 2017-12-08,NA,NA,TRUE
+pWJ2586,GAL1p-FLAG-rad5-R187E,N-terminal FLAG tagged rad5 HIRAN mutant,GAL1p,ADH2t,S000004022-c.AGA559-561GAA-p.R187E,S000004022,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,3,3,3,2,6,Eric Bryant,2017-12-08,2019-RAD5-Bryant-Reid,Sequence verified 2017-12-08,NA,NA,TRUE
+pWJ2587,GAL10p-YLR108C GAL1p-CTF4,YLR108C cloned downstream of GAL1p site using C/D homology and NruI digest of pWJ2567,GAL10p,TEFt,S000004098,S000004099,YLR108C,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2567,DH10b,-80C #2,8,4,1,4,7,6,Izzy Sollohub,2017-12-13,NA,CORRECT 2018-01-30,NA,NA,TRUE
+pWJ2588,GAL10p-POL1 GAL1p-CTF4,POL1 cloned downstream of GAL1p site using C/D homology and NruI digest of pWJ2567,GAL10p,TEFt,S000005046,S000005047,POL1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2567,DH10b,NA,NA,NA,NA,NA,NA,NA,Izzy Sollohub,2017-12-13,NA,NA,NA,INCORRECT 2018-1-30 NEEDS TO BE REMADE,FALSE
+pWJ2589,GAL10p-SLD5 GAL1p-CTF4,SLD5 cloned downstream of GAL1p site using C/D homology and NruI digest of pWJ2567,GAL10p,TEFt,S000002897,S000002898,SLD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2567,DH10b,-80C #2,8,4,1,4,7,7,Izzy Sollohub,2017-12-13,NA,CORRECT 2018-01-30,NA,NA,TRUE
+pWJ2590,GAL10p-dna2-K1080E,GAL10p-dna2-K1080E LEU2 CEN6/ARS4 AmpR f1/pBR322,GAL10p,TEFt,NA,NA,DNA2,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2216,NA,-80C #2,8,3,3,1,4,6,Ivana Sunjevaric,2018-01-25,NA,"dna2-KE cloned at CD cut site with NruI digest of pWJ2216, downstream of GAL10p promoter ",NA,NA,TRUE
+pWJ2591,GAL10p-dna2-K1080E GAL1p-RAD5,GAL1p-RAD5 GAL10p-dna2-K1080E LEU2 CEN6/ARS4 AmpR f1/pBR322,NA,NA,NA,NA,NA,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2590,NA,-80C #2,8,3,3,1,4,7,Ivana Sunjevaric,2018-01-25,NA,"RAD5 cloned at AB cut site with HpaI digest of pWj2590, downstream of GAL1 promoter",NA,NA,TRUE
+pWJ2592,GAL1p-NLS-mTQ2,N-terminal NLS-mTQ2 cloning vector (SV40 NLS),GAL1p,ADH2t,NA,NA,NA,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2509,DH10b,-80C #2,8,3,3,3,7,8,Eric Bryant,2018-03-06,NA,NA,NA,NA,TRUE
+pWJ2593,GAL1p-mTQ2-NLS,C-terminal mTQ2-NLS cloning vector,GAL1p,ADH2t,NA,NA,NA,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2509,DH10b,-80C #2,8,3,3,3,8,1,Eric Bryant,2018-03-06,NA,NA,NA,NA,TRUE
+pWJ2594,GAL1p-mTQ2-HLTF,N-terminal tagged mTQ2-HLTF same as pWJ2595,GAL1p,ADH2t,NA,NA,NA,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2509,DH10b,-80C #2,8,3,3,3,8,2,Eric Bryant,2018-03-06,NA,NA,NA,NA,TRUE
+pWJ2595,GAL1p-mTQ2-HLTF,N-terminal tagged mTQ2-HLTF same as pWJ2594,GAL1p,ADH2t,NA,NA,NA,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2509,DH10b,-80C #2,8,3,3,3,8,3,Eric Bryant,2018-03-06,NA,NA,NA,NA,TRUE
+pWJ2596,GAL1p-NLS-mTQ2-HLTF,N-terminal tagged mTQ2-HLTF with SV40 NLS,GAL1p,ADH2t,NA,NA,NA,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2592,DH10b,-80C #2,8,3,3,4,1,1,Eric Bryant,2018-03-22,NA,NA,NA,NA,TRUE
+pWJ2597,GAL1p-RAD5-HLTF-HIRAN,RAD5 HLTF HIRAN chimera HLTF-p.55_157 replacing RAD5-p.170_296,GAL1p,ADH2t,NA,S000004022,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,3,3,4,1,2,Eric Bryant,2018-04-06,NA,NA,NA,NA,TRUE
+pWJ2598,GAL1p-FLAG-RAD5-HLTF-HIRAN,RAD5 HLTF HIRAN chimera HLTF-p.55_157 replacing RAD5-p.170_296 with an N-terminal FLAG tag,GAL1p,ADH2t,NA,S000004022,RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,8,3,3,4,1,3,Eric Bryant,2018-04-06,NA,NA,NA,NA,TRUE
+pWJ2599,GAL10p-ELG1 ,ELG1 cloned downstream of GAL10p site using C/D homology and NruI digest of pWJ2216,GAL1p,ADH2t,S000005670,S000005670,ELG1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2216,NA,NA,NA,NA,NA,NA,NA,NA,Izzy Sollohub,2018-04-06,NA,Needs to be sequenced,NA,Needs to be sequenced,FALSE
+pWJ2600,GAL1p-PCH2,PCH2 cloned downstream of GAL1p site using A/B homology and HpaI digest of pWJ1781. CDS only. Intron was removed via fusion PCR.,GAL1p,ADH2t,S000000390,S000000390,PCH2,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,6,4,1,1,3,2,Michael Kirschner,2018-06-11,NA,NA,NA,NA,TRUE
+pWJ2601,pCSN + CEN-ARS,CASCADE cassette from pCSN subcloned into pRS416,NA,NA,NA,NA,NA,NA,NA,NA,NA,pRS416 ZOO618,NA,-80C #2,6,4,1,1,3,3,Michael Kirschner,2018-06-11,NA,"CASCADE homology plasmid for constructing strains with gene amplifications 1. Strucko, T. et al. CASCADE, a platform for controlled gene amplification for high, tunable and selection-free gene expression in yeast. Sci. Rep. 7, 41431 (2017).",NA,NA,TRUE
+pWJ2602,pCSN-GAL1p-FLAG-RAD5,pGAL-FLAG-RAD5 cloned into CASCADE plasmid,NA,NA,NA,NA,NA,NA,NA,NA,NA,pWJ2601,NA,-80C #2,6,4,1,1,3,4,Michael Kirschner,2018-07-11,NA,NA,NA,NA,TRUE
+pWJ2603,GAL10p-dna2-D657A,GAL10p-dna2-D657A LEU2 CEN6/ARS4 AmpR f1/pBR322,NA,NA,NA,NA,DNA2,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2216,NA,-80C #2,8,3,3,1,6,4,Ivana Sunjevaric,2018-07-18,NA,NA,NA,NA,TRUE
+pWJ2604,GAL1p-RAD5 GAL10p-dna2-D657A,GAL1p-RAD5 GAL10p-dna2-D657A LEU2 CEN6/ARS4 AmpR f1/pBR322,NA,NA,NA,NA,DNA2 RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2603,NA,-80C #2,8,3,3,1,6,5,Ivana Sunjevaric,2018-07-18,NA,"RAD5 cloned at AB cut site with HpaI digest of pWj2603, downstream of GAL1 promoter",NA,NA,TRUE
+pWJ2605,"GAL10p-dna2-D657A,K1080E","GAL10p-dna2-D657A, K1080E LEU2 CEN6/ARS4 AmpR f1/pBR322",NA,NA,NA,NA,DNA2,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2216,NA,-80C #2,8,3,3,1,6,6,Ivana Sunjevaric,2018-07-18,NA,"dna2-DA,KE cloned at CD cut site with NruI digest of pWJ2216, downstream of GAL10p promoter, it is endonuclease deficient mutant and helicase dead mutant",NA,NA,TRUE
+pWJ2606,"GAL1p-RAD5 GAL10p-dna2-D657A,K1080E","GAL1p-RAD5 GAL10p-dna2-D657A, K1080E LEU2 CEN6/ARS4 AmpR f1/pBR322",NA,NA,NA,NA,DNA2 RAD5,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ2216,NA,-80C #2,8,3,3,1,6,7,Ivana Sunjevaric,2018-07-18,NA,"RAD5 cloned at AB cut site with HpaI digest of pWj2605, downstream of GAL1 promoter",NA,NA,TRUE
+pWJ2607,GAL1p-SML1,SML1 cloned downstream of GAL1p site using A/B homology and HpaI digest of pWJ1781.,GAL1p,ADH2t,S000004523,S000004523,SML1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,6,4,1,1,3,6,Michael Kirschner,2018-07-30,NA,NA,NA,NA,TRUE
+pWJ2608,GAL1p-HUG1,HUG1 cloned downstream of GAL1p site using A/B homology and HpaI digest of pWJ1781.,GAL1p,ADH2t,S000007472,S000007472,HUG1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,6,4,1,1,3,7,Michael Kirschner,2018-07-30,NA,NA,NA,NA,TRUE
+pWJ2609,GAL1p-DIF1,DIF1 cloned downstream of GAL1p site using A/B homology and HpaI digest of pWJ1781.,GAL1p,ADH2t,S000004429,S000004429,DIF1,LEU2,CEN6/ARS4,AmpR,f1/pBR322,pWJ1781,DH10b,-80C #2,6,4,1,1,3,8,Michael Kirschner,2018-07-30,NA,NA,NA,NA,TRUE
