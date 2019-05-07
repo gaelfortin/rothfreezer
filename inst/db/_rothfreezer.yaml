@@ -1,30 +1,21 @@
 name: rothfreezer.sqlite
 
-# Comment/Uncomment updates then run easydb::db_update('path/to/_rothfreezer.yaml')
+# Comment/Uncomment updates then run:
+#     easydb::db_update('path/to/_rothfreezer.yaml')
 update:
-  # From SGD
-  genes:                  'rothfreezer::update_genes()'
-  #distances:              'rothfreezer::update_genetic_distances()'
-  # From googlesheets
+  # ---- From SGD ----
+  # genes:                  'rothfreezer::update_genes()'
+  # distances:              'rothfreezer::update_genetic_distances()'
+  # ---- From googlesheets ----
   antibodies:             'rothfreezer::update_antibodies()'
   primers:                'rothfreezer::update_primers()'
   media:                  'rothfreezer::update_media()'
   queries:                'rothfreezer::update_queries()'
-  strain_collections:     'rothfreezer::update_strain_collections()'
+  # strain_collections:     'rothfreezer::update_strain_collections()'
   strain_collection_info: 'rothfreezer::update_strain_collection_info()'
   treatments:             'rothfreezer::update_treatments()'
-  ## Plasmids
   plasmids:               'rothfreezer::update_plasmids()'
-  #pWJ:                    'rothfreezer::update_plasmids_pWJ()' # Plasmids
-  #ZOO:                    'rothfreezer::update_plasmids_ZOO()' # Foreign plasmids
-  ## Strains
-  strains:                'rothfreezer::update_strains()'     # All strains
-  #special:                'rothfreezer::update_strains_special()'
-  #W:                      'rothfreezer::update_strains_W()'   # Crosses
-  #J:                      'rothfreezer::update_strains_J()'   # Mutagenized strains
-  #U:                      'rothfreezer::update_strains_U()'   # Transformed strains
-  #R:                      'rothfreezer::update_strains_R()'   # Foreign strains
-  #rec:                    'rothfreezer::update_strains_rec()' # Deletion consortium strains
+  strains:                'rothfreezer::update_strains()'
 
 table:
   antibodies: antibodies
